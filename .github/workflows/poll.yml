@@ -1,0 +1,47 @@
+name: Job Radar poll
+
+on:
+  schedule:
+    # every 30 minutes (UTC). GitHub may delay scheduled runs under load.
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write          # needed to commit refreshed data back to the repo
+
+concurrency:
+  group: job-radar
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run poller
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+          SITE_URL:  ${{ vars.SITE_URL }}
+        run: python3 poll.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "job-radar-bot"
+          git config user.email "actions@github.com"
+          git add docs/postings.json state/seen.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "data: refresh postings ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi

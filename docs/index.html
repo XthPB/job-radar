@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Radar</title>
+<style>
+  :root {
+    --bg:#0d1117; --panel:#161b22; --panel2:#1c2430; --border:#2d3748;
+    --text:#e6edf3; --muted:#8b949e; --accent:#3b82f6; --new:#22c55e;
+    --intern:#a855f7; --newgrad:#f59e0b; --fulltime:#3b82f6; --event:#ec4899;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text);
+    font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
+  header { padding:18px 22px; border-bottom:1px solid var(--border);
+    display:flex; align-items:baseline; gap:14px; flex-wrap:wrap;
+    position:sticky; top:0; background:var(--bg); z-index:10; }
+  h1 { font-size:20px; margin:0; }
+  .updated { color:var(--muted); font-size:12px; }
+  .wrap { padding:18px 22px; max-width:1100px; margin:0 auto; }
+  .controls { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px; }
+  input[type=search], select { background:var(--panel); color:var(--text);
+    border:1px solid var(--border); border-radius:8px; padding:8px 11px; font-size:13px; }
+  input[type=search] { flex:1; min-width:200px; }
+  .chips { display:flex; gap:6px; flex-wrap:wrap; }
+  .chip { background:var(--panel); border:1px solid var(--border); color:var(--muted);
+    border-radius:999px; padding:5px 12px; font-size:12px; cursor:pointer; user-select:none; }
+  .chip.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+  .stats { color:var(--muted); font-size:12px; margin-bottom:10px; }
+  .card { background:var(--panel); border:1px solid var(--border); border-radius:10px;
+    padding:13px 15px; margin-bottom:9px; display:flex; align-items:center; gap:12px;
+    transition:border-color .15s; }
+  .card:hover { border-color:var(--accent); }
+  .card.new { border-left:3px solid var(--new); }
+  .main { flex:1; min-width:0; }
+  .title { font-weight:600; }
+  .title a { color:var(--text); text-decoration:none; }
+  .title a:hover { color:var(--accent); }
+  .meta { color:var(--muted); font-size:12px; margin-top:3px; }
+  .badges { display:flex; gap:6px; align-items:center; flex-shrink:0; }
+  .tag { font-size:10px; text-transform:uppercase; letter-spacing:.04em;
+    padding:3px 8px; border-radius:6px; font-weight:600; white-space:nowrap; }
+  .cat-internship { background:rgba(168,85,247,.18); color:var(--intern); }
+  .cat-new-grad   { background:rgba(245,158,11,.18); color:var(--newgrad); }
+  .cat-full-time  { background:rgba(59,130,246,.18); color:var(--fulltime); }
+  .cat-event      { background:rgba(236,72,153,.18); color:var(--event); }
+  .newbadge { background:var(--new); color:#04210f; font-weight:700; }
+  .when { color:var(--muted); font-size:11px; white-space:nowrap; min-width:74px; text-align:right; }
+  .section-title { font-size:13px; text-transform:uppercase; letter-spacing:.05em;
+    color:var(--muted); margin:26px 0 10px; }
+  .links { display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:9px; }
+  .linkcard { background:var(--panel2); border:1px solid var(--border); border-radius:8px;
+    padding:11px 13px; }
+  .linkcard a { color:var(--text); text-decoration:none; font-weight:600; }
+  .linkcard a:hover { color:var(--accent); }
+  .linkcard .meta { margin-top:2px; }
+  .empty { color:var(--muted); padding:40px; text-align:center; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📡 Job Radar</h1>
+  <span class="updated" id="updated">loading…</span>
+</header>
+<div class="wrap">
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search title, company, location…">
+    <select id="cat">
+      <option value="">All categories</option>
+      <option value="internship">Internship</option>
+      <option value="new-grad">New grad</option>
+      <option value="full-time">Full-time</option>
+      <option value="event">Event</option>
+    </select>
+    <select id="sort">
+      <option value="first_seen">Newest detected</option>
+      <option value="company">Company A–Z</option>
+    </select>
+  </div>
+  <div class="chips" id="tagchips"></div>
+  <div class="stats" id="stats"></div>
+  <div id="list"></div>
+
+  <div id="linkwrap" style="display:none">
+    <div class="section-title">On radar — check manually (no auto-feed)</div>
+    <div class="links" id="links"></div>
+  </div>
+</div>
+
+<script>
+const NEW_HOURS = 24;
+let DATA = { postings: [], links: [] };
+let activeTags = new Set();
+
+function timeAgo(iso) {
+  if (!iso) return "";
+  const d = (Date.now() - new Date(iso)) / 1000;
+  if (d < 3600) return Math.max(1, Math.floor(d/60)) + "m ago";
+  if (d < 86400) return Math.floor(d/3600) + "h ago";
+  return Math.floor(d/86400) + "d ago";
+}
+function isNew(iso) {
+  return iso && (Date.now() - new Date(iso)) / 36e5 < NEW_HOURS;
+}
+
+function allTags() {
+  const s = new Set();
+  DATA.postings.forEach(p => (p.tags||[]).forEach(t => s.add(t)));
+  DATA.links.forEach(p => (p.tags||[]).forEach(t => s.add(t)));
+  return [...s].sort();
+}
+
+function render() {
+  const q = document.getElementById("q").value.toLowerCase();
+  const cat = document.getElementById("cat").value;
+  const sort = document.getElementById("sort").value;
+
+  let rows = DATA.postings.filter(p => {
+    if (cat && p.category !== cat) return false;
+    if (activeTags.size && !(p.tags||[]).some(t => activeTags.has(t))) return false;
+    if (q) {
+      const hay = (p.title+" "+p.company+" "+(p.location||"")).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  if (sort === "company") rows.sort((a,b) => a.company.localeCompare(b.company) || (b.first_seen||"").localeCompare(a.first_seen||""));
+  else rows.sort((a,b) => (b.first_seen||"").localeCompare(a.first_seen||""));
+
+  const newCount = rows.filter(p => isNew(p.first_seen)).length;
+  document.getElementById("stats").textContent =
+    `${rows.length} postings • ${newCount} new in last ${NEW_HOURS}h`;
+
+  const list = document.getElementById("list");
+  if (!rows.length) { list.innerHTML = '<div class="empty">No matching postings.</div>'; return; }
+  list.innerHTML = rows.map(p => `
+    <div class="card ${isNew(p.first_seen)?'new':''}">
+      <div class="main">
+        <div class="title"><a href="${p.url}" target="_blank" rel="noopener">${esc(p.title)}</a></div>
+        <div class="meta">${esc(p.company)}${p.location?' · '+esc(p.location):''}</div>
+      </div>
+      <div class="badges">
+        ${isNew(p.first_seen)?'<span class="tag newbadge">NEW</span>':''}
+        <span class="tag cat-${p.category}">${p.category}</span>
+      </div>
+      <div class="when">${timeAgo(p.first_seen)}</div>
+    </div>`).join("");
+}
+
+function renderTags() {
+  const box = document.getElementById("tagchips");
+  box.innerHTML = allTags().map(t =>
+    `<span class="chip ${activeTags.has(t)?'on':''}" data-t="${t}">${t}</span>`).join("");
+  box.querySelectorAll(".chip").forEach(c => c.onclick = () => {
+    const t = c.dataset.t;
+    activeTags.has(t) ? activeTags.delete(t) : activeTags.add(t);
+    renderTags(); render();
+  });
+}
+
+function renderLinks() {
+  if (!DATA.links || !DATA.links.length) return;
+  const shown = DATA.links.filter(l => !activeTags.size || (l.tags||[]).some(t => activeTags.has(t)));
+  document.getElementById("linkwrap").style.display = shown.length ? "" : "none";
+  document.getElementById("links").innerHTML = shown.map(l => `
+    <div class="linkcard">
+      <a href="${l.url}" target="_blank" rel="noopener">${esc(l.company)} ↗</a>
+      <div class="meta">${(l.tags||[]).join(", ")}</div>
+    </div>`).join("");
+}
+
+function esc(s) { return (s||"").replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+["q","cat","sort"].forEach(id =>
+  document.getElementById(id).addEventListener("input", render));
+
+fetch("postings.json?_=" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    DATA = d;
+    document.getElementById("updated").textContent =
+      "updated " + timeAgo(d.generated_at) + " • " + (d.count||0) + " active";
+    renderTags(); render(); renderLinks();
+  })
+  .catch(() => {
+    document.getElementById("updated").textContent = "no data yet — run the poller";
+    document.getElementById("list").innerHTML =
+      '<div class="empty">No postings.json found yet. Run <code>python3 poll.py</code> or wait for the first GitHub Action.</div>';
+  });
+</script>
+</body>
+</html>
