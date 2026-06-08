@@ -43,7 +43,7 @@ def diff(seen: dict, current: list[dict], now_iso: str) -> list[dict]:
             rec["last_seen"] = now_iso
             rec["active"] = True
             # refresh mutable fields in case the posting changed
-            for k in ("title", "location", "url", "category", "tags", "posted_at"):
+            for k in ("title", "location", "url", "category", "tags", "posted_at", "expires_at"):
                 if k in p:
                     rec[k] = p[k]
         else:

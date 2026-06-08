@@ -283,6 +283,7 @@ def fetch_beesite(company: str, cfg: dict) -> list[dict]:
                 "url": url,
                 "ats": "beesite",
                 "posted_at": m.get("PublicationStartDate"),
+                "expires_at": m.get("PublicationEndDate"),
                 "category": classify(title),
             })
         start += len(items)

@@ -53,7 +53,7 @@
 
   /* layout */
   .layout{display:grid;grid-template-columns:264px 1fr;gap:24px;max-width:1320px;margin:0 auto;padding:20px;align-items:start;}
-  aside{position:sticky;top:108px;max-height:calc(100vh-128px);overflow-y:auto;padding-right:4px;}
+  aside{position:sticky;top:104px;height:calc(100vh - 124px);overflow-y:auto;overflow-x:hidden;padding-right:6px;}
   .fsec{border-bottom:1px solid var(--border);padding:14px 0;}
   .fsec:first-child{padding-top:0;}
   .fsec>summary{cursor:pointer;list-style:none;display:flex;align-items:center;justify-content:space-between;
@@ -185,6 +185,7 @@
     <div class="toolbar">
       <span class="count" id="count"></span>
       <span class="spacer"></span>
+      <button class="hbtn" id="expBtn" title="Hide events/roles whose date has passed">✓ Hide expired</button>
       <select class="sortsel" id="sort">
         <option value="first_seen">Newest detected</option>
         <option value="posted">Recently posted</option>
@@ -194,10 +195,6 @@
     </div>
     <div class="activebar" id="activebar"></div>
     <div id="list"></div>
-    <details class="manual" id="manualwrap">
-      <summary>On radar — manual check (no auto-feed yet)</summary>
-      <div class="linkgrid" id="links"></div>
-    </details>
   </main>
 </div>
 
@@ -206,7 +203,35 @@ const NEW_HOURS=24;
 let DATA={postings:[],links:[]};
 let SAVED=new Set(JSON.parse(localStorage.getItem("jr-saved")||"[]"));
 let state={cat:"all",tags:new Set(),roles:new Set(),regions:new Set(),locq:"",
-  company:null,q:"",posted:"any",sort:"first_seen",saved:false,limit:300};
+  company:null,q:"",posted:"any",sort:"first_seen",saved:false,hideExpired:true,limit:300};
+
+/* ---------- expiry detection ---------- */
+const EVENT_RX=/networking event|info session|information session|career fair|hackathon|webinar|open house|tech talk|meet ?up|recruiting event|insight (day|programme|week)|spring week|open day|fireside/i;
+const MONTHS={jan:0,feb:1,mar:2,apr:3,may:4,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11};
+function isRealEvent(p){return p.category==="event"&&EVENT_RX.test(p.title||"");}
+// parse a PAST, year-qualified date from a title (returns Date or null). Future dates ignored by caller.
+function titleDate(t){
+  t=t||"";let m;
+  m=t.match(/(spring|summer|fall|autumn|winter)\s+(20\d{2})/i);
+  if(m){const e={spring:[5,30],summer:[8,30],fall:[11,31],autumn:[11,31],winter:[2,28]}[m[1].toLowerCase()];return new Date(+m[2],e[0],e[1]);}
+  m=t.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})(?:st|nd|rd|th)?,?\s+(20\d{2})/i);
+  if(m)return new Date(+m[3],MONTHS[m[1].slice(0,3).toLowerCase()],+m[2],23,59);
+  m=t.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(20\d{2})/i);
+  if(m)return new Date(+m[2],MONTHS[m[1].slice(0,3).toLowerCase()]+1,0,23,59); // end of that month
+  return null;
+}
+function isExpired(p){
+  const now=Date.now();
+  if(p.expires_at){const d=new Date(p.expires_at);if(!isNaN(d)&&d<now)return true;}
+  if(isRealEvent(p)){
+    // explicit past date in title, else age of posting (events pass quickly)
+    const td=titleDate(p.title);
+    if(td&&td<now)return true;
+    const ref=new Date(p.posted_at||p.first_seen||0);
+    if(!isNaN(ref)&&(now-ref)/864e5>14)return true; // event posted >14d ago → likely passed
+  }
+  return false;
+}
 
 /* ---------- role family + region classification ---------- */
 const ROLE_FAMILIES=[
@@ -250,6 +275,7 @@ function enrich(){DATA.postings.forEach(p=>{p._fam=roleFamily(p.title);p._reg=re
 /* ---------- filtering ---------- */
 function filtered(){
   return DATA.postings.filter(p=>{
+    if(state.hideExpired&&isExpired(p))return false;
     if(state.saved&&!SAVED.has(p.uid))return false;
     if(state.cat!=="all"&&p.category!==state.cat)return false;
     if(state.tags.size&&!(p.tags||[]).some(t=>state.tags.has(t)))return false;
@@ -273,9 +299,11 @@ function sortRows(r){
 /* ---------- renderers ---------- */
 const CATS=[["all","All roles"],["internship","Internships"],["new-grad","New grad"],["full-time","Full-time"],["event","Events"]];
 function renderTabs(){
-  const A=DATA.postings;
-  tabs.innerHTML=CATS.map(([k,l])=>{const n=k==="all"?A.length:A.filter(p=>p.category===k).length;
+  const A=DATA.postings.filter(p=>!state.hideExpired||!isExpired(p));
+  let html=CATS.map(([k,l])=>{const n=k==="all"?A.length:A.filter(p=>p.category===k).length;
     return`<div class="tab ${state.cat===k?'on':''}" data-c="${k}">${l}<span class="n">${n}</span></div>`;}).join("");
+  html+=`<div class="tab ${state.cat==='manual'?'on':''}" data-c="manual" style="margin-left:auto">📋 Manual check<span class="n">${(DATA.links||[]).length}</span></div>`;
+  tabs.innerHTML=html;
   tabs.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{state.cat=t.dataset.c;state.limit=300;render();});
 }
 function chipBox(el,items,sel,onclick){
@@ -344,9 +372,13 @@ function cardHTML(p){
   </div>`;
 }
 function render(){
-  renderTabs();renderActive();
+  renderTabs();
+  if(state.cat==="manual"){renderManual();return;}
+  renderActive();
   let rows=sortRows(filtered());const total=rows.length,newN=rows.filter(p=>isNew(p.first_seen)).length;
-  count.innerHTML=`<b>${total.toLocaleString()}</b> roles · <b style="color:var(--new)">${newN}</b> new in last ${NEW_HOURS}h`;
+  const exp=state.hideExpired?DATA.postings.filter(isExpired).length:0;
+  count.innerHTML=`<b>${total.toLocaleString()}</b> roles · <b style="color:var(--new)">${newN}</b> new in last ${NEW_HOURS}h`+
+    (exp?` · <span style="color:var(--muted2)">${exp} expired hidden</span>`:"");
   const shown=rows.slice(0,state.limit);
   if(!shown.length){list.innerHTML=`<div class="empty"><div class="big">🔍</div>No roles match these filters.<br><span class="clearall" onclick="clearAllGlobal()">Clear all filters</span></div>`;return;}
   let html="";
@@ -360,11 +392,17 @@ function render(){
   list.querySelectorAll(".star").forEach(s=>s.onclick=()=>{const u=s.dataset.uid;SAVED.has(u)?SAVED.delete(u):SAVED.add(u);saveState();syncSaved();render();});
 }
 function syncSaved(){savedN.textContent=SAVED.size;savedBtn.classList.toggle("act",state.saved);}
-function renderLinks(){
-  if(!DATA.links||!DATA.links.length){manualwrap.style.display="none";return;}
-  links.innerHTML=DATA.links.map(l=>`<div class="linkcard">
-    <div class="avatar" style="background:${avatarColor(l.company)};width:30px;height:30px;font-size:12px">${initials(l.company)}</div>
-    <div><a href="${l.url}" target="_blank" rel="noopener">${esc(l.company)} ↗</a><div class="lt">${(l.tags||[]).join(" · ")}</div></div></div>`).join("");
+function renderManual(){
+  let links=(DATA.links||[]);
+  if(state.tags.size)links=links.filter(l=>(l.tags||[]).some(t=>state.tags.has(t)));
+  if(state.q)links=links.filter(l=>l.company.toLowerCase().includes(state.q));
+  count.innerHTML=`<b>${links.length}</b> companies with no public feed — open these to check manually`;
+  activebar.innerHTML="";
+  if(!links.length){list.innerHTML=`<div class="empty"><div class="big">📋</div>No companies match.</div>`;return;}
+  list.innerHTML=`<div style="color:var(--muted);font-size:12.5px;margin-bottom:14px">These use bot-protected or browser-only career sites (Citadel, Two Sigma, Optiver…) that can't be auto-polled yet. Click to open.</div>
+  <div class="linkgrid">`+links.sort((a,b)=>a.company.localeCompare(b.company)).map(l=>`<div class="linkcard">
+    <div class="avatar" style="background:${avatarColor(l.company)};width:32px;height:32px;font-size:12px">${initials(l.company)}</div>
+    <div style="min-width:0"><a href="${l.url}" target="_blank" rel="noopener">${esc(l.company)} ↗</a><div class="lt">${(l.tags||[]).join(" · ")}</div></div></div>`).join("")+`</div>`;
 }
 
 /* ---------- events ---------- */
@@ -377,6 +415,9 @@ compq.addEventListener("input",renderCompanies);
 sort.addEventListener("change",e=>{state.sort=e.target.value;render();});
 document.getElementById("posted").addEventListener("change",e=>{state.posted=e.target.value;state.limit=300;render();});
 savedBtn.onclick=()=>{state.saved=!state.saved;state.limit=300;syncSaved();render();};
+expBtn.classList.add("act");
+expBtn.onclick=()=>{state.hideExpired=!state.hideExpired;expBtn.classList.toggle("act",state.hideExpired);
+  expBtn.textContent=(state.hideExpired?"✓ ":"  ")+"Hide expired";state.limit=300;renderFilters();render();};
 filtersBtn.onclick=()=>document.body.classList.toggle("filters-open");
 backdrop.onclick=()=>document.body.classList.remove("filters-open");
 window.clearAllGlobal=clearAll;
@@ -385,7 +426,7 @@ document.addEventListener("keydown",e=>{if(e.key==="/"&&document.activeElement.t
 fetch("postings.json?_="+Date.now()).then(r=>r.json()).then(d=>{
   DATA=d;enrich();
   updated.textContent="updated "+timeAgo(d.generated_at)+" ago · "+(d.count||0).toLocaleString()+" live";
-  syncSaved();renderFilters();renderLinks();render();
+  syncSaved();renderFilters();render();
 }).catch(()=>{updated.textContent="no data yet";list.innerHTML='<div class="empty"><div class="big">📡</div>No postings.json yet — run <code>python3 poll.py</code> or wait for the first GitHub Action.</div>';});
 </script>
 </body>

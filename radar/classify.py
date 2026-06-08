@@ -14,15 +14,19 @@ _NEW_GRAD = (
 
 _EVENT = (
     "webinar", "hackathon", "info session", "information session", "open house",
-    "career fair", "networking event", "tech talk", "coding challenge",
-    "competition", "datathon", "puzzle", "estimathon", "event ",
+    "career fair", "networking event", "tech talk", "datathon", "estimathon",
+    "meetup", "meet up", "fireside", "open day", "insight day", "insight week",
+    "spring week", "recruiting event", "info evening",
 )
+
+# phrases that contain an event keyword but are real ongoing roles, not calendar events
+_NOT_EVENT = ("event driven", "event-driven", "events platform", "events engineer")
 
 
 def classify(title: str) -> str:
     """Return one of: internship, new-grad, full-time, event."""
     t = (title or "").lower()
-    if any(k in t for k in _EVENT):
+    if any(k in t for k in _EVENT) and not any(k in t for k in _NOT_EVENT):
         return "event"
     if any(k in t for k in _INTERN):
         return "internship"
