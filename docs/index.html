@@ -185,7 +185,6 @@
     <div class="toolbar">
       <span class="count" id="count"></span>
       <span class="spacer"></span>
-      <button class="hbtn" id="expBtn" title="Hide events/roles whose date has passed">✓ Hide expired</button>
       <select class="sortsel" id="sort">
         <option value="first_seen">Newest detected</option>
         <option value="posted">Recently posted</option>
@@ -224,11 +223,10 @@ function isExpired(p){
   const now=Date.now();
   if(p.expires_at){const d=new Date(p.expires_at);if(!isNaN(d)&&d<now)return true;}
   if(isRealEvent(p)){
-    // explicit past date in title, else age of posting (events pass quickly)
     const td=titleDate(p.title);
-    if(td&&td<now)return true;
+    if(td)return td.getTime()<now;          // known date → expired iff it's in the past
     const ref=new Date(p.posted_at||p.first_seen||0);
-    if(!isNaN(ref)&&(now-ref)/864e5>14)return true; // event posted >14d ago → likely passed
+    if(!isNaN(ref)&&(now-ref)/864e5>10)return true; // no date → events go stale ~10d after posting
   }
   return false;
 }
@@ -415,9 +413,6 @@ compq.addEventListener("input",renderCompanies);
 sort.addEventListener("change",e=>{state.sort=e.target.value;render();});
 document.getElementById("posted").addEventListener("change",e=>{state.posted=e.target.value;state.limit=300;render();});
 savedBtn.onclick=()=>{state.saved=!state.saved;state.limit=300;syncSaved();render();};
-expBtn.classList.add("act");
-expBtn.onclick=()=>{state.hideExpired=!state.hideExpired;expBtn.classList.toggle("act",state.hideExpired);
-  expBtn.textContent=(state.hideExpired?"✓ ":"  ")+"Hide expired";state.limit=300;renderFilters();render();};
 filtersBtn.onclick=()=>document.body.classList.toggle("filters-open");
 backdrop.onclick=()=>document.body.classList.remove("filters-open");
 window.clearAllGlobal=clearAll;
