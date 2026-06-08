@@ -1,194 +1,354 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Job Radar</title>
 <style>
   :root {
-    --bg:#0d1117; --panel:#161b22; --panel2:#1c2430; --border:#2d3748;
-    --text:#e6edf3; --muted:#8b949e; --accent:#3b82f6; --new:#22c55e;
-    --intern:#a855f7; --newgrad:#f59e0b; --fulltime:#3b82f6; --event:#ec4899;
+    --radius: 12px;
+    --accent: #4f8cff; --accent-soft: rgba(79,140,255,.14);
+    --new: #16c784; --new-soft: rgba(22,199,132,.15);
+    --c-intern: #a06bff; --c-intern-bg: rgba(160,107,255,.15);
+    --c-newgrad: #ff9f43; --c-newgrad-bg: rgba(255,159,67,.15);
+    --c-ft: #4f8cff; --c-ft-bg: rgba(79,140,255,.15);
+    --c-event: #ff5c8a; --c-event-bg: rgba(255,92,138,.15);
+  }
+  html[data-theme="dark"] {
+    --bg:#0b0e14; --bg2:#11151d; --panel:#151a23; --panel-h:#1b212c;
+    --border:#232a36; --text:#e7ecf3; --muted:#8b95a7; --muted2:#5d6677;
+    --shadow:0 1px 3px rgba(0,0,0,.4);
+  }
+  html[data-theme="light"] {
+    --bg:#f6f8fb; --bg2:#eef1f6; --panel:#ffffff; --panel-h:#f3f6fa;
+    --border:#e2e7ef; --text:#1a2230; --muted:#5e6878; --muted2:#9aa3b2;
+    --shadow:0 1px 3px rgba(20,30,50,.08);
   }
   * { box-sizing:border-box; }
   body { margin:0; background:var(--bg); color:var(--text);
-    font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
-  header { padding:18px 22px; border-bottom:1px solid var(--border);
-    display:flex; align-items:baseline; gap:14px; flex-wrap:wrap;
-    position:sticky; top:0; background:var(--bg); z-index:10; }
-  h1 { font-size:20px; margin:0; }
-  .updated { color:var(--muted); font-size:12px; }
-  .wrap { padding:18px 22px; max-width:1100px; margin:0 auto; }
-  .controls { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px; }
-  input[type=search], select { background:var(--panel); color:var(--text);
-    border:1px solid var(--border); border-radius:8px; padding:8px 11px; font-size:13px; }
-  input[type=search] { flex:1; min-width:200px; }
-  .chips { display:flex; gap:6px; flex-wrap:wrap; }
+    font:14px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased; }
+  a { color:inherit; }
+
+  /* ---------- top bar ---------- */
+  header { position:sticky; top:0; z-index:50; background:var(--bg);
+    border-bottom:1px solid var(--border); }
+  .bar { display:flex; align-items:center; gap:16px; padding:13px 20px;
+    max-width:1240px; margin:0 auto; }
+  .brand { display:flex; align-items:center; gap:9px; font-weight:700; font-size:17px; }
+  .brand .dot { width:10px; height:10px; border-radius:50%; background:var(--new);
+    box-shadow:0 0 0 4px var(--new-soft); animation:pulse 2.5s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.45} }
+  .search { flex:1; position:relative; max-width:520px; }
+  .search input { width:100%; background:var(--panel); border:1px solid var(--border);
+    color:var(--text); border-radius:10px; padding:10px 12px 10px 36px; font-size:14px;
+    box-shadow:var(--shadow); }
+  .search input:focus { outline:none; border-color:var(--accent); }
+  .search svg { position:absolute; left:11px; top:11px; opacity:.5; }
+  .updated { color:var(--muted); font-size:12px; white-space:nowrap; }
+  .iconbtn { background:var(--panel); border:1px solid var(--border); color:var(--text);
+    width:36px; height:36px; border-radius:9px; cursor:pointer; font-size:15px; }
+  .iconbtn:hover { background:var(--panel-h); }
+
+  /* ---------- tabs ---------- */
+  .tabs { display:flex; gap:4px; padding:0 20px; max-width:1240px; margin:0 auto;
+    overflow-x:auto; }
+  .tab { padding:11px 15px; cursor:pointer; color:var(--muted); font-weight:600;
+    font-size:13.5px; border-bottom:2px solid transparent; white-space:nowrap;
+    display:flex; align-items:center; gap:7px; }
+  .tab:hover { color:var(--text); }
+  .tab.on { color:var(--accent); border-bottom-color:var(--accent); }
+  .tab .n { background:var(--bg2); color:var(--muted); border-radius:20px;
+    font-size:11px; padding:1px 7px; font-weight:700; }
+  .tab.on .n { background:var(--accent-soft); color:var(--accent); }
+
+  /* ---------- layout ---------- */
+  .layout { display:grid; grid-template-columns:236px 1fr; gap:22px;
+    max-width:1240px; margin:0 auto; padding:20px; align-items:start; }
+  aside { position:sticky; top:108px; display:flex; flex-direction:column; gap:20px; }
+  .group h4 { margin:0 0 9px; font-size:11px; letter-spacing:.07em; text-transform:uppercase;
+    color:var(--muted2); }
+  .chips { display:flex; flex-wrap:wrap; gap:6px; }
   .chip { background:var(--panel); border:1px solid var(--border); color:var(--muted);
-    border-radius:999px; padding:5px 12px; font-size:12px; cursor:pointer; user-select:none; }
+    border-radius:8px; padding:6px 11px; font-size:12.5px; cursor:pointer; user-select:none;
+    text-transform:capitalize; }
+  .chip:hover { background:var(--panel-h); color:var(--text); }
   .chip.on { background:var(--accent); border-color:var(--accent); color:#fff; }
-  .stats { color:var(--muted); font-size:12px; margin-bottom:10px; }
-  .card { background:var(--panel); border:1px solid var(--border); border-radius:10px;
-    padding:13px 15px; margin-bottom:9px; display:flex; align-items:center; gap:12px;
-    transition:border-color .15s; }
-  .card:hover { border-color:var(--accent); }
-  .card.new { border-left:3px solid var(--new); }
-  .main { flex:1; min-width:0; }
-  .title { font-weight:600; }
-  .title a { color:var(--text); text-decoration:none; }
-  .title a:hover { color:var(--accent); }
-  .meta { color:var(--muted); font-size:12px; margin-top:3px; }
-  .badges { display:flex; gap:6px; align-items:center; flex-shrink:0; }
-  .tag { font-size:10px; text-transform:uppercase; letter-spacing:.04em;
-    padding:3px 8px; border-radius:6px; font-weight:600; white-space:nowrap; }
-  .cat-internship { background:rgba(168,85,247,.18); color:var(--intern); }
-  .cat-new-grad   { background:rgba(245,158,11,.18); color:var(--newgrad); }
-  .cat-full-time  { background:rgba(59,130,246,.18); color:var(--fulltime); }
-  .cat-event      { background:rgba(236,72,153,.18); color:var(--event); }
-  .newbadge { background:var(--new); color:#04210f; font-weight:700; }
-  .when { color:var(--muted); font-size:11px; white-space:nowrap; min-width:74px; text-align:right; }
-  .section-title { font-size:13px; text-transform:uppercase; letter-spacing:.05em;
-    color:var(--muted); margin:26px 0 10px; }
-  .links { display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:9px; }
-  .linkcard { background:var(--panel2); border:1px solid var(--border); border-radius:8px;
-    padding:11px 13px; }
-  .linkcard a { color:var(--text); text-decoration:none; font-weight:600; }
-  .linkcard a:hover { color:var(--accent); }
-  .linkcard .meta { margin-top:2px; }
-  .empty { color:var(--muted); padding:40px; text-align:center; }
+  select { width:100%; background:var(--panel); border:1px solid var(--border);
+    color:var(--text); border-radius:8px; padding:8px 10px; font-size:13px; }
+  .complist { max-height:340px; overflow:auto; display:flex; flex-direction:column; gap:1px;
+    margin-top:8px; border:1px solid var(--border); border-radius:9px; padding:5px; }
+  .comprow { display:flex; align-items:center; gap:8px; padding:5px 7px; border-radius:6px;
+    cursor:pointer; font-size:12.5px; color:var(--muted); }
+  .comprow:hover { background:var(--panel-h); color:var(--text); }
+  .comprow.on { background:var(--accent-soft); color:var(--text); }
+  .comprow .cnt { margin-left:auto; font-size:11px; color:var(--muted2); }
+
+  /* ---------- results ---------- */
+  .resbar { display:flex; align-items:center; gap:12px; margin-bottom:14px; flex-wrap:wrap; }
+  .resbar .count { font-size:13px; color:var(--muted); }
+  .resbar .count b { color:var(--text); }
+  .spacer { flex:1; }
+  .sort { display:flex; align-items:center; gap:7px; font-size:13px; color:var(--muted); }
+  .sort select { width:auto; }
+
+  .daygroup { margin-bottom:22px; }
+  .dayhdr { font-size:12px; font-weight:700; color:var(--muted); text-transform:uppercase;
+    letter-spacing:.05em; margin:0 0 10px; display:flex; align-items:center; gap:8px; }
+  .dayhdr .line { flex:1; height:1px; background:var(--border); }
+
+  .card { background:var(--panel); border:1px solid var(--border); border-radius:var(--radius);
+    padding:13px 15px; margin-bottom:9px; display:flex; align-items:center; gap:13px;
+    box-shadow:var(--shadow); transition:transform .08s, border-color .15s; }
+  .card:hover { border-color:var(--accent); transform:translateY(-1px); }
+  .avatar { width:38px; height:38px; border-radius:9px; flex-shrink:0; display:flex;
+    align-items:center; justify-content:center; font-weight:700; font-size:14px; color:#fff; }
+  .body { flex:1; min-width:0; }
+  .ttl { font-weight:600; font-size:14.5px; }
+  .ttl a { text-decoration:none; }
+  .ttl a:hover { color:var(--accent); }
+  .sub { color:var(--muted); font-size:12.5px; margin-top:3px; display:flex; gap:7px;
+    flex-wrap:wrap; align-items:center; }
+  .sub .co { color:var(--text); font-weight:500; }
+  .sub .loc::before { content:"·"; margin-right:7px; color:var(--muted2); }
+  .pills { display:flex; gap:6px; align-items:center; flex-shrink:0; }
+  .pill { font-size:10px; text-transform:uppercase; letter-spacing:.03em; font-weight:700;
+    padding:3px 8px; border-radius:6px; white-space:nowrap; }
+  .p-internship{ background:var(--c-intern-bg); color:var(--c-intern); }
+  .p-new-grad  { background:var(--c-newgrad-bg); color:var(--c-newgrad); }
+  .p-full-time { background:var(--c-ft-bg); color:var(--c-ft); }
+  .p-event     { background:var(--c-event-bg); color:var(--c-event); }
+  .p-new       { background:var(--new); color:#04210f; }
+  .tagmini { font-size:10px; color:var(--muted2); background:var(--bg2);
+    padding:2px 6px; border-radius:5px; text-transform:uppercase; }
+  .when { color:var(--muted2); font-size:11.5px; white-space:nowrap; min-width:62px;
+    text-align:right; }
+
+  .more { display:block; margin:16px auto; background:var(--panel); border:1px solid var(--border);
+    color:var(--text); border-radius:9px; padding:10px 22px; cursor:pointer; font-size:13px;
+    font-weight:600; }
+  .more:hover { background:var(--panel-h); border-color:var(--accent); }
+  .empty { text-align:center; color:var(--muted); padding:60px 20px; }
+
+  /* manual links */
+  .manual { margin-top:30px; border-top:1px solid var(--border); padding-top:18px; }
+  .manual summary { cursor:pointer; font-size:12px; text-transform:uppercase; letter-spacing:.05em;
+    color:var(--muted); font-weight:700; }
+  .linkgrid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr));
+    gap:9px; margin-top:14px; }
+  .linkcard { background:var(--panel); border:1px solid var(--border); border-radius:10px;
+    padding:11px 13px; display:flex; align-items:center; gap:10px; box-shadow:var(--shadow); }
+  .linkcard:hover { border-color:var(--accent); }
+  .linkcard a { text-decoration:none; font-weight:600; font-size:13.5px; }
+  .linkcard .lt { color:var(--muted2); font-size:10px; text-transform:uppercase; margin-top:2px; }
+
+  @media (max-width:820px) {
+    .layout { grid-template-columns:1fr; }
+    aside { position:static; }
+    .complist { max-height:200px; }
+  }
 </style>
 </head>
 <body>
 <header>
-  <h1>📡 Job Radar</h1>
-  <span class="updated" id="updated">loading…</span>
+  <div class="bar">
+    <div class="brand"><span class="dot"></span> Job Radar</div>
+    <div class="search">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="q" type="search" placeholder="Search role, company, location…">
+    </div>
+    <span class="updated" id="updated">loading…</span>
+    <button class="iconbtn" id="theme" title="Toggle theme">🌙</button>
+  </div>
+  <div class="tabs" id="tabs"></div>
 </header>
-<div class="wrap">
-  <div class="controls">
-    <input type="search" id="q" placeholder="Search title, company, location…">
-    <select id="cat">
-      <option value="">All categories</option>
-      <option value="internship">Internship</option>
-      <option value="new-grad">New grad</option>
-      <option value="full-time">Full-time</option>
-      <option value="event">Event</option>
-    </select>
-    <select id="sort">
-      <option value="first_seen">Newest detected</option>
-      <option value="company">Company A–Z</option>
-    </select>
-  </div>
-  <div class="chips" id="tagchips"></div>
-  <div class="stats" id="stats"></div>
-  <div id="list"></div>
 
-  <div id="linkwrap" style="display:none">
-    <div class="section-title">On radar — check manually (no auto-feed)</div>
-    <div class="links" id="links"></div>
-  </div>
+<div class="layout">
+  <aside>
+    <div class="group">
+      <h4>Focus</h4>
+      <div class="chips" id="tagchips"></div>
+    </div>
+    <div class="group">
+      <h4>Sort</h4>
+      <select id="sort">
+        <option value="first_seen">Newest detected</option>
+        <option value="posted">Recently posted</option>
+        <option value="company">Company A–Z</option>
+      </select>
+    </div>
+    <div class="group">
+      <h4>Companies</h4>
+      <div class="complist" id="complist"></div>
+    </div>
+  </aside>
+
+  <main>
+    <div class="resbar">
+      <span class="count" id="count"></span>
+      <span class="spacer"></span>
+    </div>
+    <div id="list"></div>
+    <details class="manual" id="manualwrap">
+      <summary>On radar — manual check (no auto-feed)</summary>
+      <div class="linkgrid" id="links"></div>
+    </details>
+  </main>
 </div>
 
 <script>
 const NEW_HOURS = 24;
-let DATA = { postings: [], links: [] };
-let activeTags = new Set();
+let DATA = {postings:[], links:[]};
+let state = { cat:"all", tags:new Set(), company:null, q:"", sort:"first_seen", limit:300 };
 
-function timeAgo(iso) {
-  if (!iso) return "";
-  const d = (Date.now() - new Date(iso)) / 1000;
-  if (d < 3600) return Math.max(1, Math.floor(d/60)) + "m ago";
-  if (d < 86400) return Math.floor(d/3600) + "h ago";
-  return Math.floor(d/86400) + "d ago";
-}
-function isNew(iso) {
-  return iso && (Date.now() - new Date(iso)) / 36e5 < NEW_HOURS;
-}
+const CATS = [
+  {key:"all", label:"All roles"},
+  {key:"internship", label:"Internships"},
+  {key:"new-grad", label:"New grad"},
+  {key:"full-time", label:"Full-time"},
+  {key:"event", label:"Events"},
+];
 
-function allTags() {
-  const s = new Set();
-  DATA.postings.forEach(p => (p.tags||[]).forEach(t => s.add(t)));
-  DATA.links.forEach(p => (p.tags||[]).forEach(t => s.add(t)));
-  return [...s].sort();
-}
+/* ---- theme ---- */
+const root = document.documentElement;
+const savedTheme = localStorage.getItem("jr-theme") || "dark";
+root.setAttribute("data-theme", savedTheme);
+document.getElementById("theme").textContent = savedTheme==="dark" ? "🌙" : "☀️";
+document.getElementById("theme").onclick = () => {
+  const t = root.getAttribute("data-theme")==="dark" ? "light" : "dark";
+  root.setAttribute("data-theme", t);
+  localStorage.setItem("jr-theme", t);
+  document.getElementById("theme").textContent = t==="dark" ? "🌙" : "☀️";
+};
 
-function render() {
-  const q = document.getElementById("q").value.toLowerCase();
-  const cat = document.getElementById("cat").value;
-  const sort = document.getElementById("sort").value;
+/* ---- helpers ---- */
+function esc(s){return (s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function timeAgo(iso){ if(!iso) return ""; const d=(Date.now()-new Date(iso))/1000;
+  if(d<3600) return Math.max(1,Math.floor(d/60))+"m"; if(d<86400) return Math.floor(d/3600)+"h";
+  if(d<604800) return Math.floor(d/86400)+"d"; return Math.floor(d/604800)+"w"; }
+function isNew(iso){ return iso && (Date.now()-new Date(iso))/36e5 < NEW_HOURS; }
+function avatarColor(name){ let h=0; for(const c of name) h=(h*31+c.charCodeAt(0))>>>0;
+  return `hsl(${h%360} 55% 48%)`; }
+function initials(name){ const w=name.replace(/[^A-Za-z0-9 ]/g,"").split(/\s+/).filter(Boolean);
+  return ((w[0]?.[0]||"")+(w[1]?.[0]||"")).toUpperCase()||name.slice(0,2).toUpperCase(); }
+function dayBucket(iso){ if(!iso) return "Earlier"; const d=(Date.now()-new Date(iso))/86400000;
+  if(d<1) return "Today"; if(d<2) return "Yesterday"; if(d<7) return "This week";
+  if(d<30) return "This month"; return "Earlier"; }
 
-  let rows = DATA.postings.filter(p => {
-    if (cat && p.category !== cat) return false;
-    if (activeTags.size && !(p.tags||[]).some(t => activeTags.has(t))) return false;
-    if (q) {
-      const hay = (p.title+" "+p.company+" "+(p.location||"")).toLowerCase();
-      if (!hay.includes(q)) return false;
-    }
+/* ---- filtering ---- */
+function filtered(){
+  return DATA.postings.filter(p=>{
+    if(state.cat!=="all" && p.category!==state.cat) return false;
+    if(state.tags.size && !(p.tags||[]).some(t=>state.tags.has(t))) return false;
+    if(state.company && p.company!==state.company) return false;
+    if(state.q){ const h=(p.title+" "+p.company+" "+(p.location||"")).toLowerCase();
+      if(!h.includes(state.q)) return false; }
     return true;
   });
-
-  if (sort === "company") rows.sort((a,b) => a.company.localeCompare(b.company) || (b.first_seen||"").localeCompare(a.first_seen||""));
-  else rows.sort((a,b) => (b.first_seen||"").localeCompare(a.first_seen||""));
-
-  const newCount = rows.filter(p => isNew(p.first_seen)).length;
-  document.getElementById("stats").textContent =
-    `${rows.length} postings • ${newCount} new in last ${NEW_HOURS}h`;
-
-  const list = document.getElementById("list");
-  if (!rows.length) { list.innerHTML = '<div class="empty">No matching postings.</div>'; return; }
-  list.innerHTML = rows.map(p => `
-    <div class="card ${isNew(p.first_seen)?'new':''}">
-      <div class="main">
-        <div class="title"><a href="${p.url}" target="_blank" rel="noopener">${esc(p.title)}</a></div>
-        <div class="meta">${esc(p.company)}${p.location?' · '+esc(p.location):''}</div>
-      </div>
-      <div class="badges">
-        ${isNew(p.first_seen)?'<span class="tag newbadge">NEW</span>':''}
-        <span class="tag cat-${p.category}">${p.category}</span>
-      </div>
-      <div class="when">${timeAgo(p.first_seen)}</div>
-    </div>`).join("");
+}
+function sortRows(rows){
+  if(state.sort==="company") rows.sort((a,b)=>a.company.localeCompare(b.company)||(b.first_seen||"").localeCompare(a.first_seen||""));
+  else if(state.sort==="posted") rows.sort((a,b)=>(b.posted_at||"").localeCompare(a.posted_at||""));
+  else rows.sort((a,b)=>(b.first_seen||"").localeCompare(a.first_seen||""));
+  return rows;
 }
 
-function renderTags() {
-  const box = document.getElementById("tagchips");
-  box.innerHTML = allTags().map(t =>
-    `<span class="chip ${activeTags.has(t)?'on':''}" data-t="${t}">${t}</span>`).join("");
-  box.querySelectorAll(".chip").forEach(c => c.onclick = () => {
-    const t = c.dataset.t;
-    activeTags.has(t) ? activeTags.delete(t) : activeTags.add(t);
-    renderTags(); render();
-  });
+/* ---- render ---- */
+function renderTabs(){
+  const all=DATA.postings;
+  document.getElementById("tabs").innerHTML = CATS.map(c=>{
+    const n = c.key==="all" ? all.length : all.filter(p=>p.category===c.key).length;
+    return `<div class="tab ${state.cat===c.key?'on':''}" data-c="${c.key}">${c.label}<span class="n">${n}</span></div>`;
+  }).join("");
+  document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{state.cat=t.dataset.c; state.limit=300; render();});
 }
+function renderTags(){
+  const s=new Set(); DATA.postings.forEach(p=>(p.tags||[]).forEach(t=>s.add(t)));
+  document.getElementById("tagchips").innerHTML=[...s].sort().map(t=>
+    `<span class="chip ${state.tags.has(t)?'on':''}" data-t="${t}">${t}</span>`).join("");
+  document.querySelectorAll("#tagchips .chip").forEach(c=>c.onclick=()=>{
+    const t=c.dataset.t; state.tags.has(t)?state.tags.delete(t):state.tags.add(t);
+    state.limit=300; renderTags(); renderCompanies(); render(); });
+}
+function renderCompanies(){
+  // counts respect tag filter only
+  const base=DATA.postings.filter(p=>!state.tags.size||(p.tags||[]).some(t=>state.tags.has(t)));
+  const counts={}; base.forEach(p=>counts[p.company]=(counts[p.company]||0)+1);
+  const names=Object.keys(counts).sort((a,b)=>counts[b]-counts[a]);
+  const el=document.getElementById("complist");
+  el.innerHTML = `<div class="comprow ${!state.company?'on':''}" data-co="">All companies<span class="cnt">${base.length}</span></div>`
+    + names.map(n=>`<div class="comprow ${state.company===n?'on':''}" data-co="${esc(n)}">
+        <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(n)}</span>
+        <span class="cnt">${counts[n]}</span></div>`).join("");
+  el.querySelectorAll(".comprow").forEach(r=>r.onclick=()=>{
+    state.company=r.dataset.co||null; state.limit=300; renderCompanies(); render(); });
+}
+function render(){
+  renderTabs();
+  let rows=sortRows(filtered());
+  const total=rows.length;
+  const newN=rows.filter(p=>isNew(p.first_seen)).length;
+  document.getElementById("count").innerHTML=`<b>${total}</b> roles · <b style="color:var(--new)">${newN}</b> new in last ${NEW_HOURS}h`;
 
-function renderLinks() {
-  if (!DATA.links || !DATA.links.length) return;
-  const shown = DATA.links.filter(l => !activeTags.size || (l.tags||[]).some(t => activeTags.has(t)));
-  document.getElementById("linkwrap").style.display = shown.length ? "" : "none";
-  document.getElementById("links").innerHTML = shown.map(l => `
+  const shown=rows.slice(0,state.limit);
+  const list=document.getElementById("list");
+  if(!shown.length){ list.innerHTML=`<div class="empty">No roles match these filters.</div>`; return; }
+
+  // group by day bucket (only meaningful for newest-detected sort)
+  const useGroups = state.sort==="first_seen";
+  let html="";
+  if(useGroups){
+    const order=["Today","Yesterday","This week","This month","Earlier"];
+    const buckets={}; shown.forEach(p=>{(buckets[dayBucket(p.first_seen)] ||= []).push(p);});
+    for(const b of order){ if(!buckets[b]) continue;
+      html+=`<div class="daygroup"><div class="dayhdr">${b} <span class="line"></span> ${buckets[b].length}</div>${buckets[b].map(cardHTML).join("")}</div>`;
+    }
+  } else { html=shown.map(cardHTML).join(""); }
+  list.innerHTML=html;
+  if(total>state.limit){
+    const btn=document.createElement("button"); btn.className="more";
+    btn.textContent=`Show more (${total-state.limit} remaining)`;
+    btn.onclick=()=>{state.limit+=300; render();};
+    list.appendChild(btn);
+  }
+}
+function cardHTML(p){
+  const fresh=isNew(p.first_seen);
+  const tags=(p.tags||[]).slice(0,3).map(t=>`<span class="tagmini">${t}</span>`).join("");
+  return `<div class="card">
+    <div class="avatar" style="background:${avatarColor(p.company)}">${initials(p.company)}</div>
+    <div class="body">
+      <div class="ttl"><a href="${p.url}" target="_blank" rel="noopener">${esc(p.title)}</a></div>
+      <div class="sub"><span class="co">${esc(p.company)}</span>${p.location?`<span class="loc">${esc(p.location)}</span>`:""} ${tags}</div>
+    </div>
+    <div class="pills">
+      ${fresh?'<span class="pill p-new">NEW</span>':''}
+      <span class="pill p-${p.category}">${p.category.replace("-"," ")}</span>
+    </div>
+    <div class="when">${timeAgo(p.first_seen)}</div>
+  </div>`;
+}
+function renderLinks(){
+  if(!DATA.links||!DATA.links.length){ document.getElementById("manualwrap").style.display="none"; return; }
+  document.getElementById("links").innerHTML=DATA.links.map(l=>`
     <div class="linkcard">
-      <a href="${l.url}" target="_blank" rel="noopener">${esc(l.company)} ↗</a>
-      <div class="meta">${(l.tags||[]).join(", ")}</div>
+      <div class="avatar" style="background:${avatarColor(l.company)};width:30px;height:30px;font-size:12px">${initials(l.company)}</div>
+      <div><a href="${l.url}" target="_blank" rel="noopener">${esc(l.company)} ↗</a>
+      <div class="lt">${(l.tags||[]).join(" · ")}</div></div>
     </div>`).join("");
 }
 
-function esc(s) { return (s||"").replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+document.getElementById("q").addEventListener("input",e=>{state.q=e.target.value.toLowerCase().trim(); state.limit=300; render();});
+document.getElementById("sort").addEventListener("change",e=>{state.sort=e.target.value; render();});
 
-["q","cat","sort"].forEach(id =>
-  document.getElementById(id).addEventListener("input", render));
-
-fetch("postings.json?_=" + Date.now())
-  .then(r => r.json())
-  .then(d => {
-    DATA = d;
-    document.getElementById("updated").textContent =
-      "updated " + timeAgo(d.generated_at) + " • " + (d.count||0) + " active";
-    renderTags(); render(); renderLinks();
-  })
-  .catch(() => {
-    document.getElementById("updated").textContent = "no data yet — run the poller";
-    document.getElementById("list").innerHTML =
-      '<div class="empty">No postings.json found yet. Run <code>python3 poll.py</code> or wait for the first GitHub Action.</div>';
-  });
+fetch("postings.json?_="+Date.now()).then(r=>r.json()).then(d=>{
+  DATA=d;
+  document.getElementById("updated").textContent="updated "+timeAgo(d.generated_at)+" ago · "+(d.count||0)+" live";
+  renderTags(); renderCompanies(); renderLinks(); render();
+}).catch(()=>{
+  document.getElementById("updated").textContent="no data yet";
+  document.getElementById("list").innerHTML='<div class="empty">No postings.json yet — run <code>python3 poll.py</code> or wait for the first GitHub Action.</div>';
+});
 </script>
 </body>
 </html>

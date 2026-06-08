@@ -47,6 +47,11 @@ def cmd_check(argv: list[str]) -> int:
         name = argv[4] if len(argv) > 4 else tenant
         cfg = {"name": name, "ats": "workday", "host": host,
                "tenant": tenant, "site": site}
+    elif ats_type == "eightfold":
+        tenant = argv[1]
+        domain = argv[2] if len(argv) > 2 else f"{tenant}.com"
+        name = argv[3] if len(argv) > 3 else tenant
+        cfg = {"name": name, "ats": "eightfold", "tenant": tenant, "domain": domain}
     else:
         token = argv[1]
         name = argv[2] if len(argv) > 2 else token

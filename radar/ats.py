@@ -190,6 +190,62 @@ def fetch_workday(company: str, cfg: dict) -> list[dict]:
     return out
 
 
+def fetch_workable(company: str, token: str) -> list[dict]:
+    """Public Workable account feed (no auth)."""
+    url = f"https://www.workable.com/api/accounts/{token}"
+    data = _get_json(url)
+    out = []
+    for j in data.get("jobs", []):
+        title = j.get("title", "")
+        loc = ", ".join(x for x in (j.get("city"), j.get("state"),
+                                    j.get("country")) if x)
+        code = j.get("shortcode")
+        out.append({
+            "uid": f"workable:{token}:{code}",
+            "company": company,
+            "title": title,
+            "location": loc,
+            "url": j.get("url") or j.get("application_url", ""),
+            "ats": "workable",
+            "posted_at": j.get("published_on"),
+            "category": classify(title),
+        })
+    return out
+
+
+def fetch_eightfold(company: str, cfg: dict) -> list[dict]:
+    """Eightfold.ai public positions API. Config:
+        {"ats":"eightfold","tenant":"mlp","domain":"mlp.com"}
+    """
+    tenant = cfg["tenant"]
+    domain = cfg.get("domain", f"{tenant}.com")
+    base = f"https://{tenant}.eightfold.ai/api/apply/v2/jobs"
+    out = []
+    start, num, total = 0, 100, None
+    while True:
+        url = f"{base}?domain={domain}&start={start}&num={num}"
+        data = _get_json(url)
+        if total is None:
+            total = data.get("count", 0)
+        positions = data.get("positions", [])
+        for p in positions:
+            title = p.get("name", "")
+            out.append({
+                "uid": f"eightfold:{tenant}:{p.get('id')}",
+                "company": company,
+                "title": title,
+                "location": p.get("location", ""),
+                "url": p.get("canonicalPositionUrl", ""),
+                "ats": "eightfold",
+                "posted_at": p.get("t_create") or p.get("t_update"),
+                "category": classify(title),
+            })
+        start += len(positions)
+        if not positions or start >= (total or 0) or start >= 3000:
+            break
+    return out
+
+
 # --------------------------------------------------------------------------- #
 
 _SIMPLE = {
@@ -197,9 +253,10 @@ _SIMPLE = {
     "lever": fetch_lever,
     "ashby": fetch_ashby,
     "smartrecruiters": fetch_smartrecruiters,
+    "workable": fetch_workable,
 }
 
-SUPPORTED = sorted(list(_SIMPLE) + ["workday", "link"])
+SUPPORTED = sorted(list(_SIMPLE) + ["workday", "eightfold", "link"])
 
 
 def fetch_company(cfg: dict) -> list[dict]:
@@ -213,6 +270,8 @@ def fetch_company(cfg: dict) -> list[dict]:
             postings = _SIMPLE[ats](name, cfg["token"])
         elif ats == "workday":
             postings = fetch_workday(name, cfg)
+        elif ats == "eightfold":
+            postings = fetch_eightfold(name, cfg)
         else:
             _log(f"  ! {name}: unknown ats '{ats}' (supported: {SUPPORTED})")
             return []
