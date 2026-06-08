@@ -52,6 +52,17 @@ def cmd_check(argv: list[str]) -> int:
         domain = argv[2] if len(argv) > 2 else f"{tenant}.com"
         name = argv[3] if len(argv) > 3 else tenant
         cfg = {"name": name, "ats": "eightfold", "tenant": tenant, "domain": domain}
+    elif ats_type == "beesite":
+        host = argv[1]
+        site = argv[2] if len(argv) > 2 else f"https://{host}"
+        name = argv[3] if len(argv) > 3 else host
+        cfg = {"name": name, "ats": "beesite", "host": host, "site_url": site}
+    elif ats_type == "jibe":
+        host = argv[1]
+        name = argv[2] if len(argv) > 2 else host
+        cfg = {"name": name, "ats": "jibe", "host": host}
+    elif ats_type == "gsgraphql":
+        cfg = {"name": "Goldman Sachs", "ats": "gsgraphql"}
     else:
         token = argv[1]
         name = argv[2] if len(argv) > 2 else token

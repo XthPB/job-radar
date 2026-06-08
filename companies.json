@@ -20,6 +20,7 @@
   { "name": "XTX Markets",             "ats": "greenhouse", "token": "xtxmarketstechnologies","tags": ["quant", "europe"] },
   { "name": "Hudson River Trading",    "ats": "greenhouse", "token": "hrttalentcommunity",  "tags": ["quant"] },
   { "name": "Millennium",              "ats": "eightfold",  "tenant": "mlp", "domain": "mlp.com", "tags": ["quant"] },
+  { "name": "SIG (Susquehanna)",       "ats": "jibe",       "host": "careers.sig.com",      "tags": ["quant"] },
   { "name": "Belvedere Trading",       "ats": "lever",      "token": "belvederetrading",    "tags": ["quant"] },
   { "name": "PDT Partners",            "ats": "greenhouse", "token": "pdtpartners",         "tags": ["quant"] },
   { "name": "Old Mission Capital",     "ats": "greenhouse", "token": "oldmissioncapital",   "tags": ["quant"] },
@@ -53,6 +54,8 @@
   { "name": "Helsing",                 "ats": "greenhouse", "token": "helsing",             "tags": ["ai", "swe", "europe"] },
   { "name": "Google DeepMind",         "ats": "greenhouse", "token": "deepmind",            "tags": ["ai", "europe"] },
   { "name": "Hugging Face",            "ats": "workable",   "token": "huggingface",         "tags": ["ai", "swe", "europe"] },
+  { "name": "Deutsche Bank",           "ats": "beesite",    "host": "api-deutschebank.beesite.de", "site_url": "https://careers.db.com", "tags": ["quant", "swe", "europe"] },
+  { "name": "Goldman Sachs",           "ats": "gsgraphql",  "host": "api-higher.gs.com", "site_url": "https://higher.gs.com", "tags": ["quant", "swe"] },
 
   { "_section": "SWE / tech — verified live feeds" },
   { "name": "Databricks",              "ats": "greenhouse", "token": "databricks",          "tags": ["swe"] },
@@ -91,7 +94,6 @@
   { "_section": "On radar — no public feed, quick-access links" },
   { "name": "Citadel / Citadel Securities", "ats": "link", "url": "https://www.citadelsecurities.com/careers/open-opportunities/", "tags": ["quant"] },
   { "name": "Two Sigma",               "ats": "link", "url": "https://careers.twosigma.com/careers/OpenRoles",                 "tags": ["quant"] },
-  { "name": "SIG (Susquehanna)",       "ats": "link", "url": "https://careers.sig.com/",                                       "tags": ["quant"] },
   { "name": "Optiver",                 "ats": "link", "url": "https://optiver.com/working-at-optiver/career-opportunities/",   "tags": ["quant", "europe"] },
   { "name": "Balyasny (BAM)",          "ats": "link", "url": "https://www.bamfunds.com/careers/",                              "tags": ["quant"] },
   { "name": "G-Research",              "ats": "link", "url": "https://www.gresearch.com/careers/",                             "tags": ["quant", "europe"] },
@@ -108,8 +110,6 @@
   { "name": "Graviton Research Capital","ats": "link", "url": "https://www.gravitontrading.com/careers.html",                  "tags": ["quant"] },
   { "name": "Futures First",           "ats": "link", "url": "https://futuresfirst.com/careers/",                              "tags": ["quant"] },
   { "name": "2Cents Capital",          "ats": "link", "url": "https://2centscapital.com/careers/",                             "tags": ["quant"] },
-  { "name": "Goldman Sachs",           "ats": "link", "url": "https://www.goldmansachs.com/careers/students/programs",         "tags": ["quant", "swe"] },
   { "name": "Morgan Stanley",          "ats": "link", "url": "https://www.morganstanley.com/careers/students-graduates",       "tags": ["quant", "swe"] },
-  { "name": "Deutsche Bank",           "ats": "link", "url": "https://careers.db.com/students-graduates/",                     "tags": ["quant", "swe", "europe"] },
   { "name": "Coinbase",                "ats": "link", "url": "https://www.coinbase.com/careers/positions",                     "tags": ["swe", "crypto"] }
 ]

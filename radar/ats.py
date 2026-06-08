@@ -246,6 +246,136 @@ def fetch_eightfold(company: str, cfg: dict) -> list[dict]:
     return out
 
 
+def fetch_beesite(company: str, cfg: dict) -> list[dict]:
+    """Beesite / Milch&Zucker job search API (e.g. Deutsche Bank). Config:
+        {"ats":"beesite","host":"api-deutschebank.beesite.de",
+         "site_url":"https://careers.db.com"}
+    """
+    import urllib.parse
+    host = cfg["host"]
+    site = cfg.get("site_url", f"https://{host}").rstrip("/")
+    out = []
+    start, count, total = 1, 100, None
+    while True:
+        data = urllib.parse.quote(json.dumps(
+            {"LanguageCode": "en", "FirstItem": start, "CountItem": count}))
+        d = _get_json(f"https://{host}/search/?data={data}")
+        sr = d.get("SearchResult", {})
+        if total is None:
+            total = sr.get("SearchResultCountAll", 0)
+        items = sr.get("SearchResultItems", [])
+        for it in items:
+            m = it.get("MatchedObjectDescriptor", {})
+            title = m.get("PositionTitle", "")
+            locs = m.get("PositionLocation") or []
+            loc = ""
+            if locs:
+                loc = locs[0].get("CityName") or locs[0].get("CountryName") or ""
+                if len(locs) > 1:
+                    loc += f" (+{len(locs) - 1})"
+            uri = m.get("PositionURI", "")
+            url = uri if uri.startswith("http") else site + ("" if uri.startswith("/") else "/") + uri
+            out.append({
+                "uid": f"beesite:{host}:{m.get('PositionID')}",
+                "company": company,
+                "title": title,
+                "location": loc,
+                "url": url,
+                "ats": "beesite",
+                "posted_at": m.get("PublicationStartDate"),
+                "category": classify(title),
+            })
+        start += len(items)
+        if not items or start > (total or 0) or start > 3000:
+            break
+    return out
+
+
+def fetch_jibe(company: str, cfg: dict) -> list[dict]:
+    """Jibe / iCIMS front-end job API (e.g. SIG). Config:
+        {"ats":"jibe","host":"careers.sig.com"}
+    """
+    host = cfg["host"].rstrip("/")
+    out = []
+    page, limit, total = 1, 100, None
+    while True:
+        d = _get_json(f"https://{host}/api/jobs?page={page}&limit={limit}")
+        if total is None:
+            total = d.get("totalCount", 0)
+        jobs = d.get("jobs", [])
+        for jb in jobs:
+            j = jb.get("data", jb)
+            title = j.get("title", "")
+            loc = ", ".join(x for x in (j.get("city"), j.get("state"),
+                                        j.get("country")) if x) or j.get("location_name", "")
+            req, slug = j.get("req_id"), j.get("slug")
+            url = (j.get("apply_url") or j.get("absolute_url")
+                   or f"https://{host}/jobs/{req}/{slug}")
+            out.append({
+                "uid": f"jibe:{host}:{req}",
+                "company": company,
+                "title": title,
+                "location": loc,
+                "url": url,
+                "ats": "jibe",
+                "posted_at": j.get("posted_date") or j.get("create_date"),
+                "category": classify(title),
+            })
+        page += 1
+        if not jobs or len(out) >= (total or 0) or page > 60:
+            break
+    return out
+
+
+_GS_QUERY = ("query($in:RoleSearchQueryInput!){roleSearch(searchQueryInput:$in)"
+             "{totalCount items{roleId jobTitle jobFunction division lastPostedDate "
+             "locations{city state country}}}}")
+
+
+def fetch_gsgraphql(company: str, cfg: dict) -> list[dict]:
+    """Goldman Sachs 'Higher' GraphQL roleSearch API (unauthenticated). Config:
+        {"ats":"gsgraphql","host":"api-higher.gs.com","site_url":"https://higher.gs.com"}
+    """
+    host = cfg.get("host", "api-higher.gs.com")
+    site = cfg.get("site_url", "https://higher.gs.com").rstrip("/")
+    experiences = cfg.get("experiences", ["PROFESSIONAL", "EARLY_CAREER", "CAMPUS"])
+    url = f"https://{host}/gateway/api/v1/graphql"
+    headers = {"Origin": site, "Referer": site + "/"}
+    out = []
+    page, size, total = 0, 100, None
+    while True:
+        body = json.dumps({"query": _GS_QUERY, "variables": {"in": {
+            "page": {"pageNumber": page, "pageSize": size},
+            "experiences": experiences, "searchTerm": ""}}}).encode()
+        data = _get_json(url, data=body, headers=headers)
+        rs = (data.get("data") or {}).get("roleSearch") or {}
+        if total is None:
+            total = rs.get("totalCount", 0)
+        items = rs.get("items", [])
+        for it in items:
+            title = it.get("jobTitle", "")
+            locs = it.get("locations") or []
+            loc = ""
+            if locs:
+                loc = locs[0].get("city") or locs[0].get("country") or ""
+                if len(locs) > 1:
+                    loc += f" (+{len(locs) - 1})"
+            out.append({
+                "uid": f"gsgraphql:{it.get('roleId')}",
+                "company": company,
+                "title": title,
+                "location": loc,
+                "url": f"{site}/roles/{it.get('roleId')}",
+                "ats": "gsgraphql",
+                "posted_at": it.get("lastPostedDate"),
+                "category": classify(title),
+            })
+        page += 1
+        if not items or len(out) >= (total or 0) or page > 40:
+            break
+    return out
+
+
 # --------------------------------------------------------------------------- #
 
 _SIMPLE = {
@@ -256,7 +386,15 @@ _SIMPLE = {
     "workable": fetch_workable,
 }
 
-SUPPORTED = sorted(list(_SIMPLE) + ["workday", "eightfold", "link"])
+_CFG_BASED = {
+    "workday": fetch_workday,
+    "eightfold": fetch_eightfold,
+    "beesite": fetch_beesite,
+    "jibe": fetch_jibe,
+    "gsgraphql": fetch_gsgraphql,
+}
+
+SUPPORTED = sorted(list(_SIMPLE) + list(_CFG_BASED) + ["link"])
 
 
 def fetch_company(cfg: dict) -> list[dict]:
@@ -268,10 +406,8 @@ def fetch_company(cfg: dict) -> list[dict]:
     try:
         if ats in _SIMPLE:
             postings = _SIMPLE[ats](name, cfg["token"])
-        elif ats == "workday":
-            postings = fetch_workday(name, cfg)
-        elif ats == "eightfold":
-            postings = fetch_eightfold(name, cfg)
+        elif ats in _CFG_BASED:
+            postings = _CFG_BASED[ats](name, cfg)
         else:
             _log(f"  ! {name}: unknown ats '{ats}' (supported: {SUPPORTED})")
             return []
