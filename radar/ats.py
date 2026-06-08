@@ -398,8 +398,15 @@ _CFG_BASED = {
 SUPPORTED = sorted(list(_SIMPLE) + list(_CFG_BASED) + ["link"])
 
 
-def fetch_company(cfg: dict) -> list[dict]:
-    """Dispatch on cfg['ats']. Returns [] for unpollable 'link' entries."""
+def fetch_company(cfg: dict):
+    """Dispatch on cfg['ats'].
+
+    Returns a list of postings on success (possibly empty if the board is
+    genuinely empty), or None if the fetch FAILED (network/HTTP error, bad
+    config). Callers must treat None as "unknown — keep existing postings"
+    so a transient outage doesn't wipe a company's roles. 'link' entries
+    return [] (nothing to poll, but not a failure).
+    """
     ats = cfg.get("ats")
     name = cfg.get("name", "?")
     if ats == "link":
@@ -411,13 +418,13 @@ def fetch_company(cfg: dict) -> list[dict]:
             postings = _CFG_BASED[ats](name, cfg)
         else:
             _log(f"  ! {name}: unknown ats '{ats}' (supported: {SUPPORTED})")
-            return []
+            return None
     except urllib.error.HTTPError as e:
-        _log(f"  ! {name} [{ats}]: HTTP {e.code} — check the token")
-        return []
+        _log(f"  ! {name} [{ats}]: HTTP {e.code} — keeping existing roles")
+        return None
     except Exception as e:  # noqa: BLE001
-        _log(f"  ! {name} [{ats}]: {type(e).__name__}: {e}")
-        return []
+        _log(f"  ! {name} [{ats}]: {type(e).__name__}: {e} — keeping existing roles")
+        return None
     # attach company-level tags
     tags = cfg.get("tags", [])
     for p in postings:

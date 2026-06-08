@@ -68,7 +68,7 @@ def cmd_check(argv: list[str]) -> int:
         name = argv[2] if len(argv) > 2 else token
         cfg = {"name": name, "ats": ats_type, "token": token}
 
-    postings = ats.fetch_company(cfg)
+    postings = ats.fetch_company(cfg) or []
     print(f"\n{name} [{ats_type}] → {len(postings)} postings")
     for p in postings[:15]:
         loc = f"  [{p['location']}]" if p.get("location") else ""
@@ -93,18 +93,28 @@ def run() -> int:
 
     current: list[dict] = []
     links: list[dict] = []
+    succeeded: set[str] = set()
+    failed: list[str] = []
     for c in companies:
         if c.get("ats") == "link":
             links.append({"company": c["name"], "url": c["url"],
                           "tags": c.get("tags", [])})
             continue
-        got = [p for p in ats.fetch_company(c) if keep(p["title"])]
+        result = ats.fetch_company(c)
+        if result is None:        # feed errored — keep this company's existing roles
+            failed.append(c["name"])
+            continue
+        succeeded.add(c["name"])
+        got = [p for p in result if keep(p["title"])]
         if got:
             print(f"  ✓ {c['name']:<28} {len(got)} relevant postings")
         current.extend(got)
 
+    if failed:
+        print(f"  ⚠ {len(failed)} feed(s) failed (roles preserved): {', '.join(failed)}")
+
     seen = store.load_seen(STATE)
-    new_postings = store.diff(seen, current, now_iso)
+    new_postings = store.diff(seen, current, now_iso, succeeded)
     store.save_json(STATE, seen)
 
     active = store.active_postings(seen)

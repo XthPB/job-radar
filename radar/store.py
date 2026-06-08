@@ -30,8 +30,15 @@ def save_json(path: str, obj) -> None:
     os.replace(tmp, path)
 
 
-def diff(seen: dict, current: list[dict], now_iso: str) -> list[dict]:
-    """Mutates `seen`. Returns the brand-new postings detected this run."""
+def diff(seen: dict, current: list[dict], now_iso: str, succeeded=None) -> list[dict]:
+    """Mutates `seen`. Returns the brand-new postings detected this run.
+
+    `succeeded` is the set of company names whose feed was polled successfully
+    this run. A posting is marked closed only if its company was polled OK and
+    the posting no longer appears — so a transient feed outage never wipes (and
+    later falsely re-surfaces) a company's roles. If `succeeded` is None, every
+    company is assumed polled (legacy behaviour).
+    """
     current_uids = set()
     new_postings = []
 
@@ -54,10 +61,12 @@ def diff(seen: dict, current: list[dict], now_iso: str) -> list[dict]:
             seen[uid] = rec
             new_postings.append(rec)
 
-    # mark postings that have disappeared from every feed as closed
+    # close postings that have disappeared — but only for companies we actually
+    # polled successfully this run (don't deactivate a feed that errored out)
     for uid, rec in seen.items():
         if uid not in current_uids:
-            rec["active"] = False
+            if succeeded is None or rec.get("company") in succeeded:
+                rec["active"] = False
 
     return new_postings
 
