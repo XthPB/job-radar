@@ -34,7 +34,15 @@ type and the company's board token:
 | `lever` | `jobs.lever.co/plaid` | `plaid` |
 | `ashby` | `jobs.ashbyhq.com/openai` | `openai` |
 | `smartrecruiters` | `jobs.smartrecruiters.com/Company` | `Company` |
+| `workable` | `apply.workable.com/huggingface` | `huggingface` |
 | `workday` | `company.wd5.myworkdayjobs.com/External` | see below |
+| `eightfold` | `mlp.eightfold.ai` | tenant `mlp` + `domain` (see below) |
+
+Not sure what a company uses? Run `python3 detect_ats.py "<careers-url>"` (or just
+open the careers page source and search for `greenhouse`/`lever`/`ashby`/
+`workable`/`eightfold`/`myworkdayjobs`). Firms on Avature / iCIMS / Taleo / fully
+custom sites (Citadel, Two Sigma, Goldman, SIG, Optiver…) have no public feed —
+keep those as `link` cards.
 
 **Verify before committing** — this prints the live count + sample titles:
 
@@ -52,6 +60,12 @@ is wrong — open the careers page and check the real URL.
 { "name": "Acme", "ats": "workday",
   "host": "acme.wd5.myworkdayjobs.com", "tenant": "acme", "site": "External",
   "tags": ["swe"] }
+```
+
+**Eightfold** entries use tenant + domain:
+```json
+{ "name": "Millennium", "ats": "eightfold", "tenant": "mlp", "domain": "mlp.com",
+  "tags": ["quant"] }
 ```
 
 **Companies without a public ATS feed** (e.g. Jane Street, Citadel) — add them
@@ -92,12 +106,17 @@ State lives in `state/seen.json` (full history incl. closed roles);
 1. Push this folder to a GitHub repo (see below).
 2. **Pages:** repo *Settings → Pages → Build from a branch → `main` / `/docs`*.
    Your dashboard will be at `https://<user>.github.io/<repo>/`.
-3. **Email (optional):** repo *Settings → Secrets and variables → Actions* →
-   add secrets:
-   - `SMTP_HOST` (e.g. `smtp.gmail.com`), `SMTP_PORT` (`465`),
-     `SMTP_USER`, `SMTP_PASS`, `MAIL_TO`
-   - For Gmail, `SMTP_PASS` must be an [App Password](https://myaccount.google.com/apppasswords),
-     not your normal password.
+3. **Email digests:** `MAIL_TO`, `SMTP_HOST` (smtp.gmail.com) and `SMTP_PORT` (465)
+   are already set as repo secrets. To turn email **on**, add the two remaining
+   secrets in *Settings → Secrets and variables → Actions*:
+   - `SMTP_USER` = your Gmail address
+   - `SMTP_PASS` = a Gmail [App Password](https://myaccount.google.com/apppasswords)
+     (16-char app password, **not** your normal login password)
+
+   Why Gmail and not Outlook: Microsoft disabled basic-auth SMTP for personal
+   Outlook accounts, so an Outlook password won't authenticate. The digest still
+   gets delivered **to** your Outlook inbox (that's `MAIL_TO`); Gmail is just the
+   sender. Until `SMTP_USER`/`SMTP_PASS` are set, the poller simply skips email.
    - Optionally add a **variable** `SITE_URL` = your Pages URL (shown in emails).
 4. The workflow runs every 30 min automatically; trigger it manually anytime
    from the **Actions** tab → *Job Radar poll* → *Run workflow*.
