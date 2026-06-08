@@ -160,11 +160,15 @@ def fetch_workday(company: str, cfg: dict) -> list[dict]:
     base = f"https://{host}/wday/cxs/{tenant}/{site}"
     out = []
     offset = 0
+    limit = 20
+    total = None  # Workday only reports `total` on the first page
     while True:
-        body = json.dumps({"appliedFacets": {}, "limit": 20,
+        body = json.dumps({"appliedFacets": {}, "limit": limit,
                            "offset": offset, "searchText": ""}).encode()
         data = _get_json(f"{base}/jobs", data=body)
         items = data.get("jobPostings", [])
+        if total is None:
+            total = data.get("total", 0)
         for j in items:
             title = j.get("title", "")
             path = j.get("externalPath", "")
@@ -178,9 +182,10 @@ def fetch_workday(company: str, cfg: dict) -> list[dict]:
                 "posted_at": j.get("postedOn"),
                 "category": classify(title),
             })
-        total = data.get("total", len(out))
         offset += len(items)
-        if not items or offset >= total:
+        # stop when a page is short, we've covered the reported total,
+        # or we hit a safety cap (avoid runaway on huge boards)
+        if len(items) < limit or offset >= (total or 0) or offset >= 3000:
             break
     return out
 

@@ -32,7 +32,8 @@ SITE_URL = os.environ.get("SITE_URL")
 def load_companies() -> list[dict]:
     with open(COMPANIES, "r", encoding="utf-8") as f:
         data = json.load(f)
-    return [c for c in data if c.get("enabled", True)]
+    return [c for c in data
+            if "_section" not in c and c.get("name") and c.get("enabled", True)]
 
 
 def cmd_check(argv: list[str]) -> int:

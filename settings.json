@@ -14,5 +14,15 @@
     "graduate", "early career", "early-career", "university", "campus",
     "apprentice", "rotational"
   ],
-  "exclude_keywords": []
+  "exclude_keywords": [
+    "sales", "account executive", "marketing", "recruiter", "recruiting",
+    "accountant", "accounting", "payroll", "paralegal", "attorney", "counsel",
+    "mechanical", "electrical", "civil engineer", "manufacturing", "hardware",
+    "biolog", "chemist", "clinical", "nurse", "physician", "technician",
+    "custodian", "facilities", "warehouse", "driver", "mechanic", "tutor",
+
+    "senior", "sr", "staff", "principal", "lead", "director", "vp",
+    "vice president", "head of", "manager", "architect", "distinguished",
+    "partner", "executive", "chief", "fellow"
+  ]
 }
