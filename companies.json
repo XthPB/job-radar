@@ -1,115 +1,4634 @@
 [
-  { "_section": "QUANT / TRADING — verified live feeds" },
-  { "name": "Jane Street",             "ats": "greenhouse", "token": "janestreet",          "tags": ["quant"] },
-  { "name": "Point72 / Cubist",        "ats": "greenhouse", "token": "point72",             "tags": ["quant"] },
-  { "name": "Jump Trading",            "ats": "greenhouse", "token": "jumptrading",         "tags": ["quant"] },
-  { "name": "Akuna Capital",           "ats": "greenhouse", "token": "akunacapital",        "tags": ["quant"] },
-  { "name": "DRW",                     "ats": "greenhouse", "token": "drweng",              "tags": ["quant"] },
-  { "name": "IMC Trading",             "ats": "greenhouse", "token": "imc",                 "tags": ["quant", "europe"] },
-  { "name": "Flow Traders",            "ats": "greenhouse", "token": "FlowTraders",         "tags": ["quant", "europe"] },
-  { "name": "Da Vinci Trading",        "ats": "greenhouse", "token": "davinciderivatives",  "tags": ["quant", "europe"] },
-  { "name": "Man Group",               "ats": "greenhouse", "token": "ManGroup",            "tags": ["quant", "europe"] },
-  { "name": "Marshall Wace",           "ats": "greenhouse", "token": "marshallwace",        "tags": ["quant", "europe"] },
-  { "name": "Quadrature Capital",      "ats": "greenhouse", "token": "quadraturecapital",   "tags": ["quant", "europe"] },
-  { "name": "Squarepoint Capital",     "ats": "greenhouse", "token": "SquarepointCapital",  "tags": ["quant", "europe"] },
-  { "name": "Schonfeld",               "ats": "greenhouse", "token": "Schonfeld",           "tags": ["quant"] },
-  { "name": "Tower Research Capital",  "ats": "greenhouse", "token": "TowerResearchCapital","tags": ["quant"] },
-  { "name": "WorldQuant",              "ats": "greenhouse", "token": "WorldQuant",          "tags": ["quant"] },
-  { "name": "AQR Capital",             "ats": "greenhouse", "token": "aqr",                 "tags": ["quant"] },
-  { "name": "Five Rings",              "ats": "greenhouse", "token": "fiveringsllc",        "tags": ["quant"] },
-  { "name": "XTX Markets",             "ats": "greenhouse", "token": "xtxmarketstechnologies","tags": ["quant", "europe"] },
-  { "name": "Hudson River Trading",    "ats": "greenhouse", "token": "hrttalentcommunity",  "tags": ["quant"] },
-  { "name": "Qube Research & Technologies", "ats": "greenhouse", "token": "quberesearchandtechnologies", "tags": ["quant", "europe"] },
-  { "name": "Millennium",              "ats": "eightfold",  "tenant": "mlp", "domain": "mlp.com", "tags": ["quant"] },
-  { "name": "SIG (Susquehanna)",       "ats": "jibe",       "host": "careers.sig.com",      "tags": ["quant"] },
-  { "name": "Belvedere Trading",       "ats": "lever",      "token": "belvederetrading",    "tags": ["quant"] },
-  { "name": "PDT Partners",            "ats": "greenhouse", "token": "pdtpartners",         "tags": ["quant"] },
-  { "name": "Old Mission Capital",     "ats": "greenhouse", "token": "oldmissioncapital",   "tags": ["quant"] },
-  { "name": "AlphaGrep Securities",    "ats": "greenhouse", "token": "alphagrepsecurities", "tags": ["quant"] },
-  { "name": "NK Securities",           "ats": "greenhouse", "token": "nksecuritiesresearch","tags": ["quant"] },
-  { "name": "APT Portfolio",           "ats": "greenhouse", "token": "APTPortfolio",        "tags": ["quant"] },
-  { "name": "Keyrock",                 "ats": "ashby",      "token": "keyrock",             "tags": ["quant", "europe", "crypto"] },
-
-  { "_section": "AI labs / AI-first — verified live feeds" },
-  { "name": "Anthropic",               "ats": "greenhouse", "token": "anthropic",           "tags": ["ai", "swe"] },
-  { "name": "OpenAI",                  "ats": "ashby",      "token": "openai",              "tags": ["ai", "swe"] },
-  { "name": "Cohere",                  "ats": "ashby",      "token": "cohere",              "tags": ["ai", "swe"] },
-  { "name": "Mistral AI",              "ats": "lever",      "token": "mistral",             "tags": ["ai", "swe", "europe"] },
-  { "name": "Perplexity",              "ats": "ashby",      "token": "Perplexity",          "tags": ["ai", "swe"] },
-  { "name": "Together AI",             "ats": "greenhouse", "token": "togetherai",          "tags": ["ai", "swe"] },
-  { "name": "Sierra",                  "ats": "ashby",      "token": "sierra",              "tags": ["ai", "swe"] },
-  { "name": "Harvey",                  "ats": "ashby",      "token": "Harvey",              "tags": ["ai", "swe"] },
-  { "name": "Cursor (Anysphere)",      "ats": "ashby",      "token": "cursor",              "tags": ["ai", "swe"] },
-  { "name": "Character AI",            "ats": "ashby",      "token": "character",           "tags": ["ai", "swe"] },
-  { "name": "Mercor",                  "ats": "ashby",      "token": "Mercor",              "tags": ["ai", "swe"] },
-  { "name": "Modal",                   "ats": "ashby",      "token": "Modal",               "tags": ["ai", "swe"] },
-  { "name": "Baseten",                 "ats": "ashby",      "token": "baseten",             "tags": ["ai", "swe"] },
-  { "name": "Anyscale",                "ats": "ashby",      "token": "Anyscale",            "tags": ["ai", "swe"] },
-  { "name": "Runway",                  "ats": "ashby",      "token": "runway",              "tags": ["ai", "swe"] },
-  { "name": "Scale AI",                "ats": "greenhouse", "token": "scaleai",             "tags": ["ai", "swe"] },
-  { "name": "Symphony AI",             "ats": "greenhouse", "token": "symphony",            "tags": ["ai", "swe"] },
-  { "name": "ElevenLabs",              "ats": "ashby",      "token": "ElevenLabs",          "tags": ["ai", "swe", "europe"] },
-  { "name": "Synthesia",               "ats": "ashby",      "token": "Synthesia",           "tags": ["ai", "swe", "europe"] },
-  { "name": "DeepL",                   "ats": "ashby",      "token": "deepl",               "tags": ["ai", "swe", "europe"] },
-  { "name": "Wayve",                   "ats": "greenhouse", "token": "wayve",               "tags": ["ai", "swe", "europe"] },
-  { "name": "Helsing",                 "ats": "greenhouse", "token": "helsing",             "tags": ["ai", "swe", "europe"] },
-  { "name": "Google DeepMind",         "ats": "greenhouse", "token": "deepmind",            "tags": ["ai", "europe"] },
-  { "name": "Hugging Face",            "ats": "workable",   "token": "huggingface",         "tags": ["ai", "swe", "europe"] },
-  { "name": "Deutsche Bank",           "ats": "beesite",    "host": "api-deutschebank.beesite.de", "site_url": "https://careers.db.com", "tags": ["quant", "swe", "europe"] },
-  { "name": "Goldman Sachs",           "ats": "gsgraphql",  "host": "api-higher.gs.com", "site_url": "https://higher.gs.com", "tags": ["quant", "swe"] },
-
-  { "_section": "SWE / tech — verified live feeds" },
-  { "name": "Databricks",              "ats": "greenhouse", "token": "databricks",          "tags": ["swe"] },
-  { "name": "Stripe",                  "ats": "greenhouse", "token": "stripe",              "tags": ["swe"] },
-  { "name": "Snowflake",               "ats": "ashby",      "token": "snowflake",           "tags": ["swe"] },
-  { "name": "Pinterest",               "ats": "greenhouse", "token": "Pinterest",           "tags": ["swe"] },
-  { "name": "Robinhood",               "ats": "greenhouse", "token": "robinhood",           "tags": ["swe"] },
-  { "name": "DoorDash",                "ats": "greenhouse", "token": "doordashusa",         "tags": ["swe"] },
-  { "name": "Instacart",               "ats": "greenhouse", "token": "instacart",           "tags": ["swe"] },
-  { "name": "Plaid",                   "ats": "ashby",      "token": "Plaid",               "tags": ["swe"] },
-  { "name": "Figma",                   "ats": "greenhouse", "token": "figma",               "tags": ["swe"] },
-  { "name": "Brex",                    "ats": "greenhouse", "token": "brex",                "tags": ["swe"] },
-  { "name": "Ramp",                    "ats": "ashby",      "token": "ramp",                "tags": ["swe"] },
-  { "name": "Mercury",                 "ats": "greenhouse", "token": "mercury",             "tags": ["swe"] },
-  { "name": "Affirm",                  "ats": "greenhouse", "token": "affirm",              "tags": ["swe"] },
-  { "name": "Airtable",                "ats": "greenhouse", "token": "airtable",            "tags": ["swe"] },
-  { "name": "Asana",                   "ats": "greenhouse", "token": "Asana",               "tags": ["swe"] },
-  { "name": "Dropbox",                 "ats": "greenhouse", "token": "Dropbox",             "tags": ["swe"] },
-  { "name": "Notion",                  "ats": "ashby",      "token": "notion",              "tags": ["swe"] },
-  { "name": "Linear",                  "ats": "ashby",      "token": "linear",              "tags": ["swe"] },
-  { "name": "Reddit",                  "ats": "greenhouse", "token": "reddit",              "tags": ["swe"] },
-  { "name": "Discord",                 "ats": "greenhouse", "token": "discord",             "tags": ["swe"] },
-  { "name": "GitLab",                  "ats": "greenhouse", "token": "gitlab",              "tags": ["swe"] },
-  { "name": "Samsara",                 "ats": "greenhouse", "token": "samsara",             "tags": ["swe"] },
-  { "name": "Verkada",                 "ats": "greenhouse", "token": "Verkada",             "tags": ["swe"] },
-  { "name": "Zscaler",                 "ats": "greenhouse", "token": "Zscaler",             "tags": ["swe"] },
-  { "name": "Anduril",                 "ats": "greenhouse", "token": "andurilindustries",   "tags": ["swe"] },
-  { "name": "Nuro",                    "ats": "greenhouse", "token": "nuro",                "tags": ["swe"] },
-  { "name": "InMobi",                  "ats": "greenhouse", "token": "InMobi",              "tags": ["swe"] },
-
-  { "_section": "SWE — Workday feeds (big boards; toggle enabled:false to mute)" },
-  { "name": "NVIDIA",     "ats": "workday", "host": "nvidia.wd5.myworkdayjobs.com",     "tenant": "nvidia",     "site": "NVIDIAExternalCareerSite", "tags": ["swe"] },
-  { "name": "Salesforce", "ats": "workday", "host": "salesforce.wd12.myworkdayjobs.com","tenant": "salesforce", "site": "External_Career_Site",      "tags": ["swe"] },
-  { "name": "Adobe",      "ats": "workday", "host": "adobe.wd5.myworkdayjobs.com",       "tenant": "adobe",      "site": "external_experienced",      "tags": ["swe"] },
-
-  { "_section": "On radar — no public feed, quick-access links" },
-  { "name": "Citadel / Citadel Securities", "ats": "link", "url": "https://www.citadelsecurities.com/careers/open-opportunities/", "tags": ["quant"] },
-  { "name": "Two Sigma",               "ats": "link", "url": "https://careers.twosigma.com/careers/OpenRoles",                 "tags": ["quant"] },
-  { "name": "Optiver",                 "ats": "link", "url": "https://optiver.com/working-at-optiver/career-opportunities/",   "tags": ["quant", "europe"] },
-  { "name": "Balyasny (BAM)",          "ats": "link", "url": "https://www.bamfunds.com/careers/",                              "tags": ["quant"] },
-  { "name": "G-Research",              "ats": "link", "url": "https://www.gresearch.com/careers/",                             "tags": ["quant", "europe"] },
-  { "name": "Brevan Howard",           "ats": "link", "url": "https://www.brevanhoward.com/careers/",                          "tags": ["quant", "europe"] },
-  { "name": "Radix Trading",           "ats": "link", "url": "https://www.radix-trading.com/openings",                         "tags": ["quant"] },
-  { "name": "Voleon",                  "ats": "link", "url": "https://voleon.com/careers/",                                    "tags": ["quant"] },
-  { "name": "Headlands Technologies",  "ats": "link", "url": "https://www.headlandstech.com/careers/",                         "tags": ["quant"] },
-  { "name": "Wolverine Trading",       "ats": "link", "url": "https://www.wolve.com/careers",                                  "tags": ["quant"] },
-  { "name": "Chicago Trading (CTC)",   "ats": "link", "url": "https://www.chicagotrading.com/careers/",                        "tags": ["quant"] },
-  { "name": "PEAK6",                   "ats": "link", "url": "https://peak6.com/careers/",                                     "tags": ["quant"] },
-  { "name": "Wintermute",              "ats": "link", "url": "https://www.wintermute.com/careers",                             "tags": ["quant", "crypto", "europe"] },
-  { "name": "Quadeye",                 "ats": "link", "url": "https://quadeye.com/career",                                     "tags": ["quant"] },
-  { "name": "Graviton Research Capital","ats": "link", "url": "https://www.gravitontrading.com/careers.html",                  "tags": ["quant"] },
-  { "name": "Futures First",           "ats": "link", "url": "https://futuresfirst.com/careers/",                              "tags": ["quant"] },
-  { "name": "2Cents Capital",          "ats": "link", "url": "https://2centscapital.com/careers/",                             "tags": ["quant"] },
-  { "name": "Morgan Stanley",          "ats": "link", "url": "https://www.morganstanley.com/careers/students-graduates",       "tags": ["quant", "swe"] },
-  { "name": "Coinbase",                "ats": "link", "url": "https://www.coinbase.com/careers/positions",                     "tags": ["swe", "crypto"] }
+  {
+    "_section": "QUANT / TRADING — verified live feeds"
+  },
+  {
+    "name": "Jane Street",
+    "ats": "greenhouse",
+    "token": "janestreet",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "Point72 / Cubist",
+    "ats": "greenhouse",
+    "token": "point72",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "Jump Trading",
+    "ats": "greenhouse",
+    "token": "jumptrading",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "Akuna Capital",
+    "ats": "greenhouse",
+    "token": "akunacapital",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "DRW",
+    "ats": "greenhouse",
+    "token": "drweng",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "IMC Trading",
+    "ats": "greenhouse",
+    "token": "imc",
+    "tags": [
+      "quant",
+      "europe"
+    ]
+  },
+  {
+    "name": "Flow Traders",
+    "ats": "greenhouse",
+    "token": "FlowTraders",
+    "tags": [
+      "quant",
+      "europe"
+    ]
+  },
+  {
+    "name": "Da Vinci Trading",
+    "ats": "greenhouse",
+    "token": "davinciderivatives",
+    "tags": [
+      "quant",
+      "europe"
+    ]
+  },
+  {
+    "name": "Man Group",
+    "ats": "greenhouse",
+    "token": "ManGroup",
+    "tags": [
+      "quant",
+      "europe"
+    ]
+  },
+  {
+    "name": "Marshall Wace",
+    "ats": "greenhouse",
+    "token": "marshallwace",
+    "tags": [
+      "quant",
+      "europe"
+    ]
+  },
+  {
+    "name": "Quadrature Capital",
+    "ats": "greenhouse",
+    "token": "quadraturecapital",
+    "tags": [
+      "quant",
+      "europe"
+    ]
+  },
+  {
+    "name": "Squarepoint Capital",
+    "ats": "greenhouse",
+    "token": "SquarepointCapital",
+    "tags": [
+      "quant",
+      "europe"
+    ]
+  },
+  {
+    "name": "Schonfeld",
+    "ats": "greenhouse",
+    "token": "Schonfeld",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "Tower Research Capital",
+    "ats": "greenhouse",
+    "token": "TowerResearchCapital",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "WorldQuant",
+    "ats": "greenhouse",
+    "token": "WorldQuant",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "AQR Capital",
+    "ats": "greenhouse",
+    "token": "aqr",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "Five Rings",
+    "ats": "greenhouse",
+    "token": "fiveringsllc",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "XTX Markets",
+    "ats": "greenhouse",
+    "token": "xtxmarketstechnologies",
+    "tags": [
+      "quant",
+      "europe"
+    ]
+  },
+  {
+    "name": "Hudson River Trading",
+    "ats": "greenhouse",
+    "token": "hrttalentcommunity",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "Qube Research & Technologies",
+    "ats": "greenhouse",
+    "token": "quberesearchandtechnologies",
+    "tags": [
+      "quant",
+      "europe"
+    ]
+  },
+  {
+    "name": "Millennium",
+    "ats": "eightfold",
+    "tenant": "mlp",
+    "domain": "mlp.com",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "SIG (Susquehanna)",
+    "ats": "jibe",
+    "host": "careers.sig.com",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "Belvedere Trading",
+    "ats": "lever",
+    "token": "belvederetrading",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "PDT Partners",
+    "ats": "greenhouse",
+    "token": "pdtpartners",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "Old Mission Capital",
+    "ats": "greenhouse",
+    "token": "oldmissioncapital",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "AlphaGrep Securities",
+    "ats": "greenhouse",
+    "token": "alphagrepsecurities",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "NK Securities",
+    "ats": "greenhouse",
+    "token": "nksecuritiesresearch",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "APT Portfolio",
+    "ats": "greenhouse",
+    "token": "APTPortfolio",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "Keyrock",
+    "ats": "ashby",
+    "token": "keyrock",
+    "tags": [
+      "quant",
+      "europe",
+      "crypto"
+    ]
+  },
+  {
+    "_section": "AI labs / AI-first — verified live feeds"
+  },
+  {
+    "name": "Anthropic",
+    "ats": "greenhouse",
+    "token": "anthropic",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "OpenAI",
+    "ats": "ashby",
+    "token": "openai",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Cohere",
+    "ats": "ashby",
+    "token": "cohere",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Mistral AI",
+    "ats": "lever",
+    "token": "mistral",
+    "tags": [
+      "ai",
+      "swe",
+      "europe"
+    ]
+  },
+  {
+    "name": "Perplexity",
+    "ats": "ashby",
+    "token": "Perplexity",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Together AI",
+    "ats": "greenhouse",
+    "token": "togetherai",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Sierra",
+    "ats": "ashby",
+    "token": "sierra",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Harvey",
+    "ats": "ashby",
+    "token": "Harvey",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Cursor (Anysphere)",
+    "ats": "ashby",
+    "token": "cursor",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Character AI",
+    "ats": "ashby",
+    "token": "character",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Mercor",
+    "ats": "ashby",
+    "token": "Mercor",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Modal",
+    "ats": "ashby",
+    "token": "Modal",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Baseten",
+    "ats": "ashby",
+    "token": "baseten",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Anyscale",
+    "ats": "ashby",
+    "token": "Anyscale",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Runway",
+    "ats": "ashby",
+    "token": "runway",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Scale AI",
+    "ats": "greenhouse",
+    "token": "scaleai",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "Symphony AI",
+    "ats": "greenhouse",
+    "token": "symphony",
+    "tags": [
+      "ai",
+      "swe"
+    ]
+  },
+  {
+    "name": "ElevenLabs",
+    "ats": "ashby",
+    "token": "ElevenLabs",
+    "tags": [
+      "ai",
+      "swe",
+      "europe"
+    ]
+  },
+  {
+    "name": "Synthesia",
+    "ats": "ashby",
+    "token": "Synthesia",
+    "tags": [
+      "ai",
+      "swe",
+      "europe"
+    ]
+  },
+  {
+    "name": "DeepL",
+    "ats": "ashby",
+    "token": "deepl",
+    "tags": [
+      "ai",
+      "swe",
+      "europe"
+    ]
+  },
+  {
+    "name": "Wayve",
+    "ats": "greenhouse",
+    "token": "wayve",
+    "tags": [
+      "ai",
+      "swe",
+      "europe"
+    ]
+  },
+  {
+    "name": "Helsing",
+    "ats": "greenhouse",
+    "token": "helsing",
+    "tags": [
+      "ai",
+      "swe",
+      "europe"
+    ]
+  },
+  {
+    "name": "Google DeepMind",
+    "ats": "greenhouse",
+    "token": "deepmind",
+    "tags": [
+      "ai",
+      "europe"
+    ]
+  },
+  {
+    "name": "Hugging Face",
+    "ats": "workable",
+    "token": "huggingface",
+    "tags": [
+      "ai",
+      "swe",
+      "europe"
+    ]
+  },
+  {
+    "name": "Deutsche Bank",
+    "ats": "beesite",
+    "host": "api-deutschebank.beesite.de",
+    "site_url": "https://careers.db.com",
+    "tags": [
+      "quant",
+      "swe",
+      "europe"
+    ]
+  },
+  {
+    "name": "Goldman Sachs",
+    "ats": "gsgraphql",
+    "host": "api-higher.gs.com",
+    "site_url": "https://higher.gs.com",
+    "tags": [
+      "quant",
+      "swe"
+    ]
+  },
+  {
+    "_section": "SWE / tech — verified live feeds"
+  },
+  {
+    "name": "Databricks",
+    "ats": "greenhouse",
+    "token": "databricks",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Stripe",
+    "ats": "greenhouse",
+    "token": "stripe",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Snowflake",
+    "ats": "ashby",
+    "token": "snowflake",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Pinterest",
+    "ats": "greenhouse",
+    "token": "Pinterest",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Robinhood",
+    "ats": "greenhouse",
+    "token": "robinhood",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "DoorDash",
+    "ats": "greenhouse",
+    "token": "doordashusa",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Instacart",
+    "ats": "greenhouse",
+    "token": "instacart",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Plaid",
+    "ats": "ashby",
+    "token": "Plaid",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Figma",
+    "ats": "greenhouse",
+    "token": "figma",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Brex",
+    "ats": "greenhouse",
+    "token": "brex",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Ramp",
+    "ats": "ashby",
+    "token": "ramp",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Mercury",
+    "ats": "greenhouse",
+    "token": "mercury",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Affirm",
+    "ats": "greenhouse",
+    "token": "affirm",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Airtable",
+    "ats": "greenhouse",
+    "token": "airtable",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Asana",
+    "ats": "greenhouse",
+    "token": "Asana",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Dropbox",
+    "ats": "greenhouse",
+    "token": "Dropbox",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Notion",
+    "ats": "ashby",
+    "token": "notion",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Linear",
+    "ats": "ashby",
+    "token": "linear",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Reddit",
+    "ats": "greenhouse",
+    "token": "reddit",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Discord",
+    "ats": "greenhouse",
+    "token": "discord",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "GitLab",
+    "ats": "greenhouse",
+    "token": "gitlab",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Samsara",
+    "ats": "greenhouse",
+    "token": "samsara",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Verkada",
+    "ats": "greenhouse",
+    "token": "Verkada",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Zscaler",
+    "ats": "greenhouse",
+    "token": "Zscaler",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Anduril",
+    "ats": "greenhouse",
+    "token": "andurilindustries",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Nuro",
+    "ats": "greenhouse",
+    "token": "nuro",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "InMobi",
+    "ats": "greenhouse",
+    "token": "InMobi",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "_section": "SWE — Workday feeds (big boards; toggle enabled:false to mute)"
+  },
+  {
+    "name": "NVIDIA",
+    "ats": "workday",
+    "host": "nvidia.wd5.myworkdayjobs.com",
+    "tenant": "nvidia",
+    "site": "NVIDIAExternalCareerSite",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Salesforce",
+    "ats": "workday",
+    "host": "salesforce.wd12.myworkdayjobs.com",
+    "tenant": "salesforce",
+    "site": "External_Career_Site",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Adobe",
+    "ats": "workday",
+    "host": "adobe.wd5.myworkdayjobs.com",
+    "tenant": "adobe",
+    "site": "external_experienced",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "_section": "On radar — no public feed, quick-access links"
+  },
+  {
+    "name": "Citadel / Citadel Securities",
+    "ats": "link",
+    "url": "https://www.citadelsecurities.com/careers/open-opportunities/",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Two Sigma",
+    "ats": "link",
+    "url": "https://careers.twosigma.com/careers/OpenRoles",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Optiver",
+    "ats": "link",
+    "url": "https://optiver.com/working-at-optiver/career-opportunities/",
+    "tags": [
+      "quant",
+      "europe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Balyasny (BAM)",
+    "ats": "link",
+    "url": "https://www.bamfunds.com/careers/",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "G-Research",
+    "ats": "link",
+    "url": "https://www.gresearch.com/careers/",
+    "tags": [
+      "quant",
+      "europe"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "Brevan Howard",
+    "ats": "link",
+    "url": "https://www.brevanhoward.com/careers/",
+    "tags": [
+      "quant",
+      "europe"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "Radix Trading",
+    "ats": "link",
+    "url": "https://www.radix-trading.com/openings",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Voleon",
+    "ats": "link",
+    "url": "https://voleon.com/careers/",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Headlands Technologies",
+    "ats": "link",
+    "url": "https://www.headlandstech.com/careers/",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Wolverine Trading",
+    "ats": "link",
+    "url": "https://www.wolve.com/careers",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Chicago Trading (CTC)",
+    "ats": "link",
+    "url": "https://www.chicagotrading.com/careers/",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "PEAK6",
+    "ats": "link",
+    "url": "https://peak6.com/careers/",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Wintermute",
+    "ats": "link",
+    "url": "https://www.wintermute.com/careers",
+    "tags": [
+      "quant",
+      "crypto",
+      "europe"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "Quadeye",
+    "ats": "link",
+    "url": "https://quadeye.com/career",
+    "tags": [
+      "quant"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Graviton Research Capital",
+    "ats": "link",
+    "url": "https://www.gravitontrading.com/careers.html",
+    "tags": [
+      "quant"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Futures First",
+    "ats": "link",
+    "url": "https://futuresfirst.com/careers/",
+    "tags": [
+      "quant"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "2Cents Capital",
+    "ats": "link",
+    "url": "https://2centscapital.com/careers/",
+    "tags": [
+      "quant"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Morgan Stanley",
+    "ats": "link",
+    "url": "https://www.morganstanley.com/careers/students-graduates",
+    "tags": [
+      "quant",
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Coinbase",
+    "ats": "link",
+    "url": "https://www.coinbase.com/careers/positions",
+    "tags": [
+      "swe",
+      "crypto"
+    ],
+    "region": "US"
+  },
+  {
+    "_section": "interview-company-wise repo — auto-discovered live feeds (probed greenhouse/lever/ashby)"
+  },
+  {
+    "name": "Agoda",
+    "ats": "greenhouse",
+    "token": "agoda",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Airbnb",
+    "ats": "greenhouse",
+    "token": "airbnb",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Airwallex",
+    "ats": "ashby",
+    "token": "airwallex",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Apollo.io",
+    "ats": "greenhouse",
+    "token": "apolloio",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Applied Intuition",
+    "ats": "ashby",
+    "token": "applied",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "name": "Attentive",
+    "ats": "greenhouse",
+    "token": "attentive",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Axon",
+    "ats": "greenhouse",
+    "token": "axon",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Baidu",
+    "ats": "greenhouse",
+    "token": "baidu",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "name": "BitGo",
+    "ats": "greenhouse",
+    "token": "bitgo",
+    "tags": [
+      "crypto"
+    ]
+  },
+  {
+    "name": "Block",
+    "ats": "greenhouse",
+    "token": "block",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Braze",
+    "ats": "greenhouse",
+    "token": "braze",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Canonical",
+    "ats": "greenhouse",
+    "token": "canonical",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Careem",
+    "ats": "greenhouse",
+    "token": "careem",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Celigo",
+    "ats": "greenhouse",
+    "token": "celigo",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Chime",
+    "ats": "greenhouse",
+    "token": "chime",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Cloudflare",
+    "ats": "greenhouse",
+    "token": "cloudflare",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Commvault",
+    "ats": "greenhouse",
+    "token": "commvault",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Confluent",
+    "ats": "ashby",
+    "token": "confluent",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Coupang",
+    "ats": "greenhouse",
+    "token": "coupang",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Coursera",
+    "ats": "greenhouse",
+    "token": "coursera",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "CRED",
+    "ats": "lever",
+    "token": "cred",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Datadog",
+    "ats": "greenhouse",
+    "token": "datadog",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Deliveroo",
+    "ats": "ashby",
+    "token": "deliveroo",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "DevRev",
+    "ats": "greenhouse",
+    "token": "devrev",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Druva",
+    "ats": "greenhouse",
+    "token": "druva",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Duolingo",
+    "ats": "greenhouse",
+    "token": "duolingo",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "EarnIn",
+    "ats": "greenhouse",
+    "token": "earnin",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Faire",
+    "ats": "greenhouse",
+    "token": "faire",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Flexport",
+    "ats": "greenhouse",
+    "token": "flexport",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "fourkites",
+    "ats": "greenhouse",
+    "token": "fourkites",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "GoDaddy",
+    "ats": "greenhouse",
+    "token": "godaddy",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Groupon",
+    "ats": "greenhouse",
+    "token": "groupon",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Groww",
+    "ats": "greenhouse",
+    "token": "groww",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "GSA Capital",
+    "ats": "greenhouse",
+    "token": "gsacapital",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "Gusto",
+    "ats": "greenhouse",
+    "token": "gusto",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Highspot",
+    "ats": "lever",
+    "token": "highspot",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Houzz",
+    "ats": "lever",
+    "token": "houzz",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "instabase",
+    "ats": "greenhouse",
+    "token": "instabase",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "name": "Karat",
+    "ats": "greenhouse",
+    "token": "karat",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Liftoff",
+    "ats": "greenhouse",
+    "token": "liftoff",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Lyft",
+    "ats": "greenhouse",
+    "token": "lyft",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Mapbox",
+    "ats": "ashby",
+    "token": "mapbox",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Meesho",
+    "ats": "lever",
+    "token": "meesho",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Mercari",
+    "ats": "greenhouse",
+    "token": "mercari",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Mindtickle",
+    "ats": "lever",
+    "token": "mindtickle",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Mixpanel",
+    "ats": "greenhouse",
+    "token": "mixpanel",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Moloco",
+    "ats": "greenhouse",
+    "token": "moloco",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "name": "MongoDB",
+    "ats": "greenhouse",
+    "token": "mongodb",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Netskope",
+    "ats": "greenhouse",
+    "token": "netskope",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Nextdoor",
+    "ats": "greenhouse",
+    "token": "nextdoor",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Okta",
+    "ats": "greenhouse",
+    "token": "okta",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "OKX",
+    "ats": "greenhouse",
+    "token": "okx",
+    "tags": [
+      "crypto"
+    ]
+  },
+  {
+    "name": "Otter.ai",
+    "ats": "greenhouse",
+    "token": "otterai",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "name": "Palantir Technologies",
+    "ats": "lever",
+    "token": "palantir",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Patreon",
+    "ats": "ashby",
+    "token": "patreon",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "PayPay",
+    "ats": "greenhouse",
+    "token": "paypay",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Paytm",
+    "ats": "lever",
+    "token": "paytm",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Peloton",
+    "ats": "greenhouse",
+    "token": "peloton",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "PhonePe",
+    "ats": "greenhouse",
+    "token": "phonepe",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Poshmark",
+    "ats": "ashby",
+    "token": "poshmark",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "PubMatic",
+    "ats": "greenhouse",
+    "token": "pubmatic",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Qualtrics",
+    "ats": "greenhouse",
+    "token": "qualtrics",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Quora",
+    "ats": "ashby",
+    "token": "quora",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Riot Games",
+    "ats": "greenhouse",
+    "token": "riotgames",
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "name": "Ripple",
+    "ats": "greenhouse",
+    "token": "ripple",
+    "tags": [
+      "fintech",
+      "crypto"
+    ]
+  },
+  {
+    "name": "Roblox",
+    "ats": "greenhouse",
+    "token": "roblox",
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "name": "Rokt",
+    "ats": "ashby",
+    "token": "rokt",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Roku",
+    "ats": "greenhouse",
+    "token": "roku",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Rubrik",
+    "ats": "greenhouse",
+    "token": "rubrik",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Sentry",
+    "ats": "ashby",
+    "token": "sentry",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Sigmoid",
+    "ats": "greenhouse",
+    "token": "sigmoid",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "name": "Smartsheet",
+    "ats": "greenhouse",
+    "token": "smartsheet",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "SoFi",
+    "ats": "greenhouse",
+    "token": "sofi",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Spotify",
+    "ats": "lever",
+    "token": "spotify",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Squarespace",
+    "ats": "greenhouse",
+    "token": "squarespace",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "StackAdapt",
+    "ats": "greenhouse",
+    "token": "stackadapt",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Stackline",
+    "ats": "greenhouse",
+    "token": "stackline",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Sumo Logic",
+    "ats": "greenhouse",
+    "token": "sumologic",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Tanium",
+    "ats": "greenhouse",
+    "token": "tanium",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Tekion",
+    "ats": "greenhouse",
+    "token": "tekion",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "The Trade Desk",
+    "ats": "greenhouse",
+    "token": "thetradedesk",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "ThoughtWorks",
+    "ats": "greenhouse",
+    "token": "thoughtworks",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Toast",
+    "ats": "greenhouse",
+    "token": "toast",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Toptal",
+    "ats": "lever",
+    "token": "toptal",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Tripadvisor",
+    "ats": "greenhouse",
+    "token": "tripadvisor",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Turing",
+    "ats": "greenhouse",
+    "token": "turing",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "name": "Turvo",
+    "ats": "lever",
+    "token": "turvo",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Twilio",
+    "ats": "greenhouse",
+    "token": "twilio",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Twitch",
+    "ats": "greenhouse",
+    "token": "twitch",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "UiPath",
+    "ats": "ashby",
+    "token": "uipath",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "name": "Upstart",
+    "ats": "greenhouse",
+    "token": "upstart",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "Veeva Systems",
+    "ats": "lever",
+    "token": "veeva",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Virtu Financial",
+    "ats": "greenhouse",
+    "token": "virtu",
+    "tags": [
+      "quant"
+    ]
+  },
+  {
+    "name": "WatchGuard",
+    "ats": "lever",
+    "token": "watchguard",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Waymo",
+    "ats": "greenhouse",
+    "token": "waymo",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "name": "Wealthfront",
+    "ats": "lever",
+    "token": "wealthfront",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "WeRide",
+    "ats": "lever",
+    "token": "weride",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "name": "Yext",
+    "ats": "greenhouse",
+    "token": "yext",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Zeta",
+    "ats": "lever",
+    "token": "zeta",
+    "tags": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "ZipRecruiter",
+    "ats": "greenhouse",
+    "token": "ziprecruiter",
+    "tags": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Zoox",
+    "ats": "lever",
+    "token": "zoox",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "_section": "interview-company-wise repo — manual-check links (no auto-pollable public feed)"
+  },
+  {
+    "name": "Accenture",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Accenture%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Accolite",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Accolite%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Acko",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Acko%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Activision",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Activision%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Airbus SE",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Airbus%20SE%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Airtel",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Airtel%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Akamai",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Akamai%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Alibaba",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Alibaba%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Altimetrik",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Altimetrik%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Amadeus",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Amadeus%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Amazon",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Amazon%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "AMD",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=AMD%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Amdocs",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Amdocs%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Middle East"
+  },
+  {
+    "name": "American Express",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=American%20Express%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Analytics quotient",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Analytics%20quotient%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Aon",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Aon%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "AppDynamics",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=AppDynamics%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "AppFolio",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=AppFolio%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Apple",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Apple%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Arcesium",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Arcesium%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Arista Networks",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Arista%20Networks%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "athenahealth",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=athenahealth%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Atlassian",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Atlassian%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Audible",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Audible%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Aurora",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Aurora%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Autodesk",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Autodesk%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Avalara",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Avalara%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Avito",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Avito%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Bank of America",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Bank%20of%20America%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Barclays",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Barclays%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "Bentley Systems",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Bentley%20Systems%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "BharatPe",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=BharatPe%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "BILL Holdings",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=BILL%20Holdings%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "BlackRock",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=BlackRock%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "BlackStone",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=BlackStone%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "blinkit",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=blinkit%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Blizzard",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Blizzard%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Bloomberg",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Bloomberg%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "BNY Mellon",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=BNY%20Mellon%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Bolt",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Bolt%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Booking.com",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Booking.com%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Bosch",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Bosch%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Box",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Box%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "BP",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=BP%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "Bridgewater Associates",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Bridgewater%20Associates%20careers%20jobs",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "ByteDance",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=ByteDance%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Cadence",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Cadence%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Capgemini",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Capgemini%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Capital One",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Capital%20One%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "CARS24",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=CARS24%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "carwale",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=carwale%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Cashfree",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Cashfree%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "CEDCOSS",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=CEDCOSS%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Chewy",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Chewy%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "ciena",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=ciena%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Circle",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Circle%20careers%20jobs",
+    "tags": [
+      "fintech",
+      "crypto"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Cisco",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Cisco%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Citigroup",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Citigroup%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Citrix",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Citrix%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Clari",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Clari%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Cleartrip",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Cleartrip%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Cloudera",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Cloudera%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "CME Group",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=CME%20Group%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Coforge",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Coforge%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Cognizant",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Cognizant%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Cohesity",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Cohesity%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Comcast",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Comcast%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Compass",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Compass%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "ConsultAdd",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=ConsultAdd%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Coveo",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Coveo%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "Canada"
+  },
+  {
+    "name": "Credit Karma",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Credit%20Karma%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Criteo",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Criteo%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "CrowdStrike",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=CrowdStrike%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Cruise",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Cruise%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "CureFit",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=CureFit%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "CVENT",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=CVENT%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Darwinbox",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Darwinbox%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Dataminr",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Dataminr%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "DE Shaw",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=DE%20Shaw%20careers%20jobs",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Delhivery",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Delhivery%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Dell",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Dell%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Deloitte",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Deloitte%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "DeltaX",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=DeltaX%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Devsinc",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Devsinc%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Other"
+  },
+  {
+    "name": "Devtron",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Devtron%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Directi",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Directi%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Disney",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Disney%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Docusign",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Docusign%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "DP world",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=DP%20world%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Middle East"
+  },
+  {
+    "name": "Dream11",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Dream11%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Dunzo",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Dunzo%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "DXC Technology",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=DXC%20Technology%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "eBay",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=eBay%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Edelweiss Group",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Edelweiss%20Group%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Electronic Arts",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Electronic%20Arts%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "EPAM Systems",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=EPAM%20Systems%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Epic Systems",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Epic%20Systems%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Expedia",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Expedia%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "EY",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=EY%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "FactSet",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=FactSet%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Fastenal",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Fastenal%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Fidelity",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Fidelity%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Fiverr",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Fiverr%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Middle East"
+  },
+  {
+    "name": "Flexera",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Flexera%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Flipkart",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Flipkart%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Fortinet",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Fortinet%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "FPT",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=FPT%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Freecharge",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Freecharge%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "FreshWorks",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=FreshWorks%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Gameskraft",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Gameskraft%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Garmin",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Garmin%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "GE Digital",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=GE%20Digital%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "GE Healthcare",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=GE%20Healthcare%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Geico",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Geico%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "General Motors",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=General%20Motors%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Genpact",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Genpact%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Gojek",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Gojek%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Google",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Google%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Grab",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Grab%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Grammarly",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Grammarly%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Grubhub",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Grubhub%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "GSN Games",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=GSN%20Games%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Guidewire",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Guidewire%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Harness",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Harness%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "HashedIn",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=HashedIn%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "HCL",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=HCL%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Hertz",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Hertz%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "HiLabs",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=HiLabs%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Hive",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Hive%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Hiver",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Hiver%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Honeywell",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Honeywell%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Hotstar",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Hotstar%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "HP",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=HP%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "HPE",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=HPE%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "HSBC",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=HSBC%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "Huawei",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Huawei%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Hubspot",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Hubspot%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Hulu",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Hulu%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "IBM",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=IBM%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "IIT Bombay",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=IIT%20Bombay%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Indeed",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Indeed%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "INDmoney",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=INDmoney%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Info Edge",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Info%20Edge%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Informatica",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Informatica%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Infosys",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Infosys%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Intel",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Intel%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Intuit",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Intuit%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "IVP",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=IVP%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "IXL",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=IXL%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "J.P. Morgan",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=J.P.%20Morgan%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "jio",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=jio%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "josh technology",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=josh%20technology%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Juniper Networks",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Juniper%20Networks%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Juspay",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Juspay%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Kakao",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Kakao%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "KLA",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=KLA%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Komprise",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Komprise%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Larsen & Toubro",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Larsen%20%26%20Toubro%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Lendingkart Technologies",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Lendingkart%20Technologies%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Lenskart",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Lenskart%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Licious",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Licious%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "LINE",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=LINE%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "LinkedIn",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=LinkedIn%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "LiveRamp",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=LiveRamp%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Lowe's",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Lowe%27s%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "LTI",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=LTI%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Lucid",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Lucid%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Luxoft",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Luxoft%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Machine Zone",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Machine%20Zone%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "MakeMyTrip",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=MakeMyTrip%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "MAQ Software",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=MAQ%20Software%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Mastercard",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Mastercard%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "MathWorks",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=MathWorks%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "McKinsey",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=McKinsey%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Media.net",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Media.net%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Meta",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Meta%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Microsoft",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Microsoft%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Microstrategy",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Microstrategy%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "MindTree",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=MindTree%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Miro",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Miro%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Mitsogo",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Mitsogo%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Mobileye",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Mobileye%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "Middle East"
+  },
+  {
+    "name": "Moengage",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Moengage%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Mountblue",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Mountblue%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Moveworks",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Moveworks%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "MSCI",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=MSCI%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Myntra",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Myntra%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Nagarro",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Nagarro%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "National Instruments",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=National%20Instruments%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "National Payments Corporation of India",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=National%20Payments%20Corporation%20of%20India%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Navan",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Navan%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Navi",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Navi%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "NCR",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=NCR%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "NetApp",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=NetApp%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "NetEase",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=NetEase%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Netflix",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Netflix%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Netsuite",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Netsuite%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Niantic",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Niantic%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Nielsen",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Nielsen%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Nike",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Nike%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "NinjaCart",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=NinjaCart%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Nokia",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Nokia%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Nordstrom",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Nordstrom%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Nutanix",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Nutanix%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Nykaa",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Nykaa%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Odoo",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Odoo%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Ola Cabs",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Ola%20Cabs%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Opendoor",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Opendoor%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "opentext",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=opentext%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Canada"
+  },
+  {
+    "name": "Optum",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Optum%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Oracle",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Oracle%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "oyo",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=oyo%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Ozon",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Ozon%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Palo%20Alto%20Networks%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Paycom",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Paycom%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "PayPal",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=PayPal%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "PayU",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=PayU%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "persistent systems",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=persistent%20systems%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Pocket Gems",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Pocket%20Gems%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Pony.ai",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Pony.ai%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "PornHub",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=PornHub%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Canada"
+  },
+  {
+    "name": "Postmates",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Postmates%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Publicis Sapient",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Publicis%20Sapient%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Pure Storage",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Pure%20Storage%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Pwc",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Pwc%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "QBurst",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=QBurst%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Qualcomm",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Qualcomm%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Rakuten",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Rakuten%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "razorpay",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=razorpay%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "RBC",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=RBC%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "Canada"
+  },
+  {
+    "name": "redbus",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=redbus%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Remitly",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Remitly%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Revolut",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Revolut%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "Rippling",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Rippling%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Rivian",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Rivian%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Roche",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Roche%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Samsung",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Samsung%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "SAP",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=SAP%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "ServiceNow",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=ServiceNow%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "ShareChat",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=ShareChat%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Shopee",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Shopee%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Shopify",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Shopify%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Canada"
+  },
+  {
+    "name": "Siemens",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Siemens%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Slice",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Slice%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "smartnews",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=smartnews%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Snap",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Snap%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Snapdeal",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Snapdeal%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Societe Generale",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Societe%20Generale%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Softwire",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Softwire%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "Sony",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Sony%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "SOTI",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=SOTI%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Canada"
+  },
+  {
+    "name": "SoundHound",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=SoundHound%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Splunk",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Splunk%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Sprinklr",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Sprinklr%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Swiggy",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Swiggy%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Synopsys",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Synopsys%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Target",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Target%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "tcs",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=tcs%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Tech Mahindra",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Tech%20Mahindra%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Tejas Networks",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Tejas%20Networks%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Tencent",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Tencent%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Teradata",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Teradata%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Tesco",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Tesco%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "Tesla",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Tesla%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Texas Instruments",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Texas%20Instruments%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Thomson Reuters",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Thomson%20Reuters%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Canada"
+  },
+  {
+    "name": "thoughtspot",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=thoughtspot%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "ThousandEyes",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=ThousandEyes%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Tiger Analytics",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Tiger%20Analytics%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "TikTok",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=TikTok%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "Tinder",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Tinder%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Tinkoff",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Tinkoff%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Trexquant",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Trexquant%20careers%20jobs",
+    "tags": [
+      "quant"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Trilogy",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Trilogy%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Turo",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Turo%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "TuSimple",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=TuSimple%20careers%20jobs",
+    "tags": [
+      "ai"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Uber",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Uber%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "UBS",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=UBS%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "UKG",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=UKG%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Unity",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Unity%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Urban Company",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Urban%20Company%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "USAA",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=USAA%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Valve",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Valve%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Vanguard",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Vanguard%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Verily",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Verily%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Veritas",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Veritas%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Vimeo",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Vimeo%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Virtusa",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Virtusa%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Visa",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Visa%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "VK",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=VK%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "VMware",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=VMware%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Walmart Labs",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Walmart%20Labs%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Warnermedia",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Warnermedia%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Wayfair",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Wayfair%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Wells Fargo",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Wells%20Fargo%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Western Digital",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Western%20Digital%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Whatnot",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Whatnot%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "WinZO",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=WinZO%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Wipro",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Wipro%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Wise",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Wise%20careers%20jobs",
+    "tags": [
+      "fintech"
+    ],
+    "region": "UK"
+  },
+  {
+    "name": "Wish",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Wish%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Wissen Technology",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Wissen%20Technology%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Wix",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Wix%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Middle East"
+  },
+  {
+    "name": "Workday",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Workday%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Works Applications",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Works%20Applications%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "APAC"
+  },
+  {
+    "name": "X",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=X%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Yahoo",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Yahoo%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Yandex",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Yandex%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Yelp",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Yelp%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Zalando",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Zalando%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "Europe"
+  },
+  {
+    "name": "Zendesk",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Zendesk%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Zenefits",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Zenefits%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Zepto",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Zepto%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Zillow",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Zillow%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Zluri",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Zluri%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Zoho",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Zoho%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Zomato",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Zomato%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "Zoom",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Zoom%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Zopsmart",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Zopsmart%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "India"
+  },
+  {
+    "name": "ZS Associates",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=ZS%20Associates%20careers%20jobs",
+    "tags": [
+      "swe"
+    ],
+    "region": "US"
+  },
+  {
+    "name": "Zynga",
+    "ats": "link",
+    "url": "https://www.google.com/search?q=Zynga%20careers%20jobs",
+    "tags": [
+      "gaming"
+    ],
+    "region": "US"
+  }
 ]

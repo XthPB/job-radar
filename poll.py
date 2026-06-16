@@ -98,7 +98,7 @@ def run() -> int:
     for c in companies:
         if c.get("ats") == "link":
             links.append({"company": c["name"], "url": c["url"],
-                          "tags": c.get("tags", [])})
+                          "tags": c.get("tags", []), "region": c.get("region")})
             continue
         result = ats.fetch_company(c)
         if result is None:        # feed errored — keep this company's existing roles

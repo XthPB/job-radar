@@ -311,9 +311,10 @@ function chipBox(el,items,sel,onclick){
 function renderFilters(){
   const tg={},fam={},reg={};
   DATA.postings.forEach(p=>{(p.tags||[]).forEach(t=>tg[t]=(tg[t]||0)+1);fam[p._fam]=(fam[p._fam]||0)+1;p._reg.forEach(r=>reg[r]=(reg[r]||0)+1);});
+  (DATA.links||[]).forEach(l=>{(l.tags||[]).forEach(t=>tg[t]=(tg[t]||0)+1);if(l.region)reg[l.region]=(reg[l.region]||0)+1;});
   chipBox(tagchips,Object.keys(tg).sort().map(t=>[t,tg[t]]),state.tags);
   chipBox(rolechips,Object.entries(fam).sort((a,b)=>b[1]-a[1]).map(([k,v])=>[k,v]),state.roles);
-  chipBox(regionchips,Object.keys(REGIONS).filter(r=>reg[r]).map(r=>[r,reg[r]]),state.regions);
+  chipBox(regionchips,Object.entries(reg).sort((a,b)=>b[1]-a[1]).map(([k,v])=>[k,v]),state.regions);
   renderCompanies();
 }
 function renderCompanies(){
@@ -393,14 +394,15 @@ function syncSaved(){savedN.textContent=SAVED.size;savedBtn.classList.toggle("ac
 function renderManual(){
   let links=(DATA.links||[]);
   if(state.tags.size)links=links.filter(l=>(l.tags||[]).some(t=>state.tags.has(t)));
+  if(state.regions.size)links=links.filter(l=>l.region&&state.regions.has(l.region));
   if(state.q)links=links.filter(l=>l.company.toLowerCase().includes(state.q));
   count.innerHTML=`<b>${links.length}</b> companies with no public feed — open these to check manually`;
   activebar.innerHTML="";
   if(!links.length){list.innerHTML=`<div class="empty"><div class="big">📋</div>No companies match.</div>`;return;}
-  list.innerHTML=`<div style="color:var(--muted);font-size:12.5px;margin-bottom:14px">These use bot-protected or browser-only career sites (Citadel, Two Sigma, Optiver…) that can't be auto-polled yet. Click to open.</div>
+  list.innerHTML=`<div style="color:var(--muted);font-size:12.5px;margin-bottom:14px">These have no auto-pollable public feed — click a card to open a careers search. Use the <b>Focus</b> &amp; <b>Region</b> filters on the left to narrow the list.</div>
   <div class="linkgrid">`+links.sort((a,b)=>a.company.localeCompare(b.company)).map(l=>`<div class="linkcard">
     <div class="avatar" style="background:${avatarColor(l.company)};width:32px;height:32px;font-size:12px">${initials(l.company)}</div>
-    <div style="min-width:0"><a href="${l.url}" target="_blank" rel="noopener">${esc(l.company)} ↗</a><div class="lt">${(l.tags||[]).join(" · ")}</div></div></div>`).join("")+`</div>`;
+    <div style="min-width:0"><a href="${l.url}" target="_blank" rel="noopener">${esc(l.company)} ↗</a><div class="lt">${[(l.tags||[]).join(" · "),l.region].filter(Boolean).join("  ·  ")}</div></div></div>`).join("")+`</div>`;
 }
 
 /* ---------- events ---------- */
