@@ -12,7 +12,10 @@
     "systematic", "low latency", "researcher", "research analyst",
     "intern", "internship", "co-op", "coop", "new grad", "new graduate",
     "graduate", "early career", "early-career", "university", "campus",
-    "apprentice", "rotational"
+    "apprentice", "rotational",
+    "summer analyst", "summer associate", "analyst program", "analyst programme",
+    "off-cycle", "placement", "working student", "werkstudent", "stagiair",
+    "praktikum", "praktikant", "thesis"
   ],
   "exclude_keywords": [
     "sales", "account executive", "marketing", "recruiter", "recruiting",

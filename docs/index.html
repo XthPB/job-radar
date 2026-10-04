@@ -243,13 +243,15 @@ const ROLE_FAMILIES=[
 ];
 function roleFamily(title){for(const[name,rx]of ROLE_FAMILIES)if(rx.test(title||""))return name;return "Other";}
 const REGIONS={
-  "Remote":/remote|anywhere/i,
-  "US":/united states|\bUSA?\b|, ?(CA|NY|TX|PA|IL|MA|WA|NJ|GA|FL|CO|VA|MD|NC|OH|MI|AZ)\b|san francisco|new york|san jose|santa clara|costa mesa|bala cynwyd|mountain view|menlo park|palo alto|dallas|austin|seattle|chicago|boston|washington|bethesda|los angeles|houston|atlanta|miami|denver|jersey city|charlotte/i,
-  "UK":/london|united kingdom|\bUK\b|england|cambridge|oxford|bristol|manchester|edinburgh|leeds/i,
-  "Europe":/amsterdam|netherlands|paris|france|german|berlin|munich|cologne|zurich|switzerland|geneva|dublin|ireland|milan|italy|madrid|spain|stockholm|sweden|warsaw|poland|vienna|austria|brussels|belgium|lisbon|portugal|copenhagen|denmark|oslo|norway|helsinki|prague/i,
-  "India":/india|bengaluru|bangalore|mumbai|gurgaon|gurugram|\bdelhi|hyderabad|pune|chennai|noida|kolkata/i,
-  "APAC":/singapore|hong kong|japan|tokyo|shanghai|beijing|shenzhen|sydney|australia|seoul|korea|taiwan|melbourne/i,
-  "Middle East":/israel|tel aviv|yokneam|dubai|abu dhabi|riyadh|qatar/i,
+  "Remote":/remote|anywhere|home based/i,
+  "US":/united states|\bUSA?\b|, ?(CA|NY|TX|PA|IL|MA|WA|NJ|GA|FL|CO|VA|MD|NC|OH|MI|AZ)\b|san francisco|new york|\bNYC\b|brooklyn|san jose|santa clara|costa mesa|bala cynwyd|mountain view|menlo park|palo alto|sunnyvale|cupertino|los gatos|redwood city|san mateo|foster city|oakland|berkeley|fremont|dallas|plano|irving|austin|houston|san antonio|seattle|redmond|bellevue|chicago|boston|cambridge, ma|burlington|washington|bethesda|los angeles|el segundo|hawthorne|long beach|irvine|san diego|santa monica|atlanta|miami|orlando|tampa|denver|boulder|jersey city|princeton|charlotte|raleigh|durham|philadelphia|pittsburgh|radnor|chandler|portland|hillsboro|beaverton|boise|salt lake|nashville|memphis|huntsville|minneapolis|detroit|columbus|st\.? louis|greenwich|stamford|california|texas|oregon|idaho|massachusetts|tennessee|colorado|arizona|florida|illinois|virginia|utah|ohio|michigan|minnesota|missouri|pennsylvania|new jersey|north carolina|connecticut|maryland|wisconsin|indiana|alabama/i,
+  "Canada":/canada(?! square)|\bCAN\b|toronto|vancouver|montr[eé]al|ottawa|calgary|edmonton|mississauga|markham|burnaby|ontario|british columbia|qu[eé]bec|alberta|winnipeg|halifax/i,
+  "UK":/london|united kingdom|\bUK\b|\bGBR?\b|great britain|england|scotland|cambridge(?!,? ?(?:ma\b|mass))|oxford|bristol|manchester|edinburgh|glasgow|leeds|belfast|cardiff|birmingham|newcastle|nottingham|sheffield|liverpool|southampton|brighton|leamington|canary wharf|knutsford|osterley|swindon|milton keynes|guildford|aberdeen/i,
+  "Europe":/europe|\bEMEA\b|amsterdam|rotterdam|utrecht|eindhoven|the hague|den haag|delft|leiden|netherlands|paris|lyon|toulouse|grenoble|marseille|bordeaux|nantes|sophia antipolis|france|german|berlin|munich|m[uü]nchen|cologne|frankfurt|hamburg|stuttgart|d[uü]sseldorf|dresden|zurich|z[uü]rich|geneva|lausanne|\bbasel\b|\bbern\b|\bzug\b|lugano|switzerland|dublin|\bcork\b|galway|limerick|ireland|milan|\brome\b|\bturin\b|bologna|italy|madrid|barcelona|valencia|m[aá]laga|\bseville\b|bilbao|spain|stockholm|solna|gothenburg|g[oö]teborg|malm[oö]|sweden|warsaw|krak[oó]w|wroc[lł]aw|gda[nń]sk|poland|vienna|\bgraz\b|\blinz\b|austria|brussels|antwerp|ghent|leuven|belgium|lisbon|\bporto\b|braga|aveiro|portugal|copenhagen|aarhus|denmark|oslo|bergen|trondheim|norway|helsinki|espoo|finland|prague|\bbrno\b|czech|budapest|hungary|bucharest|romania|sofia|bulgaria|athens|greece|zagreb|croatia|belgrade|serbia|bratislava|slovakia|vilnius|lithuania|tallinn|estonia|\briga\b|latvia|luxembourg|cyprus|limassol|nicosia|reykjav[ií]k|iceland|monaco/i,
+  "India":/\bindia\b|bengaluru|bangalore|mumbai|gurgaon|gurugram|\bdelhi|hyderabad|pune|chennai|noida|kolkata|coimbatore|ahmedabad/i,
+  "APAC":/singapore|\bSGP\b|hong kong|japan|\bJPN\b|tokyo|osaka|yokohama|china|shanghai|beijing|shenzhen|guangzhou|hangzhou|suzhou|wuxi|chengdu|nanjing|sydney|melbourne|brisbane|perth|canberra|australia|new zealand|auckland|seoul|korea|\bKOR\b|taiwan|\bTWN\b|taipei|hsinchu|malaysia|petaling jaya|bayan lepas|chongqing|kuala lumpur|penang|vietnam|ho chi minh|hanoi|thailand|bangkok|philippines|manila|indonesia|jakarta|\bAPAC\b|\bAsia\b/i,
+  "Middle East":/israel|\bISR\b|tel aviv|yokneam|haifa|rehovot|jerusalem|ramat gan|herzliya|dubai|abu dhabi|united arab emirates|\bUAE\b|riyadh|saudi|qatar|doha|kuwait|bahrain|istanbul|turkey|t[uü]rkiye/i,
+  "LatAm":/(?<!new )mexico|brazil|brasil|s[aã]o paulo|argentina|buenos aires|colombia|bogot[aá]|chile|costa rica|\bperu\b|puerto rico|latin america|\bLATAM\b/i,
 };
 function regionsOf(loc){const r=[];for(const k in REGIONS)if(REGIONS[k].test(loc||""))r.push(k);return r;}
 
@@ -355,7 +357,7 @@ function clearAll(){state.cat="all";state.tags.clear();state.roles.clear();state
   q.value="";locq.value="";compq.value="";document.querySelector('input[name=posted][value=any]').checked=true;syncSaved();renderFilters();render();}
 
 function cardHTML(p){
-  const fresh=isNew(p.first_seen);const sv=SAVED.has(p.uid);
+  const fresh=!p.backfill&&isNew(p.first_seen);const sv=SAVED.has(p.uid);
   const tags=(p.tags||[]).slice(0,3).map(t=>`<span class="tagmini">${t}</span>`).join("");
   return`<div class="card">
     <div class="avatar" style="background:${avatarColor(p.company)}">${initials(p.company)}</div>
@@ -374,7 +376,7 @@ function render(){
   renderTabs();
   if(state.cat==="manual"){renderManual();return;}
   renderActive();
-  let rows=sortRows(filtered());const total=rows.length,newN=rows.filter(p=>isNew(p.first_seen)).length;
+  let rows=sortRows(filtered());const total=rows.length,newN=rows.filter(p=>!p.backfill&&isNew(p.first_seen)).length;
   const exp=state.hideExpired?DATA.postings.filter(isExpired).length:0;
   count.innerHTML=`<b>${total.toLocaleString()}</b> roles · <b style="color:var(--new)">${newN}</b> new in last ${NEW_HOURS}h`+
     (exp?` · <span style="color:var(--muted2)">${exp} expired hidden</span>`:"");

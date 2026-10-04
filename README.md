@@ -5,8 +5,8 @@ companies you care about, and surfaces **new postings within ~30 minutes of
 release** so you can be among the first to apply.
 
 - **Poller** (`poll.py`) hits each company's public ATS feed (Greenhouse, Lever,
-  Ashby, SmartRecruiters, Workday), diffs against the last run, and records the
-  exact time each posting was first detected.
+  Ashby, SmartRecruiters, Workday, Oracle Cloud and more), diffs against the last
+  run, and records the exact time each posting was first detected.
 - **Dashboard** (`docs/index.html`) shows everything sorted newest-first with
   `NEW` badges, search, category + tag filters.
 - **GitHub Actions** runs the poller every 30 min in the cloud (even when your
@@ -37,11 +37,25 @@ type and the company's board token:
 | `workable` | `apply.workable.com/huggingface` | `huggingface` |
 | `workday` | `company.wd5.myworkdayjobs.com/External` | see below |
 | `eightfold` | `mlp.eightfold.ai` | tenant `mlp` + `domain` (see below) |
+| `lever-eu` | `jobs.eu.lever.co/mobileye` | `mobileye` |
+| `recruitee` | `bunq.recruitee.com` | `bunq` |
+| `rippling` | `ats.rippling.com/opendoor/jobs` | `opendoor` |
+| `gem` | `jobs.gem.com/retool` | `retool` |
+| `personio` | `planqc-gmbh.jobs.personio.de` | `planqc-gmbh` |
+| `teamtailor` | `iqm.teamtailor.com` | `iqm` |
+| `pinpoint` | `systematica.pinpointhq.com` | `systematica` |
+| `oraclecloud` | `jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001` | `host` + `site` (see below) |
+| `jibe` | `jobs.booking.com/booking/jobs` (iCIMS/Jibe front-end) | `host` |
+| `avature` | `careers.twosigma.com/careers/OpenRoles` | `url` of the job list |
+
+One-off adapters for firms with their own careers API: `optiver`, `citadel`
+(pass `site_url` for Citadel Securities), `deshaw`, `amazon` (pass `categories`),
+`gsgraphql` (Goldman Sachs), `beesite` (Deutsche Bank).
 
 Not sure what a company uses? Run `python3 detect_ats.py "<careers-url>"` (or just
 open the careers page source and search for `greenhouse`/`lever`/`ashby`/
-`workable`/`eightfold`/`myworkdayjobs`). Firms on Avature / iCIMS / Taleo / fully
-custom sites (Citadel, Two Sigma, Goldman, SIG, Optiver…) have no public feed —
+`workable`/`eightfold`/`myworkdayjobs`). Firms on Taleo / SuccessFactors / Phenom
+or bot-protected custom sites (Tesla, Google, Meta, UBS…) have no public feed —
 keep those as `link` cards.
 
 **Verify before committing** — this prints the live count + sample titles:
@@ -62,6 +76,24 @@ is wrong — open the careers page and check the real URL.
   "tags": ["swe"] }
 ```
 
+Workday extras: `"sites": ["External", "Campus"]` merges several career sites of
+one tenant. Workday never returns more than 2000 results per query, so for huge
+boards add `"facets": {"jobFamilyGroup": ["<id>", ...]}` to run one query per job
+category (ids are in the `facets` block of the board's `/jobs` response).
+A Workday tenant's site names are listed in `https://<host>/robots.txt`.
+
+**Oracle Cloud** entries use host + site number:
+```json
+{ "name": "J.P. Morgan", "ats": "oraclecloud",
+  "host": "jpmc.fa.oraclecloud.com", "site": "CX_1001", "tags": ["bank"] }
+```
+
+Any config can be tested with `key=value` pairs:
+```bash
+python3 poll.py --check oraclecloud host=jpmc.fa.oraclecloud.com site=CX_1001
+python3 poll.py --check avature url=https://careers.twosigma.com/careers/OpenRoles
+```
+
 **Eightfold** entries use tenant + domain:
 ```json
 { "name": "Millennium", "ats": "eightfold", "tenant": "mlp", "domain": "mlp.com",
@@ -77,6 +109,10 @@ as a `link` so they still show on the dashboard as a quick-access card:
 
 `tags` are free-form (e.g. `swe`, `quant`, `ai`) and become filter chips on the
 dashboard. Set `"enabled": false` to mute a company without deleting it.
+`"tokens": [...]` merges several boards of one company. `"added": "YYYY-MM-DD"`
+(or a full UTC timestamp) marks a newly added or re-pointed feed: its first batch
+of postings after that time is stored as backfill (no `NEW` badge, not emailed)
+because those roles already existed. The marker stops mattering after a week.
 
 ---
 
@@ -96,7 +132,7 @@ python3 poll.py --list     # list configured companies
 open docs/index.html       # view the dashboard
 ```
 
-State lives in `state/seen.json` (full history incl. closed roles);
+State lives in `state/seen.json` (history incl. roles closed in the last 60 days);
 `docs/postings.json` is what the dashboard reads (active roles only).
 
 ---

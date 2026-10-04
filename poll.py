@@ -16,7 +16,8 @@ from __future__ import annotations
 import json
 import os
 import sys
-from datetime import datetime, timezone
+from concurrent.futures import ThreadPoolExecutor
+from datetime import date, datetime, timezone
 
 from radar import ats, store, notify, rolefilter
 
@@ -27,6 +28,9 @@ OUT = os.path.join(ROOT, "docs", "postings.json")
 
 # Set to your GitHub Pages URL once known; shown in the email footer.
 SITE_URL = os.environ.get("SITE_URL")
+WORKERS = int(os.environ.get("RADAR_WORKERS", "16"))
+# for this many days after a company's "added" date, its first batch of postings is backfill
+BACKFILL_DAYS = 7
 
 
 def load_companies() -> list[dict]:
@@ -37,12 +41,23 @@ def load_companies() -> list[dict]:
 
 
 def cmd_check(argv: list[str]) -> int:
-    if len(argv) < 2:
+    if not argv:
         print("usage: poll.py --check <ats> <token> [name]  "
-              "(or --check workday <host> <tenant> <site> [name])")
+              "(or --check workday <host> <tenant> <site> [name], "
+              "or --check <ats> key=value ... for any other config)")
         return 2
     ats_type = argv[0]
-    if ats_type == "workday":
+    if any("=" in a for a in argv[1:]):
+        kv = dict(a.split("=", 1) for a in argv[1:] if "=" in a)
+        name = kv.pop("name", ats_type)
+        cfg = {"name": name, "ats": ats_type, **kv}
+    elif ats_type in ("gsgraphql", "amazon", "optiver", "citadel", "deshaw"):
+        name = argv[1] if len(argv) > 1 else ats_type
+        cfg = {"name": name, "ats": ats_type}
+    elif len(argv) < 2:
+        print(f"--check {ats_type} needs a token")
+        return 2
+    elif ats_type == "workday":
         host, tenant, site = argv[1], argv[2], argv[3]
         name = argv[4] if len(argv) > 4 else tenant
         cfg = {"name": name, "ats": "workday", "host": host,
@@ -61,8 +76,6 @@ def cmd_check(argv: list[str]) -> int:
         host = argv[1]
         name = argv[2] if len(argv) > 2 else host
         cfg = {"name": name, "ats": "jibe", "host": host}
-    elif ats_type == "gsgraphql":
-        cfg = {"name": "Goldman Sachs", "ats": "gsgraphql"}
     else:
         token = argv[1]
         name = argv[2] if len(argv) > 2 else token
@@ -92,15 +105,16 @@ def run() -> int:
     print(f"Job Radar run @ {now_iso}  ({len(companies)} companies)")
 
     current: list[dict] = []
-    links: list[dict] = []
+    links: list[dict] = [{"company": c["name"], "url": c["url"],
+                          "tags": c.get("tags", []), "region": c.get("region")}
+                         for c in companies if c.get("ats") == "link"]
+    feeds = [c for c in companies if c.get("ats") != "link"]
     succeeded: set[str] = set()
     failed: list[str] = []
-    for c in companies:
-        if c.get("ats") == "link":
-            links.append({"company": c["name"], "url": c["url"],
-                          "tags": c.get("tags", []), "region": c.get("region")})
-            continue
-        result = ats.fetch_company(c)
+    # feeds are independent, so fetch them concurrently (the big boards take minutes each)
+    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        results = list(pool.map(ats.fetch_company, feeds))
+    for c, result in zip(feeds, results):
         if result is None:        # feed errored — keep this company's existing roles
             failed.append(c["name"])
             continue
@@ -113,8 +127,13 @@ def run() -> int:
     if failed:
         print(f"  ⚠ {len(failed)} feed(s) failed (roles preserved): {', '.join(failed)}")
 
+    today = date.fromisoformat(now_iso[:10])
+    recent = {c["name"]: c["added"] for c in feeds if c.get("added")
+              and (today - date.fromisoformat(c["added"][:10])).days <= BACKFILL_DAYS}
     seen = store.load_seen(STATE)
-    new_postings = store.diff(seen, current, now_iso, succeeded)
+    new_postings = store.diff(seen, current, now_iso, succeeded, recent,
+                              tracked={c["name"] for c in feeds})
+    store.prune(seen, now_iso)
     store.save_json(STATE, seen)
 
     active = store.active_postings(seen)

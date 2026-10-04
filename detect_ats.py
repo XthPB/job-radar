@@ -28,7 +28,8 @@ SIGS = [
     ("recruitee",  re.compile(r'([a-z0-9\-]+)\.recruitee\.com', re.I)),
     ("teamtailor", re.compile(r'([a-z0-9\-]+)\.teamtailor\.com', re.I)),
 ]
-POLLABLE = {"greenhouse", "lever", "ashby", "smartrecruiters", "workable", "workday", "eightfold"}
+POLLABLE = {"greenhouse", "lever", "ashby", "smartrecruiters", "workable", "workday", "eightfold",
+            "recruitee", "avature", "teamtailor"}
 
 
 def main(url: str) -> int:
@@ -56,7 +57,7 @@ def main(url: str) -> int:
         token = groups[0]
         tag = "✓ pollable" if ats in POLLABLE else "✗ no public feed (use a link card)"
         print(f"  {ats:16} token/tenant = {token:28} {tag}")
-        if ats in POLLABLE and ats not in ("workday", "eightfold"):
+        if ats in POLLABLE and ats not in ("workday", "eightfold", "avature"):
             print(f'    -> verify: python3 poll.py --check {ats} {token}')
     return 0
 

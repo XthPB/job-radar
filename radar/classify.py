@@ -1,9 +1,15 @@
 """Best-effort classification of a job title into a category."""
 
+import re
+
+# whole words only, so "Internal Tools Engineer" is not an internship
+_INTERN_WORD = re.compile(r"\b(intern(s|ship|ships)?|thesis)\b")
+
 _INTERN = (
-    "intern", "internship", "co-op", "co op", "coop", "summer analyst",
+    "co-op", "co op", "coop", "summer analyst",
     "summer associate", "placement", "apprentic", "working student",
     "industrial placement", "vacation scheme", "spring week", "insight",
+    "werkstudent", "stagiair", "praktik",
 )
 
 _NEW_GRAD = (
@@ -28,7 +34,7 @@ def classify(title: str) -> str:
     t = (title or "").lower()
     if any(k in t for k in _EVENT) and not any(k in t for k in _NOT_EVENT):
         return "event"
-    if any(k in t for k in _INTERN):
+    if _INTERN_WORD.search(t) or any(k in t for k in _INTERN):
         return "internship"
     if any(k in t for k in _NEW_GRAD):
         return "new-grad"
