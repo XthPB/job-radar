@@ -9603,23 +9603,6 @@
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
     "active": true
   },
-  "greenhouse:anthropic:5030244008": {
-    "uid": "greenhouse:anthropic:5030244008",
-    "company": "Anthropic",
-    "title": "Anthropic Fellows Program, AI Security",
-    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5030244008",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T15:53:01-04:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-11T19:53:21.352122+00:00",
-    "active": false
-  },
   "greenhouse:anthropic:5183051008": {
     "uid": "greenhouse:anthropic:5183051008",
     "company": "Anthropic",
@@ -12662,23 +12645,6 @@
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
     "active": true
-  },
-  "ashby:openai:130a5389-83e1-493f-9205-542d3ff53afb": {
-    "uid": "ashby:openai:130a5389-83e1-493f-9205-542d3ff53afb",
-    "company": "OpenAI",
-    "title": "Full Stack Software Engineer, Codex Cloud Apps",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/130a5389-83e1-493f-9205-542d3ff53afb",
-    "ats": "ashby",
-    "posted_at": "2026-06-03T23:39:38.487+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-11T21:34:14.406738+00:00",
-    "active": false
   },
   "ashby:openai:a6501870-774b-447f-8620-2b78854f9655": {
     "uid": "ashby:openai:a6501870-774b-447f-8620-2b78854f9655",
@@ -20550,22 +20516,6 @@
     "last_seen": "2026-10-08T01:25:27.218543+00:00",
     "active": false
   },
-  "greenhouse:stripe:7923209": {
-    "uid": "greenhouse:stripe:7923209",
-    "company": "Stripe",
-    "title": "Security Engineer",
-    "location": "Seattle, WA",
-    "url": "https://stripe.com/jobs/search?gh_jid=7923209",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-06T12:10:06-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-11T20:32:48.023419+00:00",
-    "active": false
-  },
   "greenhouse:stripe:7776179": {
     "uid": "greenhouse:stripe:7776179",
     "company": "Stripe",
@@ -20964,22 +20914,6 @@
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-08-17T11:15:08.903711+00:00",
-    "active": false
-  },
-  "ashby:snowflake:b8c95597-b452-49bf-994c-04027b7bd6dd": {
-    "uid": "ashby:snowflake:b8c95597-b452-49bf-994c-04027b7bd6dd",
-    "company": "Snowflake",
-    "title": "Software Engineer – Engineering Systems Continuous Integration Team",
-    "location": "US-WA-Bellevue",
-    "url": "https://jobs.ashbyhq.com/snowflake/b8c95597-b452-49bf-994c-04027b7bd6dd",
-    "ats": "ashby",
-    "posted_at": "2026-04-28T16:42:03.840+00:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-11T22:30:09.403065+00:00",
     "active": false
   },
   "ashby:snowflake:d0c0305c-5f29-4785-aabf-13bf9fcc3329": {
@@ -24789,22 +24723,6 @@
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
     "active": true
-  },
-  "greenhouse:andurilindustries:5100655007": {
-    "uid": "greenhouse:andurilindustries:5100655007",
-    "company": "Anduril",
-    "title": "Mission Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5100655007?gh_jid=5100655007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T15:07:56-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-11T21:34:14.406738+00:00",
-    "active": false
   },
   "greenhouse:andurilindustries:5113524007": {
     "uid": "greenhouse:andurilindustries:5113524007",
@@ -54807,23 +54725,6 @@
     "last_seen": "2026-09-11T01:14:20.600570+00:00",
     "active": false
   },
-  "ashby:sierra:013d54ba-6658-448b-9de6-c7ba8dcad77f": {
-    "uid": "ashby:sierra:013d54ba-6658-448b-9de6-c7ba8dcad77f",
-    "company": "Sierra",
-    "title": "Forward Deployed Infrastructure Engineer ",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/sierra/013d54ba-6658-448b-9de6-c7ba8dcad77f",
-    "ats": "ashby",
-    "posted_at": "2026-06-17T01:06:40.272+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-17T01:17:36.504638+00:00",
-    "last_seen": "2026-08-11T22:30:09.403065+00:00",
-    "active": false
-  },
   "workday:salesforce:/job/Mexico---Mexico-City/AI-Engineer---Forward-Deployed-Engineer--Multiple-Levels-_JR346848": {
     "uid": "workday:salesforce:/job/Mexico---Mexico-City/AI-Engineer---Forward-Deployed-Engineer--Multiple-Levels-_JR346848",
     "company": "Salesforce",
@@ -58461,22 +58362,6 @@
     "first_seen": "2026-06-23T19:34:01.758497+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
     "active": true
-  },
-  "greenhouse:robinhood:8024530": {
-    "uid": "greenhouse:robinhood:8024530",
-    "company": "Robinhood",
-    "title": "Customer Experience Associate (New Grad)",
-    "location": "Westlake, TX",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-02T03:44:46-04:00",
-    "category": "new-grad",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-23T20:40:09.614158+00:00",
-    "last_seen": "2026-08-11T19:53:21.352122+00:00",
-    "active": false
   },
   "greenhouse:squarespace:8013777": {
     "uid": "greenhouse:squarespace:8013777",
@@ -65288,22 +65173,6 @@
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
     "active": true
   },
-  "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--GPU-Design-Automation_JR2017504": {
-    "uid": "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--GPU-Design-Automation_JR2017504",
-    "company": "NVIDIA",
-    "title": "Software Engineer, GPU Design Automation",
-    "location": "5 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--GPU-Design-Automation_JR2017504",
-    "ats": "workday",
-    "posted_at": "Posted 20 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-02T10:51:58.534039+00:00",
-    "last_seen": "2026-08-11T20:32:48.023419+00:00",
-    "active": false
-  },
   "lever:paytm:b84202a4-a7cd-4421-8471-9031f76d52bf": {
     "uid": "lever:paytm:b84202a4-a7cd-4421-8471-9031f76d52bf",
     "company": "Paytm",
@@ -65714,22 +65583,6 @@
     "first_seen": "2026-07-02T20:50:56.084304+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
     "active": true
-  },
-  "workday:nvidia:/job/US-CA-Remote/Software-Engineer--NVIDIA-OpenShell_JR2017604": {
-    "uid": "workday:nvidia:/job/US-CA-Remote/Software-Engineer--NVIDIA-OpenShell_JR2017604",
-    "company": "NVIDIA",
-    "title": "Software Engineer, NVIDIA OpenShell",
-    "location": "US, CA, Remote",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineer--NVIDIA-OpenShell_JR2017604",
-    "ats": "workday",
-    "posted_at": "Posted 25 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-02T20:50:56.084304+00:00",
-    "last_seen": "2026-08-11T20:32:48.023419+00:00",
-    "active": false
   },
   "greenhouse:scaleai:4520320005": {
     "uid": "greenhouse:scaleai:4520320005",
@@ -69455,23 +69308,6 @@
     ],
     "first_seen": "2026-07-09T09:43:52.220295+00:00",
     "last_seen": "2026-08-28T13:29:58.229361+00:00",
-    "active": false
-  },
-  "gsgraphql:165704_GS_MID_CAREER": {
-    "uid": "gsgraphql:165704_GS_MID_CAREER",
-    "company": "Goldman Sachs",
-    "title": "Engineering Division - Data Quality & Governance - Analyst - Bengaluru",
-    "location": "Bengaluru",
-    "url": "https://higher.gs.com/roles/165704_GS_MID_CAREER",
-    "ats": "gsgraphql",
-    "posted_at": "2026-08-04T05:09:32.471Z",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe"
-    ],
-    "first_seen": "2026-07-09T10:59:03.288802+00:00",
-    "last_seen": "2026-08-11T19:53:21.352122+00:00",
     "active": false
   },
   "workday:nvidia:/job/Israel-Tel-Aviv/Advanced-Development-Engineer--GPU-Networking_JR2014867": {
@@ -77741,22 +77577,6 @@
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
     "active": true
   },
-  "workday:nvidia:/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2012264": {
-    "uid": "workday:nvidia:/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2012264",
-    "company": "NVIDIA",
-    "title": "Performance Engineer, Deep Learning and HPC",
-    "location": "US, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2012264",
-    "ats": "workday",
-    "posted_at": "Posted 22 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-20T23:45:59.811609+00:00",
-    "last_seen": "2026-08-11T20:32:48.023419+00:00",
-    "active": false
-  },
   "ashby:openai:8859d8fa-48d8-4e1a-a53f-39e7a58e4522": {
     "uid": "ashby:openai:8859d8fa-48d8-4e1a-a53f-39e7a58e4522",
     "company": "OpenAI",
@@ -81039,22 +80859,6 @@
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
     "active": true
   },
-  "workday:nvidia:/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Grad-2026_JR2014130-1": {
-    "uid": "workday:nvidia:/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Grad-2026_JR2014130-1",
-    "company": "NVIDIA",
-    "title": "Developer Technology Engineer, AI - New College Grad 2026",
-    "location": "6 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Grad-2026_JR2014130-1",
-    "ats": "workday",
-    "posted_at": "Posted 7 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-23T17:34:32.963894+00:00",
-    "last_seen": "2026-08-11T20:32:48.023419+00:00",
-    "active": false
-  },
   "greenhouse:block:5195926008": {
     "uid": "greenhouse:block:5195926008",
     "company": "Block",
@@ -81101,22 +80905,6 @@
     ],
     "first_seen": "2026-07-23T18:24:07.609797+00:00",
     "last_seen": "2026-09-28T16:12:19.718072+00:00",
-    "active": false
-  },
-  "greenhouse:andurilindustries:5024775007": {
-    "uid": "greenhouse:andurilindustries:5024775007",
-    "company": "Anduril",
-    "title": "Structural Analysis Engineer",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5024775007?gh_jid=5024775007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T15:07:56-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-23T18:24:07.609797+00:00",
-    "last_seen": "2026-08-11T21:34:14.406738+00:00",
     "active": false
   },
   "greenhouse:netskope:8080635": {
@@ -82498,22 +82286,6 @@
     "first_seen": "2026-07-24T20:27:32.141537+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
     "active": true
-  },
-  "workday:nvidia:/job/US-TX-Austin/Software-Development-Life-Cycle-Reviewer---Cybersecurity_JR2005480": {
-    "uid": "workday:nvidia:/job/US-TX-Austin/Software-Development-Life-Cycle-Reviewer---Cybersecurity_JR2005480",
-    "company": "NVIDIA",
-    "title": "Software Development Life Cycle Reviewer - Cybersecurity",
-    "location": "5 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-Development-Life-Cycle-Reviewer---Cybersecurity_JR2005480",
-    "ats": "workday",
-    "posted_at": "Posted 18 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-24T20:27:32.141537+00:00",
-    "last_seen": "2026-08-11T20:32:48.023419+00:00",
-    "active": false
   },
   "workday:nvidia:/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102": {
     "uid": "workday:nvidia:/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102",
@@ -91369,22 +91141,6 @@
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
     "active": true
   },
-  "workday:nvidia:/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783": {
-    "uid": "workday:nvidia:/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783",
-    "company": "NVIDIA",
-    "title": "Systems Software Engineer - Infrastructure",
-    "location": "US, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783",
-    "ats": "workday",
-    "posted_at": "Posted 7 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-04T22:51:28.001755+00:00",
-    "last_seen": "2026-08-11T20:32:48.023419+00:00",
-    "active": false
-  },
   "workday:nvidia:/job/Israel-Yokneam/Design-Automation-Engineer_JR2021967": {
     "uid": "workday:nvidia:/job/Israel-Yokneam/Design-Automation-Engineer_JR2021967",
     "company": "NVIDIA",
@@ -92742,22 +92498,6 @@
     ],
     "first_seen": "2026-08-06T06:24:22.631916+00:00",
     "last_seen": "2026-09-03T05:18:25.948402+00:00",
-    "active": false
-  },
-  "workday:nvidia:/job/US-CA-Santa-Clara/System-Software-Engineer--UEFI-Firmware_JR2022276": {
-    "uid": "workday:nvidia:/job/US-CA-Santa-Clara/System-Software-Engineer--UEFI-Firmware_JR2022276",
-    "company": "NVIDIA",
-    "title": "System Software Engineer, UEFI Firmware",
-    "location": "2 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--UEFI-Firmware_JR2022276",
-    "ats": "workday",
-    "posted_at": "Posted 6 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-06T06:24:22.631916+00:00",
-    "last_seen": "2026-08-11T20:32:48.023419+00:00",
     "active": false
   },
   "greenhouse:lyft:8684440002": {
@@ -95145,22 +94885,6 @@
     "last_seen": "2026-10-08T01:25:27.218543+00:00",
     "active": false
   },
-  "ashby:applied:4183f0f2-1623-4a92-8cef-cf36b3bc5624": {
-    "uid": "ashby:applied:4183f0f2-1623-4a92-8cef-cf36b3bc5624",
-    "company": "Applied Intuition",
-    "title": "Software Engineer - HIL CI Infra",
-    "location": "Sunnyvale",
-    "url": "https://jobs.ashbyhq.com/applied/4183f0f2-1623-4a92-8cef-cf36b3bc5624",
-    "ats": "ashby",
-    "posted_at": "2026-08-08T03:45:54.414+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai"
-    ],
-    "first_seen": "2026-08-08T04:03:14.069212+00:00",
-    "last_seen": "2026-08-11T19:53:21.352122+00:00",
-    "active": false
-  },
   "workday:salesforce:/job/Ireland---Dublin/Solution-Engineer_JR354118": {
     "uid": "workday:salesforce:/job/Ireland---Dublin/Solution-Engineer_JR354118",
     "company": "Salesforce",
@@ -96298,22 +96022,6 @@
     ],
     "first_seen": "2026-08-10T22:03:52.535252+00:00",
     "last_seen": "2026-09-17T08:46:42.006573+00:00",
-    "active": false
-  },
-  "greenhouse:andurilindustries:5196794007": {
-    "uid": "greenhouse:andurilindustries:5196794007",
-    "company": "Anduril",
-    "title": "PCB Layout Engineer",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196794007?gh_jid=5196794007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T15:07:56-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-10T22:03:52.535252+00:00",
-    "last_seen": "2026-08-11T21:34:14.406738+00:00",
     "active": false
   },
   "ashby:ElevenLabs:38e0b741-5bfa-4481-891e-e95b503d4aff": {
@@ -138626,7 +138334,7 @@
     ],
     "first_seen": "2026-09-17T08:46:42.006573+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true
+    "active": false
   },
   "workday:salesforce:/job/Japan---Remote/Junior-Technical-Support-Engineer_JR359301": {
     "uid": "workday:salesforce:/job/Japan---Remote/Junior-Technical-Support-Engineer_JR359301",
@@ -146882,7 +146590,7 @@
     ],
     "first_seen": "2026-09-24T20:35:26.608318+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true
+    "active": false
   },
   "jibe:careers.sig.com:11555": {
     "uid": "jibe:careers.sig.com:11555",
@@ -237151,7 +236859,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bbva:/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/SOFTWARE-SOLUTIONS-DEVELOPMENT-ASSOCIATE-I---ACCOUNTS-PROJECTS---AI-TRANSFORMATION---ENGINEERING-COLOMBIA_JR00115963": {
@@ -325298,7 +325006,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:ag:/job/Montreal-Area/Professionnel-en-ingnierie--Navigabilit---Engineering-Professional--Airworthiness_JR10414748-1": {
@@ -381368,7 +381076,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:dyson:/job/United-States---Chicago-Office/Reliability-Engineer_JR36678": {
@@ -383438,7 +383146,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rollsroyce:/job/Dahlewitz/Masterand--in-Experimental-Measurement-Systems--f-m-d-_JR6160681": {
@@ -383456,7 +383164,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rollsroyce:/job/Indianapolis/Engineering-and-Technology-Graduate-Program_JR6157064-1": {
@@ -401060,7 +400768,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Sesto-San-Giovanni-Milano-Italy/Robotics-Project-Engineer_JR00046659": {
@@ -427062,7 +426770,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T15:02:43-04:00",
+    "posted_at": "2026-10-10T18:47:39-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -429391,7 +429099,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T15:02:47-04:00",
+    "posted_at": "2026-10-10T18:47:44-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -429442,7 +429150,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T15:02:45-04:00",
+    "posted_at": "2026-10-10T18:47:41-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431091,7 +430799,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010632003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:57:39-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431108,7 +430816,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010108003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -431159,7 +430867,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824780003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:00:20-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431176,7 +430884,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010158003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:00:58-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431193,7 +430901,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8012121003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -431210,7 +430918,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824834003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:05:46-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431244,7 +430952,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7990833003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -431261,7 +430969,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824766003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:01:50-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431278,7 +430986,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8005821003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:02:03-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431295,7 +431003,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824783003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:03:34-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431312,7 +431020,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:04:41-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431329,7 +431037,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:05:20-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431346,7 +431054,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8005846003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:06:30-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431363,7 +431071,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824781003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:06:47-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431380,7 +431088,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7865601003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:07:06-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431397,7 +431105,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6485429003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -431414,7 +431122,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7997888003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -431431,7 +431139,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824821003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:09:14-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431448,7 +431156,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010168003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:09:31-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431465,7 +431173,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010682003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:09:46-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431478,11 +431186,11 @@
   "greenhouse:vardaspace:7996649003": {
     "uid": "greenhouse:vardaspace:7996649003",
     "company": "Varda Space",
-    "title": "Payload Systems Integration and Test Engineer II",
+    "title": "Payload Systems, Integration, & Test Engineer II",
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7996649003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:17:52-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -431516,7 +431224,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824765003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:10:03-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431533,7 +431241,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010169003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:10:19-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431550,7 +431258,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8012135003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -431567,7 +431275,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:10:35-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431584,7 +431292,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8011213003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -431601,7 +431309,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010651003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -431618,7 +431326,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824817003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:11:16-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431635,7 +431343,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010167003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:11:34-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431669,7 +431377,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824827003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:11:49-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431703,7 +431411,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010172003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:12:07-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431720,7 +431428,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8012031003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -431737,7 +431445,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824772003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:12:24-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431754,7 +431462,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010170003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:12:48-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -538188,7 +537896,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Karnataka-India/Software-Engineer-II--ITC_R-91634": {
@@ -538341,7 +538049,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Boston-Massachusetts/Converse-Enterprise-Business-Planning-Graduate-Internship_R-92810": {
@@ -538562,7 +538270,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Laakdal-Belgium/Internship-Customs---International-Trade_R-92250-1": {
@@ -538579,7 +538287,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Athlete-Service---Training_R-92296": {
@@ -538596,7 +538304,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Business-Planning_R-92276": {
@@ -538613,7 +538321,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Digital-Commerce_R-92282-1": {
@@ -538630,7 +538338,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Finance_R-92286-1": {
@@ -538647,7 +538355,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Jordan_R-92291-1": {
@@ -538664,7 +538372,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Merchandising_R-92289": {
@@ -538681,7 +538389,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Laakdal-Belgium/Nike--Inc-Internship-Sports---Community-Impact_R-92334": {
@@ -538698,7 +538406,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Supply-Chain---Operations_R-92298-1": {
@@ -538715,7 +538423,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Laakdal-Belgium/Nike--Inc-Supply-Chain-Internship_R-92290": {
@@ -538732,7 +538440,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Hilversum-Netherlands/Nike-Inc-Internship-Product-Design---Creation_R-92275-1": {
@@ -538749,7 +538457,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nike:/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110": {
@@ -539939,7 +539647,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:336526": {
@@ -539956,7 +539664,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:339334": {
@@ -540840,7 +540548,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T19:02:35.376449+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:334352": {
@@ -540857,7 +540565,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T19:02:35.376449+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:334388": {
@@ -540874,7 +540582,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T19:02:35.376449+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:334366": {
@@ -540891,7 +540599,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-10T19:02:35.376449+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:334371": {
@@ -657307,7 +657015,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true
+    "active": false
   },
   "workday:asml:/job/Veldhoven-Netherlands/Business-Administration---Facility-Management-internship--process-management---digital-learning_J-00353461": {
     "uid": "workday:asml:/job/Veldhoven-Netherlands/Business-Administration---Facility-Management-internship--process-management---digital-learning_J-00353461",
@@ -669286,7 +668994,7 @@
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
     "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": true
+    "active": false
   },
   "workday:citi:/job/DLF-CYBERCITY-12B/Campaign-Analytics---AI-Enablement-Specialist_26991705": {
     "uid": "workday:citi:/job/DLF-CYBERCITY-12B/Campaign-Analytics---AI-Enablement-Specialist_26991705",
@@ -678460,11 +678168,11 @@
   "greenhouse:vardaspace:8014571003": {
     "uid": "greenhouse:vardaspace:8014571003",
     "company": "Varda Space",
-    "title": "Automation and Controls Engineer II",
+    "title": "Automation & Controls Engineer II",
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8014571003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T18:21:31-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -683663,7 +683371,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8015228003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -683679,7 +683387,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8015207003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -701055,7 +700763,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8016301003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -710287,7 +709995,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8016952003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -713615,7 +713323,7 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8017264003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-10T14:08:23-04:00",
+    "posted_at": "2026-10-10T17:48:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -729264,6 +728972,38 @@
     ],
     "first_seen": "2026-10-10T19:02:35.376449+00:00",
     "last_seen": "2026-10-10T19:02:35.376449+00:00",
+    "active": true
+  },
+  "oraclecloud:eeho:346903": {
+    "uid": "oraclecloud:eeho:346903",
+    "company": "Oracle",
+    "title": "Site Reliability Engineer 2",
+    "location": "BENGALURU, KARNATAKA, India",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346903",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-06",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-10T22:44:39.273066+00:00",
+    "last_seen": "2026-10-10T22:44:39.273066+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:160028": {
+    "uid": "oraclecloud:ibqbjb:160028",
+    "company": "Honeywell",
+    "title": "Software Engr I- Full Stack ASP.Net",
+    "location": "Pune, Maharashtra, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160028",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-10",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-10T22:44:39.273066+00:00",
+    "last_seen": "2026-10-10T22:44:39.273066+00:00",
     "active": true
   }
 }

@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-10-10T19:02:35.376449+00:00",
-  "count": 34618,
+  "generated_at": "2026-10-10T22:44:39.273066+00:00",
+  "count": 34592,
   "postings": [
+    {
+      "uid": "oraclecloud:eeho:346903",
+      "company": "Oracle",
+      "title": "Site Reliability Engineer 2",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346903",
+      "ats": "oraclecloud",
+      "posted_at": "2026-10-06",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-10T22:44:39.273066+00:00",
+      "last_seen": "2026-10-10T22:44:39.273066+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:ibqbjb:160028",
+      "company": "Honeywell",
+      "title": "Software Engr I- Full Stack ASP.Net",
+      "location": "Pune, Maharashtra, India",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160028",
+      "ats": "oraclecloud",
+      "posted_at": "2026-10-10",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-10T22:44:39.273066+00:00",
+      "last_seen": "2026-10-10T22:44:39.273066+00:00",
+      "active": true
+    },
     {
       "uid": "lever:tryjeeves:271f5a10-439f-4843-9de0-c78a2bd7b88a",
       "company": "Jeeves",
@@ -15127,7 +15159,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8017264003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -18093,7 +18125,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8016952003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -26590,7 +26622,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8016301003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -41428,7 +41460,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8015228003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -41444,7 +41476,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8015207003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -46449,11 +46481,11 @@
     {
       "uid": "greenhouse:vardaspace:8014571003",
       "company": "Varda Space",
-      "title": "Automation and Controls Engineer II",
+      "title": "Automation & Controls Engineer II",
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8014571003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:21:31-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -48885,22 +48917,6 @@
       "ats": "workday",
       "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-06T13:44:59.696249+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:citi:/job/Johannesburg--South-Africa/South-Africa-Learnership-Graduate-Program---Market--South-Africa---Johannesburg--2026_26993885",
-      "company": "Citi",
-      "title": "South Africa Learnership Graduate Program - Market, South Africa - Johannesburg, 2026",
-      "location": "Johannesburg  South Africa",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Johannesburg--South-Africa/South-Africa-Learnership-Graduate-Program---Market--South-Africa---Johannesburg--2026_26993885",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
-      "category": "new-grad",
       "tags": [
         "bank"
       ],
@@ -62386,23 +62402,6 @@
       "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Harrisburg-PA-USA/Field-Service-Engineer_J-00345803-1",
       "ats": "workday",
       "posted_at": "Posted 5 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:asml:/job/Veldhoven-Netherlands/Connectivity-Design-Engineer_J-00351692-1",
-      "company": "ASML",
-      "title": "Connectivity Design Engineer",
-      "location": "Veldhoven, Netherlands",
-      "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Veldhoven-Netherlands/Connectivity-Design-Engineer_J-00351692-1",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
       "tags": [
         "swe",
@@ -140769,24 +140768,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:bbva:/job/28050-MADRID-Madrid/Equity-Derivatives-Flow-Trader_JR00115010",
-      "company": "BBVA",
-      "title": "Equity Derivatives Flow Trader",
-      "location": "28050, MADRID, Madrid",
-      "url": "https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/28050-MADRID-Madrid/Equity-Derivatives-Flow-Trader_JR00115010",
-      "ats": "workday",
-      "posted_at": "Posted 11 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:bbva:/job/BBVA-One-Canada-Square-44th-Floor-Canary-Wharf--London-E14-5AA-UK/FO-EQ-FI-Quantitative-Developer-Analyst_JR00097750",
       "company": "BBVA",
       "title": "FO EQ/FI Quantitative Developer",
@@ -216698,24 +216679,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:ag:/job/Donauwrth/XMLNAME--ET20A-Certification---Qualification-Engineer-Tiger-Programm--d-f-m-_JR10439405",
-      "company": "Airbus",
-      "title": "#ET20A_Certification - Qualification Engineer Tiger Programm (d/f/m)",
-      "location": "Donauwörth",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth/XMLNAME--ET20A-Certification---Qualification-Engineer-Tiger-Programm--d-f-m-_JR10439405",
-      "ats": "workday",
-      "posted_at": "Posted 16 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:ag:/job/Montreal-Area/Professionnel-en-ingnierie--Navigabilit---Engineering-Professional--Airworthiness_JR10414748-1",
       "company": "Airbus",
       "title": "Professionnel en ingénierie, Navigabilité / Engineering Professional, Airworthiness",
@@ -265028,24 +264991,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:dyson:/job/Netherlands---Amsterdam-Office/Intern_JR36762",
-      "company": "Dyson",
-      "title": "Intern (January start date)",
-      "location": "Netherlands - Amsterdam Office",
-      "url": "https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Netherlands---Amsterdam-Office/Intern_JR36762",
-      "ats": "workday",
-      "posted_at": "Posted 11 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:dyson:/job/United-States---Chicago-Office/Reliability-Engineer_JR36678",
       "company": "Dyson",
       "title": "Reliability Engineer",
@@ -266745,42 +266690,6 @@
       "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Indianapolis/Controls-Operations-Engineer_JR6160756",
       "ats": "workday",
       "posted_at": "Posted 12 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:rollsroyce:/job/Dahlewitz/Working-Student---Finance--f-m-d-_JR6160242",
-      "company": "Rolls-Royce",
-      "title": "Working Student - Finance (f/m/d)",
-      "location": "Dahlewitz",
-      "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Dahlewitz/Working-Student---Finance--f-m-d-_JR6160242",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:rollsroyce:/job/Dahlewitz/Masterand--in-Experimental-Measurement-Systems--f-m-d-_JR6160681",
-      "company": "Rolls-Royce",
-      "title": "Masterand/-in Experimental Measurement Systems (f/m/d)",
-      "location": "Dahlewitz",
-      "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Dahlewitz/Masterand--in-Experimental-Measurement-Systems--f-m-d-_JR6160681",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
       "category": "full-time",
       "tags": [
         "swe",
@@ -281596,24 +281505,6 @@
       "ats": "workday",
       "posted_at": "Posted 18 Days Ago",
       "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:abb:/job/Eggelsberg-Oberosterreich-Austria/Logistic-Engineer--f-m-d-_JR00045031",
-      "company": "ABB",
-      "title": "Logistics Engineer / Logistics Planner (m/f/d)",
-      "location": "Eggelsberg, Oberosterreich, Austria",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Eggelsberg-Oberosterreich-Austria/Logistic-Engineer--f-m-d-_JR00045031",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
-      "category": "full-time",
       "tags": [
         "swe",
         "europe"
@@ -304816,7 +304707,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T15:02:43-04:00",
+      "posted_at": "2026-10-10T18:47:39-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -306941,7 +306832,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T15:02:47-04:00",
+      "posted_at": "2026-10-10T18:47:44-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -306992,7 +306883,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T15:02:45-04:00",
+      "posted_at": "2026-10-10T18:47:41-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308624,7 +308515,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010632003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:57:39-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308641,7 +308532,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010108003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -308658,7 +308549,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824780003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:00:20-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308675,7 +308566,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010158003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:00:58-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308692,7 +308583,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8012121003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -308709,7 +308600,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824834003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:05:46-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308726,7 +308617,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7990833003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -308743,7 +308634,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824766003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:01:50-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308760,7 +308651,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8005821003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:02:03-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308777,7 +308668,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824783003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:03:34-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308794,7 +308685,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:04:41-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308811,7 +308702,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:05:20-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308828,7 +308719,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8005846003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:06:30-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308845,7 +308736,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824781003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:06:47-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308862,7 +308753,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7865601003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:07:06-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308879,7 +308770,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6485429003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -308896,7 +308787,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7997888003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -308913,7 +308804,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824821003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:09:14-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308930,7 +308821,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010168003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:09:31-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308947,7 +308838,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010682003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:09:46-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308960,11 +308851,11 @@
     {
       "uid": "greenhouse:vardaspace:7996649003",
       "company": "Varda Space",
-      "title": "Payload Systems Integration and Test Engineer II",
+      "title": "Payload Systems, Integration, & Test Engineer II",
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7996649003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:17:52-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -308981,7 +308872,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824765003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:10:03-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -308998,7 +308889,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010169003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:10:19-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -309015,7 +308906,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8012135003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -309032,7 +308923,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:10:35-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -309049,7 +308940,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8011213003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -309066,7 +308957,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010651003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -309083,7 +308974,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824817003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:11:16-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -309100,7 +308991,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010167003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:11:34-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -309117,7 +309008,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824827003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:11:49-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -309134,7 +309025,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010172003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:12:07-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -309151,7 +309042,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8012031003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T17:48:01-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -309168,7 +309059,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824772003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:12:24-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -309185,7 +309076,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010170003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-10T14:08:23-04:00",
+      "posted_at": "2026-10-10T18:12:48-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -402255,23 +402146,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:nike:/job/Laakdal-Belgium/Nike--Inc-Internship-Procurement_R-94387",
-      "company": "Nike",
-      "title": "Nike, Inc. Internship Procurement",
-      "location": "Laakdal, Belgium",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Laakdal-Belgium/Nike--Inc-Internship-Procurement_R-94387",
-      "ats": "workday",
-      "posted_at": "Posted 10 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:nike:/job/Karnataka-India/Software-Engineer-II--ITC_R-91634",
       "company": "Nike",
       "title": "Software Engineer II, ITC",
@@ -402391,23 +402265,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:nike:/job/Laakdal-Belgium/Nike--Inc-Internship-Supply-Chain-Intelligence_R-92335",
-      "company": "Nike",
-      "title": "Nike, Inc. Internship Data Analytics",
-      "location": "Laakdal, Belgium",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Laakdal-Belgium/Nike--Inc-Internship-Supply-Chain-Intelligence_R-92335",
-      "ats": "workday",
-      "posted_at": "Posted 12 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:nike:/job/Boston-Massachusetts/Converse-Enterprise-Business-Planning-Graduate-Internship_R-92810",
       "company": "Nike",
       "title": "Converse Enterprise Business Planning Graduate Internship",
@@ -402517,210 +402374,6 @@
       "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Hilversum-Netherlands/Human-Resources-Internship_R-92549",
       "ats": "workday",
       "posted_at": "Posted 19 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Laakdal-Belgium/Human-Resources-Internship_R-92548",
-      "company": "Nike",
-      "title": "Human Resources Internship",
-      "location": "Laakdal, Belgium",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Laakdal-Belgium/Human-Resources-Internship_R-92548",
-      "ats": "workday",
-      "posted_at": "Posted 19 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Laakdal-Belgium/Internship-Customs---International-Trade_R-92250-1",
-      "company": "Nike",
-      "title": "Nike, Inc. Customs & International Trade Internship",
-      "location": "Laakdal, Belgium",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Laakdal-Belgium/Internship-Customs---International-Trade_R-92250-1",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Athlete-Service---Training_R-92296",
-      "company": "Nike",
-      "title": "Nike, Inc. Internship Athlete Service & Training",
-      "location": "Hilversum, Netherlands",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Hilversum-Netherlands/Nike--Inc-Internship-Athlete-Service---Training_R-92296",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Business-Planning_R-92276",
-      "company": "Nike",
-      "title": "Nike, Inc. Internship Business Planning",
-      "location": "Hilversum, Netherlands",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Hilversum-Netherlands/Nike--Inc-Internship-Business-Planning_R-92276",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Digital-Commerce_R-92282-1",
-      "company": "Nike",
-      "title": "Nike, Inc. Internship Digital Commerce",
-      "location": "Hilversum, Netherlands",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Hilversum-Netherlands/Nike--Inc-Internship-Digital-Commerce_R-92282-1",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Finance_R-92286-1",
-      "company": "Nike",
-      "title": "Nike, Inc. Internship Finance",
-      "location": "Hilversum, Netherlands",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Hilversum-Netherlands/Nike--Inc-Internship-Finance_R-92286-1",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Jordan_R-92291-1",
-      "company": "Nike",
-      "title": "Nike, Inc. Internship Jordan",
-      "location": "Hilversum, Netherlands",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Hilversum-Netherlands/Nike--Inc-Internship-Jordan_R-92291-1",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Merchandising_R-92289",
-      "company": "Nike",
-      "title": "Nike, Inc. Internship Merchandising",
-      "location": "Hilversum, Netherlands",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Hilversum-Netherlands/Nike--Inc-Internship-Merchandising_R-92289",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Laakdal-Belgium/Nike--Inc-Internship-Sports---Community-Impact_R-92334",
-      "company": "Nike",
-      "title": "Nike, Inc. Internship Sports & Community Impact",
-      "location": "Laakdal, Belgium",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Laakdal-Belgium/Nike--Inc-Internship-Sports---Community-Impact_R-92334",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Hilversum-Netherlands/Nike--Inc-Internship-Supply-Chain---Operations_R-92298-1",
-      "company": "Nike",
-      "title": "Nike, Inc. Internship Supply Chain & Operations",
-      "location": "Hilversum, Netherlands",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Hilversum-Netherlands/Nike--Inc-Internship-Supply-Chain---Operations_R-92298-1",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Laakdal-Belgium/Nike--Inc-Supply-Chain-Internship_R-92290",
-      "company": "Nike",
-      "title": "Nike, Inc. Supply Chain Internship",
-      "location": "Laakdal, Belgium",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Laakdal-Belgium/Nike--Inc-Supply-Chain-Internship_R-92290",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:nike:/job/Hilversum-Netherlands/Nike-Inc-Internship-Product-Design---Creation_R-92275-1",
-      "company": "Nike",
-      "title": "Nike Inc Internship Product Design & Creation",
-      "location": "Hilversum, Netherlands",
-      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Hilversum-Netherlands/Nike-Inc-Internship-Product-Design---Creation_R-92275-1",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
       "category": "internship",
       "tags": [
         "swe"
@@ -403734,13 +403387,13 @@
       "backfill": true
     },
     {
-      "uid": "oraclecloud:eeho:345261",
+      "uid": "oraclecloud:eeho:336526",
       "company": "Oracle",
-      "title": "Site Reliability Engineer 2",
-      "location": "United Kingdom",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345261",
+      "title": "Software Developer 3",
+      "location": "Nashville, TN, United States",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/336526",
       "ats": "oraclecloud",
-      "posted_at": "2026-09-11",
+      "posted_at": "2026-09-09",
       "category": "full-time",
       "tags": [
         "swe"
@@ -404478,74 +404131,6 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "oraclecloud:eeho:336039",
-      "company": "Oracle",
-      "title": "Data Migration Engineer II",
-      "location": "United States",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/336039",
-      "ats": "oraclecloud",
-      "posted_at": "2026-06-05",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T19:02:35.376449+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "oraclecloud:eeho:334352",
-      "company": "Oracle",
-      "title": "NetSuite Customer Success Special Projects Intern - OVIP",
-      "location": "Austin, TX, United States (+2)",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334352",
-      "ats": "oraclecloud",
-      "posted_at": "2026-06-02",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T19:02:35.376449+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "oraclecloud:eeho:334388",
-      "company": "Oracle",
-      "title": "M&D Customer Solutions Analyst Intern - OVIP",
-      "location": "United States",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388",
-      "ats": "oraclecloud",
-      "posted_at": "2026-05-28",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T19:02:35.376449+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "oraclecloud:eeho:334366",
-      "company": "Oracle",
-      "title": "M&D Operations Planning Intern - OVIP",
-      "location": "United States",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334366",
-      "ats": "oraclecloud",
-      "posted_at": "2026-05-28",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-10T19:02:35.376449+00:00",
       "active": true,
       "backfill": true
     },
@@ -507961,22 +507546,6 @@
       "active": true
     },
     {
-      "uid": "eightfold:mlp:755958623825",
-      "company": "Millennium",
-      "title": "WorldQuant Aligned Software Engineer",
-      "location": "New York, New York, United States of America",
-      "url": "https://mlp.eightfold.ai/careers/job/755958623825",
-      "ats": "eightfold",
-      "posted_at": 1788480000,
-      "category": "full-time",
-      "tags": [
-        "quant"
-      ],
-      "first_seen": "2026-09-24T20:35:26.608318+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true
-    },
-    {
       "uid": "jibe:careers.sig.com:11555",
       "company": "SIG (Susquehanna)",
       "title": "Machine Learning Engineering Internship: Summer 2027",
@@ -514614,26 +514183,6 @@
       "category": "full-time",
       "tags": [
         "quant",
-        "europe"
-      ],
-      "first_seen": "2026-09-17T08:46:42.006573+00:00",
-      "last_seen": "2026-10-10T02:29:03.392463+00:00",
-      "active": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:75717",
-      "company": "Deutsche Bank",
-      "title": "AI Program Management Office (PMO) &amp; Resource Management",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=75717",
-      "ats": "beesite",
-      "posted_at": "2026-10-09",
-      "expires_at": "2026-10-10",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
         "europe"
       ],
       "first_seen": "2026-09-17T08:46:42.006573+00:00",
