@@ -6734,23 +6734,6 @@
     "last_seen": "2026-10-05T02:09:25.142598+00:00",
     "active": false
   },
-  "greenhouse:SquarepointCapital:612873": {
-    "uid": "greenhouse:SquarepointCapital:612873",
-    "company": "Squarepoint Capital",
-    "title": "Quant Developer (C++)",
-    "location": "London, Montreal, Singapore, Warsaw, Zug",
-    "url": "https://www.squarepoint-capital.com/open-opportunities?id=612873&gh_jid=612873",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-06T07:00:40-04:00",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "europe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T16:23:02.800616+00:00",
-    "active": false
-  },
   "greenhouse:SquarepointCapital:3277003": {
     "uid": "greenhouse:SquarepointCapital:3277003",
     "company": "Squarepoint Capital",
@@ -17962,7 +17945,7 @@
     "location": "Poland",
     "url": "https://jobs.ashbyhq.com/ElevenLabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5",
     "ats": "ashby",
-    "posted_at": "2024-12-16T16:36:47.785+00:00",
+    "posted_at": "2026-10-11T15:38:27.496+00:00",
     "category": "full-time",
     "tags": [
       "ai",
@@ -17970,8 +17953,8 @@
       "europe"
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-10-09T00:47:09.300657+00:00",
-    "active": false
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
   },
   "ashby:ElevenLabs:8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f": {
     "uid": "ashby:ElevenLabs:8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f",
@@ -20723,22 +20706,6 @@
     "last_seen": "2026-09-09T10:19:09.745968+00:00",
     "active": false
   },
-  "ashby:snowflake:eb704210-4c4a-4ab7-8838-8ba7abd55af3": {
-    "uid": "ashby:snowflake:eb704210-4c4a-4ab7-8838-8ba7abd55af3",
-    "company": "Snowflake",
-    "title": "Software Engineer - Secret, Cryptographic and Identity Infrastructure",
-    "location": "US-WA-Bellevue",
-    "url": "https://jobs.ashbyhq.com/snowflake/eb704210-4c4a-4ab7-8838-8ba7abd55af3",
-    "ats": "ashby",
-    "posted_at": "2026-05-23T15:23:22.219+00:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T17:24:40.423420+00:00",
-    "active": false
-  },
   "ashby:snowflake:3eb872af-0ab1-4986-8f72-e7321fcd1538": {
     "uid": "ashby:snowflake:3eb872af-0ab1-4986-8f72-e7321fcd1538",
     "company": "Snowflake",
@@ -21203,86 +21170,6 @@
     "last_seen": "2026-09-29T20:03:36.934099+00:00",
     "active": false
   },
-  "greenhouse:robinhood:7975507": {
-    "uid": "greenhouse:robinhood:7975507",
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-09T19:02:18-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T18:12:57.276943+00:00",
-    "active": false
-  },
-  "greenhouse:robinhood:7975526": {
-    "uid": "greenhouse:robinhood:7975526",
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975526?t=gh_src=&gh_jid=7975526",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-09T19:02:18-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T18:12:57.276943+00:00",
-    "active": false
-  },
-  "greenhouse:robinhood:7975529": {
-    "uid": "greenhouse:robinhood:7975529",
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975529?t=gh_src=&gh_jid=7975529",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-09T19:02:18-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T18:12:57.276943+00:00",
-    "active": false
-  },
-  "greenhouse:robinhood:7975530": {
-    "uid": "greenhouse:robinhood:7975530",
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-09T19:02:18-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T18:12:57.276943+00:00",
-    "active": false
-  },
-  "greenhouse:robinhood:7975531": {
-    "uid": "greenhouse:robinhood:7975531",
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975531?t=gh_src=&gh_jid=7975531",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-09T19:02:18-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T18:12:57.276943+00:00",
-    "active": false
-  },
   "greenhouse:robinhood:7975549": {
     "uid": "greenhouse:robinhood:7975549",
     "company": "Robinhood",
@@ -21297,54 +21184,6 @@
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-08-12T19:32:58.436121+00:00",
-    "active": false
-  },
-  "greenhouse:robinhood:7975550": {
-    "uid": "greenhouse:robinhood:7975550",
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-09T19:02:18-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T18:12:57.276943+00:00",
-    "active": false
-  },
-  "greenhouse:robinhood:7975557": {
-    "uid": "greenhouse:robinhood:7975557",
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-09T19:02:18-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T18:12:57.276943+00:00",
-    "active": false
-  },
-  "greenhouse:robinhood:7975558": {
-    "uid": "greenhouse:robinhood:7975558",
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975558?t=gh_src=&gh_jid=7975558",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-09T19:02:18-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T18:12:57.276943+00:00",
     "active": false
   },
   "greenhouse:robinhood:7263592": {
@@ -26291,22 +26130,6 @@
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
     "active": true
   },
-  "greenhouse:andurilindustries:5030944007": {
-    "uid": "greenhouse:andurilindustries:5030944007",
-    "company": "Anduril",
-    "title": "Systems Engineer, EW",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5030944007?gh_jid=5030944007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T15:07:56-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T18:12:57.276943+00:00",
-    "active": false
-  },
   "greenhouse:andurilindustries:4866826007": {
     "uid": "greenhouse:andurilindustries:4866826007",
     "company": "Anduril",
@@ -26321,22 +26144,6 @@
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-09-18T01:20:12.506446+00:00",
-    "active": false
-  },
-  "greenhouse:andurilindustries:5157570007": {
-    "uid": "greenhouse:andurilindustries:5157570007",
-    "company": "Anduril",
-    "title": "Systems Engineer, Launched Effects ",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5157570007?gh_jid=5157570007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T15:07:56-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T17:24:40.423420+00:00",
     "active": false
   },
   "greenhouse:andurilindustries:4922336007": {
@@ -61521,23 +61328,6 @@
     "last_seen": "2026-09-01T17:29:41.025478+00:00",
     "active": false
   },
-  "ashby:sierra:119977f8-4e2e-4518-b2ab-2100ec425bda": {
-    "uid": "ashby:sierra:119977f8-4e2e-4518-b2ab-2100ec425bda",
-    "company": "Sierra",
-    "title": "Forward Deployed Infrastructure Engineer",
-    "location": "Tokyo",
-    "url": "https://jobs.ashbyhq.com/sierra/119977f8-4e2e-4518-b2ab-2100ec425bda",
-    "ats": "ashby",
-    "posted_at": "2026-06-29T16:50:36.252+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-29T17:20:55.526390+00:00",
-    "last_seen": "2026-08-12T15:25:56.688329+00:00",
-    "active": false
-  },
   "ashby:Mercor:79fc13c6-5c2a-4b08-bd31-24c091524354": {
     "uid": "ashby:Mercor:79fc13c6-5c2a-4b08-bd31-24c091524354",
     "company": "Mercor",
@@ -74987,23 +74777,6 @@
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
     "active": true
   },
-  "greenhouse:anthropic:5355526008": {
-    "uid": "greenhouse:anthropic:5355526008",
-    "company": "Anthropic",
-    "title": "Finance Systems Engineer, Revenue",
-    "location": "San Francisco, CA | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5355526008",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-03T18:25:22-04:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-07-16T17:54:13.561971+00:00",
-    "last_seen": "2026-08-12T15:25:56.688329+00:00",
-    "active": false
-  },
   "greenhouse:scaleai:4715970005": {
     "uid": "greenhouse:scaleai:4715970005",
     "company": "Scale AI",
@@ -78093,22 +77866,6 @@
     ],
     "first_seen": "2026-07-21T17:57:49.654944+00:00",
     "last_seen": "2026-10-05T02:09:25.142598+00:00",
-    "active": false
-  },
-  "greenhouse:andurilindustries:5191860007": {
-    "uid": "greenhouse:andurilindustries:5191860007",
-    "company": "Anduril",
-    "title": "Software Developer in Test, Air Defense ",
-    "location": "Irvine, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5191860007?gh_jid=5191860007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T15:07:56-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-21T18:34:24.616640+00:00",
-    "last_seen": "2026-08-12T17:24:40.423420+00:00",
     "active": false
   },
   "greenhouse:andurilindustries:5192601007": {
@@ -91519,7 +91276,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:39:04-04:00",
+    "posted_at": "2026-10-11T14:39:11-04:00",
     "category": "new-grad",
     "tags": [
       "gaming"
@@ -91535,7 +91292,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:38:28-04:00",
+    "posted_at": "2026-10-11T14:38:33-04:00",
     "category": "internship",
     "tags": [
       "gaming"
@@ -97197,22 +96954,6 @@
     "last_seen": "2026-08-24T14:09:12.213968+00:00",
     "active": false
   },
-  "ashby:snowflake:654c1b07-0d92-42f5-afaf-f9d1f3d9eb8e": {
-    "uid": "ashby:snowflake:654c1b07-0d92-42f5-afaf-f9d1f3d9eb8e",
-    "company": "Snowflake",
-    "title": "Software Engineer - Cortex Code Agentic System",
-    "location": "US-CA-Menlo Park",
-    "url": "https://jobs.ashbyhq.com/snowflake/654c1b07-0d92-42f5-afaf-f9d1f3d9eb8e",
-    "ats": "ashby",
-    "posted_at": "2026-08-11T03:46:39.951+00:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-11T17:47:58.386005+00:00",
-    "last_seen": "2026-08-12T18:12:57.276943+00:00",
-    "active": false
-  },
   "greenhouse:doordashusa:8122134": {
     "uid": "greenhouse:doordashusa:8122134",
     "company": "DoorDash",
@@ -97291,22 +97032,6 @@
     ],
     "first_seen": "2026-08-11T18:44:36.494514+00:00",
     "last_seen": "2026-08-31T20:27:09.776957+00:00",
-    "active": false
-  },
-  "workday:salesforce:/job/Italy---Milan/Deployment-Strategist--Italian-Speaker_JR348997": {
-    "uid": "workday:salesforce:/job/Italy---Milan/Deployment-Strategist--Italian-Speaker_JR348997",
-    "company": "Salesforce",
-    "title": "Deployment Strategist, Italian Speaker",
-    "location": "Italy - Milan",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Italy---Milan/Deployment-Strategist--Italian-Speaker_JR348997",
-    "ats": "workday",
-    "posted_at": "Posted Today",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-11T18:44:36.494514+00:00",
-    "last_seen": "2026-08-12T16:23:02.800616+00:00",
     "active": false
   },
   "greenhouse:attentive:4363395009": {
@@ -97750,22 +97475,6 @@
     "first_seen": "2026-08-11T22:30:09.403065+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
     "active": true
-  },
-  "workday:salesforce:/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842": {
-    "uid": "workday:salesforce:/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842",
-    "company": "Salesforce",
-    "title": "Software Engineering Intern - Future Pathways",
-    "location": "2 Locations",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842",
-    "ats": "workday",
-    "posted_at": "Posted Yesterday",
-    "category": "internship",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-11T22:30:09.403065+00:00",
-    "last_seen": "2026-08-12T16:23:02.800616+00:00",
-    "active": false
   },
   "jibe:careers.sig.com:11254": {
     "uid": "jibe:careers.sig.com:11254",
@@ -98687,7 +98396,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8097701?gh_jid=8097701",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:37:36-04:00",
+    "posted_at": "2026-10-11T14:37:44-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -100452,7 +100161,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8113334?gh_jid=8113334",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:36:55-04:00",
+    "posted_at": "2026-10-11T14:37:03-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -104192,7 +103901,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:36:17-04:00",
+    "posted_at": "2026-10-11T14:36:17-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -115322,7 +115031,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8115917?gh_jid=8115917",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:37:17-04:00",
+    "posted_at": "2026-10-11T14:37:24-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -117626,7 +117335,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:39:54-04:00",
+    "posted_at": "2026-10-11T14:40:03-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -121993,7 +121702,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8143982?gh_jid=8143982",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:35:46-04:00",
+    "posted_at": "2026-10-11T14:35:47-04:00",
     "category": "new-grad",
     "tags": [
       "gaming"
@@ -122009,7 +121718,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8143984?gh_jid=8143984",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:35:48-04:00",
+    "posted_at": "2026-10-11T14:35:50-04:00",
     "category": "internship",
     "tags": [
       "gaming"
@@ -122025,7 +121734,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:35:43-04:00",
+    "posted_at": "2026-10-11T14:35:44-04:00",
     "category": "internship",
     "tags": [
       "gaming"
@@ -128927,7 +128636,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8171506?gh_jid=8171506",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:35:30-04:00",
+    "posted_at": "2026-10-11T14:35:31-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -145371,7 +145080,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:35:10-04:00",
+    "posted_at": "2026-10-11T14:35:10-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -147802,7 +147511,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8171283?gh_jid=8171283",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:34:45-04:00",
+    "posted_at": "2026-10-11T14:34:41-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -152227,7 +151936,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8226958?gh_jid=8226958",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:32:37-04:00",
+    "posted_at": "2026-10-11T14:32:34-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -172859,7 +172568,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:vanguard:/job/Hyderabad-India/Application-Engineer---II_178295": {
@@ -206402,7 +206111,7 @@
     "location": "5 Locations",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1001301-2",
     "ats": "workday",
-    "posted_at": "Posted 20 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank",
@@ -208940,7 +208649,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:citi:/job/Chennai-Tamil-Nadu-India/Digital-S-W-Eng-Sr-Analyst---C12---CHENNAI_26989552-1": {
@@ -241505,7 +241214,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:juliusbaer:/job/Singapore/Machine-Learning-Engineer_r-18856-1": {
@@ -242063,7 +241772,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:juliusbaer:/job/Singapore/Machine-Learning-Engineer_r-18856-2": {
@@ -268423,7 +268132,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "ashby:etched:f05e3218-5ec7-41d1-bc99-bb7014422229": {
@@ -286711,7 +286420,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "personio:stark:2806357": {
@@ -286963,7 +286672,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "personio:stark:2761886": {
@@ -299828,7 +299537,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:mastercard:/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570": {
@@ -299845,7 +299554,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:mastercard:/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691": {
@@ -299862,7 +299571,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:mastercard:/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689": {
@@ -299879,7 +299588,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:mastercard:/job/Beijing-China/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Beijing--China_R-288685": {
@@ -299896,7 +299605,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:mastercard:/job/Shanghai-China/Customer-Solutions-Center-Intern--Summer-2027---Shanghai--China_R-284634": {
@@ -299913,7 +299622,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:mastercard:/job/Beijing-China/Associate-Consultant-Intern--Summer-2027---Beijing--China_R-287578": {
@@ -299930,7 +299639,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:mastercard:/job/Shanghai-China/Associate-Consultant-Intern--Summer-2027---Shanghai--China_R-287577": {
@@ -299947,7 +299656,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:mastercard:/job/Shanghai-China/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Shanghai--China_R-288304": {
@@ -299964,7 +299673,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:mastercard:/job/Beijing-China/Associate-Consultant--Launch-Graduate-Program-2027---Beijing--China_R-287568": {
@@ -299981,7 +299690,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:mastercard:/job/Shanghai-China/Associate-Consultant--Launch-Graduate-Program-2027---Shanghai--China_R-287567": {
@@ -299998,7 +299707,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:paypal:/job/Central-Singapore-Singapore/Software-Engineer_R0137859": {
@@ -308738,7 +308447,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:fiserv:/job/Chennai-India/Vision-Plus-Developer_R-10386040": {
@@ -317103,7 +316812,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:worldpay:/job/LONDON--UNITED-KINGDOM/DevOps-Engineer_JR0609216": {
@@ -348766,7 +348475,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "smartrecruiters:BoschGroup:744000134928129": {
@@ -387376,7 +387085,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:unilever:/job/Raeford-NC/Process-Engineer_R-1187634": {
@@ -401848,7 +401557,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Ratingen-North-Rhine-Westphalia-Germany/Working-student--m-f-d--in-the-Development-of-Pole-Pieces_JR00046368": {
@@ -402585,8 +402294,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-09T06:55:33.300523+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Rotterdam-South-Holland-Netherlands/Service-Engineer---Diverse-Specialisaties_JR00014988": {
@@ -402603,8 +402312,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-09T06:55:33.300523+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Heidelberg-Baden-Wurttemberg-Germany/Werkstudent--m-w-d--Power-BI---Power-Apps-Implementierung_JR00028623": {
@@ -426302,7 +426011,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T10:18:33-04:00",
+    "posted_at": "2026-10-11T15:02:46-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -428631,7 +428340,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T10:18:38-04:00",
+    "posted_at": "2026-10-11T15:02:50-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -428682,7 +428391,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T10:18:36-04:00",
+    "posted_at": "2026-10-11T15:02:48-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -441983,7 +441692,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715615006?gh_jid=4715615006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442000,7 +441709,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694836006?gh_jid=4694836006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442017,7 +441726,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4714389006?gh_jid=4714389006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442034,7 +441743,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4712537006?gh_jid=4712537006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442051,7 +441760,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4708985006?gh_jid=4708985006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442068,7 +441777,7 @@
     "location": "Hawthorne, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4645847006?gh_jid=4645847006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442085,7 +441794,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4716542006?gh_jid=4716542006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442102,7 +441811,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4705164006?gh_jid=4705164006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442119,7 +441828,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4699081006?gh_jid=4699081006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442136,7 +441845,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4677103006?gh_jid=4677103006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442153,7 +441862,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4678064006?gh_jid=4678064006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442170,7 +441879,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4692655006?gh_jid=4692655006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442187,7 +441896,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4650839006?gh_jid=4650839006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442204,7 +441913,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4671178006?gh_jid=4671178006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442221,7 +441930,7 @@
     "location": "Hawthorne, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4713728006?gh_jid=4713728006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442238,7 +441947,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4675987006?gh_jid=4675987006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442255,7 +441964,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4593948006?gh_jid=4593948006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442272,7 +441981,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4675984006?gh_jid=4675984006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442289,7 +441998,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4627542006?gh_jid=4627542006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442306,7 +442015,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4713874006?gh_jid=4713874006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442323,7 +442032,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4712934006?gh_jid=4712934006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T13:13:01-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442340,7 +442049,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4698894006?gh_jid=4698894006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442357,7 +442066,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4661962006?gh_jid=4661962006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442374,7 +442083,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694841006?gh_jid=4694841006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442391,7 +442100,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4710097006?gh_jid=4710097006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442408,7 +442117,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4696280006?gh_jid=4696280006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442425,7 +442134,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4603872006?gh_jid=4603872006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442442,7 +442151,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4696727006?gh_jid=4696727006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442459,7 +442168,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4644361006?gh_jid=4644361006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442476,7 +442185,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4709600006?gh_jid=4709600006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442493,7 +442202,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715944006?gh_jid=4715944006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442510,7 +442219,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4648790006?gh_jid=4648790006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442527,7 +442236,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715744006?gh_jid=4715744006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442544,7 +442253,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694833006?gh_jid=4694833006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442578,7 +442287,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715639006?gh_jid=4715639006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442595,7 +442304,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4701302006?gh_jid=4701302006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442612,7 +442321,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4686356006?gh_jid=4686356006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442629,7 +442338,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4703949006?gh_jid=4703949006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442646,7 +442355,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4702107006?gh_jid=4702107006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T12:17:33-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442663,7 +442372,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4603909006?gh_jid=4603909006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442680,7 +442389,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694835006?gh_jid=4694835006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442697,7 +442406,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4602753006?gh_jid=4602753006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442714,7 +442423,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4692866006?gh_jid=4692866006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442731,7 +442440,7 @@
     "location": "Hawthorne, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4645849006?gh_jid=4645849006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -521465,7 +521174,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:intel:/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer---TD-Defect-Metrology_JR0287379": {
@@ -524790,7 +524499,7 @@
     "location": "Israel, Haifa",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Experienced-Security-Software-development-Engineer_JR0284478",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -538652,7 +538361,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:346274": {
@@ -539859,7 +539568,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:339707": {
@@ -539876,7 +539585,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:340135": {
@@ -539893,7 +539602,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:340136": {
@@ -539910,7 +539619,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:336129": {
@@ -539927,7 +539636,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:336300": {
@@ -540096,8 +539805,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-10T19:02:35.376449+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:334388": {
@@ -540113,8 +539822,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-10T19:02:35.376449+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:334366": {
@@ -540130,8 +539839,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-10T19:02:35.376449+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:334371": {
@@ -540147,8 +539856,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-07T02:31:15.215999+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:334396": {
@@ -540164,8 +539873,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-07T02:31:15.215999+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:334333": {
@@ -540198,8 +539907,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-07T02:31:15.215999+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:334390": {
@@ -549668,7 +549377,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:edbz:25017908": {
@@ -588615,7 +588324,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Fab-10A-Singapore/Engineer--HIG-HBM-Product-System---Engineering--Media-Health-Reliability-Coding-_JR93968": {
@@ -588632,7 +588341,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/MSB-Singapore/Firmware-Engineer_JR87157": {
@@ -588649,7 +588358,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Boise-ID---Main-Site/Dry-Etch-Process-Development-Engineer_JR89663": {
@@ -588666,7 +588375,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Taichung---Fab-16-Taiwan/Central-Planning-Modeling-Engineer_JR89305": {
@@ -588683,7 +588392,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Boise-ID---Main-Site/Equipment-Engineer---Yield-Technology_JR93484": {
@@ -588700,7 +588409,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Boise-ID---Main-Site/Realtime-Defect-Analysis-Engineer_JR93472": {
@@ -588717,7 +588426,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Fab-10A-Singapore/Engineer--Advanced-Package-Metrology-Real-Time-Defect-Analysis--MRDA-_JR90110": {
@@ -588734,7 +588443,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Fab-10NX-Singapore/ENGINEER--F10-SPM-PMO_JR91810": {
@@ -588751,7 +588460,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Taoyuan---Fab-11-Taiwan/SOFTWARE-DEVELOPMENT-ENGINEER--Taoyuan-_JR84244": {
@@ -588768,7 +588477,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Fab-10NX-Singapore/Engineer--Strategic-Program-Management-Office--Workforce-Development_JR90524": {
@@ -588785,7 +588494,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Hiroshima---Fab-15-Japan/Environmental-Engineer--EHS_JR90156": {
@@ -606482,7 +606191,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T07:25:47.333839+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/HiroshimaJPN/EPI-Customer-Engineer-II_R2610086": {
@@ -627867,7 +627576,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "jibe:careers.garmin.com:19622": {
@@ -632304,7 +632013,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:genpact:/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Engineer---Infrastructure-Services-N-4A_JR10023374-1": {
@@ -637183,7 +636892,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:lowes:/job/Lowes-Charlotte-Technology-Hub-3505/Data-Scientist---Launchpad_JR-02641574": {
@@ -638679,7 +638388,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "lever:mobileye:7837f11d-f347-40ff-b5c7-6e296be994fb": {
@@ -648690,7 +648399,7 @@
     ],
     "first_seen": "2026-10-05T09:17:11.218071+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:vanguard:/job/Hyderabad-India/Application-Engineer---III_179112": {
     "uid": "workday:vanguard:/job/Hyderabad-India/Application-Engineer---III_179112",
@@ -648990,7 +648699,7 @@
     ],
     "first_seen": "2026-10-05T09:17:11.218071+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:citi:/job/Bangaluru-Karnataka-India/Generative-AI-Data-Quality-Engineer_26994236": {
     "uid": "workday:citi:/job/Bangaluru-Karnataka-India/Generative-AI-Data-Quality-Engineer_26994236",
@@ -650276,7 +649985,7 @@
     ],
     "first_seen": "2026-10-05T09:17:11.218071+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:roche:/job/Hyderabad/Regulatory-AI-and-Content-Specialist_202609-123378": {
     "uid": "workday:roche:/job/Hyderabad/Regulatory-AI-and-Content-Specialist_202609-123378",
@@ -652806,7 +652515,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:vanguard:/job/Hyderabad-India/Data-Engineer--Specialist_178342": {
     "uid": "workday:vanguard:/job/Hyderabad-India/Data-Engineer--Specialist_178342",
@@ -653036,7 +652745,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "beesite:api-deutschebank.beesite.de:74082": {
     "uid": "beesite:api-deutschebank.beesite.de:74082",
@@ -653658,7 +653367,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:citi:/job/London--United-Kingdom/ETF-Quant-Trader_261000058": {
     "uid": "workday:citi:/job/London--United-Kingdom/ETF-Quant-Trader_261000058",
@@ -655607,7 +655316,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:fiserv:/job/Bengaluru---GS-India/Professional--Client-Tech-Support-Engineering_R-10401436": {
     "uid": "workday:fiserv:/job/Bengaluru---GS-India/Professional--Client-Tech-Support-Engineering_R-10401436",
@@ -663844,7 +663553,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4704323006?gh_jid=4704323006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -669693,7 +669402,7 @@
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:spgi:/job/Gurugram-Haryana/AI-Enablement-Specialist_331993-1": {
     "uid": "workday:spgi:/job/Gurugram-Haryana/AI-Enablement-Specialist_331993-1",
@@ -670871,7 +670580,7 @@
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:isaraerospace:4998641101": {
     "uid": "greenhouse:isaraerospace:4998641101",
@@ -674977,7 +674686,7 @@
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "smartrecruiters:swiggy:6000000001465549": {
     "uid": "smartrecruiters:swiggy:6000000001465549",
@@ -675187,7 +674896,7 @@
     ],
     "first_seen": "2026-10-06T19:12:11.269095+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:vanguard:/job/Malvern-PA/Content-Management-Strategist_182968-1": {
     "uid": "workday:vanguard:/job/Malvern-PA/Content-Management-Strategist_182968-1",
@@ -675994,7 +675703,7 @@
     ],
     "first_seen": "2026-10-06T19:12:11.269095+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:shell:/job/Texas---Houston---One-Thousand-Main/Trader-Intelligence-Engineer_R212216": {
     "uid": "workday:shell:/job/Texas---Houston---One-Thousand-Main/Trader-Intelligence-Engineer_R212216",
@@ -677215,7 +676924,7 @@
     ],
     "first_seen": "2026-10-06T19:12:11.269095+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:philips:/job/Gainesville-Florida-United-States/Service-Quality-Engineer_592009-1": {
     "uid": "workday:philips:/job/Gainesville-Florida-United-States/Service-Quality-Engineer_592009-1",
@@ -679608,7 +679317,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8229705?gh_jid=8229705",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:32:28-04:00",
+    "posted_at": "2026-10-11T14:32:24-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -682999,7 +682708,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4719613006?gh_jid=4719613006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -686012,7 +685721,7 @@
     ],
     "first_seen": "2026-10-07T09:29:19.869746+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/PWI-Customer-Assurance-SW-Engineer_3168798-2": {
     "uid": "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/PWI-Customer-Assurance-SW-Engineer_3168798-2",
@@ -686508,7 +686217,7 @@
     ],
     "first_seen": "2026-10-07T09:29:19.869746+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:micron:/job/Taichung---Fab-16-Taiwan/FY27-Hiring--ADT-PHOTO-ENGINEER_JR113093": {
     "uid": "workday:micron:/job/Taichung---Fab-16-Taiwan/FY27-Hiring--ADT-PHOTO-ENGINEER_JR113093",
@@ -691078,7 +690787,7 @@
     ],
     "first_seen": "2026-10-07T21:41:16.789453+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:n26:8261383": {
     "uid": "greenhouse:n26:8261383",
@@ -691095,7 +690804,7 @@
     ],
     "first_seen": "2026-10-07T21:41:16.789453+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:traderepublicbank:6322003003": {
     "uid": "greenhouse:traderepublicbank:6322003003",
@@ -698237,7 +697946,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4719831006?gh_jid=4719831006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T00:24:09-04:00",
+    "posted_at": "2026-10-11T14:48:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -698838,7 +698547,7 @@
     ],
     "first_seen": "2026-10-08T07:38:59.690824+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "beesite:api-deutschebank.beesite.de:76088": {
     "uid": "beesite:api-deutschebank.beesite.de:76088",
@@ -701406,7 +701115,7 @@
     ],
     "first_seen": "2026-10-08T07:38:59.690824+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:dxctechnology:/job/MYS---PETALING-JAYA/Cloud-and-IT-Operation-Intern--2026-Intake-_51580572": {
     "uid": "workday:dxctechnology:/job/MYS---PETALING-JAYA/Cloud-and-IT-Operation-Intern--2026-Intake-_51580572",
@@ -708916,7 +708625,7 @@
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "ashby:iceye:70f4bfc4-d4f9-46b0-a556-f82c710d6100": {
     "uid": "ashby:iceye:70f4bfc4-d4f9-46b0-a556-f82c710d6100",
@@ -711561,7 +711270,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:31:50-04:00",
+    "posted_at": "2026-10-11T14:31:44-04:00",
     "category": "internship",
     "tags": [
       "gaming"
@@ -711577,7 +711286,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8242619?gh_jid=8242619",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:31:47-04:00",
+    "posted_at": "2026-10-11T14:31:41-04:00",
     "category": "internship",
     "tags": [
       "gaming"
@@ -711593,7 +711302,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8159854?gh_jid=8159854",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:35:32-04:00",
+    "posted_at": "2026-10-11T14:35:33-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -713528,7 +713237,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8159857?gh_jid=8159857",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:35:34-04:00",
+    "posted_at": "2026-10-11T14:35:35-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -715061,7 +714770,7 @@
     ],
     "first_seen": "2026-10-09T06:55:33.300523+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:hp:/job/Bengaluru-Karnataka-India/Software-Systems-Engineer-1_3168941-1": {
     "uid": "workday:hp:/job/Bengaluru-Karnataka-India/Software-Systems-Engineer-1_3168941-1",
@@ -716118,7 +715827,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:barclays:/job/Pune-Gera-Commerzone-SEZ/Cloud-Data-Engineer_JR-0000128770": {
     "uid": "workday:barclays:/job/Pune-Gera-Commerzone-SEZ/Cloud-Data-Engineer_JR-0000128770",
@@ -716135,7 +715844,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:barclays:/job/Pune-Gera-Commerzone-SEZ/Senior-Analyst_JR-0000116140": {
     "uid": "workday:barclays:/job/Pune-Gera-Commerzone-SEZ/Senior-Analyst_JR-0000116140",
@@ -716316,7 +716025,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/IOS-Developer_26995279": {
     "uid": "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/IOS-Developer_26995279",
@@ -717377,7 +717086,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:fiserv:/job/Pune---Trion-Business-Park-India/Associate--Client-Tech-Support-Engineering_R-10401487": {
     "uid": "workday:fiserv:/job/Pune---Trion-Business-Park-India/Associate--Client-Tech-Support-Engineering_R-10401487",
@@ -717393,7 +717102,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:murex:/job/Paris/XMLNAME-3A---Internship---AI-Lab---alignement-des-donnes-pst-transaction_JR103093": {
     "uid": "workday:murex:/job/Paris/XMLNAME-3A---Internship---AI-Lab---alignement-des-donnes-pst-transaction_JR103093",
@@ -719010,7 +718719,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:zalando:/job/Helsinki/Backend-Engineer---Java-Scale--all-genders-_2725490": {
     "uid": "workday:zalando:/job/Helsinki/Backend-Engineer---Java-Scale--all-genders-_2725490",
@@ -720218,7 +719927,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:generalmotors:/job/Shanghai-China/Studio-Engineering---Design-Project---Program-Management_JR-202622107": {
     "uid": "workday:generalmotors:/job/Shanghai-China/Studio-Engineering---Design-Project---Program-Management_JR-202622107",
@@ -720922,7 +720631,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:tencent:/job/Singapore-CapitaSky/Coding-Agent-Research-Intern_R108212": {
     "uid": "workday:tencent:/job/Singapore-CapitaSky/Coding-Agent-Research-Intern_R108212",
@@ -727158,7 +726867,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8262223?gh_jid=8262223",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:30:53-04:00",
+    "posted_at": "2026-10-11T14:30:44-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -728064,7 +727773,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8209006?gh_jid=8209006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T02:33:38-04:00",
+    "posted_at": "2026-10-11T14:33:31-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -728504,7 +728213,7 @@
     ],
     "first_seen": "2026-10-10T19:02:35.376449+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:eeho:346903": {
     "uid": "oraclecloud:eeho:346903",
@@ -729005,6 +728714,907 @@
     ],
     "first_seen": "2026-10-11T14:15:23.526152+00:00",
     "last_seen": "2026-10-11T14:15:23.526152+00:00",
+    "active": true
+  },
+  "ashby:legora:572044a8-d0c4-42b4-97d3-bde7cb5599d6": {
+    "uid": "ashby:legora:572044a8-d0c4-42b4-97d3-bde7cb5599d6",
+    "company": "Legora",
+    "title": "Junior/Mid-level Forward Deployed Engineer",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/legora/572044a8-d0c4-42b4-97d3-bde7cb5599d6",
+    "ats": "ashby",
+    "posted_at": "2026-10-11T16:38:37.571+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:nxp:/job/Tianjin-Teda/Mixed-Signal-Design-Engineer_R-10066810": {
+    "uid": "workday:nxp:/job/Tianjin-Teda/Mixed-Signal-Design-Engineer_R-10066810",
+    "company": "NXP",
+    "title": "Mixed Signal Design Engineer",
+    "location": "Tianjin (Teda)",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Tianjin-Teda/Mixed-Signal-Design-Engineer_R-10066810",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:nxp:/job/Tianjin-Teda/SoC-Design-Engineer_R-10066811": {
+    "uid": "workday:nxp:/job/Tianjin-Teda/SoC-Design-Engineer_R-10066811",
+    "company": "NXP",
+    "title": "SoC Design Engineer",
+    "location": "Tianjin (Teda)",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Tianjin-Teda/SoC-Design-Engineer_R-10066811",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:philips:/job/Haifa/Service-Systems-Engineer_592896-1": {
+    "uid": "workday:philips:/job/Haifa/Service-Systems-Engineer_592896-1",
+    "company": "Philips",
+    "title": "Service Systems Engineer",
+    "location": "Haifa",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Haifa/Service-Systems-Engineer_592896-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "greenhouse:andurilindustries:5166903007": {
+    "uid": "greenhouse:andurilindustries:5166903007",
+    "company": "Anduril",
+    "title": "Modeling and Simulation Engineer, Maritime Production",
+    "location": "Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166903007?gh_jid=5166903007",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-11T13:54:39-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Milpitas-California-US/Software-Development-Test-Engineer--Hybrid--Milpitas--CA_2026350-1": {
+    "uid": "workday:cisco:/job/Milpitas-California-US/Software-Development-Test-Engineer--Hybrid--Milpitas--CA_2026350-1",
+    "company": "Cisco",
+    "title": "Software Development Test Engineer, Hybrid, Milpitas, CA",
+    "location": "Milpitas, California, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Software-Development-Test-Engineer--Hybrid--Milpitas--CA_2026350-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Minato-Japan/Solutions-Engineer_2023218-1": {
+    "uid": "workday:cisco:/job/Minato-Japan/Solutions-Engineer_2023218-1",
+    "company": "Cisco",
+    "title": "Solutions Engineer",
+    "location": "Minato, Japan",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Minato-Japan/Solutions-Engineer_2023218-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Feltham-United-Kingdom/Consulting-Engineer_2025400-1": {
+    "uid": "workday:cisco:/job/Feltham-United-Kingdom/Consulting-Engineer_2025400-1",
+    "company": "Cisco",
+    "title": "Consulting Engineer",
+    "location": "2 Locations",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Feltham-United-Kingdom/Consulting-Engineer_2025400-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:hpe:/job/Santiago-Region-Metropolitana-de-Santiago-Chile/Intern---Bachelors-Tech_1212993": {
+    "uid": "workday:hpe:/job/Santiago-Region-Metropolitana-de-Santiago-Chile/Intern---Bachelors-Tech_1212993",
+    "company": "HPE",
+    "title": "Intern - Bachelors Tech",
+    "location": "Santiago, Region Metropolitana de Santiago, Chile",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Santiago-Region-Metropolitana-de-Santiago-Chile/Intern---Bachelors-Tech_1212993",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Photolithography-Engineer_JR114481": {
+    "uid": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Photolithography-Engineer_JR114481",
+    "company": "Micron",
+    "title": "Photolithography Engineer",
+    "location": "Hyderabad - Phoenix Aquila, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Photolithography-Engineer_JR114481",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---Fab-16-Taiwan/ADT-Wet-Process-Engineer_JR113081": {
+    "uid": "workday:micron:/job/Taichung---Fab-16-Taiwan/ADT-Wet-Process-Engineer_JR113081",
+    "company": "Micron",
+    "title": "ADT Wet Process Engineer",
+    "location": "Taichung - Fab 16, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---Fab-16-Taiwan/ADT-Wet-Process-Engineer_JR113081",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-MRDA-PROCESS_JR113691": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-MRDA-PROCESS_JR113691",
+    "company": "Micron",
+    "title": "ENGINEER, MTB MRDA PROCESS",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/ENGINEER--MTB-MRDA-PROCESS_JR113691",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113831": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113831",
+    "company": "Micron",
+    "title": "ENGINEER, MTB PI",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113831",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113832": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113832",
+    "company": "Micron",
+    "title": "ENGINEER, MTB PI",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113832",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113834": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113834",
+    "company": "Micron",
+    "title": "ENGINEER, MTB PI",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113834",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PWF-WET-PE_JR113810": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PWF-WET-PE_JR113810",
+    "company": "Micron",
+    "title": "ENGINEER, MTB PWF WET PE",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PWF-WET-PE_JR113810",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PWF-WET-PE_JR113813": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PWF-WET-PE_JR113813",
+    "company": "Micron",
+    "title": "ENGINEER, MTB PWF WET PE",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PWF-WET-PE_JR113813",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PWF-WET-PE_JR113818": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PWF-WET-PE_JR113818",
+    "company": "Micron",
+    "title": "ENGINEER, MTB PWF WET PE",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PWF-WET-PE_JR113818",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer---PDE-IOT-Engineer_JR109612": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer---PDE-IOT-Engineer_JR109612",
+    "company": "Micron",
+    "title": "Engineer - PDE IOT Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer---PDE-IOT-Engineer_JR109612",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--HBM-MRDA-EQUIPMENT_JR113751": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--HBM-MRDA-EQUIPMENT_JR113751",
+    "company": "Micron",
+    "title": "Engineer, HBM MRDA EQUIPMENT",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--HBM-MRDA-EQUIPMENT_JR113751",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--HBM-MRDA-EQUIPMENT_JR113754": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--HBM-MRDA-EQUIPMENT_JR113754",
+    "company": "Micron",
+    "title": "Engineer, HBM MRDA EQUIPMENT",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--HBM-MRDA-EQUIPMENT_JR113754",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-CVD-PVD-EQ_JR113663": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-CVD-PVD-EQ_JR113663",
+    "company": "Micron",
+    "title": "Engineer, MTB PWF CVD/PVD EQ",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-CVD-PVD-EQ_JR113663",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-CVD-PVD-EQ_JR113667": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-CVD-PVD-EQ_JR113667",
+    "company": "Micron",
+    "title": "Engineer, MTB PWF CVD/PVD EQ",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-CVD-PVD-EQ_JR113667",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-CVD-PVD-PE_JR113694": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-CVD-PVD-PE_JR113694",
+    "company": "Micron",
+    "title": "Engineer, MTB PWF CVD/PVD PE",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-CVD-PVD-PE_JR113694",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-DRY-ETCH-EQ_JR113997": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-DRY-ETCH-EQ_JR113997",
+    "company": "Micron",
+    "title": "Engineer, MTB PWF DRY ETCH EQ",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-DRY-ETCH-EQ_JR113997",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-DRY-ETCH-EQ_JR113998": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-DRY-ETCH-EQ_JR113998",
+    "company": "Micron",
+    "title": "Engineer, MTB PWF DRY ETCH EQ",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-DRY-ETCH-EQ_JR113998",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-DRY-ETCH-PE_JR113996": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-DRY-ETCH-PE_JR113996",
+    "company": "Micron",
+    "title": "Engineer, MTB PWF DRY ETCH PE",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-DRY-ETCH-PE_JR113996",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-PLATING-EQ_JR113811": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-PLATING-EQ_JR113811",
+    "company": "Micron",
+    "title": "Engineer, MTB PWF PLATING EQ",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-PLATING-EQ_JR113811",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-EQ_JR113984": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-EQ_JR113984",
+    "company": "Micron",
+    "title": "Engineer, MTB PWF THINNING EQ",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-EQ_JR113984",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-EQ_JR113991": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-EQ_JR113991",
+    "company": "Micron",
+    "title": "Engineer, MTB PWF THINNING EQ",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-EQ_JR113991",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-PE_JR113994-1": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-PE_JR113994-1",
+    "company": "Micron",
+    "title": "Engineer, MTB PWF THINNING PE",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-PE_JR113994-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-PE_JR113995": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-PE_JR113995",
+    "company": "Micron",
+    "title": "Engineer, MTB PWF THINNING PE",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PWF-THINNING-PE_JR113995",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Facility-engineer_JR113851": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Facility-engineer_JR113851",
+    "company": "Micron",
+    "title": "Facility engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Facility-engineer_JR113851",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Facility-engineer_JR113858": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Facility-engineer_JR113858",
+    "company": "Micron",
+    "title": "Facility engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Facility-engineer_JR113858",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Facility-engineer_JR113861": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Facility-engineer_JR113861",
+    "company": "Micron",
+    "title": "Facility engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Facility-engineer_JR113861",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/HBM-Advanced-Package-Process---Equipment-Engineer_JR113695": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-Advanced-Package-Process---Equipment-Engineer_JR113695",
+    "company": "Micron",
+    "title": "HBM Advanced Package Process / Equipment Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-Advanced-Package-Process---Equipment-Engineer_JR113695",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/HBM-Bond-Equipment-Engineer_JR113700": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-Bond-Equipment-Engineer_JR113700",
+    "company": "Micron",
+    "title": "HBM Bond Equipment Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-Bond-Equipment-Engineer_JR113700",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/HBM-Bond-Equipment-Engineer_JR113701": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-Bond-Equipment-Engineer_JR113701",
+    "company": "Micron",
+    "title": "HBM Bond Equipment Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-Bond-Equipment-Engineer_JR113701",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/HBM-Bond-Process-Engineer_JR113699": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-Bond-Process-Engineer_JR113699",
+    "company": "Micron",
+    "title": "HBM Bond Process Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-Bond-Process-Engineer_JR113699",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/HBM-De-Bond-Equipment-Engineer_JR113702": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-De-Bond-Equipment-Engineer_JR113702",
+    "company": "Micron",
+    "title": "HBM De Bond Equipment Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-De-Bond-Equipment-Engineer_JR113702",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/HBM-PHOTO-Equipment-Engineer_JR113703": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-PHOTO-Equipment-Engineer_JR113703",
+    "company": "Micron",
+    "title": "HBM PHOTO Equipment Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-PHOTO-Equipment-Engineer_JR113703",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/HBM-PHOTO-Equipment-Engineer_JR113707": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-PHOTO-Equipment-Engineer_JR113707",
+    "company": "Micron",
+    "title": "HBM PHOTO Equipment Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-PHOTO-Equipment-Engineer_JR113707",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/HBM-PHOTO-Process-Engineer_JR113708": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-PHOTO-Process-Engineer_JR113708",
+    "company": "Micron",
+    "title": "HBM PHOTO Process Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-PHOTO-Process-Engineer_JR113708",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/HBM-Process-Engineer_JR113664": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-Process-Engineer_JR113664",
+    "company": "Micron",
+    "title": "HBM Process Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-Process-Engineer_JR113664",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/MRDA-Application-Engineer_JR113833": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/MRDA-Application-Engineer_JR113833",
+    "company": "Micron",
+    "title": "MRDA Application Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/MRDA-Application-Engineer_JR113833",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/MRDA-Application-Engineer_JR113843": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/MRDA-Application-Engineer_JR113843",
+    "company": "Micron",
+    "title": "MRDA Application Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/MRDA-Application-Engineer_JR113843",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/MRDA-Application-Engineer_JR113845-1": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/MRDA-Application-Engineer_JR113845-1",
+    "company": "Micron",
+    "title": "MRDA Application Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/MRDA-Application-Engineer_JR113845-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/MTB-Defect-Insight-Engineer_JR113698": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/MTB-Defect-Insight-Engineer_JR113698",
+    "company": "Micron",
+    "title": "MTB Defect Insight Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/MTB-Defect-Insight-Engineer_JR113698",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/MTB-PWF-MRDA-EQUIPMENT-ENGINEER_JR113750": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/MTB-PWF-MRDA-EQUIPMENT-ENGINEER_JR113750",
+    "company": "Micron",
+    "title": "MTB PWF MRDA EQUIPMENT ENGINEER",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/MTB-PWF-MRDA-EQUIPMENT-ENGINEER_JR113750",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/NEW-PRODUCT-MANAGEMENT-PLM-ENGINEER_JR113734": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/NEW-PRODUCT-MANAGEMENT-PLM-ENGINEER_JR113734",
+    "company": "Micron",
+    "title": "NEW PRODUCT MANAGEMENT PLM ENGINEER",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/NEW-PRODUCT-MANAGEMENT-PLM-ENGINEER_JR113734",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---Fab-16-Taiwan/PI-ENGINEER_JR113814": {
+    "uid": "workday:micron:/job/Taichung---Fab-16-Taiwan/PI-ENGINEER_JR113814",
+    "company": "Micron",
+    "title": "PI ENGINEER",
+    "location": "Taichung - Fab 16, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---Fab-16-Taiwan/PI-ENGINEER_JR113814",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taoyuan---Fab-11-Taiwan/PMO-Taiwan-Business-Operation----Office-Layout-Planning-Engineer_JR111850": {
+    "uid": "workday:micron:/job/Taoyuan---Fab-11-Taiwan/PMO-Taiwan-Business-Operation----Office-Layout-Planning-Engineer_JR111850",
+    "company": "Micron",
+    "title": "PMO Taiwan Business Operation  - Office Layout Planning Engineer",
+    "location": "3 Locations",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taoyuan---Fab-11-Taiwan/PMO-Taiwan-Business-Operation----Office-Layout-Planning-Engineer_JR111850",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "greenhouse:coupang:8258122": {
+    "uid": "greenhouse:coupang:8258122",
+    "company": "Coupang",
+    "title": "[쿠팡] 시니어 콘텐츠 에디터 (AI 콘텐츠 제작 경험 우대)",
+    "location": "Seoul, South Korea",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8258122",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-11T11:24:55-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "greenhouse:coupang:8248619": {
+    "uid": "greenhouse:coupang:8248619",
+    "company": "Coupang",
+    "title": "[쿠팡] 리테일 운영기획 매니저 (프로세스 개선 및 AI 활용)",
+    "location": "Seoul, South Korea",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8248619",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-11T12:22:43-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ116359": {
+    "uid": "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ116359",
+    "company": "BP",
+    "title": "Enterprise Technology Engineer",
+    "location": "India - Pune",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/India---Pune/Software-Engineer_RQ116359",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ116244": {
+    "uid": "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ116244",
+    "company": "BP",
+    "title": "Software Engineer",
+    "location": "India - Pune",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/India---Pune/Software-Engineer_RQ116244",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T19:03:13.873308+00:00",
+    "last_seen": "2026-10-11T19:03:13.873308+00:00",
     "active": true
   }
 }
