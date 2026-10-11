@@ -13392,7 +13392,7 @@
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "ashby:openai:9bb10253-dd50-41a2-a56e-c9204c32d235": {
     "uid": "ashby:openai:9bb10253-dd50-41a2-a56e-c9204c32d235",
@@ -17508,23 +17508,6 @@
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
     "active": true
   },
-  "greenhouse:scaleai:4663053005": {
-    "uid": "greenhouse:scaleai:4663053005",
-    "company": "Scale AI",
-    "title": "ML Systems Engineer, Robotics",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4663053005",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-04T01:04:49-04:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T19:32:58.436121+00:00",
-    "active": false
-  },
   "greenhouse:scaleai:4675684005": {
     "uid": "greenhouse:scaleai:4675684005",
     "company": "Scale AI",
@@ -21168,22 +21151,6 @@
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-09-29T20:03:36.934099+00:00",
-    "active": false
-  },
-  "greenhouse:robinhood:7975549": {
-    "uid": "greenhouse:robinhood:7975549",
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975549?t=gh_src=&gh_jid=7975549",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-09T19:02:18-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T19:32:58.436121+00:00",
     "active": false
   },
   "greenhouse:robinhood:7263592": {
@@ -27872,7 +27839,7 @@
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:nvidia:/job/Taiwan-Hsinchu/Physical-Design-Methodology-Engineer_JR2018271": {
     "uid": "workday:nvidia:/job/Taiwan-Hsinchu/Physical-Design-Methodology-Engineer_JR2018271",
@@ -28289,22 +28256,6 @@
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
     "active": true
-  },
-  "workday:nvidia:/job/Singapore-Singapore-Suntec-Tower/Research-Scientist_JR2017529": {
-    "uid": "workday:nvidia:/job/Singapore-Singapore-Suntec-Tower/Research-Scientist_JR2017529",
-    "company": "NVIDIA",
-    "title": "Research Scientist",
-    "location": "2 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Research-Scientist_JR2017529",
-    "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-12T21:33:13.982822+00:00",
-    "active": false
   },
   "workday:nvidia:/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1": {
     "uid": "workday:nvidia:/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1",
@@ -39528,23 +39479,6 @@
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
     "active": true
   },
-  "greenhouse:togetherai:5157380007": {
-    "uid": "greenhouse:togetherai:5157380007",
-    "company": "Together AI",
-    "title": "Frontier Agents Intern (Fall 2026)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5157380007",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-10T19:42:36-04:00",
-    "category": "internship",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-12T17:47:10.139112+00:00",
-    "last_seen": "2026-08-12T22:28:50.333136+00:00",
-    "active": false
-  },
   "greenhouse:togetherai:5157559007": {
     "uid": "greenhouse:togetherai:5157559007",
     "company": "Together AI",
@@ -42518,22 +42452,6 @@
     "first_seen": "2026-06-16T00:52:30.972227+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
     "active": true
-  },
-  "greenhouse:block:5214701008": {
-    "uid": "greenhouse:block:5214701008",
-    "company": "Block",
-    "title": "Security Engineer, Detection & Response - Monitoring & Triage",
-    "location": "Melbourne, Australia",
-    "url": "http://block.xyz/careers/jobs/5214701008?gh_jid=5214701008",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T20:47:53-04:00",
-    "category": "full-time",
-    "tags": [
-      "fintech"
-    ],
-    "first_seen": "2026-06-16T00:52:30.972227+00:00",
-    "last_seen": "2026-08-12T21:33:13.982822+00:00",
-    "active": false
   },
   "greenhouse:block:5012353008": {
     "uid": "greenhouse:block:5012353008",
@@ -52506,7 +52424,7 @@
     ],
     "first_seen": "2026-06-16T00:52:30.972227+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:waymo:7905678": {
     "uid": "greenhouse:waymo:7905678",
@@ -55779,7 +55697,7 @@
     ],
     "first_seen": "2026-06-19T12:44:55.960599+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:okta:7984479": {
     "uid": "greenhouse:okta:7984479",
@@ -69170,11 +69088,11 @@
   "workday:nvidia:/job/US-CA-Santa-Clara/HPC-Operations-Engineer_JR2014178": {
     "uid": "workday:nvidia:/job/US-CA-Santa-Clara/HPC-Operations-Engineer_JR2014178",
     "company": "NVIDIA",
-    "title": "HPC Operations Engineer",
+    "title": "HPC Operations Engineer - EDA Infrastructure",
     "location": "4 Locations",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/HPC-Operations-Engineer_JR2014178",
     "ats": "workday",
-    "posted_at": "Posted 3 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -76816,22 +76734,6 @@
     "last_seen": "2026-09-03T14:05:10.383564+00:00",
     "active": false
   },
-  "workday:salesforce:/job/Washington---Bellevue/Software-Engineering-LMTS_JR352081": {
-    "uid": "workday:salesforce:/job/Washington---Bellevue/Software-Engineering-LMTS_JR352081",
-    "company": "Salesforce",
-    "title": "Software Engineering LMTS",
-    "location": "Washington - Bellevue",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR352081",
-    "ats": "workday",
-    "posted_at": "Posted 7 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-20T20:27:41.665976+00:00",
-    "last_seen": "2026-08-12T20:31:27.781036+00:00",
-    "active": false
-  },
   "lever:zoox:b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562": {
     "uid": "lever:zoox:b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562",
     "company": "Zoox",
@@ -78255,23 +78157,6 @@
     ],
     "first_seen": "2026-07-21T23:16:51.655962+00:00",
     "last_seen": "2026-08-13T21:20:46.470078+00:00",
-    "active": false
-  },
-  "greenhouse:anthropic:5366138008": {
-    "uid": "greenhouse:anthropic:5366138008",
-    "company": "Anthropic",
-    "title": "IT Support Engineer",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5366138008",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-05T18:24:19-04:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-07-21T23:46:03.465635+00:00",
-    "last_seen": "2026-08-12T19:32:58.436121+00:00",
     "active": false
   },
   "greenhouse:andurilindustries:5191917007": {
@@ -81704,22 +81589,6 @@
     "first_seen": "2026-07-24T20:27:32.141537+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
     "active": true
-  },
-  "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Foundry-Development-Engineer_JR2021546": {
-    "uid": "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Foundry-Development-Engineer_JR2021546",
-    "company": "NVIDIA",
-    "title": "Foundry Development Engineer",
-    "location": "US, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Foundry-Development-Engineer_JR2021546",
-    "ats": "workday",
-    "posted_at": "Posted 19 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-24T20:27:32.141537+00:00",
-    "last_seen": "2026-08-12T19:32:58.436121+00:00",
-    "active": false
   },
   "ashby:applied:43580003-a156-4334-bce4-e6852f49913f": {
     "uid": "ashby:applied:43580003-a156-4334-bce4-e6852f49913f",
@@ -101163,7 +101032,7 @@
     ],
     "first_seen": "2026-08-14T20:00:54.693206+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:andurilindustries:5004359007": {
     "uid": "greenhouse:andurilindustries:5004359007",
@@ -188755,7 +188624,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:ms:/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR036259": {
@@ -188925,7 +188794,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:ms:/job/Montreal-Canada/Full-Stack---Java-Application-Developer--Hybrid-_PT-JR041278": {
@@ -233220,7 +233089,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:lbg:/job/Manchester/ML-AI-Engineer_148385-1": {
@@ -233454,7 +233323,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:lbg:/job/Manchester/Software-Engineer-Graduate-Scheme--Manchester-_163389-2": {
@@ -233598,7 +233467,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:lbg:/job/Leeds/Data-Science---AI-Graduate-Scheme--Leeds-_163357-1": {
@@ -233850,7 +233719,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:lbg:/job/Edinburgh/Product---Partnerships-Graduate-Scheme--Edinburgh--_163493": {
@@ -271895,7 +271764,7 @@
     "location": "Estonia - Remote; India - Remote; South Africa - Remote",
     "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4966941101",
     "ats": "greenhouse",
-    "posted_at": "2026-10-05T21:54:52-04:00",
+    "posted_at": "2026-10-11T18:22:03-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -271912,7 +271781,7 @@
     "location": "Brazil - Remote",
     "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4979734101",
     "ats": "greenhouse",
-    "posted_at": "2026-10-05T21:53:14-04:00",
+    "posted_at": "2026-10-11T18:22:03-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -271929,7 +271798,7 @@
     "location": "London - Hybrid",
     "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4979550101",
     "ats": "greenhouse",
-    "posted_at": "2026-10-05T22:17:12-04:00",
+    "posted_at": "2026-10-11T17:32:40-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -271946,7 +271815,7 @@
     "location": "New York - Hybrid; San Francisco Bay Area - Hybrid",
     "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4697599101",
     "ats": "greenhouse",
-    "posted_at": "2026-10-06T01:38:55-04:00",
+    "posted_at": "2026-10-11T17:32:40-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -281045,11 +280914,11 @@
   "ashby:mem0:642f00ec-c220-48a5-9a4d-4af67875032c": {
     "uid": "ashby:mem0:642f00ec-c220-48a5-9a4d-4af67875032c",
     "company": "Mem0",
-    "title": "Full Stack Engineer",
+    "title": "AI Full Stack Engineer",
     "location": "San Francisco Bay Area",
     "url": "https://jobs.ashbyhq.com/mem0/642f00ec-c220-48a5-9a4d-4af67875032c",
     "ats": "ashby",
-    "posted_at": "2026-07-14T16:55:24.129+00:00",
+    "posted_at": "2026-10-11T20:33:15.762+00:00",
     "category": "full-time",
     "tags": [
       "ai",
@@ -297939,7 +297808,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:mastercard:/job/Navi-Mumbai-India-Finicity/Enterprise-Operations-Engineer-II_R-291093-1": {
@@ -314362,7 +314231,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:solarisbank:8544131002": {
@@ -360463,7 +360332,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:roche:/job/Da-Nang/Hybrid-Service-Engineer---Hu_202609-122637": {
@@ -383899,7 +383768,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:catawiki:8248891": {
@@ -397723,7 +397592,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Vaesteras-Sweden/Thesis-Work--Physical-AI-Through-Simulation-Driven-Learning-and-Planning-for-Industrial-Robots_JR00048965": {
@@ -397741,7 +397610,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Eggelsberg-Oberosterreich-Austria/Quality---Support-Engineer--f-m-d-_JR00033027": {
@@ -398839,7 +398708,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Vaesteras-Sweden/Thesis-Work-for-Determinism-and-Scalability-of-ROS-2-DDS-for-Distributed-Industrial-Robot-Controllers_JR00048301": {
@@ -398857,7 +398726,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/10th-of-Ramadan-City-Sharkia-Egypt/LV-Project-Engineer--Lead-_JR00017858": {
@@ -398893,7 +398762,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Vaesteras-Sweden/Thesis-Work-for-Conceptual-Study-of-Compact-Power-Electronics-for-Robot-Controllers_JR00045631": {
@@ -398911,7 +398780,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/Thesis-Work---Applied-probability-and-statistics-for-robot-dimensioning_JR00045477": {
@@ -398929,7 +398798,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/Thesis-Work---Advanced-Computational-Modeling-for-Engineering-Applications_JR00045405": {
@@ -398947,7 +398816,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Vaesteras-Sweden/Master-s-Thesis--Design-for-Automated-Control-Cabinet--Assembly_JR00045644": {
@@ -398965,7 +398834,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Vaesteras-Sweden/Thesis-Work-for-generating-photo-realistic-virtual-training-data-for-physical-AI-models_JR00048525": {
@@ -398983,7 +398852,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Bangalore-Karnataka-India/Design-Engineer_JR00023504": {
@@ -399307,7 +399176,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Apodaca-Nuevo-Len-Mexico/Product-Engineering-Internship_JR00047853": {
@@ -401143,7 +401012,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Machelen-Flemish-Brabant-Belgium/Commissioning-Engineer_JR00044128": {
@@ -401179,7 +401048,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Xiamen-Fujian-China/Associate-Project-Engineer_JR00044890": {
@@ -401413,7 +401282,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Quebec-Quebec-Canada/Environment--Health---Safety-Intern----Winter-2027_JR00047128": {
@@ -402330,8 +402199,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-09T06:55:33.300523+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Xiamen-Fujian-China/Associate-Project-Engineer_JR00039967": {
@@ -402348,8 +402217,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Xiamen-Fujian-China/Field-Service-Engineer_JR00038705-1": {
@@ -402366,8 +402235,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Xiamen-Fujian-China/Production-Engineering-Specialist_JR00042542-1": {
@@ -402384,8 +402253,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Shanghai-Shanghai-China/Project-Engineer_JR00040464-2": {
@@ -402402,8 +402271,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Shanghai-Shanghai-China/Project-Engineer_JR00045272": {
@@ -402420,8 +402289,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Petaling-Jaya-Selangor-Malaysia/Functional-Internship---Expression-of-interest_JR00044720": {
@@ -402438,8 +402307,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Singapore-Central-Singapore-Singapore/Functional-Internship---Expression-of-interest_JR00044721": {
@@ -402456,8 +402325,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Thungmahamek-Bangkok-Thailand/Functional-Internship---Expression-of-interest_JR00044725": {
@@ -402474,8 +402343,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Jakarta-Jakarta-Indonesia/Functional-Internship---Expression-of-interest_JR00044726-1": {
@@ -402492,8 +402361,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Hanoi-H-Ni-Vietnam/Functional-Internship---Expression-of-interest_JR00044727": {
@@ -402510,8 +402379,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Thungmahamek-Bangkok-Thailand/Technical-Internship---Expression-of-Interest_JR00044261": {
@@ -402528,8 +402397,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Jakarta-Jakarta-Indonesia/Technical-Internship---Expression-of-Interest_JR00044258": {
@@ -402546,8 +402415,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Ho-Chi-Minh-City-TP-Ho-Chi-Minh-Vietnam/Technical-Internship---Expression-of-Interest_JR00044256": {
@@ -402564,8 +402433,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Ratingen-North-Rhine-Westphalia-Germany/Werkstudent--m-w-d--in-der-Entwicklung-von-Mittelspannungsschaltanlagen_JR00040831": {
@@ -402582,8 +402451,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-07T02:31:15.215999+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Petaling-Jaya-Selangor-Malaysia/Technical-Internship---Expression-of-Interest_JR00044260": {
@@ -402600,8 +402469,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-07T02:31:15.215999+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Xiamen-Fujian-China/R-D-senior-Engineer_JR00034463-1": {
@@ -402618,8 +402487,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-07T02:31:15.215999+00:00",
-    "active": false,
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Shanghai-Shanghai-China/Supplier-Quality---Development-Engineer_JR00042993": {
@@ -426011,7 +425880,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T15:02:46-04:00",
+    "posted_at": "2026-10-11T19:02:40-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427541,7 +427410,7 @@
     "location": "Auckland, NZ",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7845193003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-09T03:04:22-04:00",
+    "posted_at": "2026-10-11T17:17:41-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -428340,7 +428209,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T15:02:50-04:00",
+    "posted_at": "2026-10-11T19:02:44-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -428391,7 +428260,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T15:02:48-04:00",
+    "posted_at": "2026-10-11T19:02:42-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -428517,7 +428386,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:planetlabs:8231379": {
@@ -441692,7 +441561,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715615006?gh_jid=4715615006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441709,7 +441578,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694836006?gh_jid=4694836006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441726,7 +441595,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4714389006?gh_jid=4714389006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441743,7 +441612,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4712537006?gh_jid=4712537006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441760,7 +441629,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4708985006?gh_jid=4708985006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441777,7 +441646,7 @@
     "location": "Hawthorne, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4645847006?gh_jid=4645847006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441794,7 +441663,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4716542006?gh_jid=4716542006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441811,7 +441680,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4705164006?gh_jid=4705164006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441828,7 +441697,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4699081006?gh_jid=4699081006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441845,7 +441714,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4677103006?gh_jid=4677103006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441862,7 +441731,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4678064006?gh_jid=4678064006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441879,7 +441748,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4692655006?gh_jid=4692655006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441896,7 +441765,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4650839006?gh_jid=4650839006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441913,7 +441782,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4671178006?gh_jid=4671178006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441930,7 +441799,7 @@
     "location": "Hawthorne, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4713728006?gh_jid=4713728006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441947,7 +441816,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4675987006?gh_jid=4675987006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441964,7 +441833,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4593948006?gh_jid=4593948006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441981,7 +441850,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4675984006?gh_jid=4675984006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -441998,7 +441867,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4627542006?gh_jid=4627542006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442015,7 +441884,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4713874006?gh_jid=4713874006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442032,7 +441901,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4712934006?gh_jid=4712934006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442049,7 +441918,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4698894006?gh_jid=4698894006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442066,7 +441935,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4661962006?gh_jid=4661962006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442083,7 +441952,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694841006?gh_jid=4694841006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442100,7 +441969,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4710097006?gh_jid=4710097006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442117,7 +441986,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4696280006?gh_jid=4696280006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442134,7 +442003,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4603872006?gh_jid=4603872006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442151,7 +442020,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4696727006?gh_jid=4696727006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442168,7 +442037,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4644361006?gh_jid=4644361006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442185,7 +442054,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4709600006?gh_jid=4709600006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442202,7 +442071,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715944006?gh_jid=4715944006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442219,7 +442088,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4648790006?gh_jid=4648790006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442236,7 +442105,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715744006?gh_jid=4715744006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442253,7 +442122,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694833006?gh_jid=4694833006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442287,7 +442156,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715639006?gh_jid=4715639006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442304,7 +442173,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4701302006?gh_jid=4701302006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442321,7 +442190,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4686356006?gh_jid=4686356006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442338,7 +442207,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4703949006?gh_jid=4703949006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442355,7 +442224,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4702107006?gh_jid=4702107006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442372,7 +442241,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4603909006?gh_jid=4603909006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442389,7 +442258,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694835006?gh_jid=4694835006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442406,7 +442275,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4602753006?gh_jid=4602753006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442423,7 +442292,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4692866006?gh_jid=4692866006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -442440,7 +442309,7 @@
     "location": "Hawthorne, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4645849006?gh_jid=4645849006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -501362,7 +501231,7 @@
     "location": "2 Locations",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10153237-1",
     "ats": "workday",
-    "posted_at": "Posted 9 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -502025,7 +501894,7 @@
     "location": "2 Locations",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Sr-Product-Software-Engineer_10151328-2",
     "ats": "workday",
-    "posted_at": "Posted 20 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -502599,11 +502468,11 @@
   "workday:disney:/job/New-York-NY-USA/Software-Engineer-II---Ad-Platform--Salesforce-CRM-Analytics_10151595-2": {
     "uid": "workday:disney:/job/New-York-NY-USA/Software-Engineer-II---Ad-Platform--Salesforce-CRM-Analytics_10151595-2",
     "company": "Disney",
-    "title": "Software Engineer II - Ad Platform, Salesforce CRM Analytics",
+    "title": "Software Engineer II - Ad Platform, CRM Analytics",
     "location": "2 Locations",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Software-Engineer-II---Ad-Platform--Salesforce-CRM-Analytics_10151595-2",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -538361,7 +538230,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:346274": {
@@ -539568,7 +539437,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:339707": {
@@ -539585,7 +539454,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:340135": {
@@ -539602,7 +539471,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:340136": {
@@ -539619,7 +539488,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:336129": {
@@ -539636,7 +539505,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "oraclecloud:eeho:336300": {
@@ -539806,7 +539675,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T19:03:13.873308+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:334388": {
@@ -539823,7 +539692,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T19:03:13.873308+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:334366": {
@@ -539840,7 +539709,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T19:03:13.873308+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:334371": {
@@ -539857,7 +539726,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T19:03:13.873308+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:334396": {
@@ -539874,7 +539743,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T19:03:13.873308+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:334333": {
@@ -539908,7 +539777,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T19:03:13.873308+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:334390": {
@@ -542679,7 +542548,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "jibe:careers.rivian.com:33872": {
@@ -606191,7 +606060,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-11T07:25:47.333839+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/HiroshimaJPN/EPI-Customer-Engineer-II_R2610086": {
@@ -647019,7 +646888,7 @@
     ],
     "first_seen": "2026-10-04T23:20:22.647117+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:thales:/job/Glasgow/XMLNAME-2027-AI-Engineer-Apprentice---AI-and-Data-Science-Graduate-Level-Apprenticeship_R0337760": {
     "uid": "workday:thales:/job/Glasgow/XMLNAME-2027-AI-Engineer-Apprentice---AI-and-Data-Science-Graduate-Level-Apprenticeship_R0337760",
@@ -652467,7 +652336,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:fmr:/job/Westlake-TX/Software-Engineer_2133271": {
     "uid": "workday:fmr:/job/Westlake-TX/Software-Engineer_2133271",
@@ -653479,7 +653348,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210769245": {
     "uid": "oraclecloud:jpmc:210769245",
@@ -658899,8 +658768,8 @@
       "swe"
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
-    "last_seen": "2026-10-07T02:31:15.215999+00:00",
-    "active": false
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true
   },
   "amazon:10569394": {
     "uid": "amazon:10569394",
@@ -662189,7 +662058,7 @@
     ],
     "first_seen": "2026-10-06T00:27:28.087713+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210789246": {
     "uid": "oraclecloud:jpmc:210789246",
@@ -663553,7 +663422,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4704323006?gh_jid=4704323006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -672501,7 +672370,7 @@
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/Thesis-Work---Tactile-Aware-Reinforcement-Learning-for-Contact-Rich-Manipulation_JR00049517": {
     "uid": "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/Thesis-Work---Tactile-Aware-Reinforcement-Learning-for-Contact-Rich-Manipulation_JR00049517",
@@ -672518,7 +672387,7 @@
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:abb:/job/Bangalore-Karnataka-India/R-D-Engineer-Fullstack_JR00026253": {
     "uid": "workday:abb:/job/Bangalore-Karnataka-India/R-D-Engineer-Fullstack_JR00026253",
@@ -672552,7 +672421,7 @@
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/Thesis-Work--Active-Vision-for-AI-based-Robot-Manipulation-with-a-2-DOF-Movable-Camera-Head_JR00049510": {
     "uid": "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/Thesis-Work--Active-Vision-for-AI-based-Robot-Manipulation-with-a-2-DOF-Movable-Camera-Head_JR00049510",
@@ -672569,7 +672438,7 @@
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:abb:/job/Kocaeli-Kocaeli-Trkiye/Project-Design--Engineer--Distribution-Solutions-_JR00046346": {
     "uid": "workday:abb:/job/Kocaeli-Kocaeli-Trkiye/Project-Design--Engineer--Distribution-Solutions-_JR00046346",
@@ -677420,7 +677289,7 @@
     ],
     "first_seen": "2026-10-06T19:12:11.269095+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:gomotive:8785039002": {
     "uid": "greenhouse:gomotive:8785039002",
@@ -682708,7 +682577,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4719613006?gh_jid=4719613006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -692878,7 +692747,7 @@
     ],
     "first_seen": "2026-10-07T21:41:16.789453+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/MSc-Thesis-Work-for--CFD-Simulation-of-Resin-Impregnation-in-Electric-Machine-Insulation-System_JR00049732-1": {
     "uid": "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/MSc-Thesis-Work-for--CFD-Simulation-of-Resin-Impregnation-in-Electric-Machine-Insulation-System_JR00049732-1",
@@ -697946,7 +697815,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4719831006?gh_jid=4719831006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-11T14:48:45-04:00",
+    "posted_at": "2026-10-11T16:41:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -701801,7 +701670,7 @@
     ],
     "first_seen": "2026-10-08T15:02:08.571895+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "gsgraphql:154323_GS_MID_CAREER": {
     "uid": "gsgraphql:154323_GS_MID_CAREER",
@@ -702490,7 +702359,7 @@
     ],
     "first_seen": "2026-10-08T15:02:08.571895+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:santander:/job/SAO-PAULO/IT-Engineer-Spec-IV--Net-_Req1617785": {
     "uid": "workday:santander:/job/SAO-PAULO/IT-Engineer-Spec-IV--Net-_Req1617785",
@@ -708880,7 +708749,7 @@
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:rollsroyce:/job/Indianapolis/Project-Engineer---Development-Engineering_JR6153705": {
     "uid": "workday:rollsroyce:/job/Indianapolis/Project-Engineer---Development-Engineering_JR6153705",
@@ -709243,7 +709112,7 @@
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:sonyinteractiveentertainmentglobal:6220721004": {
     "uid": "greenhouse:sonyinteractiveentertainmentglobal:6220721004",
@@ -713615,7 +713484,7 @@
     ],
     "first_seen": "2026-10-09T06:55:33.300523+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "avature:recruitment.macquarie.com:24082": {
     "uid": "avature:recruitment.macquarie.com:24082",
@@ -716185,7 +716054,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210797453": {
     "uid": "oraclecloud:jpmc:210797453",
@@ -719263,7 +719132,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:abb:/job/Mannheim-Baden-Wurttemberg-Germany/Project-Engineer---Control-and-Drive-Technology--f-m-d-_JR00047812": {
     "uid": "workday:abb:/job/Mannheim-Baden-Wurttemberg-Germany/Project-Engineer---Control-and-Drive-Technology--f-m-d-_JR00047812",
@@ -720455,7 +720324,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:dxctechnology:/job/IND---HR---NOIDA/ServiceNow-Developer_51590164-1": {
     "uid": "workday:dxctechnology:/job/IND---HR---NOIDA/ServiceNow-Developer_51590164-1",
@@ -723711,7 +723580,7 @@
     ],
     "first_seen": "2026-10-09T19:16:57.122952+00:00",
     "last_seen": "2026-10-11T01:24:11.092962+00:00",
-    "active": true
+    "active": false
   },
   "workday:cisco:/job/Austin-Texas-US/Solutions-Engineer---SLED---Austin--TX_2025842": {
     "uid": "workday:cisco:/job/Austin-Texas-US/Solutions-Engineer---SLED---Austin--TX_2025842",
@@ -729615,6 +729484,135 @@
     ],
     "first_seen": "2026-10-11T19:03:13.873308+00:00",
     "last_seen": "2026-10-11T19:03:13.873308+00:00",
+    "active": true
+  },
+  "workday:capitalone:/job/Riverwoods-IL/Full-stack-Engineer-4--Mainframe-Systems---z-OS-Systems---Cloud-Operations-Resilience-Engineering-_R1003450-1": {
+    "uid": "workday:capitalone:/job/Riverwoods-IL/Full-stack-Engineer-4--Mainframe-Systems---z-OS-Systems---Cloud-Operations-Resilience-Engineering-_R1003450-1",
+    "company": "Capital One",
+    "title": "Full-stack Engineer 4 (Mainframe Systems & z/OS Systems) (Cloud Operations Resilience Engineering)",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-stack-Engineer-4--Mainframe-Systems---z-OS-Systems---Cloud-Operations-Resilience-Engineering-_R1003450-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank",
+      "fintech"
+    ],
+    "first_seen": "2026-10-11T23:00:29.232161+00:00",
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true
+  },
+  "greenhouse:vardaspace:8025141003": {
+    "uid": "greenhouse:vardaspace:8025141003",
+    "company": "Varda Space",
+    "title": "Build Reliability Engineer II",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8025141003",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-11T15:18:58-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T23:00:29.232161+00:00",
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true
+  },
+  "greenhouse:vardaspace:8025168003": {
+    "uid": "greenhouse:vardaspace:8025168003",
+    "company": "Varda Space",
+    "title": "Terrestrial Automation & Controls Engineer II",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8025168003",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-11T15:25:27-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T23:00:29.232161+00:00",
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true
+  },
+  "workday:nvidia:/job/India-Bengaluru/Power-Architecture-Engineer_JR2027560": {
+    "uid": "workday:nvidia:/job/India-Bengaluru/Power-Architecture-Engineer_JR2027560",
+    "company": "NVIDIA",
+    "title": "Power Architecture Engineer",
+    "location": "India, Bengaluru",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Power-Architecture-Engineer_JR2027560",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T23:00:29.232161+00:00",
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true
+  },
+  "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337": {
+    "uid": "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+    "company": "NVIDIA",
+    "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T23:00:29.232161+00:00",
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true
+  },
+  "workday:nvidia:/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1": {
+    "uid": "workday:nvidia:/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1",
+    "company": "NVIDIA",
+    "title": "CPU Compiler Intern - 2027",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T23:00:29.232161+00:00",
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Feltham-United-Kingdom/Technical-Systems-Engineer_2024227": {
+    "uid": "workday:cisco:/job/Feltham-United-Kingdom/Technical-Systems-Engineer_2024227",
+    "company": "Cisco",
+    "title": "Technical Systems Engineer",
+    "location": "Feltham, United Kingdom",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Feltham-United-Kingdom/Technical-Systems-Engineer_2024227",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T23:00:29.232161+00:00",
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
+    "active": true
+  },
+  "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139": {
+    "uid": "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139",
+    "company": "GlobalFoundries",
+    "title": "Strategic Pricing & AI Analytics Intern (Summer 2027)",
+    "location": "USA - Texas - Austin",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-11T23:00:29.232161+00:00",
+    "last_seen": "2026-10-11T23:00:29.232161+00:00",
     "active": true
   }
 }
