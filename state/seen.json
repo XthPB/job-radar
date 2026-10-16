@@ -11605,7 +11605,7 @@
   "ashby:openai:52c72cb9-7c44-4cba-b440-e05262a38491": {
     "uid": "ashby:openai:52c72cb9-7c44-4cba-b440-e05262a38491",
     "company": "OpenAI",
-    "title": "Full Stack Engineer, Intelligence Systems",
+    "title": "Full-Stack Software Engineer, Intelligence & Investigations",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/52c72cb9-7c44-4cba-b440-e05262a38491",
     "ats": "ashby",
@@ -13251,23 +13251,6 @@
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
     "active": true
   },
-  "ashby:openai:47aaae94-69e8-464b-a7f6-ffe898ee1731": {
-    "uid": "ashby:openai:47aaae94-69e8-464b-a7f6-ffe898ee1731",
-    "company": "OpenAI",
-    "title": "AI Deployment Engineer, Codex | Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://jobs.ashbyhq.com/openai/47aaae94-69e8-464b-a7f6-ffe898ee1731",
-    "ats": "ashby",
-    "posted_at": "2026-05-12T05:22:39.325+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-17T05:04:03.500592+00:00",
-    "active": false
-  },
   "ashby:openai:11c51b12-3ba0-4a7a-a0d2-ed0661324dc3": {
     "uid": "ashby:openai:11c51b12-3ba0-4a7a-a0d2-ed0661324dc3",
     "company": "OpenAI",
@@ -13521,23 +13504,6 @@
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-09-23T17:18:26.931754+00:00",
-    "active": false
-  },
-  "ashby:openai:b6844d14-83a3-4993-aec9-9725ac1ac4c3": {
-    "uid": "ashby:openai:b6844d14-83a3-4993-aec9-9725ac1ac4c3",
-    "company": "OpenAI",
-    "title": "Developer Experience Engineer (Mandarin-Speaking)",
-    "location": "Singapore",
-    "url": "https://jobs.ashbyhq.com/openai/b6844d14-83a3-4993-aec9-9725ac1ac4c3",
-    "ats": "ashby",
-    "posted_at": "2026-05-14T06:48:13.657+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-17T03:24:49.407412+00:00",
     "active": false
   },
   "ashby:openai:90c711dc-5f50-46e3-a5ab-82359a56d683": {
@@ -20176,14 +20142,14 @@
     "location": "Bangalore",
     "url": "https://stripe.com/jobs/search?gh_jid=7618977",
     "ats": "greenhouse",
-    "posted_at": "2026-09-21T23:51:56-04:00",
+    "posted_at": "2026-10-16T00:38:53-04:00",
     "category": "full-time",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-09-24T01:30:59.836101+00:00",
-    "active": false
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
   },
   "greenhouse:stripe:7230670": {
     "uid": "greenhouse:stripe:7230670",
@@ -32276,70 +32242,6 @@
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
     "active": true
   },
-  "jibe:careers.sig.com:9696": {
-    "uid": "jibe:careers.sig.com:9696",
-    "company": "SIG (Susquehanna)",
-    "title": "Graduate Macro Analyst: 2027",
-    "location": "Sydney, Australia",
-    "url": "https://careers-sig.icims.com/jobs/9696/login",
-    "ats": "jibe",
-    "posted_at": "2025-08-18T05:05:00+0000",
-    "category": "full-time",
-    "tags": [
-      "quant"
-    ],
-    "first_seen": "2026-06-08T01:19:46.766400+00:00",
-    "last_seen": "2026-08-17T03:24:49.407412+00:00",
-    "active": false
-  },
-  "jibe:careers.sig.com:9694": {
-    "uid": "jibe:careers.sig.com:9694",
-    "company": "SIG (Susquehanna)",
-    "title": "Graduate Equity Analyst: 2027",
-    "location": "Sydney, Australia",
-    "url": "https://careers-sig.icims.com/jobs/9694/login",
-    "ats": "jibe",
-    "posted_at": "2025-08-18T04:05:00+0000",
-    "category": "full-time",
-    "tags": [
-      "quant"
-    ],
-    "first_seen": "2026-06-08T01:19:46.766400+00:00",
-    "last_seen": "2026-08-17T03:24:49.407412+00:00",
-    "active": false
-  },
-  "jibe:careers.sig.com:9693": {
-    "uid": "jibe:careers.sig.com:9693",
-    "company": "SIG (Susquehanna)",
-    "title": "Macro Analyst Internship: November 2026",
-    "location": "Sydney, Australia",
-    "url": "https://careers-sig.icims.com/jobs/9693/login",
-    "ats": "jibe",
-    "posted_at": "2025-08-18T03:50:00+0000",
-    "category": "internship",
-    "tags": [
-      "quant"
-    ],
-    "first_seen": "2026-06-08T01:19:46.766400+00:00",
-    "last_seen": "2026-08-17T03:24:49.407412+00:00",
-    "active": false
-  },
-  "jibe:careers.sig.com:9692": {
-    "uid": "jibe:careers.sig.com:9692",
-    "company": "SIG (Susquehanna)",
-    "title": "Equity Analyst Internship: November 2026",
-    "location": "Sydney, Australia",
-    "url": "https://careers-sig.icims.com/jobs/9692/login",
-    "ats": "jibe",
-    "posted_at": "2025-08-18T03:49:00+0000",
-    "category": "internship",
-    "tags": [
-      "quant"
-    ],
-    "first_seen": "2026-06-08T01:19:46.766400+00:00",
-    "last_seen": "2026-08-17T03:24:49.407412+00:00",
-    "active": false
-  },
   "jibe:careers.sig.com:9220": {
     "uid": "jibe:careers.sig.com:9220",
     "company": "SIG (Susquehanna)",
@@ -36272,22 +36174,6 @@
     ],
     "first_seen": "2026-06-09T00:24:39.208757+00:00",
     "last_seen": "2026-09-28T16:12:19.718072+00:00",
-    "active": false
-  },
-  "jibe:careers.sig.com:8735": {
-    "uid": "jibe:careers.sig.com:8735",
-    "company": "SIG (Susquehanna)",
-    "title": "Trading Systems Developer - HK",
-    "location": "Hong Kong, Hong Kong",
-    "url": "https://careers-sig.icims.com/jobs/8735/login",
-    "ats": "jibe",
-    "posted_at": "2026-06-09T00:52:00+0000",
-    "category": "full-time",
-    "tags": [
-      "quant"
-    ],
-    "first_seen": "2026-06-09T01:21:15.367142+00:00",
-    "last_seen": "2026-08-17T03:24:49.407412+00:00",
     "active": false
   },
   "beesite:api-deutschebank.beesite.de:58595": {
@@ -40747,14 +40633,14 @@
     "location": "Sunnyvale",
     "url": "https://jobs.ashbyhq.com/applied/66c15acf-bdba-4139-904c-d755ebff0df4",
     "ats": "ashby",
-    "posted_at": "2026-10-13T03:46:37.004+00:00",
+    "posted_at": "2026-10-16T02:29:01.899+00:00",
     "category": "full-time",
     "tags": [
       "ai"
     ],
     "first_seen": "2026-06-16T00:52:30.972227+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
   },
   "ashby:applied:d58a932f-eb0d-43ff-a5fa-9f55531f085f": {
     "uid": "ashby:applied:d58a932f-eb0d-43ff-a5fa-9f55531f085f",
@@ -43212,7 +43098,7 @@
     ],
     "first_seen": "2026-06-16T00:52:30.972227+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:coupang:7227610": {
     "uid": "greenhouse:coupang:7227610",
@@ -44916,22 +44802,6 @@
     ],
     "first_seen": "2026-06-16T00:52:30.972227+00:00",
     "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false
-  },
-  "greenhouse:mongodb:7957794": {
-    "uid": "greenhouse:mongodb:7957794",
-    "company": "MongoDB",
-    "title": "Technical Services Engineer, Partners",
-    "location": "Bengaluru",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7957794",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-12T11:27:25-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-16T00:52:30.972227+00:00",
-    "last_seen": "2026-08-17T04:08:37.082950+00:00",
     "active": false
   },
   "greenhouse:netskope:7646769": {
@@ -80559,23 +80429,6 @@
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
     "active": true
   },
-  "gsgraphql:179767_GS_EARLY_CAREER": {
-    "uid": "gsgraphql:179767_GS_EARLY_CAREER",
-    "company": "Goldman Sachs",
-    "title": "Software Engineering, Lakehouse and AI Data Platform Engineer, Associate, Singapore",
-    "location": "Singapore",
-    "url": "https://higher.gs.com/roles/179767_GS_EARLY_CAREER",
-    "ats": "gsgraphql",
-    "posted_at": "2026-08-03T06:46:29.388Z",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe"
-    ],
-    "first_seen": "2026-07-28T05:29:42.604514+00:00",
-    "last_seen": "2026-08-17T04:08:37.082950+00:00",
-    "active": false
-  },
   "greenhouse:andurilindustries:5159458007": {
     "uid": "greenhouse:andurilindustries:5159458007",
     "company": "Anduril",
@@ -96210,22 +96063,6 @@
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
     "active": true
   },
-  "workday:salesforce:/job/India---Hyderabad/Product-Security---Vulnerability-Response-Engineer_JR341675": {
-    "uid": "workday:salesforce:/job/India---Hyderabad/Product-Security---Vulnerability-Response-Engineer_JR341675",
-    "company": "Salesforce",
-    "title": "Product Security | Vulnerability Response Engineer",
-    "location": "India - Hyderabad",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Product-Security---Vulnerability-Response-Engineer_JR341675",
-    "ats": "workday",
-    "posted_at": "Posted 2 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-13T10:51:19.045982+00:00",
-    "last_seen": "2026-08-17T05:04:03.500592+00:00",
-    "active": false
-  },
   "greenhouse:xtxmarketstechnologies:7864136003": {
     "uid": "greenhouse:xtxmarketstechnologies:7864136003",
     "company": "XTX Markets",
@@ -102236,7 +102073,7 @@
     "location": "United States",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8701065002",
     "ats": "greenhouse",
-    "posted_at": "2026-10-06T06:52:35-04:00",
+    "posted_at": "2026-10-15T21:46:09-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -111566,7 +111403,7 @@
     ],
     "first_seen": "2026-08-26T16:08:35.622341+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:upstart:8026826": {
     "uid": "greenhouse:upstart:8026826",
@@ -113525,7 +113362,7 @@
     ],
     "first_seen": "2026-08-28T13:29:58.229361+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "jibe:careers.sig.com:11360": {
     "uid": "jibe:careers.sig.com:11360",
@@ -119704,7 +119541,7 @@
     "location": "Sophia Antipolis",
     "url": "https://symphony.com/company/apply?gh_jid=8121110",
     "ats": "greenhouse",
-    "posted_at": "2026-09-11T05:22:37-04:00",
+    "posted_at": "2026-10-16T00:03:06-04:00",
     "category": "internship",
     "tags": [
       "ai",
@@ -139504,7 +139341,7 @@
   "ashby:openai:ac442f1f-c0d2-4608-a155-bfc89190e01c": {
     "uid": "ashby:openai:ac442f1f-c0d2-4608-a155-bfc89190e01c",
     "company": "OpenAI",
-    "title": "Fullstack Software Engineer, Child Safety Tools & Systems",
+    "title": "Full-Stack Software Engineer, Child Safety Tools & Systems",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c",
     "ats": "ashby",
@@ -139599,7 +139436,7 @@
     ],
     "first_seen": "2026-09-22T20:17:06.520518+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:stripe:8186367": {
     "uid": "greenhouse:stripe:8186367",
@@ -140238,7 +140075,7 @@
     "location": "Mumbai, India",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4980867101",
     "ats": "greenhouse",
-    "posted_at": "2026-10-13T11:40:55-04:00",
+    "posted_at": "2026-10-16T00:36:28-04:00",
     "category": "full-time",
     "tags": [
       "quant",
@@ -161675,10 +161512,10 @@
     "uid": "greenhouse:eclipsetrading:8473722002",
     "company": "Eclipse Trading",
     "title": "Front Office Python Developer",
-    "location": "Hong Kong, Sydney",
+    "location": "Hong Kong",
     "url": "https://job-boards.greenhouse.io/eclipsetrading/jobs/8473722002",
     "ats": "greenhouse",
-    "posted_at": "2026-07-06T21:53:42-04:00",
+    "posted_at": "2026-10-15T22:45:55-04:00",
     "category": "full-time",
     "tags": [
       "quant"
@@ -176236,7 +176073,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:tiaa:/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Rotational-Program--Enterprise-Analytics---Retirement-Strategy_R260900424-1": {
@@ -176382,14 +176219,14 @@
     "location": "Mumbai, India",
     "url": "https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Mumbai-India/Associate---Full-Stack-Developer_R260400175-1",
     "ats": "workday",
-    "posted_at": "Posted 21 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "asset-mgmt"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-12T02:31:05.065736+00:00",
-    "active": false,
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:tiaa:/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Early-Talent-Internship--Actuarial-Services_R260900220": {
@@ -179667,7 +179504,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:ameriprise:/job/Minneapolis-Minnesota/Adobe-Experience-Platform--AEP--Data-Product-Owner_R26_2856": {
@@ -186903,7 +186740,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:egug:25022282": {
@@ -207202,7 +207039,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:citi:/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711": {
@@ -207219,7 +207056,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:citi:/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971": {
@@ -207236,7 +207073,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:citi:/job/Seoul--Korea-Republic-Of/Banking---Commercial-Banking--Summer-Analyst--Korea--Republic-of---APAC--2027_26985211": {
@@ -214903,7 +214740,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:jpmc:210786047": {
@@ -218711,7 +218548,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rbc:/job/RBC-CENTRE-155-WELLINGTON-ST-WTORONTO/Software-Engineer_R-0000175092-1": {
@@ -219000,7 +218837,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rbc:/job/Dallas-Texas-United-States-of-America/Trader--Fixed-Income-Municipals_R-0000186403-1": {
@@ -219850,7 +219687,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:wf:/job/SAINT-LOUIS-MO/XMLNAME-2027-Wealth---Investment-Management-Analyst-Program---Early-Careers_R-575207": {
@@ -225361,7 +225198,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:td:/job/Toronto-Ontario/Analyst-Or-Associate---Equity-Options-Trading_R_1513653": {
@@ -225667,7 +225504,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:td:/job/Toronto-Ontario/Engineer-II---IAM-Federation-Services_R_1512952": {
@@ -225939,7 +225776,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:td:/job/Repentigny-Qubec/Mobile-Mortgage-Specialist_R_1508394": {
@@ -226126,7 +225963,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773": {
@@ -226816,14 +226653,14 @@
     "location": "Toronto, ON, CAN",
     "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Software-Engineer-III_R260025860-2",
     "ats": "workday",
-    "posted_at": "Posted 7 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-06T00:27:28.087713+00:00",
-    "active": false,
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:bmo:/job/Toronto-ON-CAN/Data-Engineer_R260026266": {
@@ -227180,7 +227017,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/Toronto-ON-CAN/Trading-Enablement-Specialist_R260017501-1": {
@@ -227214,7 +227051,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/Toronto-ON-CAN/Analyst--Data-Scientist_R260026946": {
@@ -227231,7 +227068,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/Toronto-ON-CAN/Private-Wealth-Administrative-Assistant--Winter-2027--Co-op-Internship----4-months_R260025466-1": {
@@ -228812,7 +228649,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cibc:/job/Chicago-IL/Production-Support-Engineer-II_2613526": {
@@ -228999,7 +228836,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cibc:/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397-1": {
@@ -229713,7 +229550,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cibc:/job/Markham-ON/Branch-Assistant-Co-op---Thornhill--ON-Winter-2027_2620365": {
@@ -229730,7 +229567,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cibc:/job/Toronto-ON/Quality-Assurance-Analyst-Co-op-Winter-2027_2619573": {
@@ -229798,7 +229635,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cibc:/job/Halifax-NS/Administrative-Assistant-Co-op--Halifax--NS---Winter-2027_2620186": {
@@ -229815,7 +229652,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cibc:/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397": {
@@ -229849,7 +229686,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cibc:/job/Toronto-ON/Background-Screening-Analyst-Co-op_2619866": {
@@ -229866,7 +229703,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cibc:/job/Vancouver-BC/Administrative-Assistant-Co-op--Vancouver--BC---Winter-2027_2620020": {
@@ -232390,7 +232227,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:santander:/job/SAO-PAULO/IT-Engineer-Expert--Java-_Req1608935": {
@@ -242375,7 +242212,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:statestreet:/job/Jersey-City-New-Jersey/IAM-Business-Analyst--Assistant-Vice-President_R-770857": {
@@ -242789,7 +242626,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:statestreet:/job/New-York-New-York/Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783187": {
@@ -243275,7 +243112,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:statestreet:/job/Burlington-Massachusetts/Software-Engineering---Development--Off_R-795584": {
@@ -244802,7 +244639,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:pnc:/job/KY---Louisville-40202/Corporate---Institutional-Banking-Undergraduate-Intern---Tax-Credit_R230916-1": {
@@ -245176,7 +245013,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:usbank:/job/Minneapolis-MN/Data-Scientist_2026-0026449": {
@@ -245312,7 +245149,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:usbank:/job/Minneapolis-MN/Fixed-Income-Trader_2026-0029589": {
@@ -245499,7 +245336,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:usbank:/job/Saint-Louis-MO/Loan-Administrator---Commercial-Real-Estate-and-Infrastructure-Finance_2026-0027702-1": {
@@ -247298,7 +247135,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:lgt:/job/Bendern/Lehrstelle-als-Informatiker-mit-Schwerpunkt-Plattformentwicklung_JR8000": {
@@ -248665,7 +248502,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:shell:/job/China-World-Trade-Centre/Shell-Graduate-Programme-2027---China_R205121": {
@@ -249254,7 +249091,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:equinor:/job/London-Great-Britain/Summer-Internship-2027-UK---Market-Analysis---Trading_JR107239": {
@@ -305181,7 +305018,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:fiserv:/job/King-of-Prussia-Pennsylvania/InterSystems-ObjectScript-Developer_R-10396746": {
@@ -308531,14 +308368,14 @@
     "location": "Remote - EU - LATAM - NA ",
     "url": "https://job-boards.greenhouse.io/alpaca/jobs/6195696004",
     "ats": "greenhouse",
-    "posted_at": "2026-10-02T15:45:34-04:00",
+    "posted_at": "2026-10-15T21:26:23-04:00",
     "category": "full-time",
     "tags": [
       "fintech"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-12T02:31:05.065736+00:00",
-    "active": false,
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true,
     "backfill": true
   },
   "greenhouse:alpaca:6144564004": {
@@ -326811,7 +326648,7 @@
     "location": "Bangalore Area",
     "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/L2-Splunk-DevOps-Engineer_JR10437657",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe",
@@ -334613,7 +334450,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "smartrecruiters:BoschGroup:744000149506129": {
@@ -339527,7 +339364,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "smartrecruiters:BoschGroup:744000145665199": {
@@ -356753,7 +356590,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:roche:/job/Tucson/Network-Engineer---RDT-Hosting-and-Infrastructure_202610-125003-1": {
@@ -357033,7 +356870,7 @@
     "location": "Petaling Jaya",
     "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/T-E-Compliance-Intern_202607-118952",
     "ats": "workday",
-    "posted_at": "Posted 15 Days Ago",
+    "posted_at": "Posted Today",
     "category": "internship",
     "tags": [
       "swe",
@@ -359391,7 +359228,7 @@
     "location": "Taipei",
     "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Taipei/Technical-Support-Engineer---Core-Lab-North-1_202608-121363",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe",
@@ -362387,7 +362224,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nxp:/job/Tianjin-Teda/DFT-Verification-intern_R-10066777": {
@@ -364187,7 +364024,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nxp:/job/Kuala-Lumpur/External-Package-Innovation-Engineer_R-10065834-1": {
@@ -364265,12 +364102,12 @@
   "workday:nxp:/job/Shanghai-JingAn/XMLNAME-2026-Campus---Field-Quality-Engineer_R-10064756": {
     "uid": "workday:nxp:/job/Shanghai-JingAn/XMLNAME-2026-Campus---Field-Quality-Engineer_R-10064756",
     "company": "NXP",
-    "title": "2026 Campus - Field Quality Engineer",
+    "title": "Field Quality Engineer",
     "location": "Shanghai (JingAn)",
     "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-JingAn/XMLNAME-2026-Campus---Field-Quality-Engineer_R-10064756",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
-    "category": "new-grad",
+    "posted_at": "Posted Today",
+    "category": "full-time",
     "tags": [
       "swe",
       "europe"
@@ -369471,7 +369308,7 @@
     "location": "Hsinchu, Taiwan",
     "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Hsinchu-Taiwan/CS---EUV-F20-Field-Service-Engineer---Hsinchu_J-00330697",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe",
@@ -378029,7 +377866,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rollsroyce:/job/Indianapolis/Development-Engineering-Specialist--MV-75_JR6153473": {
@@ -378317,7 +378154,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rollsroyce:/job/Indianapolis/Test-Calibration-Engineer_JR6158377": {
@@ -379523,7 +379360,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rollsroyce:/job/Indianapolis/LibertyWorks-Performance-Engineering-Specialist_JR6160144": {
@@ -379541,7 +379378,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rollsroyce:/job/Friedrichshafen/Werkstudent--m-w-d--Datenanalyse-und-Strategie-Power-BI_JR6156924-1": {
@@ -383861,7 +383698,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:unilever:/job/Maydon-Wharf-Durban-South-Africa/SHE-Intern_R-1188277": {
@@ -386909,11 +386746,11 @@
   "workday:thales:/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782": {
     "uid": "workday:thales:/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782",
     "company": "Thales",
-    "title": "Software Engineer Intern - Middleware (IBS)",
+    "title": "Software Engineer Intern",
     "location": "Singapore",
     "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "internship",
     "tags": [
       "swe",
@@ -388217,7 +388054,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:thales:/job/Bucharest/Infrastructure-Engineer--with-DevOps-skills-_R0336201-1": {
@@ -394895,7 +394732,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/USA-MS-Senatobia/Process-Quality-Engineer_JR00046147": {
@@ -396389,7 +396226,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/USA-NC-Cary/Market-Development-Co-Op---Spring-Summer-2027_JR00046309": {
@@ -396407,7 +396244,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Apodaca-Nuevo-Len-Mexico/Planning-Internship_JR00043091": {
@@ -396731,7 +396568,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Xiamen-Fujian-China/Data-Science---AI-Specialist_JR00045075": {
@@ -397091,7 +396928,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/USA-CT-Bloomfield/R-D-Intern-Bloomfield---Summer-2027_JR00046279": {
@@ -397109,7 +396946,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/USA-CT-Bloomfield/R-D-Engineer---Panelboards_JR00028179": {
@@ -397487,7 +397324,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Miramar-Florida-United-States-of-America/Field-Service-Engineer_JR00012222-1": {
@@ -397505,7 +397342,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Miramar-Florida-United-States-of-America/Marine-Field-Service-Engineer--Power-_JR00031713-1": {
@@ -422949,7 +422786,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T20:48:24-04:00",
+    "posted_at": "2026-10-16T01:18:08-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -425278,7 +425115,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T20:48:29-04:00",
+    "posted_at": "2026-10-16T01:18:12-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -425329,7 +425166,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T20:48:27-04:00",
+    "posted_at": "2026-10-16T01:18:10-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -433435,7 +433272,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "ashby:railway:541836a1-6d3f-47bf-845f-5f48fe547568": {
@@ -438630,7 +438467,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715615006?gh_jid=4715615006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438647,7 +438484,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694836006?gh_jid=4694836006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438664,7 +438501,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4714389006?gh_jid=4714389006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438681,7 +438518,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4712537006?gh_jid=4712537006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438698,7 +438535,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4708985006?gh_jid=4708985006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438715,7 +438552,7 @@
     "location": "Hawthorne, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4645847006?gh_jid=4645847006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438749,7 +438586,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4705164006?gh_jid=4705164006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438766,7 +438603,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4699081006?gh_jid=4699081006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438783,7 +438620,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4677103006?gh_jid=4677103006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438800,7 +438637,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4678064006?gh_jid=4678064006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438817,7 +438654,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4692655006?gh_jid=4692655006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438834,7 +438671,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4650839006?gh_jid=4650839006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438851,7 +438688,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4671178006?gh_jid=4671178006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438868,7 +438705,7 @@
     "location": "Hawthorne, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4713728006?gh_jid=4713728006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438902,7 +438739,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4593948006?gh_jid=4593948006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438919,7 +438756,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4675984006?gh_jid=4675984006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438936,7 +438773,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4627542006?gh_jid=4627542006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438953,7 +438790,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4713874006?gh_jid=4713874006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438970,7 +438807,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4712934006?gh_jid=4712934006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -438987,7 +438824,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4698894006?gh_jid=4698894006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439004,7 +438841,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4661962006?gh_jid=4661962006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439021,7 +438858,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694841006?gh_jid=4694841006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439055,7 +438892,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4696280006?gh_jid=4696280006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439072,7 +438909,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4603872006?gh_jid=4603872006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439089,7 +438926,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4696727006?gh_jid=4696727006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439106,7 +438943,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4644361006?gh_jid=4644361006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439123,7 +438960,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4709600006?gh_jid=4709600006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439140,7 +438977,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715944006?gh_jid=4715944006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439157,7 +438994,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4648790006?gh_jid=4648790006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439174,7 +439011,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715744006?gh_jid=4715744006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439191,7 +439028,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694833006?gh_jid=4694833006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439225,7 +439062,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715639006?gh_jid=4715639006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439242,7 +439079,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4701302006?gh_jid=4701302006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439259,7 +439096,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4686356006?gh_jid=4686356006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439276,7 +439113,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4703949006?gh_jid=4703949006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439293,7 +439130,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4702107006?gh_jid=4702107006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439310,7 +439147,7 @@
     "location": "Mojave, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4603909006?gh_jid=4603909006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439327,7 +439164,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4694835006?gh_jid=4694835006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439344,7 +439181,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4602753006?gh_jid=4602753006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439361,7 +439198,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4692866006?gh_jid=4692866006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -439378,7 +439215,7 @@
     "location": "Hawthorne, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4645849006?gh_jid=4645849006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -444451,7 +444288,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10543931": {
@@ -471294,7 +471131,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10468056": {
@@ -472875,7 +472712,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10545554": {
@@ -473929,7 +473766,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10399985": {
@@ -475918,7 +475755,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "jibe:careers.amd.com:89552": {
@@ -479182,7 +479019,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "jibe:careers.amd.com:91166": {
@@ -487733,7 +487570,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cisco:/job/San-Jose-California-US/Semiconductor-Test-Engineer_2011748-1": {
@@ -487767,7 +487604,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cisco:/job/Seattle-Washington-US/Software-Engineer--Backend---Webex-Signaling_2025041": {
@@ -488600,7 +488437,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cisco:/job/Bangalore-India/Data-Engineer_2021621": {
@@ -491065,7 +490902,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cisco:/job/Ottawa-Ontario-Canada/Software-Developer_2019427": {
@@ -494720,7 +494557,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cisco:/job/Hanoi-Vietnam/Failure-Analysis-Engineer_2022082": {
@@ -497508,7 +497345,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:crowdstrike:/job/United-Kingdom---London/Network-Engineer-III_R29233": {
@@ -498783,7 +498620,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:disney:/job/Glendale-CA-USA/Advanced-Gameplay-Engineer_10161215": {
@@ -499038,7 +498875,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:disney:/job/New-York-NY-USA/Software-Engineer-II--AI-Insights_10148557": {
@@ -499055,7 +498892,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:disney:/job/Jakarta-Indonesia/Intern--Content-Programming---Curation---Jan-to-Jun-2027_10160563": {
@@ -499174,7 +499011,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:disney:/job/Singapore-Singapore/Intern--Hotel-Operations---Sourcing---Logistics--Disney-Cruise-Line---Jan-to-Jun-2027_10160463": {
@@ -502574,7 +502411,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:expedia:/job/Canada---British-Columbia---Vancouver/Software-Development-Engineer-I_R-109478": {
@@ -503050,7 +502887,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:expedia:/job/Washington---Seattle-Campus/iOS-Engineer-III---Brand-Expedia_R-109352-1": {
@@ -503237,7 +503074,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Vehicle-Dynamics-Simulation-Integration-Engineer_JR-202603504": {
@@ -503322,7 +503159,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:generalmotors:/job/Oshawa-Ontario-Canada/XMLNAME-2027-Winter-Co-op---Supervisor-CCA_JR-202618671": {
@@ -504359,7 +504196,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Instrument-Panel-Structure_JR-202620055-1": {
@@ -505107,7 +504944,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Student-Corps-Program-Specialist-Intern_JR-202620232": {
@@ -506773,7 +506610,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:hp:/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2": {
@@ -507181,7 +507018,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:hp:/job/Alpharetta-Georgia-United-States-of-America/Field-Service-Engineer_3162487-1": {
@@ -513192,14 +513029,14 @@
     "location": "Spring, Texas, United States of America",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Inside-Presales--Systems-Engineer_1201620-2",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false,
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:hpe:/job/Spring-Texas-United-States-of-America/Inside-Presales--Systems-Engineer---Commercial_1201607-2": {
@@ -513209,14 +513046,14 @@
     "location": "2 Locations",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Inside-Presales--Systems-Engineer---Commercial_1201607-2",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false,
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:hpe:/job/Mexico-City-Distrito-Federal-Mexico/On-site-resident-Field-Technical-Support---Tech-Consulting---Nonstop-systems_1202303-3": {
@@ -514185,7 +514022,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-II_1210792-2": {
@@ -519931,7 +519768,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:intel:/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935": {
@@ -545533,7 +545370,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:edbz:25014485": {
@@ -548287,7 +548124,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:edbz:25017586": {
@@ -552486,7 +552323,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:thomsonreuters:/job/Japan-Tokyo/Software-Engineer---Westlaw-Japan_JREQ202402": {
@@ -552605,7 +552442,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:thomsonreuters:/job/India-Bengaluru-Karnataka/SIEM-Engineer_JREQ202801": {
@@ -556905,7 +556742,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -556922,7 +556759,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -556939,7 +556776,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -556990,7 +556827,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557007,7 +556844,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557024,7 +556861,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557041,7 +556878,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557058,7 +556895,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557075,7 +556912,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557092,7 +556929,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557126,7 +556963,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557143,7 +556980,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557160,7 +556997,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557177,7 +557014,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557194,7 +557031,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557211,7 +557048,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557245,7 +557082,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557262,7 +557099,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557279,7 +557116,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557296,7 +557133,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557313,7 +557150,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557347,7 +557184,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557364,7 +557201,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557398,7 +557235,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557432,7 +557269,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557466,7 +557303,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557483,7 +557320,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557551,7 +557388,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557568,7 +557405,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -557585,7 +557422,7 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true,
     "backfill": true
   },
@@ -581930,7 +581767,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Richardson-TX/HBM-3D-Power-Delivery-Network--PDN--Engineer_JR104500": {
@@ -583035,7 +582872,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/TCP-Probe-HBM-Equipment-Shift-Engineer_JR102715-1": {
@@ -585007,7 +584844,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Fab-10NX-Singapore/Test-Solutions-Engineer_JR93626": {
@@ -585024,7 +584861,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Fab-10A-Singapore/AI-Adoption---Change-Navigator_JR89941-1": {
@@ -585041,7 +584878,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Hiroshima---Fab-15-Japan/HVM-PEE-Cost-Engineer---_JR94634-1": {
@@ -595938,7 +595775,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265": {
@@ -598573,7 +598410,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/Santa-ClaraCA/Process-Engineer---Die-to-Wafer-Hybrid-Bonding_R2625769-1": {
@@ -599321,7 +599158,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/ChongqingCHN/Customer-Engineer_R2624276": {
@@ -602754,8 +602591,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false,
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/NagasakiJPN/MDP-Customer-Engineer-II_R2520333": {
@@ -602771,8 +602608,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false,
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/Santa-ClaraCA/Account-Technologist--New-College-Graduate---Early-in-Career-_R2615686": {
@@ -602788,8 +602625,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false,
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/TrevisoITA/Technical-Trainer-Engineer_R2615479": {
@@ -602822,8 +602659,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false,
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/KumamotoJPN/VSE--Customer-Engineer-IV_R2615434": {
@@ -602873,8 +602710,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false,
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/TrevisoITA/Supplier-Industrial-Engineer--Internship-_R2613391": {
@@ -614212,7 +614049,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:dxctechnology:/job/ESP---MD---LAS-ROZAS/Security-Engineer-L2---Tufin--Firewall-Policy-Management_51587716": {
@@ -637468,7 +637305,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rakuten:/job/Sumitomo-Nakanoshima-Building/Web-Application-Engineer---EC-First-Party-Development-Department--ECFD---Osaka-Branch-_1038557": {
@@ -645605,7 +645442,7 @@
     ],
     "first_seen": "2026-10-05T09:17:11.218071+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:citi:/job/Pune-Maharashtra-India/Java-Full-Stack-Developer_26996240": {
     "uid": "workday:citi:/job/Pune-Maharashtra-India/Java-Full-Stack-Developer_26996240",
@@ -645669,7 +645506,7 @@
     ],
     "first_seen": "2026-10-05T09:17:11.218071+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210788151": {
     "uid": "oraclecloud:jpmc:210788151",
@@ -651247,7 +651084,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:raymondjames:/job/Saint-Petersburg-Florida---United-States/XMLNAME-2026-Fall-Virtual-Sophomore-Program--Investment-Banking-Bootcamp-for-2028-Summer-Analyst-Opportunities_R-0013018": {
     "uid": "workday:raymondjames:/job/Saint-Petersburg-Florida---United-States/XMLNAME-2026-Fall-Virtual-Sophomore-Program--Investment-Banking-Bootcamp-for-2028-Summer-Analyst-Opportunities_R-0013018",
@@ -654571,7 +654408,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:abb:/job/Brno-Jihomoravsk-kraj-Czechia/DP-Associate-Project-Engineer_JR00036343": {
     "uid": "workday:abb:/job/Brno-Jihomoravsk-kraj-Czechia/DP-Associate-Project-Engineer_JR00036343",
@@ -656830,7 +656667,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626": {
     "uid": "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626",
@@ -657549,7 +657386,7 @@
       "swe"
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:workday:/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105439": {
@@ -657565,7 +657402,7 @@
       "swe"
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:zillow:/job/Mexico-City/Software-Engineer--iOS---Mexico_P751474": {
@@ -659079,7 +658916,7 @@
     ],
     "first_seen": "2026-10-06T00:27:28.087713+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Developer----Integrations-Workday---SAP_26993303": {
     "uid": "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Developer----Integrations-Workday---SAP_26993303",
@@ -659303,7 +659140,7 @@
     ],
     "first_seen": "2026-10-06T00:27:28.087713+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:cibc:/job/New-York-NY/Associate--Agency-Services--Project-Finance---Infrastructure_2616452": {
     "uid": "workday:cibc:/job/New-York-NY/Associate--Agency-Services--Project-Finance---Infrastructure_2616452",
@@ -662587,7 +662424,7 @@
     ],
     "first_seen": "2026-10-06T06:39:00.272558+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:mastercard:/job/Pune-India/Software-Engineer-II_R-292584": {
     "uid": "workday:mastercard:/job/Pune-India/Software-Engineer-II_R-292584",
@@ -664035,7 +663872,7 @@
       "swe"
     ],
     "first_seen": "2026-10-06T06:39:00.272558+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:workday:/job/Japan-Tokyo/Financials-Strategist_JR-0110564": {
@@ -664051,7 +663888,7 @@
       "swe"
     ],
     "first_seen": "2026-10-06T06:39:00.272558+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:workday:/job/New-Zealand-Auckland/Associate-Site-Reliability-Engineer--SRE----Multicloud-Platform_JR-0110615": {
@@ -664067,7 +663904,7 @@
       "swe"
     ],
     "first_seen": "2026-10-06T06:39:00.272558+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:micron:/job/Fab-10A-Singapore/Engineer--Product-Engineering--Media-Health-Reliability---Heteregenous-Integration---High-Bandwidth-Memory_JR113032": {
@@ -675510,7 +675347,7 @@
     ],
     "first_seen": "2026-10-06T19:12:11.269095+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/Controls-Software-Engineer---Energy-Source-Control_JR-202619801": {
     "uid": "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/Controls-Software-Engineer---Energy-Source-Control_JR-202619801",
@@ -678583,7 +678420,7 @@
     ],
     "first_seen": "2026-10-06T23:08:30.204691+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:cisco:/job/San-Jose-California-US/ASIC-Engineering-Technical-Leader_2022008": {
     "uid": "workday:cisco:/job/San-Jose-California-US/ASIC-Engineering-Technical-Leader_2022008",
@@ -679646,7 +679483,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4719613006?gh_jid=4719613006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -680656,15 +680493,15 @@
     "location": "Ciudad de Mexico, Cuauhtémoc, 06600",
     "url": "https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Data-Scientist-Associate---AI-Performance---Evolution--Ciudad-de-Mxico-_JR00115182",
     "ats": "workday",
-    "posted_at": "Posted 3 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank",
       "europe"
     ],
     "first_seen": "2026-10-07T09:29:19.869746+00:00",
-    "last_seen": "2026-10-10T02:29:03.392463+00:00",
-    "active": false
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
   },
   "workday:ing:/job/Hong-Kong/Intern--Commodities--Food-and-Agriculture-HK_REQ-10122857": {
     "uid": "workday:ing:/job/Hong-Kong/Intern--Commodities--Food-and-Agriculture-HK_REQ-10122857",
@@ -682931,7 +682768,7 @@
     ],
     "first_seen": "2026-10-07T09:29:19.869746+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:nike:/job/Karnataka-India/Software-Engineer-II--ITC_R-91644": {
     "uid": "workday:nike:/job/Karnataka-India/Software-Engineer-II--ITC_R-91644",
@@ -682995,7 +682832,7 @@
     ],
     "first_seen": "2026-10-07T09:29:19.869746+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:edbz:25016744": {
     "uid": "oraclecloud:edbz:25016744",
@@ -684519,7 +684356,7 @@
     ],
     "first_seen": "2026-10-07T21:41:16.789453+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:mfs:/job/Boston/Sr-Data-Engineer_MFS-231475": {
     "uid": "workday:mfs:/job/Boston/Sr-Data-Engineer_MFS-231475",
@@ -693093,7 +692930,7 @@
       "swe"
     ],
     "first_seen": "2026-10-07T21:41:16.789453+00:00",
-    "last_seen": "2026-10-15T15:55:06.528520+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:zendesk:/job/Berlin-Germany/AI-Success-Strategist_R35606": {
@@ -694884,7 +694721,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4719831006?gh_jid=4719831006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -695662,7 +695499,7 @@
     ],
     "first_seen": "2026-10-08T07:38:59.690824+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210795782": {
     "uid": "oraclecloud:jpmc:210795782",
@@ -695777,7 +695614,7 @@
     ],
     "first_seen": "2026-10-08T07:38:59.690824+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:statestreet:/job/Hangzhou-China/Software-Engineering---Development--Off_R-797124": {
     "uid": "workday:statestreet:/job/Hangzhou-China/Software-Engineering---Development--Off_R-797124",
@@ -695887,7 +695724,7 @@
     "location": "SHELL CENTRE – CHENNAI",
     "url": "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/SHELL-CENTRE--CHENNAI/Associate-Engineer---Digital---Drw-Mgmt_R211186-1",
     "ats": "workday",
-    "posted_at": "Posted Yesterday",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "commodities",
@@ -695895,8 +695732,8 @@
       "europe"
     ],
     "first_seen": "2026-10-08T07:38:59.690824+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
   },
   "ashby:openai:02ec1893-17df-420c-8d19-48eca8edd884": {
     "uid": "ashby:openai:02ec1893-17df-420c-8d19-48eca8edd884",
@@ -697957,7 +697794,7 @@
     ],
     "first_seen": "2026-10-08T07:38:59.690824+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:globalfoundries:/job/Santa-Clara/Software-Development-Leader_JR-2603686": {
     "uid": "workday:globalfoundries:/job/Santa-Clara/Software-Development-Leader_JR-2603686",
@@ -706727,7 +706564,7 @@
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "amazon:10573715": {
     "uid": "amazon:10573715",
@@ -707175,7 +707012,7 @@
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071": {
     "uid": "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
@@ -707223,7 +707060,7 @@
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:hp:/job/Fort-Collins-Colorado-United-States-of-America/Software-Quality-Engineer_3168475-1": {
     "uid": "workday:hp:/job/Fort-Collins-Colorado-United-States-of-America/Software-Quality-Engineer_3168475-1",
@@ -707590,7 +707427,7 @@
       "swe"
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:workday:/job/Ireland-Dublin/Software-Development-Engineer_JR-0110509": {
@@ -707606,7 +707443,7 @@
       "swe"
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:zendesk:/job/Mexico-City-Mexico/Data-Engineer-II_R35582": {
@@ -708793,7 +708630,7 @@
     ],
     "first_seen": "2026-10-09T00:47:09.300657+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:capitalone:/job/Chicago-IL/Full-Stack-Engineer-4_R1003262-1": {
     "uid": "workday:capitalone:/job/Chicago-IL/Full-Stack-Engineer-4_R1003262-1",
@@ -712220,7 +712057,7 @@
     ],
     "first_seen": "2026-10-09T06:55:33.300523+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "eightfold:netapp:43148949": {
     "uid": "eightfold:netapp:43148949",
@@ -712236,7 +712073,7 @@
     ],
     "first_seen": "2026-10-09T06:55:33.300523+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:FlowTraders:8266897": {
     "uid": "greenhouse:FlowTraders:8266897",
@@ -718533,7 +718370,7 @@
     ],
     "first_seen": "2026-10-09T19:16:57.122952+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:hl:/job/New-York-NY-USA/Summer-2027-Research-Intern--Portfolio-Valuation--New-York_R3535": {
     "uid": "workday:hl:/job/New-York-NY-USA/Summer-2027-Research-Intern--Portfolio-Valuation--New-York_R3535",
@@ -718645,7 +718482,7 @@
     ],
     "first_seen": "2026-10-09T19:16:57.122952+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:anthropic:5448481008": {
     "uid": "greenhouse:anthropic:5448481008",
@@ -720713,7 +720550,7 @@
     ],
     "first_seen": "2026-10-09T19:16:57.122952+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "avature:jobs.ea.com:216225": {
     "uid": "avature:jobs.ea.com:216225",
@@ -720761,7 +720598,7 @@
     ],
     "first_seen": "2026-10-09T19:16:57.122952+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Virtual-Propulsion-Engineer---Thermal---Hydraulics_JR-202621100": {
     "uid": "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Virtual-Propulsion-Engineer---Thermal---Hydraulics_JR-202621100",
@@ -721161,7 +720998,7 @@
     ],
     "first_seen": "2026-10-09T19:16:57.122952+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:edbz:25017396": {
     "uid": "oraclecloud:edbz:25017396",
@@ -722089,7 +721926,7 @@
     ],
     "first_seen": "2026-10-09T19:16:57.122952+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:usaa:/job/San-Antonio-Home-Office-I/Infrastructure-Support-Engineer_R0121615": {
     "uid": "workday:usaa:/job/San-Antonio-Home-Office-I/Infrastructure-Support-Engineer_R0121615",
@@ -723204,7 +723041,7 @@
     ],
     "first_seen": "2026-10-09T23:22:13.198456+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "jibe:careers.amd.com:93349": {
     "uid": "jibe:careers.amd.com:93349",
@@ -723396,7 +723233,7 @@
     ],
     "first_seen": "2026-10-09T23:22:13.198456+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Torque-Converters-and-Clutches_JR-202621048": {
     "uid": "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Torque-Converters-and-Clutches_JR-202621048",
@@ -723412,7 +723249,7 @@
     ],
     "first_seen": "2026-10-09T23:22:13.198456+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:intel:/job/US-Oregon-Hillsboro/Pre-Silicon-Verification-Engineer_JR0287850": {
     "uid": "workday:intel:/job/US-Oregon-Hillsboro/Pre-Silicon-Verification-Engineer_JR0287850",
@@ -727911,7 +727748,7 @@
     ],
     "first_seen": "2026-10-12T09:56:54.503580+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:rbs:/job/Gurugram/Software-Engineer_R-00286443": {
     "uid": "workday:rbs:/job/Gurugram/Software-Engineer_R-00286443",
@@ -729316,7 +729153,7 @@
     ],
     "first_seen": "2026-10-12T09:56:54.503580+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:fa-evmr-saasfaprod1:40138": {
     "uid": "oraclecloud:fa-evmr-saasfaprod1:40138",
@@ -731931,7 +731768,7 @@
     ],
     "first_seen": "2026-10-12T19:33:20.038416+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:aquaticcapitalmanagement:8870790002": {
     "uid": "greenhouse:aquaticcapitalmanagement:8870790002",
@@ -733418,7 +733255,7 @@
     ],
     "first_seen": "2026-10-12T19:33:20.038416+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:fiserv:/job/Berkeley-Heights-New-Jersey/Release-Train-Engineer---Cloud-Product-Team_R-10403941": {
     "uid": "workday:fiserv:/job/Berkeley-Heights-New-Jersey/Release-Train-Engineer---Cloud-Product-Team_R-10403941",
@@ -733434,7 +733271,7 @@
     ],
     "first_seen": "2026-10-12T19:33:20.038416+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:clearwateranalytics:/job/Office---Mumbai/Data-Flow-Engineer_R11776": {
     "uid": "workday:clearwateranalytics:/job/Office---Mumbai/Data-Flow-Engineer_R11776",
@@ -737273,7 +737110,7 @@
       "swe"
     ],
     "first_seen": "2026-10-12T19:33:20.038416+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:zoom:/job/San-Jose-CA/Software-Engineer_R19747-1": {
@@ -741652,7 +741489,7 @@
     "location": "Petaling Jaya",
     "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/Talent-Acquisition-Intern_202610-125780",
     "ats": "workday",
-    "posted_at": "Posted 2 Days Ago",
+    "posted_at": "Posted Today",
     "category": "internship",
     "tags": [
       "swe",
@@ -741988,7 +741825,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4715767006?gh_jid=4715767006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -743083,7 +742920,7 @@
     ],
     "first_seen": "2026-10-13T08:40:04.075056+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:amat:/job/SingaporeSGP/College-intern---Process-development-in-degas--preclean--PVD-chambers-for-RLD-Bump-application_R2630102": {
     "uid": "workday:amat:/job/SingaporeSGP/College-intern---Process-development-in-degas--preclean--PVD-chambers-for-RLD-Bump-application_R2630102",
@@ -744765,7 +744602,7 @@
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK--Analyst-Programme--Global-Markets---Markets-Engineering_10080108-WD-1": {
     "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK--Analyst-Programme--Global-Markets---Markets-Engineering_10080108-WD-1",
@@ -748405,7 +748242,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/vast/jobs/4721502006?gh_jid=4721502006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:16:11-04:00",
+    "posted_at": "2026-10-16T00:13:18-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -749372,7 +749209,7 @@
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:edbz:25010686": {
     "uid": "oraclecloud:edbz:25010686",
@@ -749451,7 +749288,7 @@
       "swe"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:workday:/job/Ireland-Dublin/Software-Development-Engineer_JR-0110727": {
@@ -749467,7 +749304,7 @@
       "swe"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:blueorigin:/job/Greater-Seattle-Area/MK2-GN-C-Systems-Responsible-Engineer---Lunar-Permanence_R73311": {
@@ -750681,7 +750518,7 @@
     ],
     "first_seen": "2026-10-13T21:37:57.046601+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:td:/job/Charlotte-North-Carolina/Oracle-Application-DBA---Engineer-I--US-_R_1487297": {
     "uid": "workday:td:/job/Charlotte-North-Carolina/Oracle-Application-DBA---Engineer-I--US-_R_1487297",
@@ -750697,7 +750534,7 @@
     ],
     "first_seen": "2026-10-13T21:37:57.046601+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:td:/job/New-York-New-York/Data-Scientist-III--US----Financial-Crimes-Modeling_R_1492772": {
     "uid": "workday:td:/job/New-York-New-York/Data-Scientist-III--US----Financial-Crimes-Modeling_R_1492772",
@@ -750882,7 +750719,7 @@
     "location": "Toronto, ON",
     "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Azure-Engineer--SQL-and-Data-Lakehouse_2620631",
     "ats": "workday",
-    "posted_at": "Posted 2 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
@@ -754337,7 +754174,7 @@
     ],
     "first_seen": "2026-10-14T00:43:16.476470+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:roche:/job/Florida/Field-Engineering-Specialist---Daytona-Beach--FL_202609-124495-1": {
     "uid": "workday:roche:/job/Florida/Field-Engineering-Specialist---Daytona-Beach--FL_202609-124495-1",
@@ -756515,7 +756352,7 @@
     ],
     "first_seen": "2026-10-14T05:35:50.372452+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:intel:/job/India-Bangalore/GPU-Logic-Design-Engineer_JR0287990": {
     "uid": "workday:intel:/job/India-Bangalore/GPU-Logic-Design-Engineer_JR0287990",
@@ -757469,7 +757306,7 @@
     ],
     "first_seen": "2026-10-14T10:48:06.127687+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210799198": {
     "uid": "oraclecloud:jpmc:210799198",
@@ -757501,7 +757338,7 @@
     ],
     "first_seen": "2026-10-14T10:48:06.127687+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210799626": {
     "uid": "oraclecloud:jpmc:210799626",
@@ -757517,7 +757354,7 @@
     ],
     "first_seen": "2026-10-14T10:48:06.127687+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:lbg:/job/Hyderabad-Knowledge-Park-Tower-2/Software-Engineer_165094": {
     "uid": "workday:lbg:/job/Hyderabad-Knowledge-Park-Tower-2/Software-Engineer_165094",
@@ -759959,7 +759796,7 @@
       "swe"
     ],
     "first_seen": "2026-10-14T10:48:06.127687+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:micron:/job/Boise-ID---Main-Site/Computer-Engineer--Central-Engineering_JR113967": {
@@ -763730,7 +763567,7 @@
     ],
     "first_seen": "2026-10-14T15:36:19.819152+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942": {
     "uid": "workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942",
@@ -763889,7 +763726,7 @@
       "swe"
     ],
     "first_seen": "2026-10-14T15:36:19.819152+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:zoom:/job/San-Jose-CA/Audio-AI-Engineer_R19753-1": {
@@ -764370,7 +764207,7 @@
     ],
     "first_seen": "2026-10-14T15:36:19.819152+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "lever:mobileye:9495066e-ebcc-49ed-bac5-0480be15753f": {
     "uid": "lever:mobileye:9495066e-ebcc-49ed-bac5-0480be15753f",
@@ -767302,7 +767139,7 @@
       "swe"
     ],
     "first_seen": "2026-10-14T19:48:57.205316+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:zoom:/job/Seattle-WA/Agentic-AI-Engineer_R19719": {
@@ -769366,7 +769203,7 @@
       "swe"
     ],
     "first_seen": "2026-10-14T22:48:17.055100+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   },
   "workday:blueorigin:/job/Space-Coast-FL/Launch-Engineer-III---Propulsion_R73860": {
@@ -770331,7 +770168,7 @@
     ],
     "first_seen": "2026-10-15T06:01:07.758351+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210778199": {
     "uid": "oraclecloud:jpmc:210778199",
@@ -770847,7 +770684,7 @@
     ],
     "first_seen": "2026-10-15T06:01:07.758351+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:thales:/job/Benalla/Project-Engineer_R0342871-1": {
     "uid": "workday:thales:/job/Benalla/Project-Engineer_R0342871-1",
@@ -771413,7 +771250,7 @@
     ],
     "first_seen": "2026-10-15T06:01:07.758351+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:intel:/job/Mexico-Guadalajara/AI-Frameworks-Engineer---Intern_JR0288217": {
     "uid": "workday:intel:/job/Mexico-Guadalajara/AI-Frameworks-Engineer---Intern_JR0288217",
@@ -771877,7 +771714,7 @@
     ],
     "first_seen": "2026-10-15T06:01:07.758351+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:imc:5006975101": {
     "uid": "greenhouse:imc:5006975101",
@@ -772261,7 +772098,7 @@
     ],
     "first_seen": "2026-10-15T11:47:24.357669+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210788791": {
     "uid": "oraclecloud:jpmc:210788791",
@@ -772277,7 +772114,7 @@
     ],
     "first_seen": "2026-10-15T11:47:24.357669+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210796596": {
     "uid": "oraclecloud:jpmc:210796596",
@@ -772357,7 +772194,7 @@
     ],
     "first_seen": "2026-10-15T11:47:24.357669+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210800615": {
     "uid": "oraclecloud:jpmc:210800615",
@@ -772578,7 +772415,7 @@
     ],
     "first_seen": "2026-10-15T11:47:24.357669+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:factset:/job/Philippines-Manila-One-Le-Grand-Tower-Manila---One-Le-Grand/Research-Analyst_R33077-3": {
     "uid": "workday:factset:/job/Philippines-Manila-One-Le-Grand-Tower-Manila---One-Le-Grand/Research-Analyst_R33077-3",
@@ -776463,7 +776300,7 @@
     ],
     "first_seen": "2026-10-15T15:55:06.528520+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:fis:/job/US-FL-JAX-347/JR0310145-Artificial-Intelligence---Machine-Learning-Engineer_JR0310146": {
     "uid": "workday:fis:/job/US-FL-JAX-347/JR0310145-Artificial-Intelligence---Machine-Learning-Engineer_JR0310146",
@@ -778070,7 +777907,7 @@
     ],
     "first_seen": "2026-10-15T15:55:06.528520+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "jibe:careers.amd.com:93732": {
     "uid": "jibe:careers.amd.com:93732",
@@ -778838,7 +778675,7 @@
     ],
     "first_seen": "2026-10-15T15:55:06.528520+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:usaa:/job/San-Antonio-Home-Office-I/Mid-Level-Software-Engineer----Database-DevOps_R0119929": {
     "uid": "workday:usaa:/job/San-Antonio-Home-Office-I/Mid-Level-Software-Engineer----Database-DevOps_R0119929",
@@ -780815,7 +780652,7 @@
     ],
     "first_seen": "2026-10-15T19:32:36.824206+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "amazon:10580389": {
     "uid": "amazon:10580389",
@@ -783446,7 +783283,7 @@
     ],
     "first_seen": "2026-10-15T22:45:03.584129+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": true
+    "active": false
   },
   "workday:hpe:/job/San-Juan-Puerto-Rico-Puerto-Rico/SW-Engineering--Quality-Assurance-_1215084-1": {
     "uid": "workday:hpe:/job/San-Juan-Puerto-Rico-Puerto-Rico/SW-Engineering--Quality-Assurance-_1215084-1",
@@ -784828,6 +784665,1223 @@
     ],
     "first_seen": "2026-10-16T00:52:57.086775+00:00",
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "active": true
+  },
+  "workday:blackrock:/job/Gurugram-India/Associate--Data-Engineer-Workplace-Data---Insights_R266668": {
+    "uid": "workday:blackrock:/job/Gurugram-India/Associate--Data-Engineer-Workplace-Data---Insights_R266668",
+    "company": "BlackRock",
+    "title": "Associate, Data Engineer Workplace Data & Insights",
+    "location": "Gurugram, India",
+    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Gurugram-India/Associate--Data-Engineer-Workplace-Data---Insights_R266668",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "asset-mgmt"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:citi:/job/Tampa-Florida-United-States/Java-Developer--Officer_26998587": {
+    "uid": "workday:citi:/job/Tampa-Florida-United-States/Java-Developer--Officer_26998587",
+    "company": "Citi",
+    "title": "Java Developer, Officer",
+    "location": "Tampa Florida United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Java-Developer--Officer_26998587",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Development-Programmer-Analyst_26991366": {
+    "uid": "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Development-Programmer-Analyst_26991366",
+    "company": "Citi",
+    "title": "Application Development Programmer Analyst",
+    "location": "1/124, SHIVAJI GARDENS, MOONLI",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Development-Programmer-Analyst_26991366",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:citi:/job/Pune-Maharashtra-India/Application-Developer-Programmer-Analyst_261000777": {
+    "uid": "workday:citi:/job/Pune-Maharashtra-India/Application-Developer-Programmer-Analyst_261000777",
+    "company": "Citi",
+    "title": "Application Developer Programmer Analyst",
+    "location": "Pune Maharashtra India",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Application-Developer-Programmer-Analyst_261000777",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:citi:/job/Shanghai-Shanghai-China/Research-Analyst---C12---SHANGHAI_26991875": {
+    "uid": "workday:citi:/job/Shanghai-Shanghai-China/Research-Analyst---C12---SHANGHAI_26991875",
+    "company": "Citi",
+    "title": "Research Analyst - C12 - SHANGHAI",
+    "location": "Shanghai Shanghai China",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Shanghai-Shanghai-China/Research-Analyst---C12---SHANGHAI_26991875",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "avature:recruitment.macquarie.com:24312": {
+    "uid": "avature:recruitment.macquarie.com:24312",
+    "company": "Macquarie",
+    "title": "UI Engineer",
+    "location": "Sydney Office",
+    "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24312",
+    "ats": "avature",
+    "posted_at": null,
+    "category": "full-time",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:statestreet:/job/Hangzhou-China/Transaction-Services-Software-Engineer--SrAssc_R-799240": {
+    "uid": "workday:statestreet:/job/Hangzhou-China/Transaction-Services-Software-Engineer--SrAssc_R-799240",
+    "company": "State Street",
+    "title": "Transaction Services Software Engineer, SrAssc",
+    "location": "Hangzhou, China",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Hangzhou-China/Transaction-Services-Software-Engineer--SrAssc_R-799240",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank",
+      "asset-mgmt"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "lever:shieldai:8436804b-9460-4a14-9062-b45d4583a00a": {
+    "uid": "lever:shieldai:8436804b-9460-4a14-9062-b45d4583a00a",
+    "company": "Shield AI",
+    "title": "EWIS Harness Design - Engineer I",
+    "location": "Seattle, Washington",
+    "url": "https://jobs.lever.co/shieldai/8436804b-9460-4a14-9062-b45d4583a00a",
+    "ats": "lever",
+    "posted_at": "2026-10-16T02:47:52.804000+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "ashby:saronic:846faa91-763f-4c16-aec5-2cd48830d3ff": {
+    "uid": "ashby:saronic:846faa91-763f-4c16-aec5-2cd48830d3ff",
+    "company": "Saronic",
+    "title": "Systems Engineer I",
+    "location": "Austin, TX",
+    "url": "https://jobs.ashbyhq.com/saronic/846faa91-763f-4c16-aec5-2cd48830d3ff",
+    "ats": "ashby",
+    "posted_at": "2026-10-16T01:15:25.839+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:cmegroup:/job/Chicago---20-S-Wacker/Staff-Engineer-Data-Platform_33119": {
+    "uid": "workday:cmegroup:/job/Chicago---20-S-Wacker/Staff-Engineer-Data-Platform_33119",
+    "company": "CME Group",
+    "title": "Platform Engineer I",
+    "location": "Chicago - 20 S. Wacker",
+    "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Staff-Engineer-Data-Platform_33119",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "fintech"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:factset:/job/Hyderabad-IND/Software-Engineer---III---FactSet-Wealth-Platform-FY26_R30668": {
+    "uid": "workday:factset:/job/Hyderabad-IND/Software-Engineer---III---FactSet-Wealth-Platform-FY26_R30668",
+    "company": "FactSet",
+    "title": "Software Engineer-  III - FactSet Wealth Platform-FY26",
+    "location": "Hyderabad, IND",
+    "url": "https://factset.wd108.myworkdayjobs.com/en-US/FactSetCareers/job/Hyderabad-IND/Software-Engineer---III---FactSet-Wealth-Platform-FY26_R30668",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "fintech"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "smartrecruiters:wise:744000155902634": {
+    "uid": "smartrecruiters:wise:744000155902634",
+    "company": "Wise",
+    "title": "Wise Platform Enterprise Specialist",
+    "location": "Singapore, sg",
+    "url": "https://jobs.smartrecruiters.com/wise/744000155902634",
+    "ats": "smartrecruiters",
+    "posted_at": "2026-10-16T03:01:50.003Z",
+    "category": "full-time",
+    "tags": [
+      "fintech",
+      "uk"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:alpaca:6226254004": {
+    "uid": "greenhouse:alpaca:6226254004",
+    "company": "Alpaca",
+    "title": "Full-Stack Platform Engineer",
+    "location": "Remote - Americas ",
+    "url": "https://job-boards.greenhouse.io/alpaca/jobs/6226254004",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T21:17:28-04:00",
+    "category": "full-time",
+    "tags": [
+      "fintech"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:peak6group:/job/Manila-Philippines/Trading-Operations-Analyst--Weekend-Overnight-Coverage-_JR105322-1": {
+    "uid": "workday:peak6group:/job/Manila-Philippines/Trading-Operations-Analyst--Weekend-Overnight-Coverage-_JR105322-1",
+    "company": "Apex Fintech Solutions",
+    "title": "Trading Operations Analyst (Weekend/Overnight Coverage)",
+    "location": "Manila, Philippines",
+    "url": "https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/Manila-Philippines/Trading-Operations-Analyst--Weekend-Overnight-Coverage-_JR105322-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "fintech"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "smartrecruiters:BoschGroup:744000155904234": {
+    "uid": "smartrecruiters:BoschGroup:744000155904234",
+    "company": "Bosch",
+    "title": "[SX/EIT-MM] Embedded System Test Engineer - Home Appliances (1-year contract)",
+    "location": "Tân Bình, Hồ Chí Minh, vn",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155904234",
+    "ats": "smartrecruiters",
+    "posted_at": "2026-10-16T03:33:24.418Z",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "smartrecruiters:BoschGroup:744000155901649": {
+    "uid": "smartrecruiters:BoschGroup:744000155901649",
+    "company": "Bosch",
+    "title": "[Internship] Logistics Cost Clearance Intern",
+    "location": "Thu Duc City, vn",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155901649",
+    "ats": "smartrecruiters",
+    "posted_at": "2026-10-16T02:39:16.766Z",
+    "category": "internship",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "oraclecloud:fa-evmr-saasfaprod1:41087": {
+    "uid": "oraclecloud:fa-evmr-saasfaprod1:41087",
+    "company": "Nokia",
+    "title": "NPI Engineering Intern (AI-Assisted Operations)",
+    "location": "Malaysia",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-16",
+    "category": "internship",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:roche:/job/Petaling-Jaya/Enterprise-Master-Data-Management---Intern_202609-124194": {
+    "uid": "workday:roche:/job/Petaling-Jaya/Enterprise-Master-Data-Management---Intern_202609-124194",
+    "company": "Roche",
+    "title": "Enterprise Master Data Management - Intern",
+    "location": "Petaling Jaya",
+    "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/Enterprise-Master-Data-Management---Intern_202609-124194",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:dyson:/job/Singapore---Advanced-Manufacturing/Process-Engineer_JR39096": {
+    "uid": "workday:dyson:/job/Singapore---Advanced-Manufacturing/Process-Engineer_JR39096",
+    "company": "Dyson",
+    "title": "Process Engineer",
+    "location": "Singapore - Advanced Manufacturing",
+    "url": "https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---Advanced-Manufacturing/Process-Engineer_JR39096",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "uk"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:thales:/job/Singapore/Software-Engineer_R0339812": {
+    "uid": "workday:thales:/job/Singapore/Software-Engineer_R0339812",
+    "company": "Thales",
+    "title": "Software Engineer",
+    "location": "Singapore",
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-Engineer_R0339812",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:thales:/job/SINGAPORE/HR-Automation-Intern_R0344795": {
+    "uid": "workday:thales:/job/SINGAPORE/HR-Automation-Intern_R0344795",
+    "company": "Thales",
+    "title": "HR Automation Intern",
+    "location": "SINGAPORE",
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:thales:/job/Melbourne/Validation---Verification-Engineer-TopSky-One_R0341757": {
+    "uid": "workday:thales:/job/Melbourne/Validation---Verification-Engineer-TopSky-One_R0341757",
+    "company": "Thales",
+    "title": "Validation & Verification Engineer TopSky One",
+    "location": "Melbourne",
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Melbourne/Validation---Verification-Engineer-TopSky-One_R0341757",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:abb:/job/Bangalore-Karnataka-India/Talent-Pool--FP-A--Data-Scientist---Analytics-Specialist----Data---AI-Specialist_JR00031176": {
+    "uid": "workday:abb:/job/Bangalore-Karnataka-India/Talent-Pool--FP-A--Data-Scientist---Analytics-Specialist----Data---AI-Specialist_JR00031176",
+    "company": "ABB",
+    "title": "Talent Pool -FP&A- Data Scientist / Analytics Specialist /  Data & AI Specialist",
+    "location": "Bangalore, Karnataka, India",
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Bangalore-Karnataka-India/Talent-Pool--FP-A--Data-Scientist---Analytics-Specialist----Data---AI-Specialist_JR00031176",
+    "ats": "workday",
+    "posted_at": "Posted 30+ Days Ago",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:abb:/job/Shanghai-Shanghai-China/Supplier--Quality-Engineer_JR00024540-1": {
+    "uid": "workday:abb:/job/Shanghai-Shanghai-China/Supplier--Quality-Engineer_JR00024540-1",
+    "company": "ABB",
+    "title": "Supplier  Quality Engineer",
+    "location": "Shanghai, Shanghai, China",
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Supplier--Quality-Engineer_JR00024540-1",
+    "ats": "workday",
+    "posted_at": "Posted 30+ Days Ago",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:abb:/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954": {
+    "uid": "workday:abb:/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954",
+    "company": "ABB",
+    "title": "Power electronics engineer, main circuit",
+    "location": "Beijing, Beijing, China",
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954",
+    "ats": "workday",
+    "posted_at": "Posted 30+ Days Ago",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:abb:/job/Izmir-zmir-Trkiye/Field-Service-Engineer_JR00021873": {
+    "uid": "workday:abb:/job/Izmir-zmir-Trkiye/Field-Service-Engineer_JR00021873",
+    "company": "ABB",
+    "title": "Field Service Engineer",
+    "location": "Izmir, İzmir, Türkiye",
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Izmir-zmir-Trkiye/Field-Service-Engineer_JR00021873",
+    "ats": "workday",
+    "posted_at": "Posted 30+ Days Ago",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:novartis:/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10090076": {
+    "uid": "workday:novartis:/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10090076",
+    "company": "Novartis",
+    "title": "Business Analyst - AI Content Engine",
+    "location": "Hyderabad (Office)",
+    "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10090076",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:affirm:8032175003": {
+    "uid": "greenhouse:affirm:8032175003",
+    "company": "Affirm",
+    "title": "Software Engineer II, Mobile (Card Acquisition)",
+    "location": "Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8032175003",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T21:10:13-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:affirm:8032173003": {
+    "uid": "greenhouse:affirm:8032173003",
+    "company": "Affirm",
+    "title": "Software Engineer II, Mobile (Card Acquisition)",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8032173003",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T21:10:11-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:spacex:8893406002": {
+    "uid": "greenhouse:spacex:8893406002",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Infrastructure ",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T21:18:04-04:00",
+    "category": "new-grad",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:spacex:8888684002": {
+    "uid": "greenhouse:spacex:8888684002",
+    "company": "SpaceX",
+    "title": "PECVD Process Engineer, Solar Cells (Starlink)",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8888684002?gh_jid=8888684002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T22:05:47-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:spacex:8893743002": {
+    "uid": "greenhouse:spacex:8893743002",
+    "company": "SpaceX",
+    "title": "Security Engineer",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8893743002?gh_jid=8893743002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T22:58:06-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:spacex:8893742002": {
+    "uid": "greenhouse:spacex:8893742002",
+    "company": "SpaceX",
+    "title": "Security Engineer",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8893742002?gh_jid=8893742002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T22:58:07-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:spacex:8893744002": {
+    "uid": "greenhouse:spacex:8893744002",
+    "company": "SpaceX",
+    "title": "Security Engineer (OT)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8893744002?gh_jid=8893744002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T22:58:52-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:spacex:8893741002": {
+    "uid": "greenhouse:spacex:8893741002",
+    "company": "SpaceX",
+    "title": "Security Engineer (Software)",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8893741002?gh_jid=8893741002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T22:57:09-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:spacex:8893740002": {
+    "uid": "greenhouse:spacex:8893740002",
+    "company": "SpaceX",
+    "title": "Security Engineer (Software)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8893740002?gh_jid=8893740002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T22:56:37-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:rocketlab:8034180003": {
+    "uid": "greenhouse:rocketlab:8034180003",
+    "company": "Rocket Lab",
+    "title": "Junior Ground Systems Engineer - Instrumentation & Control",
+    "location": "Auckland, NZ",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8034180003",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T22:18:54-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:salesforce:/job/Japan---Tokyo/Strategic-Solution-Engineer--Retail-CPG-Life-Sciences--_JR364359": {
+    "uid": "workday:salesforce:/job/Japan---Tokyo/Strategic-Solution-Engineer--Retail-CPG-Life-Sciences--_JR364359",
+    "company": "Salesforce",
+    "title": "Strategic Solution Engineer (Retail/CPG/Life Sciences))",
+    "location": "Japan - Tokyo",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Japan---Tokyo/Strategic-Solution-Engineer--Retail-CPG-Life-Sciences--_JR364359",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "amazon:10581073": {
+    "uid": "amazon:10581073",
+    "company": "Amazon",
+    "title": "Embedded Software Development Engineer, Amazon Leo Optical Inter-Satellite Link ",
+    "location": "Redmond, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10581073/embedded-software-development-engineer-amazon-leo-optical-inter-satellite-link",
+    "ats": "amazon",
+    "posted_at": "2026-10-16",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "amazon:10581088": {
+    "uid": "amazon:10581088",
+    "company": "Amazon",
+    "title": "Software Development Engineer II",
+    "location": "Chennai, Tamil Nadu, IND",
+    "url": "https://www.amazon.jobs/en/jobs/10581088/software-development-engineer-ii",
+    "ats": "amazon",
+    "posted_at": "2026-10-16",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "jibe:careers.amd.com:93412": {
+    "uid": "jibe:careers.amd.com:93412",
+    "company": "AMD",
+    "title": "SOC Verification Engineer-  SOC DDR, UMC",
+    "location": "Bangalore, Karnataka, India",
+    "url": "https://global-external-amd.icims.com/jobs/93412/login",
+    "ats": "jibe",
+    "posted_at": "2026-10-16T05:07:00+0000",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Bogota-Colombia/Solutions-Engineer---Splunk--Remote-_2027670-1": {
+    "uid": "workday:cisco:/job/Bogota-Colombia/Solutions-Engineer---Splunk--Remote-_2027670-1",
+    "company": "Cisco",
+    "title": "Solutions Engineer - Splunk (Remote)",
+    "location": "Bogota, Colombia",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bogota-Colombia/Solutions-Engineer---Splunk--Remote-_2027670-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/RTP-North-Carolina-US/IT-Software-Engineer_2026175": {
+    "uid": "workday:cisco:/job/RTP-North-Carolina-US/IT-Software-Engineer_2026175",
+    "company": "Cisco",
+    "title": "IT Software Engineer",
+    "location": "2 Locations",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/IT-Software-Engineer_2026175",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/RTP-North-Carolina-US/IT-Software-Engineer_2026424": {
+    "uid": "workday:cisco:/job/RTP-North-Carolina-US/IT-Software-Engineer_2026424",
+    "company": "Cisco",
+    "title": "IT Software Engineer",
+    "location": "RTP, North Carolina, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/IT-Software-Engineer_2026424",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Bangalore-India/AI-System-Test-Engineer_2025941-1": {
+    "uid": "workday:cisco:/job/Bangalore-India/AI-System-Test-Engineer_2025941-1",
+    "company": "Cisco",
+    "title": "AI System Test Engineer",
+    "location": "Bangalore, India",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/AI-System-Test-Engineer_2025941-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Bangalore-India/Software-Test-Engineering-Technical-Leader---Python--Networking-Security--AI---9-to-14-Years---Bangalore_2027392": {
+    "uid": "workday:cisco:/job/Bangalore-India/Software-Test-Engineering-Technical-Leader---Python--Networking-Security--AI---9-to-14-Years---Bangalore_2027392",
+    "company": "Cisco",
+    "title": "Software Test Engineering Technical Leader | Python, Networking/Security, AI | 9 to 14 Years | Bangalore",
+    "location": "Bangalore, India",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Test-Engineering-Technical-Leader---Python--Networking-Security--AI---9-to-14-Years---Bangalore_2027392",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:hpe:/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397": {
+    "uid": "workday:hpe:/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397",
+    "company": "HPE",
+    "title": "AI & HPC Performance Engineering Intern",
+    "location": "Spring, Texas, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:intel:/job/Malaysia-Penang/E-core-CPU-Power-Delivery-Engineer_JR0288286": {
+    "uid": "workday:intel:/job/Malaysia-Penang/E-core-CPU-Power-Delivery-Engineer_JR0288286",
+    "company": "Intel",
+    "title": "E-core CPU Power Delivery Engineer",
+    "location": "Malaysia, Penang",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/E-core-CPU-Power-Delivery-Engineer_JR0288286",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:intel:/job/Malaysia-Penang/E-core-CPU-Full-Chip-Physical-Design-Engineer_JR0288281": {
+    "uid": "workday:intel:/job/Malaysia-Penang/E-core-CPU-Full-Chip-Physical-Design-Engineer_JR0288281",
+    "company": "Intel",
+    "title": "E-core CPU Full Chip Physical Design Engineer",
+    "location": "Malaysia, Penang",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/E-core-CPU-Full-Chip-Physical-Design-Engineer_JR0288281",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:intel:/job/US-California-Santa-Clara/AI-Model-Optimization-Engineer_JR0288107": {
+    "uid": "workday:intel:/job/US-California-Santa-Clara/AI-Model-Optimization-Engineer_JR0288107",
+    "company": "Intel",
+    "title": "AI Model Optimization Engineer",
+    "location": "US, California, Santa Clara",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Model-Optimization-Engineer_JR0288107",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:intel:/job/Taiwan-Taipei/Ecosystem-Technical-Enabling-Engineer_JR0288127-1": {
+    "uid": "workday:intel:/job/Taiwan-Taipei/Ecosystem-Technical-Enabling-Engineer_JR0288127-1",
+    "company": "Intel",
+    "title": "Ecosystem Technical Enabling Engineer",
+    "location": "Taiwan, Taipei",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Taiwan-Taipei/Ecosystem-Technical-Enabling-Engineer_JR0288127-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:kla:/job/Ansan-Korea/Software-Application-Engineer_2642241": {
+    "uid": "workday:kla:/job/Ansan-Korea/Software-Application-Engineer_2642241",
+    "company": "KLA",
+    "title": "Software Application Engineer",
+    "location": "Ansan, Korea",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ansan-Korea/Software-Application-Engineer_2642241",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:kla:/job/Hwaseong-si-Korea/Customer-support-engineer_2638914": {
+    "uid": "workday:kla:/job/Hwaseong-si-Korea/Customer-support-engineer_2638914",
+    "company": "KLA",
+    "title": "Customer support engineer",
+    "location": "Hwaseong-si, Korea",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Hwaseong-si-Korea/Customer-support-engineer_2638914",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:nike:/job/Karnataka-India/Software-Engineer-II--ITC_R-92769": {
+    "uid": "workday:nike:/job/Karnataka-India/Software-Engineer-II--ITC_R-92769",
+    "company": "Nike",
+    "title": "Software Engineer II, ITC",
+    "location": "Karnataka, India",
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Karnataka-India/Software-Engineer-II--ITC_R-92769",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "oraclecloud:eeho:346303": {
+    "uid": "oraclecloud:eeho:346303",
+    "company": "Oracle",
+    "title": "Core Infrastructure Engineer (Software Engineer)",
+    "location": "United Kingdom (+1)",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346303",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-16",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "oraclecloud:eeho:347710": {
+    "uid": "oraclecloud:eeho:347710",
+    "company": "Oracle",
+    "title": "Cloud Solution Engineer 5",
+    "location": "Reston, VA, United States",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347710",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-15",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Fab-10NX-Singapore/Intern---CDM_JR109768": {
+    "uid": "workday:micron:/job/Fab-10NX-Singapore/Intern---CDM_JR109768",
+    "company": "Micron",
+    "title": "Intern - Chemical Laboratory and Document Management",
+    "location": "Fab 10N/X, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10NX-Singapore/Intern---CDM_JR109768",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:micron:/job/MSB-Singapore/Intern---Product-Development-Engineer_JR108915": {
+    "uid": "workday:micron:/job/MSB-Singapore/Intern---Product-Development-Engineer_JR108915",
+    "company": "Micron",
+    "title": "Intern - Product Development Engineer",
+    "location": "MSB, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/MSB-Singapore/Intern---Product-Development-Engineer_JR108915",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/PDE-HBM-NPI-Assembly-Engineer_JR100723": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/PDE-HBM-NPI-Assembly-Engineer_JR100723",
+    "company": "Micron",
+    "title": "PDE HBM NPI Assembly Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/PDE-HBM-NPI-Assembly-Engineer_JR100723",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Fab-10NX-Singapore/Intern---Planning-Strategic-Layout_JR114705": {
+    "uid": "workday:micron:/job/Fab-10NX-Singapore/Intern---Planning-Strategic-Layout_JR114705",
+    "company": "Micron",
+    "title": "Intern - Planning Strategic Layout",
+    "location": "Fab 10N/X, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10NX-Singapore/Intern---Planning-Strategic-Layout_JR114705",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/HBM-PROCESS-ENGINEER_JR113669": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-PROCESS-ENGINEER_JR113669",
+    "company": "Micron",
+    "title": "HBM PROCESS ENGINEER",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-PROCESS-ENGINEER_JR113669",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:analogdevices:/job/Philippines-Cavite-GTC/Engineer--Equipment-Engineering_R265171": {
+    "uid": "workday:analogdevices:/job/Philippines-Cavite-GTC/Engineer--Equipment-Engineering_R265171",
+    "company": "Analog Devices",
+    "title": "Engineer, Equipment Engineering",
+    "location": "Philippines, Cavite, GTC",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-GTC/Engineer--Equipment-Engineering_R265171",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:globalfoundries:/job/Singapore/MTS-Principal-Process-Module-Engineer---Advanced-Packaging-Program--25D-and-3D-Heterogeneous-Integration-_JR-2600420": {
+    "uid": "workday:globalfoundries:/job/Singapore/MTS-Principal-Process-Module-Engineer---Advanced-Packaging-Program--25D-and-3D-Heterogeneous-Integration-_JR-2600420",
+    "company": "GlobalFoundries",
+    "title": "MTS Module Engineer - Advanced Packaging Program (2.5D and 3D Heterogeneous Integration)",
+    "location": "Singapore",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/Singapore/MTS-Principal-Process-Module-Engineer---Advanced-Packaging-Program--25D-and-3D-Heterogeneous-Integration-_JR-2600420",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "ashby:applied:d6560e7d-473a-4f4f-b53d-a92aa7c6c6dc": {
+    "uid": "ashby:applied:d6560e7d-473a-4f4f-b53d-a92aa7c6c6dc",
+    "company": "Applied Intuition",
+    "title": "Software Integration Engineer - Customer Onsite",
+    "location": "Ann Arbor",
+    "url": "https://jobs.ashbyhq.com/applied/d6560e7d-473a-4f4f-b53d-a92aa7c6c6dc",
+    "ats": "ashby",
+    "posted_at": "2026-10-16T02:47:40.409+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:coupang:8248535": {
+    "uid": "greenhouse:coupang:8248535",
+    "company": "Coupang",
+    "title": "Automation Maintenance Engineer",
+    "location": "Taoyuan, Taiwan",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8248535",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T22:21:58-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:karat:8893714002": {
+    "uid": "greenhouse:karat:8893714002",
+    "company": "Karat",
+    "title": "Community Engineer (SWE3), Brilliant Black Minds (United States)",
+    "location": "Remote (United States - Select States)",
+    "url": "https://job-boards.greenhouse.io/karat/jobs/8893714002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T21:32:19-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "greenhouse:riotgames:8287413": {
+    "uid": "greenhouse:riotgames:8287413",
+    "company": "Riot Games",
+    "title": "Software Engineer II, VALORANT, Personalization ",
+    "location": "Sydney, Australia",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8287413?gh_jid=8287413",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-15T23:59:13-04:00",
+    "category": "full-time",
+    "tags": [
+      "gaming"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:dxctechnology:/job/CHN---SHANGHAI/Business-Systems-Analyst_51591957": {
+    "uid": "workday:dxctechnology:/job/CHN---SHANGHAI/Business-Systems-Analyst_51591957",
+    "company": "DXC Technology",
+    "title": "Business Systems Analyst",
+    "location": "CHN - SHANGHAI",
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/CHN---SHANGHAI/Business-Systems-Analyst_51591957",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:dxctechnology:/job/NZL---WGN---WELLINGTON/XMLNAME-2027-NZ-Graduate---Business-Consultant_51591955": {
+    "uid": "workday:dxctechnology:/job/NZL---WGN---WELLINGTON/XMLNAME-2027-NZ-Graduate---Business-Consultant_51591955",
+    "company": "DXC Technology",
+    "title": "2027 NZ Graduate - Business Consultant",
+    "location": "NZL - WGN - WELLINGTON",
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/NZL---WGN---WELLINGTON/XMLNAME-2027-NZ-Graduate---Business-Consultant_51591955",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:genpact:/job/1401-GIPL-Prestige-Technology-Park-IV-Bangalore/Data-Engineer---Data-Engineering-4A_JR10031614": {
+    "uid": "workday:genpact:/job/1401-GIPL-Prestige-Technology-Park-IV-Bangalore/Data-Engineer---Data-Engineering-4A_JR10031614",
+    "company": "Genpact",
+    "title": "Data Engineer - Data Engineering 4A",
+    "location": "1401-GIPL: Prestige Technology Park IV, Bangalore",
+    "url": "https://genpact.wd108.myworkdayjobs.com/en-US/External_Careers/job/1401-GIPL-Prestige-Technology-Park-IV-Bangalore/Data-Engineer---Data-Engineering-4A_JR10031614",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:genpact:/job/1401-G-India-Stellar-STPI-Noida/Developer---Automation-P-4A_JR10021661": {
+    "uid": "workday:genpact:/job/1401-G-India-Stellar-STPI-Noida/Developer---Automation-P-4A_JR10021661",
+    "company": "Genpact",
+    "title": "Developer - Automation P 4A",
+    "location": "1401-G-India: Stellar, STPI, Noida",
+    "url": "https://genpact.wd108.myworkdayjobs.com/en-US/External_Careers/job/1401-G-India-Stellar-STPI-Noida/Developer---Automation-P-4A_JR10021661",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:159981": {
+    "uid": "oraclecloud:ibqbjb:159981",
+    "company": "Honeywell",
+    "title": "Software Engr II",
+    "location": "India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159981",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-16",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "eightfold:netapp:44399729": {
+    "uid": "eightfold:netapp:44399729",
+    "company": "NetApp",
+    "title": "Solutions Engineer",
+    "location": "Singapore Office (SINGAPORE)",
+    "url": "https://netapp.eightfold.ai/careers/job/44399729",
+    "ats": "eightfold",
+    "posted_at": 1788772576,
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:rakuten:/job/Tokyo-Japan/Web-Producer---FMCG-Customer-Strategy-Section--FMCG-Customer-Strategy-Department--C-M-_1038916-125": {
+    "uid": "workday:rakuten:/job/Tokyo-Japan/Web-Producer---FMCG-Customer-Strategy-Section--FMCG-Customer-Strategy-Department--C-M-_1038916-125",
+    "company": "Rakuten",
+    "title": "Web Producer - FMCG Customer Strategy Section, FMCG Customer Strategy Department (C&M)",
+    "location": "Tokyo, Japan",
+    "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenInc/job/Tokyo-Japan/Web-Producer---FMCG-Customer-Strategy-Section--FMCG-Customer-Strategy-Department--C-M-_1038916-125",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
+    "active": true
+  },
+  "workday:rakuten:/job/Tokyo-Japan/DevOps-Engineer---Recommendation-Department--AI---Data-Division--AIDD-_1038754-35": {
+    "uid": "workday:rakuten:/job/Tokyo-Japan/DevOps-Engineer---Recommendation-Department--AI---Data-Division--AIDD-_1038754-35",
+    "company": "Rakuten",
+    "title": "DevOps Engineer - Recommendation Department, AI & Data Division (AIDD)",
+    "location": "Tokyo, Japan",
+    "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenInc/job/Tokyo-Japan/DevOps-Engineer---Recommendation-Department--AI---Data-Division--AIDD-_1038754-35",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-16T05:15:17.305577+00:00",
+    "last_seen": "2026-10-16T05:15:17.305577+00:00",
     "active": true
   }
 }
