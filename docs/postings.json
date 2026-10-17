@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-10-17T21:07:05.781007+00:00",
-  "count": 34640,
+  "generated_at": "2026-10-17T23:13:55.412142+00:00",
+  "count": 34630,
   "postings": [
+    {
+      "uid": "smartrecruiters:ServiceNow:744000156137939",
+      "company": "ServiceNow",
+      "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+      "location": "London, gb",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156137939",
+      "ats": "smartrecruiters",
+      "posted_at": "2026-10-17T22:17:38.427Z",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T23:13:55.412142+00:00",
+      "last_seen": "2026-10-17T23:13:55.412142+00:00",
+      "active": true
+    },
     {
       "uid": "ashby:higgsfieldai:e25dfe75-6766-4cc5-b0cc-d86be0e5f7c0",
       "company": "Higgsfield",
@@ -5078,7 +5094,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7527870003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T13:08:48-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -5253,22 +5269,6 @@
       "title": "Software Development Engineer",
       "location": "Cape Town, Western Cape, ZAF",
       "url": "https://www.amazon.jobs/en/jobs/10581425/software-development-engineer",
-      "ats": "amazon",
-      "posted_at": "2026-10-16",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-16T18:29:56.897645+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true
-    },
-    {
-      "uid": "amazon:10581525",
-      "company": "Amazon",
-      "title": "Applied Scientist, North America Sort Centers, Amazon Transportation Services, North America Sort Centers, Amazon Transportation Services",
-      "location": "Bellevue, Washington, USA",
-      "url": "https://www.amazon.jobs/en/jobs/10581525/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services",
       "ats": "amazon",
       "posted_at": "2026-10-16",
       "category": "full-time",
@@ -11713,6 +11713,23 @@
       "active": true
     },
     {
+      "uid": "workday:abb:/job/Bangalore-Karnataka-India/Talent-Pool--FP-A--Data-Scientist---Analytics-Specialist----Data---AI-Specialist_JR00031176",
+      "company": "ABB",
+      "title": "Talent Pool -FP&A- Data Scientist / Analytics Specialist /  Data & AI Specialist",
+      "location": "Bangalore, Karnataka, India",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Bangalore-Karnataka-India/Talent-Pool--FP-A--Data-Scientist---Analytics-Specialist----Data---AI-Specialist_JR00031176",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-16T05:15:17.305577+00:00",
+      "last_seen": "2026-10-17T23:13:55.412142+00:00",
+      "active": true
+    },
+    {
       "uid": "greenhouse:affirm:8032175003",
       "company": "Affirm",
       "title": "Software Engineer II, Full Stack (Card Acquisition)",
@@ -13874,7 +13891,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8034956003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -61715,7 +61732,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8025168003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -74754,7 +74771,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8017264003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -83655,7 +83672,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8016301003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -86386,22 +86403,6 @@
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-and-Python-Developer_26997765",
       "ats": "workday",
       "posted_at": "Posted 10 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-07T21:41:16.789453+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:citi:/job/London--United-Kingdom/Quantitative-Analyst--Rates-XVA--AVP_26993428",
-      "company": "Citi",
-      "title": "Quantitative Analyst, Rates XVA, AVP",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Quantitative-Analyst--Rates-XVA--AVP_26993428",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
       "tags": [
         "bank"
@@ -96231,7 +96232,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8015228003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -112141,26 +112142,6 @@
       "active": true
     },
     {
-      "uid": "beesite:api-deutschebank.beesite.de:74082",
-      "company": "Deutsche Bank",
-      "title": "Requirement Engineer, AVP",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=74082",
-      "ats": "beesite",
-      "posted_at": "2026-10-16",
-      "expires_at": "2026-10-17",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true
-    },
-    {
       "uid": "gsgraphql:186076_GS_CAMPUS",
       "company": "Goldman Sachs",
       "title": "2027 | EMEA | Frankfurt | Controllers | One Year Work Placement",
@@ -119568,23 +119549,6 @@
       "title": "CS - EUV EXE Customer Support Engineer - Hsinchu",
       "location": "Hsinchu, Taiwan",
       "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Hsinchu-Taiwan/CS---EUV-EXE-Customer-Support-Engineer---Hsinchu_J-00354097",
-      "ats": "workday",
-      "posted_at": "Posted 12 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-05T09:17:11.218071+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:asml:/job/Erlangen-Germany/Fiber-Drawing-Engineer--Erlangen--Germany-_J-00353581-2",
-      "company": "ASML",
-      "title": "Fiber Drawing Engineer (Erlangen, Germany)",
-      "location": "Erlangen, Germany",
-      "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Erlangen-Germany/Fiber-Drawing-Engineer--Erlangen--Germany-_J-00353581-2",
       "ats": "workday",
       "posted_at": "Posted 12 Days Ago",
       "category": "full-time",
@@ -134266,23 +134230,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:blackrock:/job/London-Greater-London/Private-Funds-Lawyer-Infrastructure_R264763-1",
-      "company": "BlackRock",
-      "title": "Private Funds Lawyer Infrastructure",
-      "location": "London, Greater London",
-      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Private-Funds-Lawyer-Infrastructure_R264763-1",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "asset-mgmt"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:blackrock:/job/Hong-Kong-Hong-Kong/Associate--APAC-ETF-Platform_R265902",
       "company": "BlackRock",
       "title": "Associate, APAC ETF Platform",
@@ -147239,27 +147186,6 @@
       "ats": "beesite",
       "posted_at": "2025-12-05",
       "expires_at": "2099-12-31",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:68075",
-      "company": "Deutsche Bank",
-      "title": "GCP - JAVA Developer, AVP",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=68075",
-      "ats": "beesite",
-      "posted_at": "2026-10-16",
-      "expires_at": "2026-10-17",
       "category": "full-time",
       "tags": [
         "bank",
@@ -165910,40 +165836,6 @@
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:citi:/job/London--United-Kingdom/Markets--Quantitative-Analysis--Full-Time-Associate--London--2027_26984782",
-      "company": "Citi",
-      "title": "Markets, Quantitative Analysis, Full Time Associate, London, 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Full-Time-Associate--London--2027_26984782",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:citi:/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134",
-      "company": "Citi",
-      "title": "Markets, Quantitative Analysis, Off Cycle Placement , London, UK, 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "internship",
       "tags": [
         "bank"
       ],
@@ -187374,23 +187266,6 @@
       "ats": "workday",
       "posted_at": null,
       "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:pjtpartners:/job/Madrid/XMLNAME-2027-July-Off-Cycle-Analyst--Strategic-Advisory---Restructuring--Madrid_R0003507",
-      "company": "PJT Partners",
-      "title": "2027 July Off-Cycle Analyst (Strategic Advisory & Restructuring) Madrid",
-      "location": "Madrid",
-      "url": "https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/Madrid/XMLNAME-2027-July-Off-Cycle-Analyst--Strategic-Advisory---Restructuring--Madrid_R0003507",
-      "ats": "workday",
-      "posted_at": null,
-      "category": "full-time",
       "tags": [
         "bank"
       ],
@@ -294067,24 +293942,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:sky:/job/Milan-Monte-Penice/Proposition---Go-To-Market-Intern---Sky-Business_R0056584",
-      "company": "Sky",
-      "title": "Proposition & Go To Market Intern - Sky Business",
-      "location": "Milan, Monte Penice",
-      "url": "https://sky.wd3.myworkdayjobs.com/en-US/sky_careers/job/Milan-Monte-Penice/Proposition---Go-To-Market-Intern---Sky-Business_R0056584",
-      "ats": "workday",
-      "posted_at": "Posted 29 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:sky:/job/Prague/CDN-Engineer_R0055608",
       "company": "Sky",
       "title": "CDN Engineer",
@@ -294921,24 +294778,6 @@
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:dyson:/job/Germany---Cologne-Office/Online-Retail-Activation-Intern_JR37829-1",
-      "company": "Dyson",
-      "title": "Online Retail Activation Intern",
-      "location": "Germany - Cologne Office",
-      "url": "https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Germany---Cologne-Office/Online-Retail-Activation-Intern_JR37829-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
       "tags": [
         "swe",
         "uk"
@@ -316833,23 +316672,6 @@
       "backfill": true
     },
     {
-      "uid": "smartrecruiters:ServiceNow:744000153211799",
-      "company": "ServiceNow",
-      "title": "Forward Deployed Solution Engineer – Applied AI FDE",
-      "location": "London, gb",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153211799",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-10-02T15:03:01.251Z",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "smartrecruiters:ServiceNow:744000152733049",
       "company": "ServiceNow",
       "title": "Machine Learning Engineer",
@@ -329929,7 +329751,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T17:03:11-04:00",
+      "posted_at": "2026-10-17T19:18:05-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -331935,7 +331757,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T17:03:25-04:00",
+      "posted_at": "2026-10-17T19:18:09-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -331986,7 +331808,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T17:03:13-04:00",
+      "posted_at": "2026-10-17T19:18:07-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333533,7 +333355,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010632003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333550,7 +333372,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010108003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -333567,7 +333389,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824780003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333584,7 +333406,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010158003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333601,7 +333423,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8012121003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:42:44-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -333618,7 +333440,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824834003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333635,7 +333457,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7990833003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -333652,7 +333474,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824766003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333669,7 +333491,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8005821003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333686,7 +333508,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824783003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333703,7 +333525,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333720,7 +333542,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333737,7 +333559,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8005846003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333754,7 +333576,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824781003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333771,7 +333593,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7865601003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333788,7 +333610,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6485429003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:27:16-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -333805,7 +333627,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7997888003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -333822,7 +333644,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824821003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333839,7 +333661,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010168003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333856,7 +333678,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010682003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333873,7 +333695,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7996649003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:31:26-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -333890,7 +333712,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824765003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333907,7 +333729,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010169003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333924,7 +333746,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8012135003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:45:26-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -333941,7 +333763,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -333958,7 +333780,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8011213003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -333975,7 +333797,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010651003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:40:07-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -333992,7 +333814,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824817003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -334009,7 +333831,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010167003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -334026,7 +333848,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824827003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -334043,7 +333865,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010172003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -334060,7 +333882,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8012031003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -334077,7 +333899,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824772003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -334094,7 +333916,7 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010170003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:18:06-04:00",
+      "posted_at": "2026-10-17T17:24:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
