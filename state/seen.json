@@ -9367,10 +9367,10 @@
     "uid": "greenhouse:anthropic:5057647008",
     "company": "Anthropic",
     "title": "Applied AI Engineer, Enterprise Tech",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
     "ats": "greenhouse",
-    "posted_at": "2026-09-09T17:34:03-04:00",
+    "posted_at": "2026-10-16T23:56:40-04:00",
     "category": "full-time",
     "tags": [
       "ai",
@@ -15942,23 +15942,6 @@
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
     "active": true
   },
-  "ashby:Mercor:e2c6a4a0-87d2-425d-bf2c-322e6128d8dc": {
-    "uid": "ashby:Mercor:e2c6a4a0-87d2-425d-bf2c-322e6128d8dc",
-    "company": "Mercor",
-    "title": "Research Engineer – Benchmarking, Evals & Failure Analysis",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/Mercor/e2c6a4a0-87d2-425d-bf2c-322e6128d8dc",
-    "ats": "ashby",
-    "posted_at": "2026-04-08T21:54:14.192+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-18T00:35:04.823387+00:00",
-    "active": false
-  },
   "ashby:Mercor:3c02ed8c-3807-4aef-91cc-ccca5ab578bd": {
     "uid": "ashby:Mercor:3c02ed8c-3807-4aef-91cc-ccca5ab578bd",
     "company": "Mercor",
@@ -18988,38 +18971,6 @@
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-10-05T02:09:25.142598+00:00",
-    "active": false
-  },
-  "greenhouse:databricks:8298792002": {
-    "uid": "greenhouse:databricks:8298792002",
-    "company": "Databricks",
-    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "location": "Sydney, Australia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T14:54:34-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-18T04:03:20.194098+00:00",
-    "active": false
-  },
-  "greenhouse:databricks:8330188002": {
-    "uid": "greenhouse:databricks:8330188002",
-    "company": "Databricks",
-    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "location": "Melbourne, Australia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8330188002",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T14:54:34-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-18T04:03:20.194098+00:00",
     "active": false
   },
   "greenhouse:databricks:8574655002": {
@@ -26092,22 +26043,6 @@
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-08-18T18:20:11.261925+00:00",
-    "active": false
-  },
-  "workday:nvidia:/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2017060-1": {
-    "uid": "workday:nvidia:/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2017060-1",
-    "company": "NVIDIA",
-    "title": "Developer Technology Engineer - AI",
-    "location": "3 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2017060-1",
-    "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-18T03:13:27.687973+00:00",
     "active": false
   },
   "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure_JR2019248": {
@@ -84114,22 +84049,6 @@
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
     "active": true
   },
-  "workday:salesforce:/job/Australia---Sydney/XMLNAME-2026-Legal-Summer-Intern---Sydney_JR354606-1": {
-    "uid": "workday:salesforce:/job/Australia---Sydney/XMLNAME-2026-Legal-Summer-Intern---Sydney_JR354606-1",
-    "company": "Salesforce",
-    "title": "2026 Legal Summer Intern - Sydney",
-    "location": "Australia - Sydney",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Australia---Sydney/XMLNAME-2026-Legal-Summer-Intern---Sydney_JR354606-1",
-    "ats": "workday",
-    "posted_at": "Posted Today",
-    "category": "internship",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-03T03:42:43.802162+00:00",
-    "last_seen": "2026-08-18T00:35:04.823387+00:00",
-    "active": false
-  },
   "eightfold:mlp:755957837799": {
     "uid": "eightfold:mlp:755957837799",
     "company": "Millennium",
@@ -125755,7 +125674,7 @@
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T08:23:28-04:00",
+    "posted_at": "2026-10-16T20:14:52-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -147464,8 +147383,8 @@
       "quant"
     ],
     "first_seen": "2026-10-01T13:35:52.528478+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": false
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
   },
   "eightfold:mlp:755958997059": {
     "uid": "eightfold:mlp:755958997059",
@@ -155421,7 +155340,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155439,7 +155358,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155457,7 +155376,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155475,7 +155394,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155493,7 +155412,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155511,7 +155430,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155529,7 +155448,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155547,7 +155466,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155565,7 +155484,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155583,7 +155502,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155601,7 +155520,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155619,7 +155538,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155637,7 +155556,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155655,7 +155574,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155673,7 +155592,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155691,7 +155610,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155709,7 +155628,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155727,7 +155646,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155745,7 +155664,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155763,7 +155682,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155781,7 +155700,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155799,7 +155718,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155817,7 +155736,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155835,7 +155754,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155853,7 +155772,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155871,7 +155790,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155889,7 +155808,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155907,7 +155826,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155925,7 +155844,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155943,7 +155862,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155961,7 +155880,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155979,7 +155898,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -155997,7 +155916,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -156015,7 +155934,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -156033,7 +155952,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -156051,7 +155970,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -156069,7 +155988,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -156087,7 +156006,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -156105,7 +156024,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -156123,7 +156042,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -156141,7 +156060,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -156159,7 +156078,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -165447,7 +165366,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:fmr:/job/822-North-Highway-A1A-Ponte-Vedra-Beach-FL/Intern--Investor-Center---Ponte-Vedra-Beach--FL_2135977": {
@@ -178253,7 +178172,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -178271,7 +178190,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -178289,7 +178208,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -178307,7 +178226,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -178325,7 +178244,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179178,7 +179097,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179196,7 +179115,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179214,7 +179133,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179232,7 +179151,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179250,7 +179169,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179268,7 +179187,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179304,7 +179223,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179322,7 +179241,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179340,7 +179259,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179358,7 +179277,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179376,7 +179295,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179394,7 +179313,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179412,7 +179331,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179430,7 +179349,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179448,7 +179367,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179466,7 +179385,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179502,7 +179421,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179520,7 +179439,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179538,7 +179457,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179556,7 +179475,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179574,7 +179493,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179610,7 +179529,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179628,7 +179547,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179646,7 +179565,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179682,7 +179601,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179700,7 +179619,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179718,7 +179637,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179736,7 +179655,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179754,7 +179673,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179772,7 +179691,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179790,7 +179709,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -179808,7 +179727,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -209637,7 +209556,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:jpmc:210790798": {
@@ -217049,7 +216968,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rbc:/job/TORONTO-Ontario-Canada/Client-Account-Platform-Support-Specialist--CAPSS-_R-0000187800-1": {
@@ -217253,7 +217172,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rbc:/job/TORONTO-Ontario-Canada/AI-Engineer_R-0000186711-1": {
@@ -217831,7 +217750,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO-Winter-Process-Re-Engineering-Intern--4-Months-_R-0000188575": {
@@ -223087,7 +223006,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:td:/job/Toronto-Ontario/Data-Scientist-II_R_1514109": {
@@ -223104,7 +223023,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:td:/job/Toronto-Ontario/Data-Scientist-II_R_1514106": {
@@ -223614,7 +223533,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:td:/job/Toronto-Ontario/Data-Scientist-III_R_1512878-1": {
@@ -223682,7 +223601,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:td:/job/Belfast-United-Kingdom/Software-Java-Engineer_R_1509440": {
@@ -225450,7 +225369,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/Toronto-ON-CAN/Private-Wealth-Analyst--Summer-2027--Co-op-Internship----4-months_R260025470": {
@@ -225671,7 +225590,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/Magog-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Magog---4-months_R260026751": {
@@ -225705,7 +225624,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/Calgary-AB-CAN/Commercial-Banking-Credit-Analyst-Internship---Calgary--Summer-2027--Co-op-Internship----4-months_R260026716": {
@@ -225773,7 +225692,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/St-Georges-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Saint-Georges-de-Beauce---4-months_R260026741": {
@@ -225807,7 +225726,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726": {
@@ -226453,7 +226372,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/Toronto-ON-CAN/Private-Wealth-Analyst--Summer-2027--Co-op-Internship----4-months_R260025470-2": {
@@ -226521,7 +226440,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/Magog-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Magog---4-months_R260026751-1": {
@@ -226555,7 +226474,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/Calgary-AB-CAN/Commercial-Banking-Credit-Analyst-Internship---Calgary--Summer-2027--Co-op-Internship----4-months_R260026716-1": {
@@ -226623,7 +226542,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/St-Georges-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Saint-Georges-de-Beauce---4-months_R260026741-1": {
@@ -226657,7 +226576,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:bmo:/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726-1": {
@@ -240530,7 +240449,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:statestreet:/job/Singapore-Singapore/Early-Career-Cyber-Defense-Centre-Analyst--Officer-1_R-798098-1": {
@@ -240602,7 +240521,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:statestreet:/job/Hyderabad-India/Cloud-Platform-Engineer--Officer_R-792182": {
@@ -241808,7 +241727,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:statestreet:/job/Irvine-California/Software-Engineering---Development_R-794061": {
@@ -242572,7 +242491,7 @@
     "location": "TX - Dallas (75201)",
     "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/TX---Dallas-75201/Relationship-Strategist-III---PNC-Private-Bank_R200693-1",
     "ats": "workday",
-    "posted_at": "Posted 15 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
@@ -243116,14 +243035,14 @@
     "location": "3 Locations",
     "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/IL---Chicago/Corporate---Institutional-Banking-Undergraduate-Intern---Business-Credit_R230898-1",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "internship",
     "tags": [
       "bank"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false,
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:pnc:/job/IL---Chicago/Corporate---Institutional-Banking-Undergraduate-Intern---Commercial---Corporate-Banking---Financials-and-Diversified-Track_R230900-1": {
@@ -244398,7 +244317,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:truist:/job/Raleigh-NC/Security-Engineer---Directory-Services_R0119843": {
@@ -295537,7 +295456,7 @@
     "uid": "rippling:rippling:f64b6158-9534-4bab-9457-45556166b262",
     "company": "Rippling",
     "title": "Full Stack Software Engineer Intern - Summer 2027",
-    "location": "New York, NY",
+    "location": "San Francisco, CA",
     "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
     "ats": "rippling",
     "posted_at": null,
@@ -295627,7 +295546,7 @@
     "uid": "rippling:rippling:844d2bdf-d672-46d9-a763-6788ba803248",
     "company": "Rippling",
     "title": "Software Engineer II, Backend - Financial Product",
-    "location": "Seattle, WA",
+    "location": "San Francisco, CA",
     "url": "https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248",
     "ats": "rippling",
     "posted_at": null,
@@ -295681,7 +295600,7 @@
     "uid": "rippling:rippling:18d9c9ed-c878-4e78-83a0-6e24cf0bcc9d",
     "company": "Rippling",
     "title": "Software Engineer II, Backend - Platform Team ",
-    "location": "Seattle, WA",
+    "location": "San Francisco, CA",
     "url": "https://ats.rippling.com/rippling/jobs/18d9c9ed-c878-4e78-83a0-6e24cf0bcc9d",
     "ats": "rippling",
     "posted_at": null,
@@ -295717,7 +295636,7 @@
     "uid": "rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba",
     "company": "Rippling",
     "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-    "location": "San Francisco, CA",
+    "location": "New York, NY",
     "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
     "ats": "rippling",
     "posted_at": null,
@@ -297490,7 +297409,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -297508,7 +297427,7 @@
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -376400,7 +376319,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rollsroyce:/job/Indianapolis/T56-Helicopter-Programs-Lifecycle-Engineer_JR6158707": {
@@ -376508,7 +376427,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rollsroyce:/job/Magdeburg/MRO-Engineer--m-w-d-_JR6156571-2": {
@@ -376724,7 +376643,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rollsroyce:/job/Bristol/Software-Engineer_JR6157836": {
@@ -376778,7 +376697,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rollsroyce:/job/Indianapolis/T56-Helicopters-System-Safety---Reliability-Engineer_JR6160417": {
@@ -395912,7 +395831,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Order-Execution-Intern_JR00045945": {
@@ -400555,7 +400474,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -400717,7 +400636,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -400735,7 +400654,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -400771,7 +400690,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -400789,7 +400708,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -400825,7 +400744,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -400861,7 +400780,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -400897,7 +400816,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -400915,7 +400834,7 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true,
     "backfill": true
   },
@@ -405681,7 +405600,7 @@
     "location": "Saudi Arabia",
     "url": "https://lucidmotors.com/careers/search/5240766007?gh_jid=5240766007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T21:42:00-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405698,7 +405617,7 @@
     "location": "Newark, CA",
     "url": "https://lucidmotors.com/careers/search/5213971007?gh_jid=5213971007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T22:21:04-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405715,7 +405634,7 @@
     "location": "Saudi Arabia",
     "url": "https://lucidmotors.com/careers/search/5206613007?gh_jid=5206613007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T23:05:31-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405732,7 +405651,7 @@
     "location": "Southfield, MI",
     "url": "https://lucidmotors.com/careers/search/5213741007?gh_jid=5213741007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T22:45:55-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405749,7 +405668,7 @@
     "location": "Saudi Arabia",
     "url": "https://lucidmotors.com/careers/search/5213583007?gh_jid=5213583007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T22:55:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405766,7 +405685,7 @@
     "location": "Casa Grande, AZ",
     "url": "https://lucidmotors.com/careers/search/5175805007?gh_jid=5175805007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T23:45:17-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405783,7 +405702,7 @@
     "location": "Newark, CA",
     "url": "https://lucidmotors.com/careers/search/5214138007?gh_jid=5214138007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T22:30:52-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405800,7 +405719,7 @@
     "location": "King Abdullah Economic City, 02",
     "url": "https://lucidmotors.com/careers/search/5213600007?gh_jid=5213600007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T22:57:09-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405817,7 +405736,7 @@
     "location": "Saudi Arabia",
     "url": "https://lucidmotors.com/careers/search/5210121007?gh_jid=5210121007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T23:02:57-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405834,7 +405753,7 @@
     "location": "King Abdullah Economic City, 02",
     "url": "https://lucidmotors.com/careers/search/5236192007?gh_jid=5236192007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T21:57:51-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405868,7 +405787,7 @@
     "location": "Newark, CA",
     "url": "https://lucidmotors.com/careers/search/5213765007?gh_jid=5213765007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T22:20:45-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405885,7 +405804,7 @@
     "location": "Southfield, MI",
     "url": "https://lucidmotors.com/careers/search/5199878007?gh_jid=5199878007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T23:02:29-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405902,7 +405821,7 @@
     "location": "Newark, CA",
     "url": "https://lucidmotors.com/careers/search/5242880007?gh_jid=5242880007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T20:58:07-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405953,7 +405872,7 @@
     "location": "Saudi Arabia",
     "url": "https://lucidmotors.com/careers/search/5207660007?gh_jid=5207660007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T23:07:17-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405970,7 +405889,7 @@
     "location": "King Abdullah Economic City, 02",
     "url": "https://lucidmotors.com/careers/search/4839333007?gh_jid=4839333007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-17T00:44:46-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -405987,7 +405906,7 @@
     "location": "Saudi Arabia",
     "url": "https://lucidmotors.com/careers/search/5236199007?gh_jid=5236199007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T21:42:36-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -406004,7 +405923,7 @@
     "location": "Saudi Arabia",
     "url": "https://lucidmotors.com/careers/search/5240782007?gh_jid=5240782007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T21:10:00-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -406021,7 +405940,7 @@
     "location": "Phoenix, AZ",
     "url": "https://lucidmotors.com/careers/search/5215442007?gh_jid=5215442007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T22:26:01-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -406038,7 +405957,7 @@
     "location": "Southfield, MI",
     "url": "https://lucidmotors.com/careers/search/5199841007?gh_jid=5199841007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T23:01:37-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -406072,7 +405991,7 @@
     "location": "Southfield, MI",
     "url": "https://lucidmotors.com/careers/search/5215453007?gh_jid=5215453007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T22:23:40-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -406089,7 +406008,7 @@
     "location": "King Abdullah Economic City, 02",
     "url": "https://lucidmotors.com/careers/search/5212718007?gh_jid=5212718007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T22:49:37-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -406106,7 +406025,7 @@
     "location": "Newark, CA",
     "url": "https://lucidmotors.com/careers/search/5213750007?gh_jid=5213750007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T22:46:34-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -420981,7 +420900,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/relativity/jobs/8706617002?gh_jid=8706617002",
     "ats": "greenhouse",
-    "posted_at": "2026-10-07T17:25:53-04:00",
+    "posted_at": "2026-10-16T20:06:26-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -421338,7 +421257,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T20:03:49-04:00",
+    "posted_at": "2026-10-17T00:47:34-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -423667,7 +423586,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T20:03:54-04:00",
+    "posted_at": "2026-10-17T00:47:38-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -423718,7 +423637,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T20:03:51-04:00",
+    "posted_at": "2026-10-17T00:47:36-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -427288,7 +427207,7 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4723233005",
     "ats": "greenhouse",
-    "posted_at": "2026-09-23T16:03:01-04:00",
+    "posted_at": "2026-10-16T23:50:54-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427322,7 +427241,7 @@
     "location": "San Jose, California, United States",
     "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4720171005",
     "ats": "greenhouse",
-    "posted_at": "2026-09-23T16:03:01-04:00",
+    "posted_at": "2026-10-16T23:50:22-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427339,7 +427258,7 @@
     "location": "Taipei, Taiwan",
     "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4674945005",
     "ats": "greenhouse",
-    "posted_at": "2026-09-23T16:03:01-04:00",
+    "posted_at": "2026-10-16T23:48:20-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427356,7 +427275,7 @@
     "location": "San Jose, California, United States",
     "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4718443005",
     "ats": "greenhouse",
-    "posted_at": "2026-09-23T16:03:01-04:00",
+    "posted_at": "2026-10-16T23:50:14-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427373,7 +427292,7 @@
     "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4723493005",
     "ats": "greenhouse",
-    "posted_at": "2026-09-23T16:03:01-04:00",
+    "posted_at": "2026-10-16T23:50:58-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427407,7 +427326,7 @@
     "location": "San Jose, California, United States",
     "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4725542005",
     "ats": "greenhouse",
-    "posted_at": "2026-09-23T16:03:01-04:00",
+    "posted_at": "2026-10-16T23:51:20-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427441,7 +427360,7 @@
     "location": "San Jose, California, United States",
     "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4695147005",
     "ats": "greenhouse",
-    "posted_at": "2026-10-12T20:00:04-04:00",
+    "posted_at": "2026-10-16T23:49:21-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427458,7 +427377,7 @@
     "location": "Haifa District, Israel",
     "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4724684005",
     "ats": "greenhouse",
-    "posted_at": "2026-09-23T16:03:01-04:00",
+    "posted_at": "2026-10-16T23:50:58-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427475,7 +427394,7 @@
     "location": "San Jose, California, United States",
     "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4679263005",
     "ats": "greenhouse",
-    "posted_at": "2026-09-30T14:30:05-04:00",
+    "posted_at": "2026-10-16T23:48:39-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -435353,7 +435272,7 @@
     "location": "Cary,North Carolina,United States",
     "url": "https://epicgames.com/careers/jobs/6152496004?gh_jid=6152496004",
     "ats": "greenhouse",
-    "posted_at": "2026-09-28T16:49:19-04:00",
+    "posted_at": "2026-10-17T00:01:19-04:00",
     "category": "internship",
     "tags": [
       "gaming"
@@ -444115,7 +444034,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10535774": {
@@ -461302,7 +461221,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10433754": {
@@ -472233,7 +472152,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10432020": {
@@ -477877,7 +477796,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "jibe:careers.amd.com:88585": {
@@ -497495,7 +497414,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:disney:/job/London-United-Kingdom/XMLNAME-Net-Developer_10159924-2": {
@@ -501847,7 +501766,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Body-in-White---Zone-Engineer_JR-202618711": {
@@ -501857,7 +501776,7 @@
     "location": "Warren, Michigan, United States of America",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Body-in-White---Zone-Engineer_JR-202618711",
     "ats": "workday",
-    "posted_at": "Posted 15 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -502238,7 +502157,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Software-Engineer--Simulation_JR-202621403": {
@@ -519367,7 +519286,7 @@
     "location": "Mexico, Guadalajara",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Cloud-Software-Development-Engineer-with-uArch-Expertise--Temporary-position_JR0286204",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -540046,7 +539965,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:sec:/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-New-Grad--SEED--Program_R119156-1": {
@@ -553516,11 +553435,11 @@
   "workday:broadcom:/job/USA-California--San-Jose---1730-Fox-Drive/RF-IC-Design-and-System-Simulation-Engineer_R026818": {
     "uid": "workday:broadcom:/job/USA-California--San-Jose---1730-Fox-Drive/RF-IC-Design-and-System-Simulation-Engineer_R026818",
     "company": "Broadcom (VMware)",
-    "title": "RF IC Design and System Simulation Engineer",
+    "title": "SOI Switch RFIC Design Engineer",
     "location": "USA-California- San Jose - 1730 Fox Drive",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California--San-Jose---1730-Fox-Drive/RF-IC-Design-and-System-Simulation-Engineer_R026818",
     "ats": "workday",
-    "posted_at": "Posted 8 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -554037,7 +553956,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:broadcom:/job/USA-CA-San-Jose-Innovation-Drive/SerDes-Application-Engineer_R026491": {
@@ -593562,7 +593481,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/Santa-ClaraCA/New-College-Grad---Algorithm-Developer-III---PhD--Winter-2026-Start-_R2628587": {
@@ -601279,8 +601198,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T09:58:42.864716+00:00",
-    "active": false,
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/Pyeongtaek-NF-SummitKOR/XMLNAME----Installation-Team-Customer-Engineer---------1--_R2615160": {
@@ -601296,8 +601215,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T09:58:42.864716+00:00",
-    "active": false,
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/Santa-ClaraCA/Design-Engineer-II_R2614609": {
@@ -611496,7 +611415,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:ciena:/job/Baltimore/SVT-PV-Engineer-Routing-IP-2_R030671": {
@@ -611513,7 +611432,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cloudera:/job/Hungary--Budapest/Field-Specialist---Data-Lakehouse_261211-1": {
@@ -646103,7 +646022,7 @@
     "location": "King Abdullah Economic City, 02",
     "url": "https://lucidmotors.com/careers/search/5240648007?gh_jid=5240648007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T21:29:16-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -647742,7 +647661,7 @@
       "uk"
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "greenhouse:clearstreet:8256262": {
@@ -649286,7 +649205,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:bmo:/job/New-York-NY-USA/Software-Engineer---Analytics-and-Security-Master_R260027237": {
     "uid": "workday:bmo:/job/New-York-NY-USA/Software-Engineer---Analytics-and-Security-Master_R260027237",
@@ -649334,7 +649253,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:cibc:/job/Kirkland-QC/Mobile-Financial-Services-Representative_2608413": {
     "uid": "workday:cibc:/job/Kirkland-QC/Mobile-Financial-Services-Representative_2608413",
@@ -650495,7 +650414,7 @@
       "uk"
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:hargreaveslansdown:/job/Bristol-Harbourside/Software-Engineer--React-Native-_R9473": {
@@ -653723,7 +653642,7 @@
     "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4740323005",
     "ats": "greenhouse",
-    "posted_at": "2026-10-05T05:38:38-04:00",
+    "posted_at": "2026-10-16T23:54:24-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -653874,7 +653793,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:nvidia:/job/China-Shanghai/ASIC-Physical-Design-Engineer_JR2026756": {
@@ -663248,7 +663167,7 @@
       "europe"
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "oraclecloud:egug:26014621": {
@@ -668201,7 +668120,7 @@
       "europe"
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "greenhouse:relex:7901313003": {
@@ -670110,7 +670029,7 @@
       "uk"
     ],
     "first_seen": "2026-10-06T19:12:11.269095+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "greenhouse:gravitonresearchcapital:8620641002": {
@@ -671532,7 +671451,7 @@
       "uk"
     ],
     "first_seen": "2026-10-06T19:12:11.269095+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:nasdaq:/job/USA---New-York-City---New-York/Project-Management-Intern---2027-Summer-Internship_R0027033": {
@@ -675680,7 +675599,7 @@
     ],
     "first_seen": "2026-10-06T23:08:30.204691+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:td:/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-II_R_1511400": {
     "uid": "workday:td:/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-II_R_1511400",
@@ -678667,7 +678586,7 @@
       "uk"
     ],
     "first_seen": "2026-10-07T09:29:19.869746+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:gresearch:/job/London-UK/Platform-Software-Engineer_R3789": {
@@ -678684,7 +678603,7 @@
       "uk"
     ],
     "first_seen": "2026-10-07T09:29:19.869746+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "greenhouse:gravitonresearchcapital:8784890002": {
@@ -681608,7 +681527,7 @@
     ],
     "first_seen": "2026-10-07T09:29:19.869746+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:amat:/job/Home--MobileIsrael/Customer-Engineer--Migdal-Haemek_R2630330": {
     "uid": "workday:amat:/job/Home--MobileIsrael/Customer-Engineer--Migdal-Haemek_R2630330",
@@ -684508,7 +684427,7 @@
     ],
     "first_seen": "2026-10-07T21:41:16.789453+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:cibc:/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1": {
     "uid": "workday:cibc:/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
@@ -690043,7 +689962,7 @@
     ],
     "first_seen": "2026-10-07T21:41:16.789453+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:cisco:/job/Denver-Colorado-US/Solutions-Engineer_2026310": {
     "uid": "workday:cisco:/job/Denver-Colorado-US/Solutions-Engineer_2026310",
@@ -697090,7 +697009,7 @@
       "europe"
     ],
     "first_seen": "2026-10-08T15:02:08.571895+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "recruitee:athora:2774306": {
@@ -698505,7 +698424,7 @@
       "uk"
     ],
     "first_seen": "2026-10-08T15:02:08.571895+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:lseg:/job/IND-Bangalore-TowerERMZ-Infin/QA-Automation-Engineer_R0123367-1": {
@@ -700303,7 +700222,7 @@
       "europe"
     ],
     "first_seen": "2026-10-08T15:02:08.571895+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "greenhouse:wolt:7738724": {
@@ -702863,7 +702782,7 @@
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:td:/job/Toronto-Ontario/Senior-Mainframe-Engineer--TD-Securities_R_1501349-1": {
     "uid": "workday:td:/job/Toronto-Ontario/Senior-Mainframe-Engineer--TD-Securities_R_1501349-1",
@@ -703647,7 +703566,7 @@
       "uk"
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:nasdaq:/job/CA-Toronto-York-St-2425/CAP-Intelligence-Platform-Databricks-Engineer_R0026987": {
@@ -707705,7 +707624,7 @@
       "europe"
     ],
     "first_seen": "2026-10-09T00:47:09.300657+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "ashby:snowflake:5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec": {
@@ -707747,7 +707666,7 @@
     "location": "Newark, CA",
     "url": "https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T20:57:09-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -708830,7 +708749,7 @@
     ],
     "first_seen": "2026-10-09T06:55:33.300523+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:citi:/job/DLF-CYBERCITY-12B/Java-Full-Stack-Developer_26997605-1": {
     "uid": "workday:citi:/job/DLF-CYBERCITY-12B/Java-Full-Stack-Developer_26997605-1",
@@ -711560,7 +711479,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:wf:/job/CHARLOTTE-NC/Full-Stack-Developer_R-580480": {
     "uid": "workday:wf:/job/CHARLOTTE-NC/Full-Stack-Developer_R-580480",
@@ -712254,7 +712173,7 @@
     "uid": "rippling:rippling:ebc7a777-aa35-4333-ac95-ebc98e375f75",
     "company": "Rippling",
     "title": "Software Engineer II, Backend - IT Product",
-    "location": "New York, NY",
+    "location": "San Francisco, CA",
     "url": "https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75",
     "ats": "rippling",
     "posted_at": null,
@@ -714708,7 +714627,7 @@
       "europe"
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "greenhouse:jetbrains:4991149101": {
@@ -718230,7 +718149,7 @@
     "location": "Newark, CA",
     "url": "https://lucidmotors.com/careers/search/5213758007?gh_jid=5213758007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T22:19:48-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -732730,7 +732649,7 @@
     "location": "Hsinchu, Taiwan",
     "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Hsinchu-Taiwan/CS---DUV-Field-Service-Engineer---Hsinchu_J-00344687-1",
     "ats": "workday",
-    "posted_at": "Posted 4 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe",
@@ -733213,7 +733132,7 @@
       "europe"
     ],
     "first_seen": "2026-10-12T19:33:20.038416+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "greenhouse:doctolib:8007923003": {
@@ -733352,7 +733271,7 @@
     "location": "Southfield, MI",
     "url": "https://lucidmotors.com/careers/search/5245614007?gh_jid=5245614007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T20:55:59-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -741040,7 +740959,7 @@
     ],
     "first_seen": "2026-10-13T08:40:04.075056+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:hpe:/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Logic-Design-Intern_1213412": {
     "uid": "workday:hpe:/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Logic-Design-Intern_1213412",
@@ -742131,7 +742050,7 @@
       "uk"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "greenhouse:maverickderivatives:6146008004": {
@@ -742445,7 +742364,7 @@
       "europe"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:ardian:/job/New-York/Secondaries---Primaries-Intern---Summer-2028-I-NYC_JR1002267": {
@@ -742462,7 +742381,7 @@
       "europe"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:cppib:/job/London/Analyst--Real-Assets-Credit_JR00651": {
@@ -746405,7 +746324,7 @@
       "europe"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:lego:/job/Billund/Design-Operation-Excellence-Internship--LEGO-DESiGN_0000039477": {
@@ -746422,7 +746341,7 @@
       "europe"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:lego:/job/Billund/Build---Play-Experience-Design-Internship--LEGO-DESiGN_0000039476": {
@@ -746439,7 +746358,7 @@
       "europe"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:lego:/job/Billund/Sound-Design-Internship--LEGO-DESiGN_0000039475": {
@@ -746473,7 +746392,7 @@
       "europe"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:lego:/job/Billund/Element-Design-Internship--LEGO-DESiGN_0000039472": {
@@ -746490,7 +746409,7 @@
       "europe"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:lego:/job/Billund/Graphic-Design-Internship--LEGO-DESiGN_0000039479": {
@@ -746507,7 +746426,7 @@
       "europe"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "workday:lego:/job/Billund-LEGO-Campus/Student-Worker---Content-and-Editorial_0000037713": {
@@ -746524,7 +746443,7 @@
       "europe"
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "ashby:perk:11123204-b198-4e12-bcdd-2735dc1c38b4": {
@@ -746698,7 +746617,7 @@
     "location": "King Abdullah Economic City, 02",
     "url": "https://lucidmotors.com/careers/search/5249928007?gh_jid=5249928007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-16T20:43:31-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -757788,7 +757707,7 @@
       "europe"
     ],
     "first_seen": "2026-10-14T10:48:06.127687+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "greenhouse:stripe:8231178": {
@@ -761396,7 +761315,7 @@
       "europe"
     ],
     "first_seen": "2026-10-14T15:36:19.819152+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "greenhouse:doctolib:8026774003": {
@@ -766773,7 +766692,7 @@
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T09:35:46-04:00",
+    "posted_at": "2026-10-16T20:14:54-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -768752,7 +768671,7 @@
     ],
     "first_seen": "2026-10-15T06:01:07.758351+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:jpmc:210800029": {
     "uid": "oraclecloud:jpmc:210800029",
@@ -768768,7 +768687,7 @@
     ],
     "first_seen": "2026-10-15T06:01:07.758351+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:rbc:/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Product-Control-Intern_R-0000190145": {
     "uid": "workday:rbc:/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Product-Control-Intern_R-0000190145",
@@ -769320,8 +769239,8 @@
       "europe"
     ],
     "first_seen": "2026-10-15T06:01:07.758351+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": false
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
   },
   "workday:novartis:/job/Targu-Mures/Maintenance-Engineer_REQ-10089194": {
     "uid": "workday:novartis:/job/Targu-Mures/Maintenance-Engineer_REQ-10089194",
@@ -769834,7 +769753,7 @@
     ],
     "first_seen": "2026-10-15T06:01:07.758351+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:paloaltonetworks:/job/Office---Singapore---Singapore/AI-Security--Domain-Consultant_JR-022571-1": {
     "uid": "workday:paloaltonetworks:/job/Office---Singapore---Singapore/AI-Security--Domain-Consultant_JR-022571-1",
@@ -770415,7 +770334,7 @@
       "europe"
     ],
     "first_seen": "2026-10-15T11:47:24.357669+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "beesite:api-deutschebank.beesite.de:73281": {
@@ -772330,7 +772249,7 @@
       "europe"
     ],
     "first_seen": "2026-10-15T11:47:24.357669+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "greenhouse:doctolib:8034354003": {
@@ -777550,7 +777469,7 @@
       "europe"
     ],
     "first_seen": "2026-10-15T19:32:36.824206+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   },
   "beesite:api-deutschebank.beesite.de:76207": {
@@ -778781,7 +778700,7 @@
     "location": "San Jose, California, United States",
     "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4733707005",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T13:57:47-04:00",
+    "posted_at": "2026-10-16T23:53:23-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -781611,7 +781530,7 @@
     ],
     "first_seen": "2026-10-15T22:45:03.584129+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer--Collaboration-Devices_2028882": {
     "uid": "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer--Collaboration-Devices_2028882",
@@ -793646,7 +793565,7 @@
     "location": "Costa Mesa, California, United States",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5266500007?gh_jid=5266500007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T16:25:07-04:00",
+    "posted_at": "2026-10-16T20:06:22-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -795344,6 +795263,314 @@
     ],
     "first_seen": "2026-10-17T00:02:04.879553+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
+    "active": true
+  },
+  "lever:shieldai:3e90ea11-9f23-45e3-b42e-e9b0bd4bdf36": {
+    "uid": "lever:shieldai:3e90ea11-9f23-45e3-b42e-e9b0bd4bdf36",
+    "company": "Shield AI",
+    "title": "Engineer II, Automated Test (R6288)",
+    "location": "San Mateo, California",
+    "url": "https://jobs.lever.co/shieldai/3e90ea11-9f23-45e3-b42e-e9b0bd4bdf36",
+    "ats": "lever",
+    "posted_at": "2026-10-17T01:58:51.180000+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "greenhouse:abnormalsecurity:8015179003": {
+    "uid": "greenhouse:abnormalsecurity:8015179003",
+    "company": "Abnormal Security",
+    "title": "Software Engineer 1 - Cloud Infrastructure",
+    "location": "Remote - USA",
+    "url": "https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-17T00:06:39-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "ai"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "rippling:rippling:86e4b180-a27e-4b86-bc80-6b7cefa2e1c9": {
+    "uid": "rippling:rippling:86e4b180-a27e-4b86-bc80-6b7cefa2e1c9",
+    "company": "Rippling",
+    "title": "Software Engineer II, Backend - HR Product",
+    "location": "San Francisco, CA",
+    "url": "https://ats.rippling.com/rippling/jobs/86e4b180-a27e-4b86-bc80-6b7cefa2e1c9",
+    "ats": "rippling",
+    "posted_at": null,
+    "category": "full-time",
+    "tags": [
+      "fintech",
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "greenhouse:billcom:6223092004": {
+    "uid": "greenhouse:billcom:6223092004",
+    "company": "Bill",
+    "title": "Software Engineer II - Growth",
+    "location": "United States",
+    "url": "https://www.bill.com/job?6223092004&gh_jid=6223092004",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-16T20:59:31-04:00",
+    "category": "full-time",
+    "tags": [
+      "fintech"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "workday:nxp:/job/Bangalore/Physical-design-Engineer_R-10067284": {
+    "uid": "workday:nxp:/job/Bangalore/Physical-design-Engineer_R-10067284",
+    "company": "NXP",
+    "title": "Physical design Engineer",
+    "location": "Bangalore",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/Physical-design-Engineer_R-10067284",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "amazon:10582047": {
+    "uid": "amazon:10582047",
+    "company": "Amazon",
+    "title": "Software Development Engineer - Amazon LEO Network Services, LEO Pop",
+    "location": "Sunnyvale, California, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10582047/software-development-engineer-amazon-leo-network-services-leo-pop",
+    "ats": "amazon",
+    "posted_at": "2026-10-17",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "amazon:10582044": {
+    "uid": "amazon:10582044",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Data Nexus",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10582044/software-development-engineer-ii-data-nexus",
+    "ats": "amazon",
+    "posted_at": "2026-10-17",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Calgary-Alberta-Canada/Software-Technical-Leader_2024116": {
+    "uid": "workday:cisco:/job/Calgary-Alberta-Canada/Software-Technical-Leader_2024116",
+    "company": "Cisco",
+    "title": "Software Technical Leader",
+    "location": "4 Locations",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Calgary-Alberta-Canada/Software-Technical-Leader_2024116",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/RTP-North-Carolina-US/Information-Security-Engineer_2027088": {
+    "uid": "workday:cisco:/job/RTP-North-Carolina-US/Information-Security-Engineer_2027088",
+    "company": "Cisco",
+    "title": "Information Security Engineer",
+    "location": "RTP, North Carolina, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Information-Security-Engineer_2027088",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "avature:jobs.ea.com:215921": {
+    "uid": "avature:jobs.ea.com:215921",
+    "company": "Electronic Arts",
+    "title": "Full-Stack Software Engineer",
+    "location": "Vancouver, Canada",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Full-Stack-Software-Engineer/215921",
+    "ats": "avature",
+    "posted_at": null,
+    "category": "full-time",
+    "tags": [
+      "gaming"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "workday:intel:/job/Costa-Rica-San-Jose/SoC-Logic-Design-Engineer_JR0288123": {
+    "uid": "workday:intel:/job/Costa-Rica-San-Jose/SoC-Logic-Design-Engineer_JR0288123",
+    "company": "Intel",
+    "title": "SoC Logic Design Engineer",
+    "location": "Costa Rica, San Jose",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/SoC-Logic-Design-Engineer_JR0288123",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "workday:snapchat:/job/Toronto-Canada/Software-Engineer--Level-3--Backend_R0047218-1": {
+    "uid": "workday:snapchat:/job/Toronto-Canada/Software-Engineer--Level-3--Backend_R0047218-1",
+    "company": "Snap",
+    "title": "Software Engineer, Level 3, Backend",
+    "location": "Toronto, Canada",
+    "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Level-3--Backend_R0047218-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "workday:amat:/job/SingaporeSGP/Customer-Engineer_R2624664": {
+    "uid": "workday:amat:/job/SingaporeSGP/Customer-Engineer_R2624664",
+    "company": "Applied Materials",
+    "title": "Customer Engineer",
+    "location": "Singapore,SGP",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Customer-Engineer_R2624664",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "ashby:applied:6b3d1aa5-a987-4350-9b79-b14c6e297cdf": {
+    "uid": "ashby:applied:6b3d1aa5-a987-4350-9b79-b14c6e297cdf",
+    "company": "Applied Intuition",
+    "title": "Full-Stack Software Engineer, People Intelligence",
+    "location": "Sunnyvale",
+    "url": "https://jobs.ashbyhq.com/applied/6b3d1aa5-a987-4350-9b79-b14c6e297cdf",
+    "ats": "ashby",
+    "posted_at": "2026-10-17T00:31:29.685+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "greenhouse:lyft:8896654002": {
+    "uid": "greenhouse:lyft:8896654002",
+    "company": "Lyft",
+    "title": "Business Systems Engineer",
+    "location": "Seattle, WA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896654002?gh_jid=8896654002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-16T23:04:26-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "greenhouse:lyft:8896671002": {
+    "uid": "greenhouse:lyft:8896671002",
+    "company": "Lyft",
+    "title": "Data Scientist",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896671002?gh_jid=8896671002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-16T23:07:21-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "greenhouse:lyft:8896675002": {
+    "uid": "greenhouse:lyft:8896675002",
+    "company": "Lyft",
+    "title": "Data Scientist",
+    "location": "New York, NY",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896675002?gh_jid=8896675002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-16T22:39:11-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "greenhouse:lyft:8896679002": {
+    "uid": "greenhouse:lyft:8896679002",
+    "company": "Lyft",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-16T22:47:42-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
+    "active": true
+  },
+  "greenhouse:lyft:8896666002": {
+    "uid": "greenhouse:lyft:8896666002",
+    "company": "Lyft",
+    "title": "UX Researcher",
+    "location": "New York, NY",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896666002?gh_jid=8896666002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-16T22:56:51-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T04:43:36.458211+00:00",
+    "last_seen": "2026-10-17T04:43:36.458211+00:00",
     "active": true
   }
 }
