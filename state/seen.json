@@ -17115,23 +17115,6 @@
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
     "active": true
   },
-  "greenhouse:scaleai:4655050005": {
-    "uid": "greenhouse:scaleai:4655050005",
-    "company": "Scale AI",
-    "title": "Software Engineer, Robotics",
-    "location": "Mexico City, MX",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4655050005",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-04T01:04:48-04:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-18T20:11:03.268393+00:00",
-    "active": false
-  },
   "greenhouse:scaleai:4612282005": {
     "uid": "greenhouse:scaleai:4612282005",
     "company": "Scale AI",
@@ -21000,38 +20983,6 @@
     "last_seen": "2026-09-02T05:13:39.653390+00:00",
     "active": false
   },
-  "greenhouse:brex:8516002002": {
-    "uid": "greenhouse:brex:8516002002",
-    "company": "Brex",
-    "title": "Brex Rotational Program",
-    "location": "São Paulo, São Paulo, Brazil",
-    "url": "https://www.brex.com/careers/8516002002?gh_jid=8516002002",
-    "ats": "greenhouse",
-    "posted_at": "2026-06-10T13:59:16-04:00",
-    "category": "new-grad",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-18T19:46:03.056366+00:00",
-    "active": false
-  },
-  "greenhouse:brex:8516003002": {
-    "uid": "greenhouse:brex:8516003002",
-    "company": "Brex",
-    "title": "Brex Rotational Program",
-    "location": "Salt Lake City, Utah, United States",
-    "url": "https://www.brex.com/careers/8516003002?gh_jid=8516003002",
-    "ats": "greenhouse",
-    "posted_at": "2026-06-26T16:18:57-04:00",
-    "category": "new-grad",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-18T19:46:03.056366+00:00",
-    "active": false
-  },
   "greenhouse:brex:8523806002": {
     "uid": "greenhouse:brex:8523806002",
     "company": "Brex",
@@ -23575,22 +23526,6 @@
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
     "active": true
-  },
-  "greenhouse:andurilindustries:5156713007": {
-    "uid": "greenhouse:andurilindustries:5156713007",
-    "company": "Anduril",
-    "title": "Mission Software Engineer, Intelligence Systems",
-    "location": "Reston, Virginia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156713007?gh_jid=5156713007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-18T09:42:05-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-18T20:45:02.595983+00:00",
-    "active": false
   },
   "greenhouse:andurilindustries:4672916007": {
     "uid": "greenhouse:andurilindustries:4672916007",
@@ -51683,22 +51618,6 @@
     "last_seen": "2026-08-20T00:35:25.522451+00:00",
     "active": false
   },
-  "greenhouse:Schonfeld:8013035": {
-    "uid": "greenhouse:Schonfeld:8013035",
-    "company": "Schonfeld",
-    "title": "Front Office Support Engineer",
-    "location": "New York, New York, United States",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8013035",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-28T15:08:17-04:00",
-    "category": "full-time",
-    "tags": [
-      "quant"
-    ],
-    "first_seen": "2026-06-17T18:20:29.715154+00:00",
-    "last_seen": "2026-08-18T20:45:02.595983+00:00",
-    "active": false
-  },
   "greenhouse:anthropic:4982193008": {
     "uid": "greenhouse:anthropic:4982193008",
     "company": "Anthropic",
@@ -55472,22 +55391,6 @@
     ],
     "first_seen": "2026-06-24T21:56:38.785654+00:00",
     "last_seen": "2026-08-19T21:46:25.731808+00:00",
-    "active": false
-  },
-  "lever:zoox:00694777-4083-426f-8382-3d0073c34787": {
-    "uid": "lever:zoox:00694777-4083-426f-8382-3d0073c34787",
-    "company": "Zoox",
-    "title": "Machine Learning Engineer - Simulation Framework",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/00694777-4083-426f-8382-3d0073c34787",
-    "ats": "lever",
-    "posted_at": "2026-06-24T22:03:45.446000+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai"
-    ],
-    "first_seen": "2026-06-24T22:55:41.239613+00:00",
-    "last_seen": "2026-08-18T19:04:14.172294+00:00",
     "active": false
   },
   "jibe:careers.sig.com:11084": {
@@ -67503,23 +67406,6 @@
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
     "active": true
   },
-  "gsgraphql:178634_GS_MID_CAREER": {
-    "uid": "gsgraphql:178634_GS_MID_CAREER",
-    "company": "Goldman Sachs",
-    "title": "Compliance Engineering - Surveillance & Models Eng - Associate - Bengaluru",
-    "location": "Bengaluru",
-    "url": "https://higher.gs.com/roles/178634_GS_MID_CAREER",
-    "ats": "gsgraphql",
-    "posted_at": "2026-08-10T11:20:10.681Z",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe"
-    ],
-    "first_seen": "2026-07-13T19:32:44.384256+00:00",
-    "last_seen": "2026-08-18T20:45:02.595983+00:00",
-    "active": false
-  },
   "greenhouse:cloudflare:7489019": {
     "uid": "greenhouse:cloudflare:7489019",
     "company": "Cloudflare",
@@ -67903,22 +67789,6 @@
     ],
     "first_seen": "2026-07-13T23:45:29.288437+00:00",
     "last_seen": "2026-08-26T16:08:35.622341+00:00",
-    "active": false
-  },
-  "workday:adobe:/job/San-Jose/Software-Engineer--Feedback---Learning-Systems---Meta-Factory_R170225-1": {
-    "uid": "workday:adobe:/job/San-Jose/Software-Engineer--Feedback---Learning-Systems---Meta-Factory_R170225-1",
-    "company": "Adobe",
-    "title": "Software Engineer, Feedback & Learning Systems — Meta Factory",
-    "location": "San Jose",
-    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Engineer--Feedback---Learning-Systems---Meta-Factory_R170225-1",
-    "ats": "workday",
-    "posted_at": "Posted 5 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-13T23:45:29.288437+00:00",
-    "last_seen": "2026-08-18T20:11:03.268393+00:00",
     "active": false
   },
   "greenhouse:janestreet:8631973002": {
@@ -71661,24 +71531,6 @@
     ],
     "first_seen": "2026-07-20T02:15:53.304508+00:00",
     "last_seen": "2026-10-04T17:10:22.707353+00:00",
-    "active": false
-  },
-  "ashby:ElevenLabs:c25e27d5-71ff-4763-ae7b-137d0c252efa": {
-    "uid": "ashby:ElevenLabs:c25e27d5-71ff-4763-ae7b-137d0c252efa",
-    "company": "ElevenLabs",
-    "title": "Forward Deployed Engineer - Software Engineer - India",
-    "location": "India",
-    "url": "https://jobs.ashbyhq.com/ElevenLabs/c25e27d5-71ff-4763-ae7b-137d0c252efa",
-    "ats": "ashby",
-    "posted_at": "2026-07-20T02:10:07.440+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-07-20T02:15:53.304508+00:00",
-    "last_seen": "2026-08-18T20:11:03.268393+00:00",
     "active": false
   },
   "ashby:ElevenLabs:39d438fa-8070-4660-968b-055493860c4c": {
@@ -78304,22 +78156,6 @@
     ],
     "first_seen": "2026-07-27T21:22:59.547473+00:00",
     "last_seen": "2026-08-31T14:33:31.642229+00:00",
-    "active": false
-  },
-  "workday:adobe:/job/Remote-California/Software-Engineer--ML-Tech-Transfer_R170714": {
-    "uid": "workday:adobe:/job/Remote-California/Software-Engineer--ML-Tech-Transfer_R170714",
-    "company": "Adobe",
-    "title": "Software Engineer, ML Tech Transfer",
-    "location": "Remote California",
-    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Software-Engineer--ML-Tech-Transfer_R170714",
-    "ats": "workday",
-    "posted_at": "Posted 22 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-27T21:22:59.547473+00:00",
-    "last_seen": "2026-08-18T20:45:02.595983+00:00",
     "active": false
   },
   "lever:palantir:a194220b-684a-4b4e-b918-1f70154b464c": {
@@ -87051,23 +86887,6 @@
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
     "active": true
   },
-  "ashby:openai:baa1b143-ff74-47f7-9f12-1f62a9361bd4": {
-    "uid": "ashby:openai:baa1b143-ff74-47f7-9f12-1f62a9361bd4",
-    "company": "OpenAI",
-    "title": "Analytics Engineer, GTM",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/baa1b143-ff74-47f7-9f12-1f62a9361bd4",
-    "ats": "ashby",
-    "posted_at": "2026-08-06T17:19:25.256+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-08-06T23:47:43.895023+00:00",
-    "last_seen": "2026-08-18T19:46:03.056366+00:00",
-    "active": false
-  },
   "ashby:openai:b08126cc-8134-45f0-aeb3-4b00e96547de": {
     "uid": "ashby:openai:b08126cc-8134-45f0-aeb3-4b00e96547de",
     "company": "OpenAI",
@@ -87312,22 +87131,6 @@
     ],
     "first_seen": "2026-08-06T23:47:43.895023+00:00",
     "last_seen": "2026-09-25T08:00:37.192680+00:00",
-    "active": false
-  },
-  "greenhouse:andurilindustries:5205867007": {
-    "uid": "greenhouse:andurilindustries:5205867007",
-    "company": "Anduril",
-    "title": "Construction Systems Specialist",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205867007?gh_jid=5205867007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-15T14:50:58-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-06T23:47:43.895023+00:00",
-    "last_seen": "2026-08-18T20:11:03.268393+00:00",
     "active": false
   },
   "greenhouse:andurilindustries:5205421007": {
@@ -88224,22 +88027,6 @@
     ],
     "first_seen": "2026-08-07T15:14:40.115912+00:00",
     "last_seen": "2026-09-09T10:19:09.745968+00:00",
-    "active": false
-  },
-  "ashby:uipath:6a1408b8-7d66-4fc7-90a2-480199454f57": {
-    "uid": "ashby:uipath:6a1408b8-7d66-4fc7-90a2-480199454f57",
-    "company": "UiPath",
-    "title": "Prinicipal Software Engineer",
-    "location": "Bellevue",
-    "url": "https://jobs.ashbyhq.com/uipath/6a1408b8-7d66-4fc7-90a2-480199454f57",
-    "ats": "ashby",
-    "posted_at": "2026-08-07T14:56:55.253+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai"
-    ],
-    "first_seen": "2026-08-07T15:14:40.115912+00:00",
-    "last_seen": "2026-08-18T19:04:14.172294+00:00",
     "active": false
   },
   "greenhouse:janestreet:8647260002": {
@@ -89781,22 +89568,6 @@
     ],
     "first_seen": "2026-08-10T19:27:07.630557+00:00",
     "last_seen": "2026-10-07T02:31:15.215999+00:00",
-    "active": false
-  },
-  "workday:nvidia:/job/US-TX-Remote/Service-Reliability-Engineer_JR2021654-1": {
-    "uid": "workday:nvidia:/job/US-TX-Remote/Service-Reliability-Engineer_JR2021654-1",
-    "company": "NVIDIA",
-    "title": "Service Reliability Engineer",
-    "location": "US, TX, Remote",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Service-Reliability-Engineer_JR2021654-1",
-    "ats": "workday",
-    "posted_at": "Posted 8 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-10T19:27:07.630557+00:00",
-    "last_seen": "2026-08-18T19:04:14.172294+00:00",
     "active": false
   },
   "greenhouse:gusto:8075984": {
@@ -183369,7 +183140,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "workday:ms:/job/Montreal-Canada/Java-FullStack-Developer--Hybrid-_PT-JR042052": {
@@ -420183,7 +419954,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-17T14:33:02-04:00",
+    "posted_at": "2026-10-17T17:03:11-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -422512,7 +422283,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-17T14:33:11-04:00",
+    "posted_at": "2026-10-17T17:03:25-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -422563,7 +422334,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-17T14:33:04-04:00",
+    "posted_at": "2026-10-17T17:03:13-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -532397,7 +532168,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eeho:341865": {
@@ -722694,7 +722465,7 @@
     ],
     "first_seen": "2026-10-11T14:15:23.526152+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "workday:kla:/job/Singapore-Singapore/System-Design-Engineer--Optics-_2640030": {
     "uid": "workday:kla:/job/Singapore-Singapore/System-Design-Engineer--Optics-_2640030",
@@ -723764,14 +723535,14 @@
     "location": "India - Pune",
     "url": "https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/India---Pune/Software-Engineer_RQ116359",
     "ats": "workday",
-    "posted_at": "Posted 4 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-10-11T19:03:13.873308+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false
+    "last_seen": "2026-10-17T21:07:05.781007+00:00",
+    "active": true
   },
   "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ116244": {
     "uid": "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ116244",
@@ -780296,7 +780067,7 @@
     ],
     "first_seen": "2026-10-15T22:45:03.584129+00:00",
     "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": true
+    "active": false
   },
   "amazon:10580803": {
     "uid": "amazon:10580803",
@@ -794871,6 +794642,87 @@
     ],
     "first_seen": "2026-10-17T18:37:49.922332+00:00",
     "last_seen": "2026-10-17T18:37:49.922332+00:00",
+    "active": true
+  },
+  "ashby:higgsfieldai:e25dfe75-6766-4cc5-b0cc-d86be0e5f7c0": {
+    "uid": "ashby:higgsfieldai:e25dfe75-6766-4cc5-b0cc-d86be0e5f7c0",
+    "company": "Higgsfield",
+    "title": "Backend Software Engineer, Infrastructure",
+    "location": "Almaty, Kazakhstan",
+    "url": "https://jobs.ashbyhq.com/higgsfieldai/e25dfe75-6766-4cc5-b0cc-d86be0e5f7c0",
+    "ats": "ashby",
+    "posted_at": "2026-10-17T18:41:22.753+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-17T21:07:05.781007+00:00",
+    "last_seen": "2026-10-17T21:07:05.781007+00:00",
+    "active": true
+  },
+  "amazon:10582071": {
+    "uid": "amazon:10582071",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Security Epoxy",
+    "location": "London, England, GBR",
+    "url": "https://www.amazon.jobs/en/jobs/10582071/software-development-engineer-aws-security-epoxy",
+    "ats": "amazon",
+    "posted_at": "2026-10-17",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T21:07:05.781007+00:00",
+    "last_seen": "2026-10-17T21:07:05.781007+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Dubai-United-Arab-Emirates/Software-Consulting-Engineering-Technical-Leader_2024466": {
+    "uid": "workday:cisco:/job/Dubai-United-Arab-Emirates/Software-Consulting-Engineering-Technical-Leader_2024466",
+    "company": "Cisco",
+    "title": "Software Consulting Engineering Technical Leader",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Dubai-United-Arab-Emirates/Software-Consulting-Engineering-Technical-Leader_2024466",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T21:07:05.781007+00:00",
+    "last_seen": "2026-10-17T21:07:05.781007+00:00",
+    "active": true
+  },
+  "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ114229": {
+    "uid": "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ114229",
+    "company": "BP",
+    "title": "Software Engineer",
+    "location": "India - Pune",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/India---Pune/Software-Engineer_RQ114229",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T21:07:05.781007+00:00",
+    "last_seen": "2026-10-17T21:07:05.781007+00:00",
+    "active": true
+  },
+  "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ114228": {
+    "uid": "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ114228",
+    "company": "BP",
+    "title": "Software Engineer",
+    "location": "India - Pune",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/India---Pune/Software-Engineer_RQ114228",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-17T21:07:05.781007+00:00",
+    "last_seen": "2026-10-17T21:07:05.781007+00:00",
     "active": true
   }
 }

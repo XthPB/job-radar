@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-10-17T18:37:49.922332+00:00",
-  "count": 34636,
+  "generated_at": "2026-10-17T21:07:05.781007+00:00",
+  "count": 34640,
   "postings": [
+    {
+      "uid": "ashby:higgsfieldai:e25dfe75-6766-4cc5-b0cc-d86be0e5f7c0",
+      "company": "Higgsfield",
+      "title": "Backend Software Engineer, Infrastructure",
+      "location": "Almaty, Kazakhstan",
+      "url": "https://jobs.ashbyhq.com/higgsfieldai/e25dfe75-6766-4cc5-b0cc-d86be0e5f7c0",
+      "ats": "ashby",
+      "posted_at": "2026-10-17T18:41:22.753+00:00",
+      "category": "full-time",
+      "tags": [
+        "ai",
+        "swe"
+      ],
+      "first_seen": "2026-10-17T21:07:05.781007+00:00",
+      "last_seen": "2026-10-17T21:07:05.781007+00:00",
+      "active": true
+    },
+    {
+      "uid": "amazon:10582071",
+      "company": "Amazon",
+      "title": "Software Development Engineer, AWS Security Epoxy",
+      "location": "London, England, GBR",
+      "url": "https://www.amazon.jobs/en/jobs/10582071/software-development-engineer-aws-security-epoxy",
+      "ats": "amazon",
+      "posted_at": "2026-10-17",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T21:07:05.781007+00:00",
+      "last_seen": "2026-10-17T21:07:05.781007+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:cisco:/job/Dubai-United-Arab-Emirates/Software-Consulting-Engineering-Technical-Leader_2024466",
+      "company": "Cisco",
+      "title": "Software Consulting Engineering Technical Leader",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Dubai-United-Arab-Emirates/Software-Consulting-Engineering-Technical-Leader_2024466",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T21:07:05.781007+00:00",
+      "last_seen": "2026-10-17T21:07:05.781007+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ114229",
+      "company": "BP",
+      "title": "Software Engineer",
+      "location": "India - Pune",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/India---Pune/Software-Engineer_RQ114229",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T21:07:05.781007+00:00",
+      "last_seen": "2026-10-17T21:07:05.781007+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ114228",
+      "company": "BP",
+      "title": "Software Engineer",
+      "location": "India - Pune",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/India---Pune/Software-Engineer_RQ114228",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T21:07:05.781007+00:00",
+      "last_seen": "2026-10-17T21:07:05.781007+00:00",
+      "active": true
+    },
     {
       "uid": "ashby:higgsfieldai:1ae6430c-11c4-4e51-be20-a9d5d627a28d",
       "company": "Higgsfield",
@@ -14048,22 +14129,6 @@
       "title": "Software Development Engineer, AI Foundations, Amazon Leo Networking Software",
       "location": "Redmond, Washington, USA",
       "url": "https://www.amazon.jobs/en/jobs/10580930/software-development-engineer-ai-foundations-amazon-leo-networking-software",
-      "ats": "amazon",
-      "posted_at": "2026-10-15",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-15T22:45:03.584129+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true
-    },
-    {
-      "uid": "amazon:10580929",
-      "company": "Amazon",
-      "title": "Software Development Engineer, AI Foundations, Amazon Leo Networking Software",
-      "location": "Redmond, Washington, USA",
-      "url": "https://www.amazon.jobs/en/jobs/10580929/software-development-engineer-ai-foundations-amazon-leo-networking-software",
       "ats": "amazon",
       "posted_at": "2026-10-15",
       "category": "full-time",
@@ -62545,6 +62610,22 @@
       "active": true
     },
     {
+      "uid": "workday:bpinternational:/job/India---Pune/Software-Engineer_RQ116359",
+      "company": "BP",
+      "title": "Enterprise Technology Engineer",
+      "location": "India - Pune",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/India---Pune/Software-Engineer_RQ116359",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-11T19:03:13.873308+00:00",
+      "last_seen": "2026-10-17T21:07:05.781007+00:00",
+      "active": true
+    },
+    {
       "uid": "ashby:proxima-fusion:a262be92-190d-4ec9-8464-6d24c19cf1d3",
       "company": "Proxima Fusion",
       "title": "Integrated Electronics Engineer",
@@ -62590,22 +62671,6 @@
       "tags": [
         "ai",
         "europe"
-      ],
-      "first_seen": "2026-10-11T14:15:23.526152+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:generalmotors:/job/Giza-Egypt/General-Assembly-Engineer_JR-202621538",
-      "company": "General Motors",
-      "title": "General Assembly Engineer",
-      "location": "Giza, Egypt",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Giza-Egypt/General-Assembly-Engineer_JR-202621538",
-      "ats": "workday",
-      "posted_at": "Posted 6 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
       ],
       "first_seen": "2026-10-11T14:15:23.526152+00:00",
       "last_seen": "2026-10-17T00:02:04.879553+00:00",
@@ -149805,6 +149870,23 @@
       "title": "Application and Infrastructure Security",
       "location": "Budapest, Hungary",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Application-and-Infrastructure-Security_PT-JR042518",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "bank"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-17T00:02:04.879553+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:ms:/job/New-York-New-York-United-States-of-America/Electronic-Trading-Risk-Management-Associate_PT-JR043039",
+      "company": "Morgan Stanley",
+      "title": "Electronic Trading Risk Management Associate",
+      "location": "New York, New York, United States of America",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Electronic-Trading-Risk-Management-Associate_PT-JR043039",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -329847,7 +329929,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T14:33:02-04:00",
+      "posted_at": "2026-10-17T17:03:11-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -331853,7 +331935,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T14:33:11-04:00",
+      "posted_at": "2026-10-17T17:03:25-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -331904,7 +331986,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T14:33:04-04:00",
+      "posted_at": "2026-10-17T17:03:13-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -416406,23 +416488,6 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345533",
       "ats": "oraclecloud",
       "posted_at": "2026-10-04",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "oraclecloud:eeho:340988",
-      "company": "Oracle",
-      "title": "Technical Operations Engineer",
-      "location": "BELFAST, United Kingdom (+1)",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340988",
-      "ats": "oraclecloud",
-      "posted_at": "2026-09-30",
       "category": "full-time",
       "tags": [
         "swe"
