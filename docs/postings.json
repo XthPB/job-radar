@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-17T12:32:47.711024+00:00",
-  "count": 34646,
+  "generated_at": "2026-10-17T16:01:02.528218+00:00",
+  "count": 34644,
   "postings": [
+    {
+      "uid": "workday:wf:/job/CHAPEL-HILL-NC/Personal-Banker-Bilingual-Spanish-Chapel-Hill-University_R-581948",
+      "company": "Wells Fargo",
+      "title": "Personal Banker Bilingual Spanish Chapel Hill University",
+      "location": "CHAPEL HILL, NC",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHAPEL-HILL-NC/Personal-Banker-Bilingual-Spanish-Chapel-Hill-University_R-581948",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "bank"
+      ],
+      "first_seen": "2026-10-17T16:01:02.528218+00:00",
+      "last_seen": "2026-10-17T16:01:02.528218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:cisco:/job/Singapore-Singapore/Solutions-Engineer_2027412",
+      "company": "Cisco",
+      "title": "Solutions Engineer",
+      "location": "Singapore, Singapore",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Singapore-Singapore/Solutions-Engineer_2027412",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T16:01:02.528218+00:00",
+      "last_seen": "2026-10-17T16:01:02.528218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:cisco:/job/Minato-Japan/Solutions-Engineer_2027357",
+      "company": "Cisco",
+      "title": "Solutions Engineer",
+      "location": "Minato, Japan",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Minato-Japan/Solutions-Engineer_2027357",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T16:01:02.528218+00:00",
+      "last_seen": "2026-10-17T16:01:02.528218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:zillow:/job/Mexico-City/Data-Scientist_P751528-2",
+      "company": "Zillow",
+      "title": "Data Scientist",
+      "location": "Mexico City",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Data-Scientist_P751528-2",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T16:01:02.528218+00:00",
+      "last_seen": "2026-10-17T16:01:02.528218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/HefeiCHN/Customer-Engineer-MDP-FEP_R2631440",
+      "company": "Applied Materials",
+      "title": "Customer Engineer-MDP/FEP",
+      "location": "Hefei,CHN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HefeiCHN/Customer-Engineer-MDP-FEP_R2631440",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T16:01:02.528218+00:00",
+      "last_seen": "2026-10-17T16:01:02.528218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/HefeiCHN/Customer-Engineer-DDP-CMP-ETCH-IMP_R2631435",
+      "company": "Applied Materials",
+      "title": "Customer Engineer-DDP/CMP/ETCH/IMP",
+      "location": "Hefei,CHN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HefeiCHN/Customer-Engineer-DDP-CMP-ETCH-IMP_R2631435",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T16:01:02.528218+00:00",
+      "last_seen": "2026-10-17T16:01:02.528218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/HefeiCHN/Customer-Engineer--ETCH_R2630251",
+      "company": "Applied Materials",
+      "title": "Customer Engineer -ETCH",
+      "location": "Hefei,CHN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HefeiCHN/Customer-Engineer--ETCH_R2630251",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T16:01:02.528218+00:00",
+      "last_seen": "2026-10-17T16:01:02.528218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/HefeiCHN/Customer-Engineer--ETCH_R2630250",
+      "company": "Applied Materials",
+      "title": "Customer Engineer -ETCH",
+      "location": "Hefei,CHN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HefeiCHN/Customer-Engineer--ETCH_R2630250",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T16:01:02.528218+00:00",
+      "last_seen": "2026-10-17T16:01:02.528218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/GuangzhouCHN/Customer-Engineer-ETCH_R2626965",
+      "company": "Applied Materials",
+      "title": "Customer Engineer-ETCH",
+      "location": "Guangzhou,CHN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GuangzhouCHN/Customer-Engineer-ETCH_R2626965",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T16:01:02.528218+00:00",
+      "last_seen": "2026-10-17T16:01:02.528218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/ShenzhenCHN/Customer-Engineer-III-VSE_R2621506",
+      "company": "Applied Materials",
+      "title": "Customer Engineer III-VSE",
+      "location": "Shenzhen,CHN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShenzhenCHN/Customer-Engineer-III-VSE_R2621506",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T16:01:02.528218+00:00",
+      "last_seen": "2026-10-17T16:01:02.528218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:nordstrom:/job/San-Diego-CA/Seasonal-Administrative-Assistant-Top-Seller---La-Jolla-University-Town-Center_R-887741-1",
+      "company": "Nordstrom",
+      "title": "Seasonal Administrative Assistant Top Seller - La Jolla University Town Center",
+      "location": "San Diego, CA",
+      "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/San-Diego-CA/Seasonal-Administrative-Assistant-Top-Seller---La-Jolla-University-Town-Center_R-887741-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-17T16:01:02.528218+00:00",
+      "last_seen": "2026-10-17T16:01:02.528218+00:00",
+      "active": true
+    },
     {
       "uid": "oraclecloud:fa-evmr-saasfaprod1:40638",
       "company": "Nokia",
@@ -3121,7 +3297,7 @@
       "location": "San Diego, CA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/San-Diego-CA/Nordstrom-Hiring-Day---Thursday--October-22nd--11am-5pm---La-Jolla-University-Town-Center_R-888527",
       "ats": "workday",
-      "posted_at": "Posted Today",
+      "posted_at": "Posted Yesterday",
       "category": "full-time",
       "tags": [
         "swe"
@@ -3137,7 +3313,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8894763002?gh_jid=8894763002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-16T12:27:00-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -6317,7 +6493,7 @@
       "location": "Minneapolis, MN - HQ",
       "url": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/Core-Infrastructure-Engineer---Professional_R-100749",
       "ats": "workday",
-      "posted_at": "Posted Today",
+      "posted_at": "Posted Yesterday",
       "category": "full-time",
       "tags": [
         "bank"
@@ -10723,22 +10899,6 @@
       "active": true
     },
     {
-      "uid": "workday:globalfoundries:/job/Penang/Trainee---Associate-Engineer-Process-Engineering--AE-_JR-2503719",
-      "company": "GlobalFoundries",
-      "title": "Trainee - Associate Engineer Process Engineering (AE)",
-      "location": "Penang",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/Penang/Trainee---Associate-Engineer-Process-Engineering--AE-_JR-2503719",
-      "ats": "workday",
-      "posted_at": "Posted Yesterday",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-16T09:58:42.864716+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true
-    },
-    {
       "uid": "greenhouse:axon:7791815003",
       "company": "Axon",
       "title": "Field Deployment Engineer - Counter UAS",
@@ -14783,7 +14943,7 @@
       "location": "San Diego, CA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/San-Diego-CA/Seasonal-Busser---Bazille---La-Jolla-University-Town-Center_R-888068",
       "ats": "workday",
-      "posted_at": "Posted Yesterday",
+      "posted_at": "Posted 2 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -17733,7 +17893,7 @@
       "location": "Bradenton, FL",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Bradenton-FL/Nordstrom-Rack-Hiring-Day---Thursday--October-22--2026--11am---5pm---The-Shoppes-at-University-Town-Center-Rack_R-887982",
       "ats": "workday",
-      "posted_at": "Posted Yesterday",
+      "posted_at": "Posted 2 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -17749,7 +17909,7 @@
       "location": "Westwood, MA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Westwood-MA/Nordstrom-Rack-Hiring-Day---Thursday--October-22--2026--11am---5pm---University-Station-Rack_R-887970-1",
       "ats": "workday",
-      "posted_at": "Posted Yesterday",
+      "posted_at": "Posted 2 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -20715,7 +20875,7 @@
       "location": "Riverside, CA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Riverside-CA/Control-Systems-Tech---West-Coast-Omni-Center_R-875371",
       "ats": "workday",
-      "posted_at": "Posted Yesterday",
+      "posted_at": "Posted 2 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -30579,7 +30739,7 @@
       "location": "San Diego, CA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/San-Diego-CA/Seasonal-Restaurant-Server---Bazille---La-Jolla-University-Town-Center_R-887460-1",
       "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
+      "posted_at": "Posted 3 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -39367,7 +39527,7 @@
       "location": "San Diego, CA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/San-Diego-CA/Seasonal-Retail-Fulfillment---La-Jolla-University-Town-Center_R-887313",
       "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
+      "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -39383,7 +39543,7 @@
       "location": "Seattle, WA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Product-Developer--Women-s-Apparel---Rack--Hbyrid--Seattle-_R-887245",
       "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
+      "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -40664,23 +40824,6 @@
       "tags": [
         "swe",
         "uk"
-      ],
-      "first_seen": "2026-10-13T21:37:57.046601+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:thales:/job/Orlando/AI-Engineer---Graduate_R0341851-1",
-      "company": "Thales",
-      "title": "AI Engineer - Graduate",
-      "location": "Orlando",
-      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
       ],
       "first_seen": "2026-10-13T21:37:57.046601+00:00",
       "last_seen": "2026-10-17T00:02:04.879553+00:00",
@@ -42636,7 +42779,7 @@
       "location": "Dubuque, IA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Dubuque-IA/Industrial-Engineer-2---Supply-Chain---Central-States-Distribution-Center_R-887024",
       "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
+      "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -42652,7 +42795,7 @@
       "location": "Oak Brook, IL",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Oak-Brook-IL/Seasonal-Alterations---Tailor-Shop---Apprentice---Oakbrook-Center_R-886951",
       "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
+      "posted_at": "Posted 4 Days Ago",
       "category": "internship",
       "tags": [
         "swe"
@@ -48128,7 +48271,7 @@
       "location": "Orem, UT",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Orem-UT/Beauty-Concierge---Orem-University-Crossing-Rack_R-886897",
       "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
+      "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -57479,7 +57622,7 @@
       "location": "Seattle, WA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Finance---Corporate-Internship---Summer-2027_R-886463-1",
       "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
+      "posted_at": "Posted 5 Days Ago",
       "category": "internship",
       "tags": [
         "swe"
@@ -57495,7 +57638,7 @@
       "location": "Seattle, WA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Supply-Chain-Operations---Corporate-Internship---Summer-2027---Seattle--WA_R-886519",
       "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
+      "posted_at": "Posted 5 Days Ago",
       "category": "internship",
       "tags": [
         "swe"
@@ -57511,7 +57654,7 @@
       "location": "Riverside, CA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Riverside-CA/Supply-Chain-Operations-Industrial-Engineer---Corporate-Internship---Summer-2027---Riverside--CA_R-886446",
       "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
+      "posted_at": "Posted 5 Days Ago",
       "category": "internship",
       "tags": [
         "swe"
@@ -57527,7 +57670,7 @@
       "location": "Dubuque, IA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Dubuque-IA/Supply-Chain-Operations-Industrial-Engineer---Corporate-Internship---Summer-2027---Dubuque--IA_R-886442",
       "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
+      "posted_at": "Posted 5 Days Ago",
       "category": "internship",
       "tags": [
         "swe"
@@ -57543,7 +57686,7 @@
       "location": "Seattle, WA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Fashion-Design---Corporate-Internship---Summer-2027_R-886422",
       "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
+      "posted_at": "Posted 5 Days Ago",
       "category": "internship",
       "tags": [
         "swe"
@@ -57559,7 +57702,7 @@
       "location": "Seattle, WA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Technical-Apparel-Design---Corporate-Internship---Summer-2027_R-886419",
       "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
+      "posted_at": "Posted 5 Days Ago",
       "category": "internship",
       "tags": [
         "swe"
@@ -57575,7 +57718,7 @@
       "location": "Seattle, WA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Merchandising---Corporate-Internship---Summer-2027_R-886408",
       "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
+      "posted_at": "Posted 5 Days Ago",
       "category": "internship",
       "tags": [
         "swe"
@@ -68704,7 +68847,7 @@
       "location": "Cedar Rapids, IA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Cedar-Rapids-IA/Systems-Analyst-1---MWFC--Onsite-_R-872592-1",
       "ats": "workday",
-      "posted_at": "Posted 7 Days Ago",
+      "posted_at": "Posted 8 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -78672,7 +78815,7 @@
       "location": "Short Hills, NJ",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Short-Hills-NJ/Alterations---Tailor-Shop---Apprentice---The-Mall-at-Short-Hills_R-885416",
       "ats": "workday",
-      "posted_at": "Posted 8 Days Ago",
+      "posted_at": "Posted 9 Days Ago",
       "category": "internship",
       "tags": [
         "swe"
@@ -78688,7 +78831,7 @@
       "location": "San Diego, CA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/San-Diego-CA/Beauty-Concierge---La-Jolla-University-Town-Center_R-885503",
       "ats": "workday",
-      "posted_at": "Posted 8 Days Ago",
+      "posted_at": "Posted 9 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -78704,7 +78847,7 @@
       "location": "Bradenton, FL",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Bradenton-FL/Alterations---Tailor-Shop---Tailor---The-Shoppes-at-University-Town-Center-Rack_R-884317",
       "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
+      "posted_at": "Posted 3 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -83504,22 +83647,6 @@
       "active": true
     },
     {
-      "uid": "workday:salesforce:/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1",
-      "company": "Salesforce",
-      "title": "Software Engineering, SMTS/MTS (Backend + Kubernetes/Docker/Helm)",
-      "location": "2 Locations",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1",
-      "ats": "workday",
-      "posted_at": "Posted Today",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-08T07:38:59.690824+00:00",
-      "last_seen": "2026-10-17T12:32:47.711024+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:salesforce:/job/Singapore---Singapore/Agentforce-Forward-Deployed-Engineer_JR346858-1",
       "company": "Salesforce",
       "title": "Forward Deployed Engineer",
@@ -84646,7 +84773,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8868904002?gh_jid=8868904002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-07T17:42:05-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -84765,7 +84892,7 @@
       "location": "Des Moines, IA",
       "url": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Des-Moines-IA/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100734",
       "ats": "workday",
-      "posted_at": "Posted 9 Days Ago",
+      "posted_at": "Posted 10 Days Ago",
       "category": "internship",
       "tags": [
         "bank"
@@ -92980,7 +93107,7 @@
       "location": "Seattle, WA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936",
       "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
+      "posted_at": "Posted 5 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -98521,7 +98648,7 @@
       "location": "Boca Raton, FL",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Boca-Raton-FL/Seasonal---Regular-Customer-Service--Stock---Fulfillment--University-Commons-Rack_R-884598",
       "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
+      "posted_at": "Posted 3 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -99080,22 +99207,6 @@
       "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6614",
       "ats": "oraclecloud",
       "posted_at": "2026-10-06",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-06T19:12:11.269095+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:pipersandler:/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100705",
-      "company": "Piper Sandler",
-      "title": "2027 Summer Internship Program – Public Finance",
-      "location": "Minneapolis, MN - HQ",
-      "url": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100705",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
       "category": "internship",
       "tags": [
         "bank"
@@ -111623,7 +111734,7 @@
       "location": "San Diego, CA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/San-Diego-CA/Administrative-Assistant-Top-Seller---La-Jolla-University-Town-Center_R-884084-1",
       "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
+      "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -112949,22 +113060,6 @@
         "bank",
         "fintech",
         "europe"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:raymondjames:/job/Saint-Petersburg-Florida---United-States/XMLNAME-2026-Fall-Virtual-Sophomore-Program--Investment-Banking-Bootcamp-for-2028-Summer-Analyst-Opportunities_R-0013018",
-      "company": "Raymond James",
-      "title": "2026 Fall Virtual Sophomore Program: Investment Banking Bootcamp for 2028 Summer Analyst Opportunities",
-      "location": "",
-      "url": "https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2026-Fall-Virtual-Sophomore-Program--Investment-Banking-Bootcamp-for-2028-Summer-Analyst-Opportunities_R-0013018",
-      "ats": "workday",
-      "posted_at": "Posted 12 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
       ],
       "first_seen": "2026-10-05T18:37:17.354026+00:00",
       "last_seen": "2026-10-17T00:02:04.879553+00:00",
@@ -187817,7 +187912,7 @@
       "location": "Denver, CO",
       "url": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Denver-CO/Quantitative-Associate---Special-District-Group_R-100728-1",
       "ats": "workday",
-      "posted_at": "Posted 16 Days Ago",
+      "posted_at": "Posted 17 Days Ago",
       "category": "full-time",
       "tags": [
         "bank"
@@ -187834,7 +187929,7 @@
       "location": "Minneapolis, MN - HQ",
       "url": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Technology--Employee-Access-_R-100717",
       "ats": "workday",
-      "posted_at": "Posted 24 Days Ago",
+      "posted_at": "Posted 25 Days Ago",
       "category": "internship",
       "tags": [
         "bank"
@@ -240101,23 +240196,6 @@
       "url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Omaha-Nebraska/Software-Development-Engineering---Advisor-II_R-10374510",
       "ats": "workday",
       "posted_at": "Posted 24 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "fintech"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:fiserv:/job/Berkeley-Heights-New-Jersey/Software-Development-Engineer--COBOL-_R-10401365",
-      "company": "Fiserv",
-      "title": "Software Development Engineer (COBOL)",
-      "location": "2 Locations",
-      "url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/Software-Development-Engineer--COBOL-_R-10401365",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
       "category": "full-time",
       "tags": [
         "fintech"
@@ -308213,42 +308291,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:abb:/job/Beijing-Beijing-China/Control-Electronics-Engineer_JR00014669",
-      "company": "ABB",
-      "title": "Control Electronics Engineer",
-      "location": "Beijing, Beijing, China",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Beijing-Beijing-China/Control-Electronics-Engineer_JR00014669",
-      "ats": "workday",
-      "posted_at": "Posted 27 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:abb:/job/Beijing-Beijing-China/Product-Compliance-Engineer_JR00014567",
-      "company": "ABB",
-      "title": "Product Compliance Engineer",
-      "location": "Beijing, Beijing, China",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Beijing-Beijing-China/Product-Compliance-Engineer_JR00014567",
-      "ats": "workday",
-      "posted_at": "Posted 27 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Order-Execution-Intern_JR00045945",
       "company": "ABB",
       "title": "Order Execution Intern",
@@ -313853,7 +313895,7 @@
       "location": "India - Bangalore",
       "url": "https://outsystems.wd503.myworkdayjobs.com/en-US/OutSystems/job/India---Bangalore/AI-Native-Senior-Quality-Tester_R1522",
       "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
+      "posted_at": "Posted 16 Days Ago",
       "category": "full-time",
       "tags": [
         "swe",
@@ -313871,7 +313913,7 @@
       "location": "India - Bangalore",
       "url": "https://outsystems.wd503.myworkdayjobs.com/en-US/OutSystems/job/India---Bangalore/AI-Quality-Data-Tester--Manual---Automation-_R1692",
       "ats": "workday",
-      "posted_at": "Posted 28 Days Ago",
+      "posted_at": "Posted 29 Days Ago",
       "category": "full-time",
       "tags": [
         "swe",
@@ -329925,7 +329967,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T08:32:45-04:00",
+      "posted_at": "2026-10-17T12:02:58-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -331931,7 +331973,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T08:32:48-04:00",
+      "posted_at": "2026-10-17T12:03:03-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -331982,7 +332024,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T08:32:47-04:00",
+      "posted_at": "2026-10-17T12:03:00-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -362898,6 +362940,23 @@
       "title": "Software Development Engineer II, Delivery Choice",
       "location": "Bellevue, Washington, USA",
       "url": "https://www.amazon.jobs/en/jobs/10419255/software-development-engineer-ii-delivery-choice",
+      "ats": "amazon",
+      "posted_at": "2026-05-13",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-17T00:02:04.879553+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "amazon:10419313",
+      "company": "Amazon",
+      "title": "PD Engineer, Annapurna Labs",
+      "location": "Austin, Texas, USA",
+      "url": "https://www.amazon.jobs/en/jobs/10419313/pd-engineer-annapurna-labs",
       "ats": "amazon",
       "posted_at": "2026-05-13",
       "category": "full-time",
@@ -447723,23 +447782,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:micron:/job/Taichung---MTB-Taiwan/MTB-PWF-TF-Process-Engineer-FY28-NCG-_JR111534",
-      "company": "Micron",
-      "title": "MTB PWF TF Process Engineer(FY28 NCG)",
-      "location": "Taichung - MTB, Taiwan",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/MTB-PWF-TF-Process-Engineer-FY28-NCG-_JR111534",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:micron:/job/Miaoli---Tongluo-Taiwan/SOFTWARE-ENGINEER_JR111693",
       "company": "Micron",
       "title": "SOFTWARE ENGINEER",
@@ -464978,23 +465020,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:amat:/job/ShenzhenCHN/Customer-Engineer-ETCH_R2626968",
-      "company": "Applied Materials",
-      "title": "Customer Engineer-ETCH",
-      "location": "Shenzhen,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShenzhenCHN/Customer-Engineer-ETCH_R2626968",
-      "ats": "workday",
-      "posted_at": "Posted 30 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:amat:/job/ShanghaiCHN/Product-Quality---Reliability-Engineer-Optical-Sub-Assembly_R2626162",
       "company": "Applied Materials",
       "title": "Product Quality & Reliability Engineer-Optical Sub-Assembly",
@@ -468905,40 +468930,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:amat:/job/ShanghaiCHN/Customer-Engineer-II-CMP_R2625353-1",
-      "company": "Applied Materials",
-      "title": "Customer Engineer II-CMP",
-      "location": "Shanghai,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShanghaiCHN/Customer-Engineer-II-CMP_R2625353-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:amat:/job/ShenzhenCHN/Customer-Engineer-III-ETCH_R2625367",
-      "company": "Applied Materials",
-      "title": "Customer Engineer III-ETCH",
-      "location": "Shenzhen,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShenzhenCHN/Customer-Engineer-III-ETCH_R2625367",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:amat:/job/HefeiCHN/Customer-Engineer-III-DDP_R2625361-1",
       "company": "Applied Materials",
       "title": "Customer Engineer III-DDP",
@@ -471599,23 +471590,6 @@
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-17T04:43:36.458211+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:amat:/job/Pyeongtaek-NF-SummitKOR/XMLNAME----Installation-Team-Customer-Engineer---------1--_R2615160",
-      "company": "Applied Materials",
-      "title": "[경력] Installation Team Customer Engineer 채용 - 반도체 장비 엔지니어 (경력 1년 이상)",
-      "location": "Pyeongtaek-NF Summit,KOR",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Pyeongtaek-NF-SummitKOR/XMLNAME----Installation-Team-Customer-Engineer---------1--_R2615160",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
       "tags": [
         "swe"
       ],
@@ -498116,7 +498090,7 @@
       "location": "Seattle, WA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Workday-Systems-Analyst-2---Seattle--WA--Hybrid-_R-875040-1",
       "ats": "workday",
-      "posted_at": "Posted 17 Days Ago",
+      "posted_at": "Posted 18 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -498133,7 +498107,7 @@
       "location": "San Diego, CA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/San-Diego-CA/Seasonal-Retail-Stock---La-Jolla-University-Town-Center_R-879442",
       "ats": "workday",
-      "posted_at": "Posted 25 Days Ago",
+      "posted_at": "Posted 26 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -498150,7 +498124,7 @@
       "location": "Seattle, WA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Engineer-2---Supply-Chain_R-867298",
       "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
+      "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -508944,23 +508918,6 @@
       "active": true
     },
     {
-      "uid": "greenhouse:anthropic:5435282008",
-      "company": "Anthropic",
-      "title": "Applied AI Engineer, DNB",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435282008",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-04T17:15:51-04:00",
-      "category": "full-time",
-      "tags": [
-        "ai",
-        "swe"
-      ],
-      "first_seen": "2026-09-28T16:12:19.718072+00:00",
-      "last_seen": "2026-10-17T00:02:04.879553+00:00",
-      "active": true
-    },
-    {
       "uid": "greenhouse:anthropic:5354765008",
       "company": "Anthropic",
       "title": "Applied AI Engineer, Enterprise",
@@ -509196,7 +509153,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8842136002?gh_jid=8842136002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-07T19:40:15-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -509212,7 +509169,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8842129002?gh_jid=8842129002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-07T19:39:54-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -517494,7 +517451,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8810604002?gh_jid=8810604002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-07T19:40:41-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -521503,7 +521460,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8746100002?gh_jid=8746100002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:15-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -522596,7 +522553,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8754684002?gh_jid=8754684002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:15-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -522612,7 +522569,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8415898002?gh_jid=8415898002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:08-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -523201,7 +523158,7 @@
       "location": "Austin, Texas, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8786447002?gh_jid=8786447002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:15-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -523217,7 +523174,7 @@
       "location": "Chicago",
       "url": "https://www.janestreet.com/join-jane-street/apply/8786398002?gh_jid=8786398002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:15-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -524967,7 +524924,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:15-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -526645,7 +526602,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8759009002?gh_jid=8759009002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:15-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -527238,7 +527195,7 @@
       "location": "Singapore",
       "url": "https://www.janestreet.com/join-jane-street/apply/8646746002?gh_jid=8646746002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:13-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -527254,7 +527211,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8637960002?gh_jid=8637960002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:13-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -529073,7 +529030,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8755768002?gh_jid=8755768002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:15-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -530351,7 +530308,7 @@
       "location": "Ireland - Dublin",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Technical-Support-Engineer--French-speaking-_JR356839",
       "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
+      "posted_at": "Posted Today",
       "category": "full-time",
       "tags": [
         "swe"
@@ -530820,7 +530777,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8632723002?gh_jid=8632723002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-07T19:40:32-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -531062,7 +531019,7 @@
       "location": "Singapore",
       "url": "https://www.janestreet.com/join-jane-street/apply/7642974002?gh_jid=7642974002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:00-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -531078,7 +531035,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/7642886002?gh_jid=7642886002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:00-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -533134,7 +533091,7 @@
       "location": "Singapore",
       "url": "https://www.janestreet.com/join-jane-street/apply/8693539002?gh_jid=8693539002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:14-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -534826,7 +534783,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -535591,7 +535548,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8641280002?gh_jid=8641280002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:13-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -537752,7 +537709,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:15-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -538404,7 +538361,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8675537002?gh_jid=8675537002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:14-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -539856,7 +539813,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8647260002?gh_jid=8647260002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:14-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -540174,7 +540131,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8690499002?gh_jid=8690499002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:06-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -541906,7 +541863,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8626146002?gh_jid=8626146002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:12-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -541940,7 +541897,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8651274002?gh_jid=8651274002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:14-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -541956,7 +541913,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8651286002?gh_jid=8651286002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:14-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -541972,7 +541929,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8648474002?gh_jid=8648474002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:14-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -541988,7 +541945,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:09-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -542004,7 +541961,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8600948002?gh_jid=8600948002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -542020,7 +541977,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:09-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -542036,7 +541993,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8576270002?gh_jid=8576270002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:10-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -542052,7 +542009,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8589868002?gh_jid=8589868002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -543826,7 +543783,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8648512002?gh_jid=8648512002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:14-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -545956,7 +545913,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8635672002?gh_jid=8635672002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:13-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -546102,7 +546059,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8643171002?gh_jid=8643171002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:13-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -546494,7 +546451,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8641377002?gh_jid=8641377002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:13-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -546510,7 +546467,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8625946002?gh_jid=8625946002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:12-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -546575,7 +546532,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8628843002?gh_jid=8628843002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:12-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -546703,7 +546660,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8623868002?gh_jid=8623868002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:12-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -546719,7 +546676,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8623733002?gh_jid=8623733002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:12-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -546735,7 +546692,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8617298002?gh_jid=8617298002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:12-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -546751,7 +546708,7 @@
       "location": "Singapore",
       "url": "https://www.janestreet.com/join-jane-street/apply/8632392002?gh_jid=8632392002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:13-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -546767,7 +546724,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8620505002?gh_jid=8620505002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-05T21:41:40-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -547965,7 +547922,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8626260002?gh_jid=8626260002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:12-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -548791,7 +548748,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8631973002?gh_jid=8631973002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:12-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -551394,7 +551351,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8621450002?gh_jid=8621450002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-08T13:07:48-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -551676,7 +551633,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8347286002?gh_jid=8347286002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:07-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -551692,7 +551649,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8611307002?gh_jid=8611307002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -551708,7 +551665,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8384490002?gh_jid=8384490002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:08-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -551724,7 +551681,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8498547002?gh_jid=8498547002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:09-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -551740,7 +551697,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8617344002?gh_jid=8617344002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:12-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -551756,7 +551713,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8599644002?gh_jid=8599644002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -551772,7 +551729,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8594541002?gh_jid=8594541002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -552018,7 +551975,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8613910002?gh_jid=8613910002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-07T19:40:05-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -554607,7 +554564,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8594336002?gh_jid=8594336002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -556475,7 +556432,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8599917002?gh_jid=8599917002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "new-grad",
       "tags": [
         "quant"
@@ -556768,7 +556725,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8596349002?gh_jid=8596349002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -556784,7 +556741,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8596433002?gh_jid=8596433002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -566034,7 +565991,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8588405002?gh_jid=8588405002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -566098,7 +566055,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8585303002?gh_jid=8585303002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:11-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570396,7 +570353,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8213653002?gh_jid=8213653002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:06-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570412,7 +570369,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8233259002?gh_jid=8233259002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:07-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570428,7 +570385,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8531243002?gh_jid=8531243002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:07-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570444,7 +570401,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8512072002?gh_jid=8512072002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:07-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570460,7 +570417,7 @@
       "location": "Singapore",
       "url": "https://www.janestreet.com/join-jane-street/apply/8057314002?gh_jid=8057314002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:04-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570476,7 +570433,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8516108002?gh_jid=8516108002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:10-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570492,7 +570449,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8515327002?gh_jid=8515327002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:10-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570508,7 +570465,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8057310002?gh_jid=8057310002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:04-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570524,7 +570481,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/7988179002?gh_jid=7988179002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:02-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570540,7 +570497,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/7998232002?gh_jid=7998232002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:02-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570556,7 +570513,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/5002846002?gh_jid=5002846002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:57-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570572,7 +570529,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/6300684002?gh_jid=6300684002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570588,7 +570545,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8464007002?gh_jid=8464007002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:09-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570604,7 +570561,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/6558007002?gh_jid=6558007002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570620,7 +570577,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/7668113002?gh_jid=7668113002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:00-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570636,7 +570593,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/7229633002?gh_jid=7229633002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:59-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570652,7 +570609,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8161177002?gh_jid=8161177002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:06-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570668,7 +570625,7 @@
       "location": "Singapore",
       "url": "https://www.janestreet.com/join-jane-street/apply/8159216002?gh_jid=8159216002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:06-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570684,7 +570641,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/6184529002?gh_jid=6184529002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570700,7 +570657,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/6236002002?gh_jid=6236002002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570716,7 +570673,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/6673515002?gh_jid=6673515002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570732,7 +570689,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/4760538002?gh_jid=4760538002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:57-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570748,7 +570705,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8025274002?gh_jid=8025274002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:02-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570764,7 +570721,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8018160002?gh_jid=8018160002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:02-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570780,7 +570737,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8155302002?gh_jid=8155302002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:06-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570796,7 +570753,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8220940002?gh_jid=8220940002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-02T09:15:56-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570812,7 +570769,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8549353002?gh_jid=8549353002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:10-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570828,7 +570785,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/4276248002?gh_jid=4276248002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:56-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570844,7 +570801,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/5372886002?gh_jid=5372886002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:57-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570860,7 +570817,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/5548184002?gh_jid=5548184002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570876,7 +570833,7 @@
       "location": "Singapore",
       "url": "https://www.janestreet.com/join-jane-street/apply/5701269002?gh_jid=5701269002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570892,7 +570849,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/6254435002?gh_jid=6254435002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570908,7 +570865,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8056588002?gh_jid=8056588002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:04-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570924,7 +570881,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/7437779002?gh_jid=7437779002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:59-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570940,7 +570897,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/6802323002?gh_jid=6802323002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:59-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570956,7 +570913,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/6485460002?gh_jid=6485460002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570972,7 +570929,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/7449252002?gh_jid=7449252002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:59-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -570988,7 +570945,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/7449190002?gh_jid=7449190002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-09T12:16:42-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571004,7 +570961,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/7449077002?gh_jid=7449077002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:59-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571020,7 +570977,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/4276720002?gh_jid=4276720002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-09T09:57:25-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571036,7 +570993,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/7246309002?gh_jid=7246309002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-09T09:58:54-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571052,7 +571009,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8576934002?gh_jid=8576934002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-09T09:58:20-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571068,7 +571025,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8576928002?gh_jid=8576928002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-09T09:57:46-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571084,7 +571041,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/7246339002?gh_jid=7246339002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:59-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571100,7 +571057,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-09T09:58:03-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571116,7 +571073,7 @@
       "location": "Singapore",
       "url": "https://www.janestreet.com/join-jane-street/apply/8480752002?gh_jid=8480752002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:09-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571132,7 +571089,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8121906002?gh_jid=8121906002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:05-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571148,7 +571105,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/6240319002?gh_jid=6240319002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571164,7 +571121,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/5168486002?gh_jid=5168486002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:57-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571180,7 +571137,7 @@
       "location": "Singapore",
       "url": "https://www.janestreet.com/join-jane-street/apply/5807405002?gh_jid=5807405002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571196,7 +571153,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/5807402002?gh_jid=5807402002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571212,7 +571169,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/5108180002?gh_jid=5108180002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:57-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571228,7 +571185,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/7700474002?gh_jid=7700474002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:00-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571244,7 +571201,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/4275921002?gh_jid=4275921002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:56-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571260,7 +571217,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/7514485002?gh_jid=7514485002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-09T09:56:13-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571276,7 +571233,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/6302325002?gh_jid=6302325002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-09T09:55:38-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571292,7 +571249,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/4808264002?gh_jid=4808264002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-09T09:55:54-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571308,7 +571265,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8573726002?gh_jid=8573726002",
       "ats": "greenhouse",
-      "posted_at": "2026-10-09T09:55:12-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571324,7 +571281,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/4794171002?gh_jid=4794171002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:57-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571340,7 +571297,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/4839146002?gh_jid=4839146002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:57-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571356,7 +571313,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8573523002?gh_jid=8573523002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:10-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571372,7 +571329,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/4273643002?gh_jid=4273643002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:56-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571388,7 +571345,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8428218002?gh_jid=8428218002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:08-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571404,7 +571361,7 @@
       "location": "Singapore",
       "url": "https://www.janestreet.com/join-jane-street/apply/5791948002?gh_jid=5791948002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571420,7 +571377,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/4756741002?gh_jid=4756741002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:57-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571436,7 +571393,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/4274814002?gh_jid=4274814002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:56-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571452,7 +571409,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/4274288002?gh_jid=4274288002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:56-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571468,7 +571425,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/7604415002?gh_jid=7604415002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:00-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571484,7 +571441,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/6313662002?gh_jid=6313662002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:58-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571500,7 +571457,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/8355894002?gh_jid=8355894002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:07-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571516,7 +571473,7 @@
       "location": "Hong Kong, Hong Kong",
       "url": "https://www.janestreet.com/join-jane-street/apply/8034317002?gh_jid=8034317002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:06:02-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571532,7 +571489,7 @@
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/4538451002?gh_jid=4538451002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:57-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -571548,7 +571505,7 @@
       "location": "New York, New York, United States",
       "url": "https://www.janestreet.com/join-jane-street/apply/4276263002?gh_jid=4276263002",
       "ats": "greenhouse",
-      "posted_at": "2026-09-28T10:05:56-04:00",
+      "posted_at": "2026-10-17T09:23:57-04:00",
       "category": "full-time",
       "tags": [
         "quant"
