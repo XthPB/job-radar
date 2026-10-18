@@ -1,7 +1,169 @@
 {
-  "generated_at": "2026-10-18T01:15:57.616890+00:00",
-  "count": 34628,
+  "generated_at": "2026-10-18T06:08:38.361890+00:00",
+  "count": 34611,
   "postings": [
+    {
+      "uid": "workday:usbank:/job/Atlanta-GA/Software-Engineer--2--Full---Stack---Vuejs-and-Net--_2026-0022283",
+      "company": "U.S. Bank",
+      "title": "Software Engineer -2 (Full - Stack : Vue.js and .Net )",
+      "location": "2 Locations",
+      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Atlanta-GA/Software-Engineer--2--Full---Stack---Vuejs-and-Net--_2026-0022283",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "bank"
+      ],
+      "first_seen": "2026-10-18T06:08:38.361890+00:00",
+      "last_seen": "2026-10-18T06:08:38.361890+00:00",
+      "active": true
+    },
+    {
+      "uid": "lever:shieldai:a3eae89e-5a2b-4e6a-8e9c-e315923b0c71",
+      "company": "Shield AI",
+      "title": "Data Engineer, Finance (R6329)",
+      "location": "San Diego, California",
+      "url": "https://jobs.lever.co/shieldai/a3eae89e-5a2b-4e6a-8e9c-e315923b0c71",
+      "ats": "lever",
+      "posted_at": "2026-10-18T01:49:03.406000+00:00",
+      "category": "full-time",
+      "tags": [
+        "ai",
+        "swe"
+      ],
+      "first_seen": "2026-10-18T06:08:38.361890+00:00",
+      "last_seen": "2026-10-18T06:08:38.361890+00:00",
+      "active": true
+    },
+    {
+      "uid": "smartrecruiters:BoschGroup:744000156173229",
+      "company": "Bosch",
+      "title": "制冷系统研发科学家Research Scientist on HVAC Refrigeration System_CR",
+      "location": "Shanghai, Shanghai, cn",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156173229",
+      "ats": "smartrecruiters",
+      "posted_at": "2026-10-18T02:01:53.606Z",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-18T06:08:38.361890+00:00",
+      "last_seen": "2026-10-18T06:08:38.361890+00:00",
+      "active": true
+    },
+    {
+      "uid": "amazon:10582077",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Customer Experience and Business Trends",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10582077/software-development-engineer-customer-experience-and-business-trends",
+      "ats": "amazon",
+      "posted_at": "2026-10-18",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T06:08:38.361890+00:00",
+      "last_seen": "2026-10-18T06:08:38.361890+00:00",
+      "active": true
+    },
+    {
+      "uid": "amazon:10582082",
+      "company": "Amazon",
+      "title": "Applied Scientist II, International and Emerging Stores Payments",
+      "location": "Seattle, Washington, USA",
+      "url": "https://www.amazon.jobs/en/jobs/10582082/applied-scientist-ii-international-and-emerging-stores-payments",
+      "ats": "amazon",
+      "posted_at": "2026-10-18",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T06:08:38.361890+00:00",
+      "last_seen": "2026-10-18T06:08:38.361890+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:cisco:/job/Bangalore-India/Software-Engineering-Technical-Leader--Go-Java-Python-C-----AI--Securtiy-Domain---8-to-14-Years---Bangalore_2027393",
+      "company": "Cisco",
+      "title": "Software Engineering Technical Leader| Go/Java/Python/C++ , AI, Securtiy Domain | 8 to 14 Years | Bangalore",
+      "location": "Bangalore, India",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineering-Technical-Leader--Go-Java-Python-C-----AI--Securtiy-Domain---8-to-14-Years---Bangalore_2027393",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T06:08:38.361890+00:00",
+      "last_seen": "2026-10-18T06:08:38.361890+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/ShanghaiCHN/Customer-Engineer-ETCH_R2626982",
+      "company": "Applied Materials",
+      "title": "Customer Engineer-ETCH",
+      "location": "Shanghai,CHN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShanghaiCHN/Customer-Engineer-ETCH_R2626982",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T06:08:38.361890+00:00",
+      "last_seen": "2026-10-18T06:08:38.361890+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/DalianCHN/Customer-Engineer-FEP_R2630730",
+      "company": "Applied Materials",
+      "title": "Customer Engineer-FEP",
+      "location": "Dalian,CHN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/DalianCHN/Customer-Engineer-FEP_R2630730",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T06:08:38.361890+00:00",
+      "last_seen": "2026-10-18T06:08:38.361890+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/DalianCHN/Customer-Engineer-III_R2630720",
+      "company": "Applied Materials",
+      "title": "Customer Engineer III",
+      "location": "Dalian,CHN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/DalianCHN/Customer-Engineer-III_R2630720",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T06:08:38.361890+00:00",
+      "last_seen": "2026-10-18T06:08:38.361890+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/DalianCHN/Customer-Engineer-IV-ETCH_R2625279",
+      "company": "Applied Materials",
+      "title": "Customer Engineer-ETCH",
+      "location": "Dalian,CHN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/DalianCHN/Customer-Engineer-IV-ETCH_R2625279",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T06:08:38.361890+00:00",
+      "last_seen": "2026-10-18T06:08:38.361890+00:00",
+      "active": true
+    },
     {
       "uid": "oraclecloud:eeho:347345",
       "company": "Oracle",
@@ -15663,38 +15825,6 @@
       "active": true
     },
     {
-      "uid": "workday:td:/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711",
-      "company": "TD Bank",
-      "title": "TD Asset Management Portfolio Analytics Data Analyst Intern/Co-Op (Winter 2027)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-15T19:32:36.824206+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:td:/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
-      "company": "TD Bank",
-      "title": "TD Asset Management Portfolio Analytics Developer Intern/Co-Op (Winter 2027)",
-      "location": "161 Bay Street Corporate, Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-15T19:32:36.824206+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:cibc:/job/Toronto-ON/Consultant--Databricks-Developer_2616939",
       "company": "CIBC",
       "title": "Consultant, Databricks Developer",
@@ -17107,22 +17237,6 @@
       "active": true
     },
     {
-      "uid": "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer--IT-Risk-Management_2024990-1",
-      "company": "Cisco",
-      "title": "Software Engineer, IT Risk Management",
-      "location": "2 Locations",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer--IT-Risk-Management_2024990-1",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-15T19:32:36.824206+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:cisco:/job/San-Francisco-California-US/Site-Reliability-Engineering-Technical-Leader_2025037-1",
       "company": "Cisco",
       "title": "Technical Leader, SRE/Go development",
@@ -17851,22 +17965,6 @@
       "ats": "workday",
       "posted_at": "Posted 2 Days Ago",
       "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-15T19:32:36.824206+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:dxctechnology:/job/BRA---SP---SAOBERNARDO-DOCAMPO/Build-Engineer_51589796",
-      "company": "DXC Technology",
-      "title": "Build Engineer",
-      "location": "BRA - SP - SAOBERNARDO DOCAMPO",
-      "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/BRA---SP---SAOBERNARDO-DOCAMPO/Build-Engineer_51589796",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
-      "category": "full-time",
       "tags": [
         "swe"
       ],
@@ -21017,22 +21115,6 @@
       "active": true
     },
     {
-      "uid": "workday:usaa:/job/San-Antonio-Home-Office-I/Mid-Level-Software-Engineer----Database-DevOps_R0119929",
-      "company": "USAA",
-      "title": "Mid-Level Software Engineer –  Database DevOps",
-      "location": "San Antonio Home Office I",
-      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Mid-Level-Software-Engineer----Database-DevOps_R0119929",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "fintech"
-      ],
-      "first_seen": "2026-10-15T15:55:06.528520+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:usaa:/job/San-Antonio-Home-Office-I/Mid-Level-Infrastructure-Engineer---Oracle-Exadata-Database-Administrator_R0120913-1",
       "company": "USAA",
       "title": "Mid-Level Infrastructure Engineer – Oracle Exadata/Database Administrator",
@@ -21438,22 +21520,6 @@
       "title": "Trading Lifecycle Associate II",
       "location": "Mumbai, Maharashtra, India",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799090",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-15",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-15T11:47:24.357669+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:jpmc:210800477",
-      "company": "J.P. Morgan",
-      "title": "Trading Services Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800477",
       "ats": "oraclecloud",
       "posted_at": "2026-10-15",
       "category": "full-time",
@@ -23084,22 +23150,6 @@
       "title": "High Speed IO Validation Engineer",
       "location": "India, Bengaluru",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/High-Speed-IO-Validation-Engineer_JR2027937",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-15T11:47:24.357669+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:salesforce:/job/India---Hyderabad/Software-Engineering--Mulesoft--MTS-SMTS_JR364389",
-      "company": "Salesforce",
-      "title": "Software Engineering- Mulesoft, MTS/SMTS",
-      "location": "2 Locations",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering--Mulesoft--MTS-SMTS_JR364389",
       "ats": "workday",
       "posted_at": "Posted 2 Days Ago",
       "category": "full-time",
@@ -39956,22 +40006,6 @@
       "active": true
     },
     {
-      "uid": "workday:citi:/job/Jersey-City-New-Jersey-United-States/Java-Software-Engineer--Data-Platform_261001276",
-      "company": "Citi",
-      "title": "Java Software Engineer, Data Platform",
-      "location": "Jersey City New Jersey United States",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Java-Software-Engineer--Data-Platform_261001276",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-13T21:37:57.046601+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
       "uid": "oraclecloud:jpmc:210786436",
       "company": "J.P. Morgan",
       "title": "Software Engineer III - MDM",
@@ -45593,23 +45627,6 @@
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36918",
       "ats": "oraclecloud",
       "posted_at": "2026-10-13",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-13T16:33:42.291434+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:roche:/job/Mississauga/Analytical-Data-Science-Programmer_202610-125390-1",
-      "company": "Roche",
-      "title": "Analytical Data Science Programmer",
-      "location": "Mississauga",
-      "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Mississauga/Analytical-Data-Science-Programmer_202610-125390-1",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
       "tags": [
         "swe",
@@ -72298,22 +72315,6 @@
       "active": true
     },
     {
-      "uid": "workday:amat:/job/DalianCHN/Customer-Engineer-III_R2630653",
-      "company": "Applied Materials",
-      "title": "Customer Engineer III",
-      "location": "Dalian,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/DalianCHN/Customer-Engineer-III_R2630653",
-      "ats": "workday",
-      "posted_at": "Posted 8 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-09T13:59:10.439241+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:amat:/job/BangaloreIND/Algorithm-Developer_R2628320-1",
       "company": "Applied Materials",
       "title": "Algorithm Developer",
@@ -77652,22 +77653,6 @@
       "ats": "workday",
       "posted_at": "Posted 9 Days Ago",
       "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-08T20:44:11.702669+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:disney:/job/New-York-NY-USA/ABC-Localish-Production-Intern--Spring-2027_10160844-2",
-      "company": "Disney",
-      "title": "ABC Localish Production Intern, Spring 2027",
-      "location": "New York, NY, USA",
-      "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/ABC-Localish-Production-Intern--Spring-2027_10160844-2",
-      "ats": "workday",
-      "posted_at": "Posted 9 Days Ago",
-      "category": "internship",
       "tags": [
         "swe"
       ],
@@ -86444,22 +86429,6 @@
       "active": true
     },
     {
-      "uid": "oraclecloud:jpmc:210774696",
-      "company": "J.P. Morgan",
-      "title": "Software Engineer II - Java Full Stack Developer +  React + AWS",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774696",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-13",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-07T21:41:16.789453+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
       "uid": "oraclecloud:jpmc:210778132",
       "company": "J.P. Morgan",
       "title": "Software Engineer III - Java",
@@ -93479,23 +93448,6 @@
       "tags": [
         "bank",
         "uk"
-      ],
-      "first_seen": "2026-10-07T09:29:19.869746+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:bbva:/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Data-Scientist-Associate---AI-Performance---Evolution--Ciudad-de-Mxico-_JR00115182",
-      "company": "BBVA",
-      "title": "Data Scientist Associate – AI Performance & Evolution (Ciudad de México)",
-      "location": "Ciudad de Mexico, Cuauhtémoc, 06600",
-      "url": "https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Data-Scientist-Associate---AI-Performance---Evolution--Ciudad-de-Mxico-_JR00115182",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "europe"
       ],
       "first_seen": "2026-10-07T09:29:19.869746+00:00",
       "last_seen": "2026-10-18T01:15:57.616890+00:00",
@@ -108684,22 +108636,6 @@
       "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/iOS-Engineer-II---Search-Entry_R-109973-1",
       "ats": "workday",
       "posted_at": "Posted 12 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-06T06:39:00.272558+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:expedia:/job/Austin-Domain-11---HomeAway/Machine-Learning-Scientist-III---Customer-Lifetime-Value_R-109542-1",
-      "company": "Expedia",
-      "title": "Machine Learning Scientist III - Customer Lifetime Value",
-      "location": "Austin Domain 11 - HomeAway",
-      "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Austin-Domain-11---HomeAway/Machine-Learning-Scientist-III---Customer-Lifetime-Value_R-109542-1",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -151249,24 +151185,6 @@
       "backfill": true
     },
     {
-      "uid": "oraclecloud:egug:26012764",
-      "company": "American Express",
-      "title": "Campus Graduate Masters Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC",
-      "location": "Charlotte, NC, United States",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764",
-      "ats": "oraclecloud",
-      "posted_at": "2026-09-01",
-      "category": "internship",
-      "tags": [
-        "fintech",
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "oraclecloud:egug:26012781",
       "company": "American Express",
       "title": "Campus Graduate Masters Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL",
@@ -165811,23 +165729,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:citi:/job/Houston-Texas-United-States/Commodities-Quantitative-Analyst--AVP-_26948275",
-      "company": "Citi",
-      "title": "Commodities Quantitative Analyst (AVP)",
-      "location": "Houston Texas United States",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Houston-Texas-United-States/Commodities-Quantitative-Analyst--AVP-_26948275",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:citi:/job/New-York-New-York-United-States/US-Agency-Trader_26988897-2",
       "company": "Citi",
       "title": "US Agency Trader",
@@ -175457,57 +175358,6 @@
       "url": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Securitization-Financing-Portfolio-Managment--Delaware_R-0000188801",
       "ats": "workday",
       "posted_at": "Posted 10 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:rbc:/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1",
-      "company": "RBC",
-      "title": "Summer 2027 US Wealth Management Technology Internship",
-      "location": "Minneapolis, Minnesota, United States of America",
-      "url": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:rbc:/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Operations-Internship_R-0000187994-1",
-      "company": "RBC",
-      "title": "Summer 2027 Wealth Management Operations Internship",
-      "location": "Minneapolis, Minnesota, United States of America",
-      "url": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Operations-Internship_R-0000187994-1",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:rbc:/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1",
-      "company": "RBC",
-      "title": "Summer 2027 US Wealth Management Internship",
-      "location": "Minneapolis, Minnesota, United States of America",
-      "url": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
       "category": "internship",
       "tags": [
         "bank"
@@ -239081,7 +238931,7 @@
       "location": "2 Locations",
       "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/SSCTechnologies/job/Basildon-UK/Graduate--Operational-Transformation---PA26AUTRQ3136_R45814",
       "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
+      "posted_at": "Posted Today",
       "category": "full-time",
       "tags": [
         "fintech"
@@ -239098,7 +238948,7 @@
       "location": "Madrid, Spain",
       "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/SSCTechnologies/job/Madrid-Spain/Integration-Engineer_R45572",
       "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
+      "posted_at": "Posted Today",
       "category": "full-time",
       "tags": [
         "fintech"
@@ -239132,7 +238982,7 @@
       "location": "Bucharest, Romania",
       "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/SSCTechnologies/job/Bucharest-Romania/Generative-AI-Developer_R44957",
       "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
+      "posted_at": "Posted Today",
       "category": "full-time",
       "tags": [
         "fintech"
@@ -239149,7 +238999,7 @@
       "location": "Luxembourg City, Luxembourg",
       "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/SSCTechnologies/job/Luxembourg-City-Luxembourg/Transfer-Agency-Intern_R44991",
       "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
+      "posted_at": "Posted Today",
       "category": "internship",
       "tags": [
         "fintech"
@@ -307478,24 +307328,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:abb:/job/Remote-Tennessee-United-States-of-America/Gas-Insulated-Switchgear-Commissioning-Engineer_JR00033407-1",
-      "company": "ABB",
-      "title": "Gas Insulated Switchgear Commissioning Engineer",
-      "location": "Remote, Tennessee, United States of America",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Remote-Tennessee-United-States-of-America/Gas-Insulated-Switchgear-Commissioning-Engineer_JR00033407-1",
-      "ats": "workday",
-      "posted_at": "Posted 24 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:abb:/job/Remote-Nevada-USA/Electrification-Services-Application-Engineer_JR00035578-1",
       "company": "ABB",
       "title": "Electrification Services Application Engineer",
@@ -307519,24 +307351,6 @@
       "title": "Engineering Resource & Capacity Planner",
       "location": "Beersel, Flemish Brabant, Belgium",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Beersel-Flemish-Brabant-Belgium/Engineering-Resource---Capacity-Planner_JR00043589",
-      "ats": "workday",
-      "posted_at": "Posted 24 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:abb:/job/USA-MS-Senatobia/Customer-Quality-Engineering-Specialist_JR00047904",
-      "company": "ABB",
-      "title": "Customer Quality Engineering Specialist",
-      "location": "USA, MS, Senatobia",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/USA-MS-Senatobia/Customer-Quality-Engineering-Specialist_JR00047904",
       "ats": "workday",
       "posted_at": "Posted 24 Days Ago",
       "category": "full-time",
@@ -329697,7 +329511,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T21:18:17-04:00",
+      "posted_at": "2026-10-18T02:03:26-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -331703,7 +331517,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T21:18:21-04:00",
+      "posted_at": "2026-10-18T02:03:30-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -331754,7 +331568,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T21:18:19-04:00",
+      "posted_at": "2026-10-18T02:03:28-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -349956,23 +349770,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10559064/software-development-engineer-sde-madrid-euic-basket-building-experience-espresso",
       "ats": "amazon",
       "posted_at": "2026-09-24",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "amazon:10528874",
-      "company": "Amazon",
-      "title": "Software Dev Engineer II, Infra Supply Chain",
-      "location": "Seattle, Washington, USA",
-      "url": "https://www.amazon.jobs/en/jobs/10528874/software-dev-engineer-ii-infra-supply-chain",
-      "ats": "amazon",
-      "posted_at": "2026-09-03",
       "category": "full-time",
       "tags": [
         "swe"
@@ -391964,23 +391761,6 @@
       "ats": "workday",
       "posted_at": "Posted 15 Days Ago",
       "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:generalmotors:/job/Markham-Ontario-Canada/Android-Software-Developer---Infotainment-OnStar_JR-202608326",
-      "company": "General Motors",
-      "title": "Android Software Developer – Infotainment OnStar",
-      "location": "Markham, Ontario, Canada",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Android-Software-Developer---Infotainment-OnStar_JR-202608326",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
-      "category": "full-time",
       "tags": [
         "swe"
       ],
@@ -438842,23 +438622,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:blueorigin:/job/Greater-Seattle-Area/Software-Development-Engineer-III_R63940-1",
-      "company": "Blue Origin",
-      "title": "Software Development Engineer III",
-      "location": "Greater Seattle Area",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Software-Development-Engineer-III_R63940-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:blueorigin:/job/Greater-Seattle-Area/Software-Engineer-III---Applied-AI_R63824",
       "company": "Blue Origin",
       "title": "Software Engineer III - Applied AI",
@@ -463033,6 +462796,23 @@
       "backfill": true
     },
     {
+      "uid": "workday:amat:/job/DalianCHN/Customer-Engineer-II_R2629726",
+      "company": "Applied Materials",
+      "title": "Customer Engineer-DDP",
+      "location": "Dalian,CHN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/DalianCHN/Customer-Engineer-II_R2629726",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-18T06:08:38.361890+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:amat:/job/RehovotISR/Algorithm-Developer_R2625298",
       "company": "Applied Materials",
       "title": "Algorithm Research Engineer",
@@ -471249,57 +471029,6 @@
       "title": "MDP Customer Engineer I",
       "location": "Chitose,JPN",
       "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChitoseJPN/MDP-Customer-Engineer-I_R2615455-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:amat:/job/KitakamiJPN/DDP-Customer-Engineer-II_R2615441",
-      "company": "Applied Materials",
-      "title": "DDP Customer Engineer II",
-      "location": "Kitakami,JPN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/KitakamiJPN/DDP-Customer-Engineer-II_R2615441",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:amat:/job/TrevisoITA/Supplier-Industrial-Engineer--Internship-_R2613391",
-      "company": "Applied Materials",
-      "title": "Supplier Industrial Engineer (Internship)",
-      "location": "Treviso,ITA",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/TrevisoITA/Supplier-Industrial-Engineer--Internship-_R2613391",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:amat:/job/Pyeongtaek-NF-SummitKOR/XMLNAME----Installation-Team-Customer-Engineer---------1--_R2615160",
-      "company": "Applied Materials",
-      "title": "[경력] Installation Team Customer Engineer 채용 - 반도체 장비 엔지니어 (경력 1년 이상)",
-      "location": "Pyeongtaek-NF Summit,KOR",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Pyeongtaek-NF-SummitKOR/XMLNAME----Installation-Team-Customer-Engineer---------1--_R2615160",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -495679,23 +495408,6 @@
       "url": "https://jobs.eu.lever.co/mobileye/7095ceb2-0f4a-4cb1-a7dd-642d2cff9dcd",
       "ats": "lever",
       "posted_at": "2026-07-22T08:09:50.840000+00:00",
-      "category": "full-time",
-      "tags": [
-        "ai"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "lever:mobileye:d1f956e3-fc71-4a88-90d1-bdaf99fa96f0",
-      "company": "Mobileye",
-      "title": "Embedded SW and Validation Developer",
-      "location": "Haifa, Israel",
-      "url": "https://jobs.eu.lever.co/mobileye/d1f956e3-fc71-4a88-90d1-bdaf99fa96f0",
-      "ats": "lever",
-      "posted_at": "2026-08-05T06:12:10.429000+00:00",
       "category": "full-time",
       "tags": [
         "ai"
