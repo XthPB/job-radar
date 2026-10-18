@@ -943,22 +943,6 @@
     "last_seen": "2026-10-16T00:52:57.086775+00:00",
     "active": false
   },
-  "greenhouse:janestreet:8431856002": {
-    "uid": "greenhouse:janestreet:8431856002",
-    "company": "Jane Street",
-    "title": "Personal Accounts Trading Analyst",
-    "location": "New York, New York, United States",
-    "url": "https://www.janestreet.com/join-jane-street/apply/8431856002?gh_jid=8431856002",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-30T11:44:38-04:00",
-    "category": "full-time",
-    "tags": [
-      "quant"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-19T16:52:48.703651+00:00",
-    "active": false
-  },
   "greenhouse:janestreet:7950706002": {
     "uid": "greenhouse:janestreet:7950706002",
     "company": "Jane Street",
@@ -14650,23 +14634,6 @@
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "ashby:sierra:1a0a0334-41f8-4c15-9ed8-615336855e5e": {
-    "uid": "ashby:sierra:1a0a0334-41f8-4c15-9ed8-615336855e5e",
-    "company": "Sierra",
-    "title": "Agent Engineer, TLM",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/sierra/1a0a0334-41f8-4c15-9ed8-615336855e5e",
-    "ats": "ashby",
-    "posted_at": "2026-02-27T14:12:28.892+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-19T17:17:00.526061+00:00",
-    "active": false
   },
   "ashby:sierra:1c991675-099f-49dd-9b9b-bd3c9111e65c": {
     "uid": "ashby:sierra:1c991675-099f-49dd-9b9b-bd3c9111e65c",
@@ -35463,25 +35430,6 @@
     "last_seen": "2026-08-25T13:25:32.548331+00:00",
     "active": false
   },
-  "beesite:api-deutschebank.beesite.de:73541": {
-    "uid": "beesite:api-deutschebank.beesite.de:73541",
-    "company": "Deutsche Bank",
-    "title": "Investment Bank - GFX Trader - Associate",
-    "location": "Tokyo",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=73541",
-    "ats": "beesite",
-    "posted_at": "2026-07-06",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-06-09T13:26:39.444570+00:00",
-    "last_seen": "2026-08-19T16:25:19.490108+00:00",
-    "active": false
-  },
   "greenhouse:andurilindustries:5159698007": {
     "uid": "greenhouse:andurilindustries:5159698007",
     "company": "Anduril",
@@ -47315,22 +47263,6 @@
     "last_seen": "2026-09-16T15:03:55.353343+00:00",
     "active": false
   },
-  "greenhouse:sumologic:7065821": {
-    "uid": "greenhouse:sumologic:7065821",
-    "company": "Sumo Logic",
-    "title": "Talent Pipeline - Product Engineering",
-    "location": "Remote, India",
-    "url": "https://job-boards.greenhouse.io/sumologic/jobs/7065821",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-31T08:32:54-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-16T00:52:30.972227+00:00",
-    "last_seen": "2026-08-19T15:29:20.573541+00:00",
-    "active": false
-  },
   "greenhouse:tanium:7967983": {
     "uid": "greenhouse:tanium:7967983",
     "company": "Tanium",
@@ -47361,22 +47293,6 @@
     ],
     "first_seen": "2026-06-16T00:52:30.972227+00:00",
     "last_seen": "2026-10-01T00:14:28.448850+00:00",
-    "active": false
-  },
-  "greenhouse:tanium:7800284": {
-    "uid": "greenhouse:tanium:7800284",
-    "company": "Tanium",
-    "title": "Solution Engineer",
-    "location": "Remote, Germany",
-    "url": "https://job-boards.greenhouse.io/tanium/jobs/7800284",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-07T19:59:22-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-16T00:52:30.972227+00:00",
-    "last_seen": "2026-08-19T15:29:20.573541+00:00",
     "active": false
   },
   "greenhouse:tanium:7811817": {
@@ -49779,22 +49695,6 @@
     "last_seen": "2026-09-02T20:14:22.036518+00:00",
     "active": false
   },
-  "greenhouse:yext:7777830": {
-    "uid": "greenhouse:yext:7777830",
-    "company": "Yext",
-    "title": "NG Systems Engineer",
-    "location": "New York, NY",
-    "url": "https://job-boards.greenhouse.io/yext/jobs/7777830",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-17T15:40:54-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-16T00:52:30.972227+00:00",
-    "last_seen": "2026-08-19T17:17:00.526061+00:00",
-    "active": false
-  },
   "lever:zeta:570f6cf7-5525-4357-81c4-658534458043": {
     "uid": "lever:zeta:570f6cf7-5525-4357-81c4-658534458043",
     "company": "Zeta",
@@ -51425,25 +51325,6 @@
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
   },
-  "beesite:api-deutschebank.beesite.de:74041": {
-    "uid": "beesite:api-deutschebank.beesite.de:74041",
-    "company": "Deutsche Bank",
-    "title": "AFC- Internship Programme",
-    "location": "Luxemburg",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74041",
-    "ats": "beesite",
-    "posted_at": "2026-06-17",
-    "expires_at": "2099-12-31",
-    "category": "internship",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-06-17T20:14:32.969268+00:00",
-    "last_seen": "2026-08-19T16:25:19.490108+00:00",
-    "active": false
-  },
   "greenhouse:doordashusa:8013249": {
     "uid": "greenhouse:doordashusa:8013249",
     "company": "DoorDash",
@@ -51524,22 +51405,6 @@
     "first_seen": "2026-06-17T22:59:05.896098+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "greenhouse:andurilindustries:5093330007": {
-    "uid": "greenhouse:andurilindustries:5093330007",
-    "company": "Anduril",
-    "title": "PCB Layout Engineer, Intelligence Systems",
-    "location": "Reston, Virginia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5093330007?gh_jid=5093330007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-18T08:01:36-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-17T22:59:05.896098+00:00",
-    "last_seen": "2026-08-19T15:29:20.573541+00:00",
-    "active": false
   },
   "gsgraphql:177052_GS_MID_CAREER": {
     "uid": "gsgraphql:177052_GS_MID_CAREER",
@@ -54325,22 +54190,6 @@
     "first_seen": "2026-06-23T22:51:49.416520+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "greenhouse:andurilindustries:4695063007": {
-    "uid": "greenhouse:andurilindustries:4695063007",
-    "company": "Anduril",
-    "title": "Mission Operations Engineer, Air Dominance & Strike",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4695063007?gh_jid=4695063007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T15:07:56-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-23T22:51:49.416520+00:00",
-    "last_seen": "2026-08-19T16:52:48.703651+00:00",
-    "active": false
   },
   "eightfold:mlp:755956836387": {
     "uid": "eightfold:mlp:755956836387",
@@ -63048,7 +62897,7 @@
     ],
     "first_seen": "2026-07-08T13:05:47.179104+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:SquarepointCapital:8050436": {
     "uid": "greenhouse:SquarepointCapital:8050436",
@@ -68976,22 +68825,6 @@
     "last_seen": "2026-09-23T12:24:35.304372+00:00",
     "active": false
   },
-  "workday:nvidia:/job/US-OR-Hillsboro/CPU-Design-Methodology-Engineer_JR2008070": {
-    "uid": "workday:nvidia:/job/US-OR-Hillsboro/CPU-Design-Methodology-Engineer_JR2008070",
-    "company": "NVIDIA",
-    "title": "CPU Design Methodology Engineer",
-    "location": "4 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/CPU-Design-Methodology-Engineer_JR2008070",
-    "ats": "workday",
-    "posted_at": "Posted Yesterday",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-15T16:04:08.655489+00:00",
-    "last_seen": "2026-08-19T17:17:00.526061+00:00",
-    "active": false
-  },
   "greenhouse:janestreet:8626260002": {
     "uid": "greenhouse:janestreet:8626260002",
     "company": "Jane Street",
@@ -72291,22 +72124,6 @@
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
   },
-  "workday:nvidia:/job/Israel-Tel-Aviv/Chip-Design-and-Verification-Engineer_JR2009523": {
-    "uid": "workday:nvidia:/job/Israel-Tel-Aviv/Chip-Design-and-Verification-Engineer_JR2009523",
-    "company": "NVIDIA",
-    "title": "Chip Design and Verification Engineer",
-    "location": "Israel, Tel Aviv",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-and-Verification-Engineer_JR2009523",
-    "ats": "workday",
-    "posted_at": "Posted 29 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-21T11:33:17.835251+00:00",
-    "last_seen": "2026-08-19T17:17:00.526061+00:00",
-    "active": false
-  },
   "workday:salesforce:/job/United-Kingdom---London/Forward-Deployed-Engineer---Public-sector--Non-profit-and-Education_JR348869": {
     "uid": "workday:salesforce:/job/United-Kingdom---London/Forward-Deployed-Engineer---Public-sector--Non-profit-and-Education_JR348869",
     "company": "Salesforce",
@@ -72598,22 +72415,6 @@
     "first_seen": "2026-07-21T17:28:15.624806+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "ashby:snowflake:74466b25-9cc8-4e9b-b60b-234c539c455c": {
-    "uid": "ashby:snowflake:74466b25-9cc8-4e9b-b60b-234c539c455c",
-    "company": "Snowflake",
-    "title": "Software Engineer",
-    "location": "US-CA-Menlo Park",
-    "url": "https://jobs.ashbyhq.com/snowflake/74466b25-9cc8-4e9b-b60b-234c539c455c",
-    "ats": "ashby",
-    "posted_at": "2026-08-12T18:24:55.698+00:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-21T17:28:15.624806+00:00",
-    "last_seen": "2026-08-19T15:57:29.871206+00:00",
-    "active": false
   },
   "greenhouse:andurilindustries:5127070007": {
     "uid": "greenhouse:andurilindustries:5127070007",
@@ -77341,25 +77142,6 @@
     ],
     "first_seen": "2026-07-27T20:01:10.484641+00:00",
     "last_seen": "2026-09-01T08:47:45.419310+00:00",
-    "active": false
-  },
-  "beesite:api-deutschebank.beesite.de:74665": {
-    "uid": "beesite:api-deutschebank.beesite.de:74665",
-    "company": "Deutsche Bank",
-    "title": "Whole Loan Trading – Loan Operations Analyst",
-    "location": "Jacksonville",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74665",
-    "ats": "beesite",
-    "posted_at": "2026-07-27",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-07-27T20:01:10.484641+00:00",
-    "last_seen": "2026-08-19T16:25:19.490108+00:00",
     "active": false
   },
   "greenhouse:affirm:7796534003": {
@@ -88563,22 +88345,6 @@
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
   },
-  "greenhouse:commvault:5233623008": {
-    "uid": "greenhouse:commvault:5233623008",
-    "company": "Commvault",
-    "title": "Software Engineer - AI/ML",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/commvault/jobs/5233623008",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-19T11:06:14-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-10T15:28:25.099354+00:00",
-    "last_seen": "2026-08-19T15:57:29.871206+00:00",
-    "active": false
-  },
   "greenhouse:netskope:8119567": {
     "uid": "greenhouse:netskope:8119567",
     "company": "Netskope",
@@ -91944,25 +91710,6 @@
     "last_seen": "2026-10-14T00:43:16.476470+00:00",
     "active": false
   },
-  "beesite:api-deutschebank.beesite.de:74979": {
-    "uid": "beesite:api-deutschebank.beesite.de:74979",
-    "company": "Deutsche Bank",
-    "title": "Full Stack Engineer",
-    "location": "Bangalore",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74979",
-    "ats": "beesite",
-    "posted_at": "2026-08-19",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-08-12T17:24:40.423420+00:00",
-    "last_seen": "2026-08-19T16:25:19.490108+00:00",
-    "active": false
-  },
   "workday:nvidia:/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187": {
     "uid": "workday:nvidia:/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187",
     "company": "NVIDIA",
@@ -93004,22 +92751,6 @@
     ],
     "first_seen": "2026-08-13T19:31:19.293426+00:00",
     "last_seen": "2026-09-17T13:53:29.861148+00:00",
-    "active": false
-  },
-  "workday:salesforce:/job/Illinois---Chicago/Signature-Success--Specialist-Solution-Engineer_JR353920": {
-    "uid": "workday:salesforce:/job/Illinois---Chicago/Signature-Success--Specialist-Solution-Engineer_JR353920",
-    "company": "Salesforce",
-    "title": "Signature Success, Specialist Solution Engineer",
-    "location": "2 Locations",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Signature-Success--Specialist-Solution-Engineer_JR353920",
-    "ats": "workday",
-    "posted_at": "Posted 5 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-13T19:31:19.293426+00:00",
-    "last_seen": "2026-08-19T17:17:00.526061+00:00",
     "active": false
   },
   "greenhouse:braze:8112110": {
@@ -94438,22 +94169,6 @@
     "first_seen": "2026-08-14T20:00:54.693206+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "greenhouse:andurilindustries:5212780007": {
-    "uid": "greenhouse:andurilindustries:5212780007",
-    "company": "Anduril",
-    "title": " PCB Layout Engineer, Intelligence Systems",
-    "location": "Reston, Virginia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212780007?gh_jid=5212780007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-18T08:01:36-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-14T20:00:54.693206+00:00",
-    "last_seen": "2026-08-19T15:29:20.573541+00:00",
-    "active": false
   },
   "greenhouse:canonical:8130859": {
     "uid": "greenhouse:canonical:8130859",
@@ -98810,22 +98525,6 @@
     "first_seen": "2026-08-19T05:55:40.659838+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "workday:adobe:/job/Lehi/Software-Development-Engineer_R170921": {
-    "uid": "workday:adobe:/job/Lehi/Software-Development-Engineer_R170921",
-    "company": "Adobe",
-    "title": "Software Development Engineer",
-    "location": "Lehi",
-    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/Software-Development-Engineer_R170921",
-    "ats": "workday",
-    "posted_at": "Posted Today",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-19T05:55:40.659838+00:00",
-    "last_seen": "2026-08-19T15:57:29.871206+00:00",
-    "active": false
   },
   "gsgraphql:182324_GS_EARLY_CAREER": {
     "uid": "gsgraphql:182324_GS_EARLY_CAREER",
@@ -132060,8 +131759,8 @@
       "swe"
     ],
     "first_seen": "2026-09-18T11:31:09.269372+00:00",
-    "last_seen": "2026-10-16T09:58:42.864716+00:00",
-    "active": false
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
   },
   "workday:salesforce:/job/Thailand---Bangkok/Account-Solution-Engineer--Thailand---SMB-Market_JR360265-1": {
     "uid": "workday:salesforce:/job/Thailand---Bangkok/Account-Solution-Engineer--Thailand---SMB-Market_JR360265-1",
@@ -133226,7 +132925,7 @@
     ],
     "first_seen": "2026-09-19T01:19:29.699811+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:andurilindustries:5238763007": {
     "uid": "greenhouse:andurilindustries:5238763007",
@@ -148196,14 +147895,14 @@
     "location": "2 Locations",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineer--NVLink_JR2025935",
     "ats": "workday",
-    "posted_at": "Posted Yesterday",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-10-04T12:36:13.727730+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
   },
   "ashby:ElevenLabs:2d0016e0-3cc2-4ec7-b164-bc2b83990fb6": {
     "uid": "ashby:ElevenLabs:2d0016e0-3cc2-4ec7-b164-bc2b83990fb6",
@@ -236770,7 +236469,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:hl:/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889": {
@@ -293360,7 +293059,7 @@
     "uid": "rippling:rippling:f64b6158-9534-4bab-9457-45556166b262",
     "company": "Rippling",
     "title": "Full Stack Software Engineer Intern - Summer 2027",
-    "location": "San Francisco, CA",
+    "location": "New York, NY",
     "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
     "ats": "rippling",
     "posted_at": null,
@@ -293450,7 +293149,7 @@
     "uid": "rippling:rippling:844d2bdf-d672-46d9-a763-6788ba803248",
     "company": "Rippling",
     "title": "Software Engineer II, Backend - Financial Product",
-    "location": "San Francisco, CA",
+    "location": "Seattle, WA",
     "url": "https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248",
     "ats": "rippling",
     "posted_at": null,
@@ -293504,7 +293203,7 @@
     "uid": "rippling:rippling:18d9c9ed-c878-4e78-83a0-6e24cf0bcc9d",
     "company": "Rippling",
     "title": "Software Engineer II, Backend - Platform Team ",
-    "location": "San Francisco, CA",
+    "location": "New York, NY",
     "url": "https://ats.rippling.com/rippling/jobs/18d9c9ed-c878-4e78-83a0-6e24cf0bcc9d",
     "ats": "rippling",
     "posted_at": null,
@@ -293540,7 +293239,7 @@
     "uid": "rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba",
     "company": "Rippling",
     "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-    "location": "New York, NY",
+    "location": "Seattle, WA",
     "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
     "ats": "rippling",
     "posted_at": null,
@@ -366969,7 +366668,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:philips:/job/Hamburg/Werkstudent---Praktikum--all-genders--Project-Management-Ultrasound_591579-1": {
@@ -373503,7 +373202,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:dyson:/job/Malaysia---Global-Development-Campus-Johor-Bahru/Design-Engineering--Engineer_JR38389": {
@@ -384158,8 +383857,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": false,
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:thales:/job/Noida/AI-security-Engineer_R0336035-2": {
@@ -393375,7 +393074,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/USA-OH-Westerville/Operations-Engineering-Supervisor_JR00046257": {
@@ -393591,7 +393290,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Beijing-Beijing-China/FQC-Test-Engineer-16_JR00047060": {
@@ -419161,7 +418860,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T10:48:17-04:00",
+    "posted_at": "2026-10-18T13:33:36-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -421490,7 +421189,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T10:33:30-04:00",
+    "posted_at": "2026-10-18T13:33:45-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -421541,7 +421240,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T10:48:24-04:00",
+    "posted_at": "2026-10-18T13:33:43-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -536101,7 +535800,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:sec:/job/12100-Samsung-Blvd-Austin-TX-USA/Lean-Program-and-Equipment-Management-Engineer_R115349": {
@@ -541745,7 +541444,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:edbz:25014485": {
@@ -581185,7 +580884,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Taichung---Fab-16-Taiwan/TEST-SOLUTIONS-ENGINEER_JR95435": {
@@ -581202,7 +580901,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Hiroshima---Fab-15-Japan/HVM-Photo-Track-Engineer_JR90423-1": {
@@ -581219,7 +580918,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Fab-10NX-Singapore/Test-Solutions-Engineer_JR93626": {
@@ -581236,7 +580935,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Fab-10A-Singapore/AI-Adoption---Change-Navigator_JR89941-1": {
@@ -582086,7 +581785,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:marvell:/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839-1": {
@@ -588019,7 +587718,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/ManassasVA/Field-Service-Engineer_R2616944": {
@@ -642609,8 +642308,8 @@
       "swe"
     ],
     "first_seen": "2026-10-05T09:17:11.218071+00:00",
-    "last_seen": "2026-10-12T02:31:05.065736+00:00",
-    "active": false
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
   },
   "workday:visa:/job/IN---Bengaluru-India/SW-Engineer_REF083874W": {
     "uid": "workday:visa:/job/IN---Bengaluru-India/SW-Engineer_REF083874W",
@@ -644054,14 +643753,14 @@
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
     "ats": "workday",
-    "posted_at": "Posted 5 Days Ago",
+    "posted_at": "Posted Today",
     "category": "internship",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-10-05T09:17:11.218071+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": false
+    "active": true
   },
   "amazon:10568413": {
     "uid": "amazon:10568413",
@@ -693208,8 +692907,8 @@
       "swe"
     ],
     "first_seen": "2026-10-08T07:38:59.690824+00:00",
-    "last_seen": "2026-10-17T12:32:47.711024+00:00",
-    "active": false
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
   },
   "workday:salesforce:/job/Singapore---Singapore/Agentforce-Forward-Deployed-Engineer_JR346858-1": {
     "uid": "workday:salesforce:/job/Singapore---Singapore/Agentforce-Forward-Deployed-Engineer_JR346858-1",
@@ -710077,7 +709776,7 @@
     "uid": "rippling:rippling:ebc7a777-aa35-4333-ac95-ebc98e375f75",
     "company": "Rippling",
     "title": "Software Engineer II, Backend - IT Product",
-    "location": "San Francisco, CA",
+    "location": "New York, NY",
     "url": "https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75",
     "ats": "rippling",
     "posted_at": null,
@@ -744896,7 +744595,7 @@
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "jibe:careers.amd.com:93521": {
     "uid": "jibe:careers.amd.com:93521",
@@ -772598,7 +772297,7 @@
     "uid": "rippling:rippling:3e8a771f-b3a3-40a0-b4c7-5ada1cb64652",
     "company": "Rippling",
     "title": "GTM Engineer",
-    "location": "San Francisco, CA",
+    "location": "New York, NY",
     "url": "https://ats.rippling.com/rippling/jobs/3e8a771f-b3a3-40a0-b4c7-5ada1cb64652",
     "ats": "rippling",
     "posted_at": null,
@@ -781437,8 +781136,8 @@
       "europe"
     ],
     "first_seen": "2026-10-16T05:15:17.305577+00:00",
-    "last_seen": "2026-10-16T05:15:17.305577+00:00",
-    "active": false
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
   },
   "workday:abb:/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954": {
     "uid": "workday:abb:/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954",
@@ -781454,8 +781153,8 @@
       "europe"
     ],
     "first_seen": "2026-10-16T05:15:17.305577+00:00",
-    "last_seen": "2026-10-16T05:15:17.305577+00:00",
-    "active": false
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
   },
   "workday:abb:/job/Izmir-zmir-Trkiye/Field-Service-Engineer_JR00021873": {
     "uid": "workday:abb:/job/Izmir-zmir-Trkiye/Field-Service-Engineer_JR00021873",
@@ -781471,8 +781170,8 @@
       "europe"
     ],
     "first_seen": "2026-10-16T05:15:17.305577+00:00",
-    "last_seen": "2026-10-16T05:15:17.305577+00:00",
-    "active": false
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
   },
   "workday:novartis:/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10090076": {
     "uid": "workday:novartis:/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10090076",
@@ -793207,7 +792906,7 @@
     "uid": "rippling:rippling:86e4b180-a27e-4b86-bc80-6b7cefa2e1c9",
     "company": "Rippling",
     "title": "Software Engineer II, Backend - HR Product",
-    "location": "San Francisco, CA",
+    "location": "New York, NY",
     "url": "https://ats.rippling.com/rippling/jobs/86e4b180-a27e-4b86-bc80-6b7cefa2e1c9",
     "ats": "rippling",
     "posted_at": null,
@@ -794463,6 +794162,297 @@
     ],
     "first_seen": "2026-10-18T14:42:55.654584+00:00",
     "last_seen": "2026-10-18T14:42:55.654584+00:00",
+    "active": true
+  },
+  "workday:statestreet:/job/Quincy-Massachusetts/Quality-Assurance-Automation-Engineer---Officer_R-799692-2": {
+    "uid": "workday:statestreet:/job/Quincy-Massachusetts/Quality-Assurance-Automation-Engineer---Officer_R-799692-2",
+    "company": "State Street",
+    "title": "Quality Assurance Automation Engineer - Officer",
+    "location": "2 Locations",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Quality-Assurance-Automation-Engineer---Officer_R-799692-2",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank",
+      "asset-mgmt"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:darktrace:/job/London-Office/Cybersecurity-Solutions-Engineer_JR102490": {
+    "uid": "workday:darktrace:/job/London-Office/Cybersecurity-Solutions-Engineer_JR102490",
+    "company": "Darktrace",
+    "title": "Cybersecurity Solutions Engineer",
+    "location": "London Office",
+    "url": "https://darktrace.wd3.myworkdayjobs.com/en-US/DarktaceExternal/job/London-Office/Cybersecurity-Solutions-Engineer_JR102490",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "ai",
+      "uk"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Bangalore-India/Security-Engineer_2025938-1": {
+    "uid": "workday:cisco:/job/Bangalore-India/Security-Engineer_2025938-1",
+    "company": "Cisco",
+    "title": "Security Engineer",
+    "location": "Bangalore, India",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Security-Engineer_2025938-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Bangalore-India/IT-Software-Engineer_2026188-1": {
+    "uid": "workday:cisco:/job/Bangalore-India/IT-Software-Engineer_2026188-1",
+    "company": "Cisco",
+    "title": "IT Software Engineer",
+    "location": "Bangalore, India",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/IT-Software-Engineer_2026188-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Assembly-Equipment-Engineer_JR114257": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Assembly-Equipment-Engineer_JR114257",
+    "company": "Micron",
+    "title": "Assembly Equipment Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Assembly-Equipment-Engineer_JR114257",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/CIP-Fanout-Engineer_JR114165-1": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/CIP-Fanout-Engineer_JR114165-1",
+    "company": "Micron",
+    "title": "CIP Fanout Engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/CIP-Fanout-Engineer_JR114165-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113824": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113824",
+    "company": "Micron",
+    "title": "ENGINEER, MTB PI",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/ENGINEER--MTB-PI_JR113824",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PCE--Chemical-Lab-_JR114125": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PCE--Chemical-Lab-_JR114125",
+    "company": "Micron",
+    "title": "Engineer, MTB PCE (Chemical Lab)",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PCE--Chemical-Lab-_JR114125",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PCE_JR114167": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PCE_JR114167",
+    "company": "Micron",
+    "title": "Engineer, MTB PCE",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PCE_JR114167",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PCE_JR114856": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Engineer--MTB-PCE_JR114856",
+    "company": "Micron",
+    "title": "Engineer, MTB PCE",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Engineer--MTB-PCE_JR114856",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Facility-engineer_JR113909-1": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Facility-engineer_JR113909-1",
+    "company": "Micron",
+    "title": "Facility engineer",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Facility-engineer_JR113909-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/HBM-EQUIPMENT-ENGINEER_JR114338": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-EQUIPMENT-ENGINEER_JR114338",
+    "company": "Micron",
+    "title": "HBM EQUIPMENT ENGINEER",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-EQUIPMENT-ENGINEER_JR114338",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/MTB-ASSEMBLY-PROCESS-ENGINEER_JR114267": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/MTB-ASSEMBLY-PROCESS-ENGINEER_JR114267",
+    "company": "Micron",
+    "title": "MTB ASSEMBLY PROCESS ENGINEER",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/MTB-ASSEMBLY-PROCESS-ENGINEER_JR114267",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/MTB-PWF-Reflow-Process-Engineer-_JR114239": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/MTB-PWF-Reflow-Process-Engineer-_JR114239",
+    "company": "Micron",
+    "title": "MTB PWF Reflow Process Engineer 回焊製程工程師",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/MTB-PWF-Reflow-Process-Engineer-_JR114239",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Product-Quality-Assurance---Quality-Engineering--PQA---PQE-_JR114278": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Product-Quality-Assurance---Quality-Engineering--PQA---PQE-_JR114278",
+    "company": "Micron",
+    "title": "Product Quality Assurance & Quality Engineering (PQA / PQE)",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Product-Quality-Assurance---Quality-Engineering--PQA---PQE-_JR114278",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Taichung---MTB-Taiwan/Product-Quality-Assurance---Quality-Engineering--PQA---PQE-_JR114282": {
+    "uid": "workday:micron:/job/Taichung---MTB-Taiwan/Product-Quality-Assurance---Quality-Engineering--PQA---PQE-_JR114282",
+    "company": "Micron",
+    "title": "Product Quality Assurance & Quality Engineering (PQA / PQE)",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Product-Quality-Assurance---Quality-Engineering--PQA---PQE-_JR114282",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:amat:/job/Santa-ClaraCA/Customer-Engineer---EPIC-Center_R2631466": {
+    "uid": "workday:amat:/job/Santa-ClaraCA/Customer-Engineer---EPIC-Center_R2631466",
+    "company": "Applied Materials",
+    "title": "Customer Engineer - EPIC Center",
+    "location": "Santa Clara,CA",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Customer-Engineer---EPIC-Center_R2631466",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:amat:/job/AustinTX/Field-Service-Engineer-III---Process--Diagnostics--and-Control-Metrology_R2631464": {
+    "uid": "workday:amat:/job/AustinTX/Field-Service-Engineer-III---Process--Diagnostics--and-Control-Metrology_R2631464",
+    "company": "Applied Materials",
+    "title": "Field Service Engineer III - Process, Diagnostics, and Control/Metrology",
+    "location": "Austin,TX",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Field-Service-Engineer-III---Process--Diagnostics--and-Control-Metrology_R2631464",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T17:38:44.907165+00:00",
+    "last_seen": "2026-10-18T17:38:44.907165+00:00",
     "active": true
   }
 }
