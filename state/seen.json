@@ -46979,22 +46979,6 @@
     "last_seen": "2026-09-28T22:10:18.293356+00:00",
     "active": false
   },
-  "greenhouse:roku:7680250": {
-    "uid": "greenhouse:roku:7680250",
-    "company": "Roku",
-    "title": "Software Engineer, Embedded Systems",
-    "location": "San Jose, California",
-    "url": "https://www.weareroku.com/jobs/7680250?gh_jid=7680250",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-19T04:00:57-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-16T00:52:30.972227+00:00",
-    "last_seen": "2026-08-19T14:02:53.514937+00:00",
-    "active": false
-  },
   "greenhouse:roku:7515755": {
     "uid": "greenhouse:roku:7515755",
     "company": "Roku",
@@ -47137,22 +47121,6 @@
     ],
     "first_seen": "2026-06-16T00:52:30.972227+00:00",
     "last_seen": "2026-09-21T02:12:20.578711+00:00",
-    "active": false
-  },
-  "greenhouse:smartsheet:8007934": {
-    "uid": "greenhouse:smartsheet:8007934",
-    "company": "Smartsheet",
-    "title": "Software Engineer II - App Core (Remote Eligible)",
-    "location": " -REMOTE, USA-",
-    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8007934",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-27T14:45:30-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-16T00:52:30.972227+00:00",
-    "last_seen": "2026-08-19T14:02:53.514937+00:00",
     "active": false
   },
   "lever:spotify:9ce12867-8c84-40c5-be40-d8831ab98925": {
@@ -47761,22 +47729,6 @@
     ],
     "first_seen": "2026-06-16T00:52:30.972227+00:00",
     "last_seen": "2026-09-24T06:54:03.818541+00:00",
-    "active": false
-  },
-  "greenhouse:twilio:7785202": {
-    "uid": "greenhouse:twilio:7785202",
-    "company": "Twilio",
-    "title": "Software Engineer ",
-    "location": "Remote - Ireland",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7785202",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-17T10:33:01-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-16T00:52:30.972227+00:00",
-    "last_seen": "2026-08-19T13:22:09.860239+00:00",
     "active": false
   },
   "greenhouse:twilio:7954715": {
@@ -50589,22 +50541,6 @@
     ],
     "first_seen": "2026-06-16T17:13:45.203856+00:00",
     "last_seen": "2026-09-14T18:47:26.717270+00:00",
-    "active": false
-  },
-  "workday:nvidia:/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2019602": {
-    "uid": "workday:nvidia:/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2019602",
-    "company": "NVIDIA",
-    "title": "Chip Design Verification Engineer",
-    "location": "Israel, Tel Aviv",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2019602",
-    "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-16T17:13:45.203856+00:00",
-    "last_seen": "2026-08-19T14:02:53.514937+00:00",
     "active": false
   },
   "greenhouse:mongodb:7460019": {
@@ -59465,22 +59401,6 @@
     "last_seen": "2026-09-22T12:42:02.674472+00:00",
     "active": false
   },
-  "workday:salesforce:/job/Ireland---Dublin/Deployment-Strategist_JR350071": {
-    "uid": "workday:salesforce:/job/Ireland---Dublin/Deployment-Strategist_JR350071",
-    "company": "Salesforce",
-    "title": "Deployment Strategist",
-    "location": "Ireland - Dublin",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Deployment-Strategist_JR350071",
-    "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-01T16:16:17.883689+00:00",
-    "last_seen": "2026-08-19T11:46:17.582016+00:00",
-    "active": false
-  },
   "workday:salesforce:/job/Italy---Rome/Deployment-Strategist_JR348962": {
     "uid": "workday:salesforce:/job/Italy---Rome/Deployment-Strategist_JR348962",
     "company": "Salesforce",
@@ -60715,24 +60635,6 @@
     "first_seen": "2026-07-02T17:31:23.384172+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "ashby:ElevenLabs:bc4a6b99-cfa3-4da4-8254-9c26eb7e4c94": {
-    "uid": "ashby:ElevenLabs:bc4a6b99-cfa3-4da4-8254-9c26eb7e4c94",
-    "company": "ElevenLabs",
-    "title": "Adoption Strategist - LATAM",
-    "location": "Mexico",
-    "url": "https://jobs.ashbyhq.com/ElevenLabs/bc4a6b99-cfa3-4da4-8254-9c26eb7e4c94",
-    "ats": "ashby",
-    "posted_at": "2026-07-02T18:32:56.923+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-07-02T19:01:40.799750+00:00",
-    "last_seen": "2026-08-19T14:02:53.514937+00:00",
-    "active": false
   },
   "greenhouse:mongodb:8030936": {
     "uid": "greenhouse:mongodb:8030936",
@@ -62886,22 +62788,6 @@
     ],
     "first_seen": "2026-07-07T23:18:59.445548+00:00",
     "last_seen": "2026-09-25T08:00:37.192680+00:00",
-    "active": false
-  },
-  "greenhouse:samsara:8017146": {
-    "uid": "greenhouse:samsara:8017146",
-    "company": "Samsara",
-    "title": "Technical Support Engineer",
-    "location": "Remote - US",
-    "url": "https://www.samsara.com/company/careers/roles/8017146?gh_jid=8017146",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-18T14:47:32-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-07T23:46:08.500712+00:00",
-    "last_seen": "2026-08-19T14:02:53.514937+00:00",
     "active": false
   },
   "greenhouse:chime:8614188002": {
@@ -71576,40 +71462,6 @@
     "last_seen": "2026-08-23T06:21:21.940508+00:00",
     "active": false
   },
-  "ashby:Harvey:aa678bd6-698e-4b83-8475-127e27e3cf51": {
-    "uid": "ashby:Harvey:aa678bd6-698e-4b83-8475-127e27e3cf51",
-    "company": "Harvey",
-    "title": "Technical Support Engineer - Premium Accounts, Weekend Coverage",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/Harvey/aa678bd6-698e-4b83-8475-127e27e3cf51",
-    "ats": "ashby",
-    "posted_at": "2026-07-20T16:07:38.200+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-07-20T16:58:03.502738+00:00",
-    "last_seen": "2026-08-19T13:22:09.860239+00:00",
-    "active": false
-  },
-  "ashby:Harvey:6ffe89d1-f22f-4228-b8fd-e0e69e46e6fb": {
-    "uid": "ashby:Harvey:6ffe89d1-f22f-4228-b8fd-e0e69e46e6fb",
-    "company": "Harvey",
-    "title": "Technical Support Engineer - Premium Accounts, Weekend Coverage",
-    "location": "Dublin",
-    "url": "https://jobs.ashbyhq.com/Harvey/6ffe89d1-f22f-4228-b8fd-e0e69e46e6fb",
-    "ats": "ashby",
-    "posted_at": "2026-07-20T16:07:30.340+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-07-20T16:58:03.502738+00:00",
-    "last_seen": "2026-08-19T13:22:09.860239+00:00",
-    "active": false
-  },
   "beesite:api-deutschebank.beesite.de:74569": {
     "uid": "beesite:api-deutschebank.beesite.de:74569",
     "company": "Deutsche Bank",
@@ -73214,23 +73066,6 @@
     "first_seen": "2026-07-21T22:45:45.403406+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "ashby:openai:699906ce-a9fd-4a33-9d02-342bc3b90690": {
-    "uid": "ashby:openai:699906ce-a9fd-4a33-9d02-342bc3b90690",
-    "company": "OpenAI",
-    "title": "Field Security Specialist (Cyber Security Solutions Engineer)",
-    "location": "Tokyo, Japan",
-    "url": "https://jobs.ashbyhq.com/openai/699906ce-a9fd-4a33-9d02-342bc3b90690",
-    "ats": "ashby",
-    "posted_at": "2026-07-21T23:05:15.703+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-07-21T23:16:51.655962+00:00",
-    "last_seen": "2026-08-19T13:22:09.860239+00:00",
-    "active": false
   },
   "greenhouse:andurilindustries:5191917007": {
     "uid": "greenhouse:andurilindustries:5191917007",
@@ -75824,22 +75659,6 @@
     "last_seen": "2026-10-07T02:31:15.215999+00:00",
     "active": false
   },
-  "greenhouse:twilio:7946610": {
-    "uid": "greenhouse:twilio:7946610",
-    "company": "Twilio",
-    "title": "Software Engineer (L2)",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-18T15:17:36-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-24T14:08:27.068541+00:00",
-    "last_seen": "2026-08-19T14:02:53.514937+00:00",
-    "active": false
-  },
   "ashby:uipath:2f0694c3-0a32-43db-8cba-783d8b4632f6": {
     "uid": "ashby:uipath:2f0694c3-0a32-43db-8cba-783d8b4632f6",
     "company": "UiPath",
@@ -77410,22 +77229,6 @@
     "first_seen": "2026-07-27T19:00:40.734385+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "greenhouse:andurilindustries:5196517007": {
-    "uid": "greenhouse:andurilindustries:5196517007",
-    "company": "Anduril",
-    "title": "Site Reliability Engineer",
-    "location": "Waltham, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196517007?gh_jid=5196517007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-18T08:31:11-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-27T19:00:40.734385+00:00",
-    "last_seen": "2026-08-19T11:46:17.582016+00:00",
-    "active": false
   },
   "greenhouse:roku:8089356": {
     "uid": "greenhouse:roku:8089356",
@@ -80924,22 +80727,6 @@
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
   },
-  "greenhouse:twilio:8097672": {
-    "uid": "greenhouse:twilio:8097672",
-    "company": "Twilio",
-    "title": "Software Engineer (L2)",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8097672",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-18T15:17:36-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-30T21:22:44.838374+00:00",
-    "last_seen": "2026-08-19T14:02:53.514937+00:00",
-    "active": false
-  },
   "workday:adobe:/job/San-Jose/Software-Developer---Mobile_R169982": {
     "uid": "workday:adobe:/job/San-Jose/Software-Developer---Mobile_R169982",
     "company": "Adobe",
@@ -81524,22 +81311,6 @@
     ],
     "first_seen": "2026-07-31T14:46:05.464180+00:00",
     "last_seen": "2026-10-03T02:46:30.143471+00:00",
-    "active": false
-  },
-  "greenhouse:fourkites:7672017": {
-    "uid": "greenhouse:fourkites:7672017",
-    "company": "fourkites",
-    "title": "Forward Deployed Engineer",
-    "location": "Chicago, IL",
-    "url": "https://job-boards.greenhouse.io/fourkites/jobs/7672017",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-31T10:20:39-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-31T14:46:05.464180+00:00",
-    "last_seen": "2026-08-19T13:22:09.860239+00:00",
     "active": false
   },
   "greenhouse:imc:4939821101": {
@@ -87644,22 +87415,6 @@
     "first_seen": "2026-08-07T16:13:34.317067+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "greenhouse:andurilindustries:5206041007": {
-    "uid": "greenhouse:andurilindustries:5206041007",
-    "company": "Anduril",
-    "title": "Business Process Engineer",
-    "location": "Atlanta, Georgia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206041007?gh_jid=5206041007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-15T14:42:21-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-07T16:13:34.317067+00:00",
-    "last_seen": "2026-08-19T12:21:36.580437+00:00",
-    "active": false
   },
   "greenhouse:andurilindustries:5206527007": {
     "uid": "greenhouse:andurilindustries:5206527007",
@@ -123823,7 +123578,7 @@
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
     "ats": "greenhouse",
-    "posted_at": "2026-10-17T20:10:57-04:00",
+    "posted_at": "2026-10-18T08:13:39-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -230881,7 +230636,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:ing:/job/Bucharest---Dacia-One/Data-Scientist---KYC--ING-Hubs-Romania_REQ-10121570": {
@@ -298163,7 +297918,7 @@
     "location": "New York, United States",
     "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-United-States/Fixed-Income-Quantitative-Specialist_R0121482-1",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "fintech",
@@ -352814,7 +352569,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:fa-evmr-saasfaprod1:37260": {
@@ -419406,7 +419161,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T07:18:24-04:00",
+    "posted_at": "2026-10-18T10:48:17-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -421735,7 +421490,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T07:18:33-04:00",
+    "posted_at": "2026-10-18T10:33:30-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -421786,7 +421541,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T07:18:31-04:00",
+    "posted_at": "2026-10-18T10:48:24-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -428872,7 +428627,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:jfrog:7618800": {
@@ -428933,7 +428688,7 @@
     "location": "Tel Aviv/ Netanya, Israel",
     "url": "https://join.jfrog.com/job/?job=7939091&gh_jid=7939091",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T07:54:30-04:00",
+    "posted_at": "2026-10-18T09:12:06-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -448269,7 +448024,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10509657": {
@@ -588247,7 +588002,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/Santa-ClaraCA/Customer-Engineer-III_R2615539": {
@@ -599280,7 +599035,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/KumamotoJPN/VSE--Customer-Engineer-IV_R2615434": {
@@ -648388,11 +648143,11 @@
   "workday:cmegroup:/job/Belfast---Millennium-House/AI-Enablement-and-Reliability-Engineering-Placement-Year---2027-87_34885": {
     "uid": "workday:cmegroup:/job/Belfast---Millennium-House/AI-Enablement-and-Reliability-Engineering-Placement-Year---2027-87_34885",
     "company": "CME Group",
-    "title": "AI Enablement and Reliability Engineering Placement Year - 2027/87",
+    "title": "AI Enablement and Reliability Engineering Placement Year - 2027/27",
     "location": "Belfast - Millennium House",
     "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Belfast---Millennium-House/AI-Enablement-and-Reliability-Engineering-Placement-Year---2027-87_34885",
     "ats": "workday",
-    "posted_at": "Posted 13 Days Ago",
+    "posted_at": "Posted Today",
     "category": "internship",
     "tags": [
       "fintech"
@@ -652487,7 +652242,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "jibe:careers.amd.com:92432": {
     "uid": "jibe:careers.amd.com:92432",
@@ -715786,7 +715541,7 @@
     ],
     "first_seen": "2026-10-09T19:16:57.122952+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:ag:/job/Marseille-Area/XMLNAME--ET19R-System-Engineer-for-Maintenance-Design--F-M-_JR10390082": {
     "uid": "workday:ag:/job/Marseille-Area/XMLNAME--ET19R-System-Engineer-for-Maintenance-Design--F-M-_JR10390082",
@@ -764841,7 +764596,7 @@
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
     "ats": "greenhouse",
-    "posted_at": "2026-10-17T20:11:00-04:00",
+    "posted_at": "2026-10-18T08:13:43-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -769464,7 +769219,7 @@
     ],
     "first_seen": "2026-10-15T11:47:24.357669+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "jibe:jobs.booking.com:30330": {
     "uid": "jibe:jobs.booking.com:30330",
@@ -782111,7 +781866,7 @@
     "location": "Taiwan, Taipei",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Taiwan-Taipei/Ecosystem-Technical-Enabling-Engineer_JR0288127-1",
     "ats": "workday",
-    "posted_at": "Posted 2 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -794628,6 +794383,86 @@
     ],
     "first_seen": "2026-10-18T11:27:09.823369+00:00",
     "last_seen": "2026-10-18T11:27:09.823369+00:00",
+    "active": true
+  },
+  "workday:nvidia:/job/India-Bengaluru/CAD-Engineer_JR2014480-1": {
+    "uid": "workday:nvidia:/job/India-Bengaluru/CAD-Engineer_JR2014480-1",
+    "company": "NVIDIA",
+    "title": "CAD Engineer",
+    "location": "India, Bengaluru",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/CAD-Engineer_JR2014480-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T14:42:55.654584+00:00",
+    "last_seen": "2026-10-18T14:42:55.654584+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird--North-Carolina-Hybrid_2023263": {
+    "uid": "workday:cisco:/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird--North-Carolina-Hybrid_2023263",
+    "company": "Cisco",
+    "title": "UI Desktop Engineer Hybird, North Carolina Hybrid",
+    "location": "RTP, North Carolina, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird--North-Carolina-Hybrid_2023263",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T14:42:55.654584+00:00",
+    "last_seen": "2026-10-18T14:42:55.654584+00:00",
+    "active": true
+  },
+  "workday:sec:/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/LCM-Prod-Engineer_R121404": {
+    "uid": "workday:sec:/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/LCM-Prod-Engineer_R121404",
+    "company": "Samsung",
+    "title": "LCM Prod. Engineer",
+    "location": "Kom Abu Radi Industrial Zone, Al Wasta, Beni Suef, Egypt",
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/LCM-Prod-Engineer_R121404",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T14:42:55.654584+00:00",
+    "last_seen": "2026-10-18T14:42:55.654584+00:00",
+    "active": true
+  },
+  "workday:sec:/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/Main-Prod-Engineer_R121406": {
+    "uid": "workday:sec:/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/Main-Prod-Engineer_R121406",
+    "company": "Samsung",
+    "title": "Main Prod. Engineer",
+    "location": "Kom Abu Radi Industrial Zone, Al Wasta, Beni Suef, Egypt",
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/Main-Prod-Engineer_R121406",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T14:42:55.654584+00:00",
+    "last_seen": "2026-10-18T14:42:55.654584+00:00",
+    "active": true
+  },
+  "workday:sec:/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/EPS-Prod---Maint-Engineer_R121401": {
+    "uid": "workday:sec:/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/EPS-Prod---Maint-Engineer_R121401",
+    "company": "Samsung",
+    "title": "EPS Prod. & Maint. Engineer",
+    "location": "Kom Abu Radi Industrial Zone, Al Wasta, Beni Suef, Egypt",
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/EPS-Prod---Maint-Engineer_R121401",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T14:42:55.654584+00:00",
+    "last_seen": "2026-10-18T14:42:55.654584+00:00",
     "active": true
   }
 }

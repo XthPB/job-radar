@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-10-18T11:27:09.823369+00:00",
-  "count": 34603,
+  "generated_at": "2026-10-18T14:42:55.654584+00:00",
+  "count": 34601,
   "postings": [
+    {
+      "uid": "workday:nvidia:/job/India-Bengaluru/CAD-Engineer_JR2014480-1",
+      "company": "NVIDIA",
+      "title": "CAD Engineer",
+      "location": "India, Bengaluru",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/CAD-Engineer_JR2014480-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T14:42:55.654584+00:00",
+      "last_seen": "2026-10-18T14:42:55.654584+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:cisco:/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird--North-Carolina-Hybrid_2023263",
+      "company": "Cisco",
+      "title": "UI Desktop Engineer Hybird, North Carolina Hybrid",
+      "location": "RTP, North Carolina, US",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird--North-Carolina-Hybrid_2023263",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T14:42:55.654584+00:00",
+      "last_seen": "2026-10-18T14:42:55.654584+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:sec:/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/LCM-Prod-Engineer_R121404",
+      "company": "Samsung",
+      "title": "LCM Prod. Engineer",
+      "location": "Kom Abu Radi Industrial Zone, Al Wasta, Beni Suef, Egypt",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/LCM-Prod-Engineer_R121404",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T14:42:55.654584+00:00",
+      "last_seen": "2026-10-18T14:42:55.654584+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:sec:/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/Main-Prod-Engineer_R121406",
+      "company": "Samsung",
+      "title": "Main Prod. Engineer",
+      "location": "Kom Abu Radi Industrial Zone, Al Wasta, Beni Suef, Egypt",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/Main-Prod-Engineer_R121406",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T14:42:55.654584+00:00",
+      "last_seen": "2026-10-18T14:42:55.654584+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:sec:/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/EPS-Prod---Maint-Engineer_R121401",
+      "company": "Samsung",
+      "title": "EPS Prod. & Maint. Engineer",
+      "location": "Kom Abu Radi Industrial Zone, Al Wasta, Beni Suef, Egypt",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Kom-Abu-Radi-Industrial-Zone-Al-Wasta-Beni-Suef-Egypt/EPS-Prod---Maint-Engineer_R121401",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-18T14:42:55.654584+00:00",
+      "last_seen": "2026-10-18T14:42:55.654584+00:00",
+      "active": true
+    },
     {
       "uid": "smartrecruiters:BoschGroup:744000156179239",
       "company": "Bosch",
@@ -12525,7 +12605,7 @@
       "location": "Taiwan, Taipei",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Taiwan-Taipei/Ecosystem-Technical-Enabling-Engineer_JR0288127-1",
       "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
+      "posted_at": "Posted Today",
       "category": "full-time",
       "tags": [
         "swe"
@@ -22310,23 +22390,6 @@
       "active": true
     },
     {
-      "uid": "workday:ag:/job/Marseille-Area/STAGE-2027---Data-Scientist--H-F-_JR10443036",
-      "company": "Airbus",
-      "title": "STAGE 2027 - Data Scientist (H/F)",
-      "location": "Marseille Area",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Marseille-Area/STAGE-2027---Data-Scientist--H-F-_JR10443036",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-15T11:47:24.357669+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
       "uid": "jibe:jobs.booking.com:30330",
       "company": "Booking.com",
       "title": "Junior Software Engineer I - Summer Internship 2027 (Amsterdam)",
@@ -26761,7 +26824,7 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T20:11:00-04:00",
+      "posted_at": "2026-10-18T08:13:43-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -66868,23 +66931,6 @@
       "url": "https://job-boards.eu.greenhouse.io/riverlane/jobs/5001380101",
       "ats": "greenhouse",
       "posted_at": "2026-10-09T10:39:57-04:00",
-      "category": "internship",
-      "tags": [
-        "quantum",
-        "uk"
-      ],
-      "first_seen": "2026-10-09T19:16:57.122952+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
-      "uid": "greenhouse:riverlane:5000786101",
-      "company": "Riverlane",
-      "title": "Software Engineering Internship 2027",
-      "location": "Cambridge, UK",
-      "url": "https://job-boards.eu.greenhouse.io/riverlane/jobs/5000786101",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-09T10:49:33-04:00",
       "category": "internship",
       "tags": [
         "quantum",
@@ -113741,11 +113787,11 @@
     {
       "uid": "workday:cmegroup:/job/Belfast---Millennium-House/AI-Enablement-and-Reliability-Engineering-Placement-Year---2027-87_34885",
       "company": "CME Group",
-      "title": "AI Enablement and Reliability Engineering Placement Year - 2027/87",
+      "title": "AI Enablement and Reliability Engineering Placement Year - 2027/27",
       "location": "Belfast - Millennium House",
       "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Belfast---Millennium-House/AI-Enablement-and-Reliability-Engineering-Placement-Year---2027-87_34885",
       "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
+      "posted_at": "Posted Today",
       "category": "internship",
       "tags": [
         "fintech"
@@ -116582,22 +116628,6 @@
       "url": "https://global-external-amd.icims.com/jobs/92575/login",
       "ats": "jibe",
       "posted_at": "2026-09-24T08:52:00+0000",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true
-    },
-    {
-      "uid": "jibe:careers.amd.com:92502",
-      "company": "AMD",
-      "title": "ASIC Design Verification Engineer",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://global-external-amd.icims.com/jobs/92502/login",
-      "ats": "jibe",
-      "posted_at": "2026-09-18T09:59:00+0000",
       "category": "full-time",
       "tags": [
         "swe"
@@ -183802,24 +183832,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:ing:/job/Manila-One-Ayala-Tower-2/IT-Operations-Engineer_REQ-10120794",
-      "company": "ING",
-      "title": "IT Operations Engineer",
-      "location": "Manila (One Ayala Tower 2)",
-      "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Manila-One-Ayala-Tower-2/IT-Operations-Engineer_REQ-10120794",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:ing:/job/Bucharest---Dacia-One/Data-Scientist---KYC--ING-Hubs-Romania_REQ-10121570",
       "company": "ING",
       "title": "Data Scientist | KYC @ING Hubs Romania",
@@ -237492,7 +237504,7 @@
       "location": "New York, United States",
       "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-United-States/Fixed-Income-Quantitative-Specialist_R0121482-1",
       "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
+      "posted_at": "Posted Today",
       "category": "full-time",
       "tags": [
         "fintech",
@@ -279626,24 +279638,6 @@
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37666",
       "ats": "oraclecloud",
       "posted_at": "2026-07-06",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "oraclecloud:fa-evmr-saasfaprod1:34520",
-      "company": "Nokia",
-      "title": "Optoelectronic Integration Researcher",
-      "location": "United States",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34520",
-      "ats": "oraclecloud",
-      "posted_at": "2026-06-30",
       "category": "full-time",
       "tags": [
         "swe",
@@ -329558,7 +329552,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-18T07:18:24-04:00",
+      "posted_at": "2026-10-18T10:48:17-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -331564,7 +331558,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-18T07:18:33-04:00",
+      "posted_at": "2026-10-18T10:33:30-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -331615,7 +331609,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-18T07:18:31-04:00",
+      "posted_at": "2026-10-18T10:48:24-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -337638,23 +337632,6 @@
       "backfill": true
     },
     {
-      "uid": "greenhouse:jfrog:7434101",
-      "company": "JFrog",
-      "title": "Developer Advocate",
-      "location": "Tel Aviv/ Netanya, Israel",
-      "url": "https://join.jfrog.com/job/?job=7434101&gh_jid=7434101",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-04T01:57:48-04:00",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "greenhouse:jfrog:7618800",
       "company": "JFrog",
       "title": "Developer Advocate",
@@ -337712,7 +337689,7 @@
       "location": "Tel Aviv/ Netanya, Israel",
       "url": "https://join.jfrog.com/job/?job=7939091&gh_jid=7939091",
       "ats": "greenhouse",
-      "posted_at": "2026-10-15T07:54:30-04:00",
+      "posted_at": "2026-10-18T09:12:06-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -352894,23 +352871,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10517660/embedded-software-engineer-iii-ring-ring",
       "ats": "amazon",
       "posted_at": "2026-08-27",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "amazon:10506556",
-      "company": "Amazon",
-      "title": "Software Engineer Student, SPIV team",
-      "location": "Haifa, Haifa, ISR",
-      "url": "https://www.amazon.jobs/en/jobs/10506556/software-engineer-student-spiv-team",
-      "ats": "amazon",
-      "posted_at": "2026-08-19",
       "category": "full-time",
       "tags": [
         "swe"
@@ -462265,23 +462225,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:amat:/job/AustinTX/Field-Service-Engineer-III--C3----Process--Diagnostics----Control--PDC-_R2611522",
-      "company": "Applied Materials",
-      "title": "Field Service Engineer III (C3)",
-      "location": "Austin,TX",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Field-Service-Engineer-III--C3----Process--Diagnostics----Control--PDC-_R2611522",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-18T01:15:57.616890+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:amat:/job/Santa-ClaraCA/Customer-Engineer-III_R2615539",
       "company": "Applied Materials",
       "title": "Customer Engineer IV - EPIC Center, Santa Clara",
@@ -470908,6 +470851,23 @@
       "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/TrevisoITA/Technical-Trainer-Engineer_R2615479",
       "ats": "workday",
       "posted_at": "Posted 10 Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-18T01:15:57.616890+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:amat:/job/ChitoseJPN/MDP-Customer-Engineer-I_R2615455-1",
+      "company": "Applied Materials",
+      "title": "MDP Customer Engineer I",
+      "location": "Chitose,JPN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChitoseJPN/MDP-Customer-Engineer-I_R2615455-1",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -520434,7 +520394,7 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
       "ats": "greenhouse",
-      "posted_at": "2026-10-17T20:10:57-04:00",
+      "posted_at": "2026-10-18T08:13:39-04:00",
       "category": "full-time",
       "tags": [
         "swe"
