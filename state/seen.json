@@ -22773,38 +22773,6 @@
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
   },
-  "greenhouse:andurilindustries:5037035007": {
-    "uid": "greenhouse:andurilindustries:5037035007",
-    "company": "Anduril",
-    "title": "Field Test Engineer, Maritime",
-    "location": "Quincy, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5037035007?gh_jid=5037035007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T15:07:56-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-19T19:46:40.072494+00:00",
-    "active": false
-  },
-  "greenhouse:andurilindustries:5041259007": {
-    "uid": "greenhouse:andurilindustries:5041259007",
-    "company": "Anduril",
-    "title": "Field Test Engineer, Maritime",
-    "location": "Quincy, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041259007?gh_jid=5041259007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-11T15:07:56-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-19T19:46:40.072494+00:00",
-    "active": false
-  },
   "greenhouse:andurilindustries:5037021007": {
     "uid": "greenhouse:andurilindustries:5037021007",
     "company": "Anduril",
@@ -26419,22 +26387,6 @@
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-09-15T19:06:53.504106+00:00",
-    "active": false
-  },
-  "workday:nvidia:/job/India-Bengaluru/DevOps-Engineer--DFX-Software_JR2016127": {
-    "uid": "workday:nvidia:/job/India-Bengaluru/DevOps-Engineer--DFX-Software_JR2016127",
-    "company": "NVIDIA",
-    "title": "DevOps Engineer, DFX Software",
-    "location": "India, Bengaluru",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/DevOps-Engineer--DFX-Software_JR2016127",
-    "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-19T17:46:27.777168+00:00",
     "active": false
   },
   "workday:nvidia:/job/US-CA-Santa-Clara/Post-Silicon-Validation-and-Methodology-Engineer_JR2018268": {
@@ -41700,22 +41652,6 @@
     "last_seen": "2026-09-28T07:53:29.308226+00:00",
     "active": false
   },
-  "greenhouse:chime:8523547002": {
-    "uid": "greenhouse:chime:8523547002",
-    "company": "Chime",
-    "title": "Software Engineer, Deposits & Insights",
-    "location": "San Francisco, CA, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8523547002?gh_jid=8523547002",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-18T18:16:34-04:00",
-    "category": "internship",
-    "tags": [
-      "fintech"
-    ],
-    "first_seen": "2026-06-16T00:52:30.972227+00:00",
-    "last_seen": "2026-08-19T17:46:27.777168+00:00",
-    "active": false
-  },
   "greenhouse:chime:8573625002": {
     "uid": "greenhouse:chime:8573625002",
     "company": "Chime",
@@ -49135,22 +49071,6 @@
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
   },
-  "greenhouse:waymo:7259110": {
-    "uid": "greenhouse:waymo:7259110",
-    "company": "Waymo",
-    "title": "Software Engineer, Planner Reasoning",
-    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=7259110",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-18T16:08:26-04:00",
-    "category": "full-time",
-    "tags": [
-      "ai"
-    ],
-    "first_seen": "2026-06-16T00:52:30.972227+00:00",
-    "last_seen": "2026-08-19T17:46:27.777168+00:00",
-    "active": false
-  },
   "greenhouse:waymo:7141380": {
     "uid": "greenhouse:waymo:7141380",
     "company": "Waymo",
@@ -52270,7 +52190,7 @@
     ],
     "first_seen": "2026-06-19T20:29:03.032203+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:andurilindustries:5169845007": {
     "uid": "greenhouse:andurilindustries:5169845007",
@@ -52286,7 +52206,7 @@
     ],
     "first_seen": "2026-06-19T20:29:03.032203+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:salesforce:/job/Virginia---Herndon/SRE-Systems-Engineer--TS-SCI-Clearance-_JR344731": {
     "uid": "workday:salesforce:/job/Virginia---Herndon/SRE-Systems-Engineer--TS-SCI-Clearance-_JR344731",
@@ -60516,25 +60436,6 @@
     "first_seen": "2026-07-02T19:01:40.799750+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "beesite:api-deutschebank.beesite.de:74272": {
-    "uid": "beesite:api-deutschebank.beesite.de:74272",
-    "company": "Deutsche Bank",
-    "title": "Brazil Credit Risk Management - Intern",
-    "location": "Sao Paulo",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74272",
-    "ats": "beesite",
-    "posted_at": "2026-07-02",
-    "expires_at": "2099-12-31",
-    "category": "internship",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-07-02T20:00:16.402595+00:00",
-    "last_seen": "2026-08-19T19:25:11.678840+00:00",
-    "active": false
   },
   "greenhouse:doordashusa:8044370": {
     "uid": "greenhouse:doordashusa:8044370",
@@ -69360,25 +69261,6 @@
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
   },
-  "beesite:api-deutschebank.beesite.de:55958": {
-    "uid": "beesite:api-deutschebank.beesite.de:55958",
-    "company": "Deutsche Bank",
-    "title": "Investment Grade Trader - Associate",
-    "location": "New York",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=55958",
-    "ats": "beesite",
-    "posted_at": "2026-07-15",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-07-16T11:09:22.627629+00:00",
-    "last_seen": "2026-08-19T19:25:11.678840+00:00",
-    "active": false
-  },
   "gsgraphql:179464_GS_MID_CAREER": {
     "uid": "gsgraphql:179464_GS_MID_CAREER",
     "company": "Goldman Sachs",
@@ -73929,25 +73811,6 @@
     "first_seen": "2026-07-22T19:28:30.457615+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
     "active": true
-  },
-  "beesite:api-deutschebank.beesite.de:74612": {
-    "uid": "beesite:api-deutschebank.beesite.de:74612",
-    "company": "Deutsche Bank",
-    "title": "PB WM Internship",
-    "location": "Luxemburg",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74612",
-    "ats": "beesite",
-    "posted_at": "2026-07-22",
-    "expires_at": "2099-12-31",
-    "category": "internship",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-07-22T19:28:30.457615+00:00",
-    "last_seen": "2026-08-19T19:25:11.678840+00:00",
-    "active": false
   },
   "greenhouse:stripe:8080240": {
     "uid": "greenhouse:stripe:8080240",
@@ -84980,7 +84843,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:46:35-04:00",
+    "posted_at": "2026-10-18T14:42:23-04:00",
     "category": "new-grad",
     "tags": [
       "gaming"
@@ -84996,7 +84859,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:45:29-04:00",
+    "posted_at": "2026-10-18T14:41:48-04:00",
     "category": "internship",
     "tags": [
       "gaming"
@@ -96810,7 +96673,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:41:50-04:00",
+    "posted_at": "2026-10-18T14:39:49-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -107876,7 +107739,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8115917?gh_jid=8115917",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:43:33-04:00",
+    "posted_at": "2026-10-18T14:40:46-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -114548,7 +114411,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8143982?gh_jid=8143982",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:40:58-04:00",
+    "posted_at": "2026-10-18T14:39:24-04:00",
     "category": "new-grad",
     "tags": [
       "gaming"
@@ -114564,7 +114427,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8143984?gh_jid=8143984",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:41:01-04:00",
+    "posted_at": "2026-10-18T14:39:26-04:00",
     "category": "internship",
     "tags": [
       "gaming"
@@ -114580,7 +114443,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:40:54-04:00",
+    "posted_at": "2026-10-18T14:39:21-04:00",
     "category": "internship",
     "tags": [
       "gaming"
@@ -121482,7 +121345,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8171506?gh_jid=8171506",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:40:35-04:00",
+    "posted_at": "2026-10-18T14:39:02-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -131760,7 +131623,7 @@
     ],
     "first_seen": "2026-09-18T11:31:09.269372+00:00",
     "last_seen": "2026-10-18T17:38:44.907165+00:00",
-    "active": true
+    "active": false
   },
   "workday:salesforce:/job/Thailand---Bangkok/Account-Solution-Engineer--Thailand---SMB-Market_JR360265-1": {
     "uid": "workday:salesforce:/job/Thailand---Bangkok/Account-Solution-Engineer--Thailand---SMB-Market_JR360265-1",
@@ -137929,7 +137792,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:40:07-04:00",
+    "posted_at": "2026-10-18T14:38:44-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -140360,7 +140223,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8171283?gh_jid=8171283",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:39:26-04:00",
+    "posted_at": "2026-10-18T14:38:20-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -144785,7 +144648,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8226958?gh_jid=8226958",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:36:50-04:00",
+    "posted_at": "2026-10-18T14:36:25-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -242839,7 +242702,7 @@
     "location": "Geneva",
     "url": "https://lombardodier.wd3.myworkdayjobs.com/en-US/Lombard_Odier_Careers/job/Geneva/Internship---Software-Engineer---Global-Markets-Services-AI-Project_R0007627-1",
     "ats": "workday",
-    "posted_at": "Posted 24 Days Ago",
+    "posted_at": "Posted Today",
     "category": "internship",
     "tags": [
       "asset-mgmt",
@@ -393642,15 +393505,15 @@
     "location": "Cheonan-si, Chungcheongnam-do, Republic of Korea",
     "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Cheonan-si-Chungcheongnam-do-Republic-of-Korea/Design-Engineer---Drives--Cheonan_JR00047330",
     "ats": "workday",
-    "posted_at": "Posted 27 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe",
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false,
+    "last_seen": "2026-10-18T19:49:15.415154+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/USA-NM-Albuquerque/Controls-Engineer_JR00041784-1": {
@@ -418860,7 +418723,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T13:33:36-04:00",
+    "posted_at": "2026-10-18T15:48:39-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -420985,7 +420848,7 @@
     "location": "Auckland, NZ",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007422003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-07T14:48:33-04:00",
+    "posted_at": "2026-10-18T15:12:44-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -421189,7 +421052,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T13:33:45-04:00",
+    "posted_at": "2026-10-18T15:48:42-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -421240,7 +421103,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T13:33:43-04:00",
+    "posted_at": "2026-10-18T15:48:41-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -441739,7 +441602,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10553087": {
@@ -515910,7 +515773,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:intel:/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286757": {
@@ -598700,7 +598563,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/TrevisoITA/Technical-Trainer-Engineer_R2615479": {
@@ -598734,7 +598597,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/KumamotoJPN/VSE--Customer-Engineer-IV_R2615434": {
@@ -629656,7 +629519,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:lowes:/job/Bengaluru/Software-Engineer_JR-02651881": {
@@ -642341,7 +642204,7 @@
     ],
     "first_seen": "2026-10-05T09:17:11.218071+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:murex:/job/Beijing/Functional-Consultant---Trading_JR103043": {
     "uid": "workday:murex:/job/Beijing/Functional-Consultant---Trading_JR103043",
@@ -646954,7 +646817,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:rbs:/job/Bengaluru/WoW-Software-Engineer-B8--UI-_R-00286131": {
     "uid": "workday:rbs:/job/Bengaluru/WoW-Software-Engineer-B8--UI-_R-00286131",
@@ -646971,7 +646834,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:rbs:/job/Bengaluru/WoW-Software-Engineer--AVP_R-00286132": {
     "uid": "workday:rbs:/job/Bengaluru/WoW-Software-Engineer--AVP_R-00286132",
@@ -646988,7 +646851,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:rbs:/job/Edinburgh/Data-Engineer_R-00285926": {
     "uid": "workday:rbs:/job/Edinburgh/Data-Engineer_R-00285926",
@@ -661036,7 +660899,7 @@
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:citi:/job/Chennai-Tamil-Nadu-India/Intermediate-Software-Engineer---Data-Application-Developer_26996417": {
     "uid": "workday:citi:/job/Chennai-Tamil-Nadu-India/Intermediate-Software-Engineer---Data-Application-Developer_26996417",
@@ -672166,7 +672029,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8229705?gh_jid=8229705",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:36:38-04:00",
+    "posted_at": "2026-10-18T14:36:16-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -680316,7 +680179,7 @@
     ],
     "first_seen": "2026-10-07T21:41:16.789453+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:jainglobal:/job/New-York-New-York/Quant-Modelling-Intern_JR100616": {
     "uid": "workday:jainglobal:/job/New-York-New-York/Quant-Modelling-Intern_JR100616",
@@ -692908,7 +692771,7 @@
     ],
     "first_seen": "2026-10-08T07:38:59.690824+00:00",
     "last_seen": "2026-10-18T17:38:44.907165+00:00",
-    "active": true
+    "active": false
   },
   "workday:salesforce:/job/Singapore---Singapore/Agentforce-Forward-Deployed-Engineer_JR346858-1": {
     "uid": "workday:salesforce:/job/Singapore---Singapore/Agentforce-Forward-Deployed-Engineer_JR346858-1",
@@ -704119,7 +703982,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:35:58-04:00",
+    "posted_at": "2026-10-18T14:35:27-04:00",
     "category": "internship",
     "tags": [
       "gaming"
@@ -704135,7 +703998,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8242619?gh_jid=8242619",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:35:54-04:00",
+    "posted_at": "2026-10-18T14:35:23-04:00",
     "category": "internship",
     "tags": [
       "gaming"
@@ -704151,7 +704014,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8159854?gh_jid=8159854",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:40:38-04:00",
+    "posted_at": "2026-10-18T14:39:04-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -706086,7 +705949,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8159857?gh_jid=8159857",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:40:40-04:00",
+    "posted_at": "2026-10-18T14:39:06-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -708676,7 +708539,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:barclays:/job/Pune-Gera-Commerzone-SEZ/Cloud-Data-Engineer_JR-0000128770": {
     "uid": "workday:barclays:/job/Pune-Gera-Commerzone-SEZ/Cloud-Data-Engineer_JR-0000128770",
@@ -708693,7 +708556,7 @@
     ],
     "first_seen": "2026-10-09T13:59:10.439241+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:barclays:/job/Pune-Gera-Commerzone-SEZ/Senior-Analyst_JR-0000116140": {
     "uid": "workday:barclays:/job/Pune-Gera-Commerzone-SEZ/Senior-Analyst_JR-0000116140",
@@ -719716,7 +719579,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8262223?gh_jid=8262223",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:34:49-04:00",
+    "posted_at": "2026-10-18T14:34:34-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -720622,7 +720485,7 @@
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/8209006?gh_jid=8209006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-18T02:37:57-04:00",
+    "posted_at": "2026-10-18T14:37:14-04:00",
     "category": "full-time",
     "tags": [
       "gaming"
@@ -726578,7 +726441,7 @@
     ],
     "first_seen": "2026-10-12T09:56:54.503580+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:hp:/job/Ness-Ziona-Center-District-Israel/R-D-Researcher_3165218": {
     "uid": "workday:hp:/job/Ness-Ziona-Center-District-Israel/R-D-Researcher_3165218",
@@ -727618,7 +727481,7 @@
     ],
     "first_seen": "2026-10-12T09:56:54.503580+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:soti:/job/Kochi-India/Software-Developer-2_R10594-2": {
     "uid": "workday:soti:/job/Kochi-India/Software-Developer-2_R10594-2",
@@ -727875,7 +727738,7 @@
     ],
     "first_seen": "2026-10-12T19:33:20.038416+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:tiaa:/job/New-York-NY-USA/XMLNAME-2027-Early-Talent-Internship--SUNY-Co-op--Retirement-Solutions-_R261000117-1": {
     "uid": "workday:tiaa:/job/New-York-NY-USA/XMLNAME-2027-Early-Talent-Internship--SUNY-Co-op--Retirement-Solutions-_R261000117-1",
@@ -728095,7 +727958,7 @@
     ],
     "first_seen": "2026-10-12T19:33:20.038416+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:egug:26014106": {
     "uid": "oraclecloud:egug:26014106",
@@ -729168,7 +729031,7 @@
     ],
     "first_seen": "2026-10-12T19:33:20.038416+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:mastercard:/job/OFallon-Missouri/Software-Engineer-II_R-292582-1": {
     "uid": "workday:mastercard:/job/OFallon-Missouri/Software-Engineer-II_R-292582-1",
@@ -731825,7 +731688,7 @@
     ],
     "first_seen": "2026-10-12T19:33:20.038416+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:cisco:/job/San-Jose-California-US/ASIC-DFT-Engineer_2028009": {
     "uid": "workday:cisco:/job/San-Jose-California-US/ASIC-DFT-Engineer_2028009",
@@ -738754,7 +738617,7 @@
     ],
     "first_seen": "2026-10-13T08:40:04.075056+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "avature:synopsys.avature.net:19170": {
     "uid": "avature:synopsys.avature.net:19170",
@@ -743146,7 +743009,7 @@
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:philips:/job/Daegu/Field-Service-Engineer--Daegu_587688": {
     "uid": "workday:philips:/job/Daegu/Field-Service-Engineer--Daegu_587688",
@@ -743418,7 +743281,7 @@
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:lighting:/job/Bangalore/IT-Technical-Engineer_364638": {
     "uid": "workday:lighting:/job/Bangalore/IT-Technical-Engineer_364638",
@@ -752906,7 +752769,7 @@
     ],
     "first_seen": "2026-10-14T05:35:50.372452+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "deshaw:5968": {
     "uid": "deshaw:5968",
@@ -768060,7 +767923,7 @@
     ],
     "first_seen": "2026-10-15T11:47:24.357669+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:citi:/job/DLF-CYBERCITY-12B/Java-Developer--FX_261000495": {
     "uid": "workday:citi:/job/DLF-CYBERCITY-12B/Java-Developer--FX_261000495",
@@ -768697,7 +768560,7 @@
     ],
     "first_seen": "2026-10-15T11:47:24.357669+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "ashby:wayflyer:37f76daf-0f83-4ec8-be9f-3ddd833458e3": {
     "uid": "ashby:wayflyer:37f76daf-0f83-4ec8-be9f-3ddd833458e3",
@@ -772422,7 +772285,7 @@
     ],
     "first_seen": "2026-10-15T15:55:06.528520+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:fiserv:/job/Mexico-City-Mexico/AI-Engineering-Specialist_R-10401536": {
     "uid": "workday:fiserv:/job/Mexico-City-Mexico/AI-Engineering-Specialist_R-10401536",
@@ -777174,7 +777037,7 @@
     ],
     "first_seen": "2026-10-15T19:32:36.824206+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:intel:/job/US-Oregon-Hillsboro/AI-GPU-Power-Delivery-Pathfinding-Researcher_JR0288188": {
     "uid": "workday:intel:/job/US-Oregon-Hillsboro/AI-GPU-Power-Delivery-Pathfinding-Researcher_JR0288188",
@@ -783983,7 +783846,7 @@
     ],
     "first_seen": "2026-10-16T09:58:42.864716+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:expedia:/job/Spain---Madrid/Data-Scientist-III---Analytics_R-110413": {
     "uid": "workday:expedia:/job/Spain---Madrid/Data-Scientist-III---Analytics_R-110413",
@@ -788401,7 +788264,7 @@
     ],
     "first_seen": "2026-10-16T18:29:56.897645+00:00",
     "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": true
+    "active": false
   },
   "workday:mastercard:/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852": {
     "uid": "workday:mastercard:/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852",
@@ -794453,6 +794316,57 @@
     ],
     "first_seen": "2026-10-18T17:38:44.907165+00:00",
     "last_seen": "2026-10-18T17:38:44.907165+00:00",
+    "active": true
+  },
+  "workday:statestreet:/job/Princeton-New-Jersey/RKS-Configuration-Management-and-DevOps--AVP_R-799107-1": {
+    "uid": "workday:statestreet:/job/Princeton-New-Jersey/RKS-Configuration-Management-and-DevOps--AVP_R-799107-1",
+    "company": "State Street",
+    "title": "RKS Configuration Management and DevOps, AVP",
+    "location": "Princeton, New Jersey",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Princeton-New-Jersey/RKS-Configuration-Management-and-DevOps--AVP_R-799107-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank",
+      "asset-mgmt"
+    ],
+    "first_seen": "2026-10-18T19:49:15.415154+00:00",
+    "last_seen": "2026-10-18T19:49:15.415154+00:00",
+    "active": true
+  },
+  "workday:darktrace:/job/Denver-Office-United-States/Senior-Solutions-Engineer--Acquisition_JR102454": {
+    "uid": "workday:darktrace:/job/Denver-Office-United-States/Senior-Solutions-Engineer--Acquisition_JR102454",
+    "company": "Darktrace",
+    "title": "Solutions Engineer, Acquisition",
+    "location": "15 Locations",
+    "url": "https://darktrace.wd3.myworkdayjobs.com/en-US/DarktaceExternal/job/Denver-Office-United-States/Senior-Solutions-Engineer--Acquisition_JR102454",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "ai",
+      "uk"
+    ],
+    "first_seen": "2026-10-18T19:49:15.415154+00:00",
+    "last_seen": "2026-10-18T19:49:15.415154+00:00",
+    "active": true
+  },
+  "workday:amat:/job/BangaloreIND/Software-QA-Engineer_R2630885": {
+    "uid": "workday:amat:/job/BangaloreIND/Software-QA-Engineer_R2630885",
+    "company": "Applied Materials",
+    "title": "Software QA Engineer",
+    "location": "Bangalore,IND",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/BangaloreIND/Software-QA-Engineer_R2630885",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-18T19:49:15.415154+00:00",
+    "last_seen": "2026-10-18T19:49:15.415154+00:00",
     "active": true
   }
 }
