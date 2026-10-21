@@ -2509,7 +2509,7 @@
     ],
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:point72:7046014002": {
     "uid": "greenhouse:point72:7046014002",
@@ -43900,7 +43900,7 @@
     ],
     "first_seen": "2026-06-16T00:52:30.972227+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "lever:palantir:98b81271-9e15-40b7-8dce-0c62f24702f9": {
     "uid": "lever:palantir:98b81271-9e15-40b7-8dce-0c62f24702f9",
@@ -51853,7 +51853,7 @@
     ],
     "first_seen": "2026-06-22T20:01:25.513645+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:point72:8603359002": {
     "uid": "greenhouse:point72:8603359002",
@@ -68358,7 +68358,7 @@
     ],
     "first_seen": "2026-07-17T16:24:46.187637+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:upstart:7901946": {
     "uid": "greenhouse:upstart:7901946",
@@ -68439,7 +68439,7 @@
     ],
     "first_seen": "2026-07-17T18:19:26.646772+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "jibe:careers.sig.com:10203": {
     "uid": "jibe:careers.sig.com:10203",
@@ -81558,7 +81558,7 @@
     "location": "San Mateo, CA United States",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5188795007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T14:41:55-04:00",
+    "posted_at": "2026-10-21T16:55:15-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -95280,7 +95280,7 @@
     ],
     "first_seen": "2026-08-18T17:49:44.784777+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:salesforce:/job/Virginia---Herndon/GovCloud-Distributed-Systems-Software-Engineer_JR346223": {
     "uid": "workday:salesforce:/job/Virginia---Herndon/GovCloud-Distributed-Systems-Software-Engineer_JR346223",
@@ -108510,7 +108510,7 @@
   "ashby:applied:9ed264dc-6e49-4dba-b851-7c198b4f7916": {
     "uid": "ashby:applied:9ed264dc-6e49-4dba-b851-7c198b4f7916",
     "company": "Applied Intuition",
-    "title": "Autonomy Test Engineer, Maritime Systems",
+    "title": "Autonomy Test Engineer",
     "location": "San Diego, CA",
     "url": "https://jobs.ashbyhq.com/applied/9ed264dc-6e49-4dba-b851-7c198b4f7916",
     "ats": "ashby",
@@ -116093,7 +116093,7 @@
     ],
     "first_seen": "2026-09-08T05:25:26.478900+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:nvidia:/job/Palestine-Rawabi/Software-Engineer--DOCA-Networking_JR2024811": {
     "uid": "workday:nvidia:/job/Palestine-Rawabi/Software-Engineer--DOCA-Networking_JR2024811",
@@ -130150,7 +130150,7 @@
     ],
     "first_seen": "2026-09-18T23:24:11.337757+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "ashby:poshmark:22fe890a-5c2c-4133-a91c-2e82348bc5d8": {
     "uid": "ashby:poshmark:22fe890a-5c2c-4133-a91c-2e82348bc5d8",
@@ -131790,7 +131790,7 @@
     ],
     "first_seen": "2026-09-21T23:24:28.970062+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:waymo:8221795": {
     "uid": "greenhouse:waymo:8221795",
@@ -136018,7 +136018,7 @@
     ],
     "first_seen": "2026-09-24T20:35:26.608318+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "jibe:careers.sig.com:11555": {
     "uid": "jibe:careers.sig.com:11555",
@@ -140300,7 +140300,7 @@
     "location": "Mountain View, California (HQ)",
     "url": "https://nuro.ai/careersitem?gh_jid=8222063",
     "ats": "greenhouse",
-    "posted_at": "2026-10-14T21:34:36-04:00",
+    "posted_at": "2026-10-21T16:08:47-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -141826,7 +141826,7 @@
     ],
     "first_seen": "2026-09-30T20:37:26.724398+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:peloton:7871305": {
     "uid": "greenhouse:peloton:7871305",
@@ -142146,7 +142146,7 @@
     ],
     "first_seen": "2026-10-01T00:14:28.448850+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "ashby:openai:2d1785b0-8bfa-485e-97d2-a19ff3e15570": {
     "uid": "ashby:openai:2d1785b0-8bfa-485e-97d2-a19ff3e15570",
@@ -145240,7 +145240,7 @@
     ],
     "first_seen": "2026-10-04T12:36:13.727730+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "ashby:ElevenLabs:2d0016e0-3cc2-4ec7-b164-bc2b83990fb6": {
     "uid": "ashby:ElevenLabs:2d0016e0-3cc2-4ec7-b164-bc2b83990fb6",
@@ -148277,7 +148277,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "avature:careers.twosigma.com:14290": {
@@ -155479,7 +155479,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "ashby:polymarket:7659109d-e0e8-420a-a887-d48f740e25ba": {
@@ -155498,7 +155498,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "ashby:polymarket:87dd5e61-733c-4d75-8f4c-03503126e7fe": {
@@ -167731,7 +167731,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:invesco:/job/New-York-New-York/Junior-Trader_R-15504": {
@@ -167782,7 +167782,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:invesco:/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1": {
@@ -167816,7 +167816,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:invesco:/job/Atlanta-Georgia/Early-Career-Intern---Private-Markets-Product_R-15545-1": {
@@ -168190,7 +168190,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:invesco:/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619": {
@@ -168207,7 +168207,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:invesco:/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476": {
@@ -168241,7 +168241,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:invesco:/job/Atlanta-Georgia/Early-Career-Intern---Private-Markets-Product_R-15545": {
@@ -179016,11 +179016,11 @@
   "workday:ms:/job/Montreal-Canada/DevOps-Developer--Hybrid-_PT-JR043397": {
     "uid": "workday:ms:/job/Montreal-Canada/DevOps-Developer--Hybrid-_PT-JR043397",
     "company": "Morgan Stanley",
-    "title": "DevOps Developer (Hybrid)",
+    "title": "DevOps Developer (Hybrid) / Développeur(euse) DevOps (hybride)",
     "location": "Montreal, Canada",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Montreal-Canada/DevOps-Developer--Hybrid-_PT-JR043397",
     "ats": "workday",
-    "posted_at": "Posted 28 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
@@ -179118,11 +179118,11 @@
   "workday:ms:/job/Montreal-Canada/Full-Stack---Java-Application-Developer--Hybrid-_PT-JR041278": {
     "uid": "workday:ms:/job/Montreal-Canada/Full-Stack---Java-Application-Developer--Hybrid-_PT-JR041278",
     "company": "Morgan Stanley",
-    "title": "Full Stack – Java Application Developer (Hybrid)",
+    "title": "Full Stack – Java Application Developer (Hybrid) / Développeur(euse) d’applications Java – Full Stack (hybride)",
     "location": "Montreal, Canada",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Montreal-Canada/Full-Stack---Java-Application-Developer--Hybrid-_PT-JR041278",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
@@ -179135,11 +179135,11 @@
   "workday:ms:/job/Montreal-Canada/Full-Stack-Developer---Data-Engineering--Hybrid-_PT-JR042447": {
     "uid": "workday:ms:/job/Montreal-Canada/Full-Stack-Developer---Data-Engineering--Hybrid-_PT-JR042447",
     "company": "Morgan Stanley",
-    "title": "Full Stack Developer – Data Engineering (Hybrid)",
+    "title": "Full Stack Developer – Data Engineering (Hybrid) / Développeur(euse) Full Stack – Ingénierie des données (hybride)",
     "location": "Montreal, Canada",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Montreal-Canada/Full-Stack-Developer---Data-Engineering--Hybrid-_PT-JR042447",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
@@ -179390,11 +179390,11 @@
   "workday:ms:/job/Montreal-Canada/Java-FullStack-Developer--Hybrid-_PT-JR042052": {
     "uid": "workday:ms:/job/Montreal-Canada/Java-FullStack-Developer--Hybrid-_PT-JR042052",
     "company": "Morgan Stanley",
-    "title": "Java Full-Stack Developer (Hybrid)",
+    "title": "Java Full-Stack Developer (Hybrid) / Développeur(euse) Full-Stack Java (hybride)",
     "location": "Montreal, Canada",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Montreal-Canada/Java-FullStack-Developer--Hybrid-_PT-JR042052",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
@@ -179577,11 +179577,11 @@
   "workday:ms:/job/Montreal-Canada/C---Developer--Hybrid-_PT-JR041983": {
     "uid": "workday:ms:/job/Montreal-Canada/C---Developer--Hybrid-_PT-JR041983",
     "company": "Morgan Stanley",
-    "title": "C++ Developer (Hybrid)",
+    "title": "C++ Developer (Hybrid) / Développeur(euse) C++ (hybride)",
     "location": "Montreal, Canada",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Montreal-Canada/C---Developer--Hybrid-_PT-JR041983",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
@@ -189175,7 +189175,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:eofe:81264": {
@@ -195604,7 +195604,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:capitalone:/job/Richmond-VA/Full-stack-Engineer-4_R1001265-1": {
@@ -211824,7 +211824,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "oraclecloud:jpmc:210528470": {
@@ -211858,7 +211858,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "workday:rbc:/job/BRANTFORD-Ontario-Canada/Client-Advisor-Intern_R-0000189079": {
@@ -222411,14 +222411,14 @@
     "location": "Chicago, IL",
     "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Chicago-IL/Financial-Planning-Strategist_2613909",
     "ats": "workday",
-    "posted_at": "Posted 26 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-20T00:46:57.223030+00:00",
-    "active": false,
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:cibc:/job/Toronto-ON/Mobile-Mortgage-Advisor_2618146": {
@@ -226225,15 +226225,15 @@
     "location": "11000, Montevideo, Montevideo",
     "url": "https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/11000-Montevideo-Montevideo/Data-Developer--contrato-a-trmino-por-1-ao-_JR00116231",
     "ats": "workday",
-    "posted_at": "Posted 18 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank",
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-18T01:15:57.616890+00:00",
-    "active": false,
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:bbva:/job/New-York/FRM-Trader-Associate_JR00105753": {
@@ -234443,14 +234443,14 @@
     "location": "",
     "url": "https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesCareers/job/Southfield-Michigan---United-States/Supervisor--Operations-Mutual-Funds-Trading---Southfield--MI_R-0011924",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-07T02:31:15.215999+00:00",
-    "active": false,
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:raymondjames:/job/Saint-Petersburg-Florida---United-States/Investment-Data-Scientist---Python---Portfolio-Analytics--Hybrid-_R-0011761": {
@@ -238248,14 +238248,14 @@
     "location": "10 Locations",
     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-2---Mainframe--COBOL-_2026-0030501",
     "ats": "workday",
-    "posted_at": "Posted 13 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false,
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:usbank:/job/Hackensack-NJ/Business-Technology-Systems-Analyst_2026-0019721": {
@@ -238333,14 +238333,14 @@
     "location": "10 Locations",
     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686",
     "ats": "workday",
-    "posted_at": "Posted 14 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-15T01:03:47.312133+00:00",
-    "active": false,
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:usbank:/job/Hopkins-MN/Software-Engineer-2---Salesforce-Developer_2026-0017670": {
@@ -252800,7 +252800,7 @@
     "location": "Livingston, NJ / Bellevue, WA / Philadelphia, PA / New York City, NY / San Francisco, CA / Sunnyvale, CA / Washington, D.C.",
     "url": "https://coreweave.com/careers/job?4628998006&board=coreweave&gh_jid=4628998006",
     "ats": "greenhouse",
-    "posted_at": "2026-10-12T12:01:44-04:00",
+    "posted_at": "2026-10-21T17:47:06-04:00",
     "category": "full-time",
     "tags": [
       "ai",
@@ -273690,11 +273690,11 @@
   "greenhouse:xairatherapeutics:5212689007": {
     "uid": "greenhouse:xairatherapeutics:5212689007",
     "company": "Xaira Therapeutics",
-    "title": "Robotics Control Engineer",
+    "title": "Robotics Control Software Engineer",
     "location": "South San Francisco, California, United States",
     "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T15:43:03-04:00",
+    "posted_at": "2026-10-21T15:53:10-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -273935,7 +273935,7 @@
     "location": "Cambridge, MA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4294210009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:32:01-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -273952,7 +273952,7 @@
     "location": "Cambridge, MA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4277806009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:31:59-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -273986,7 +273986,7 @@
     "location": "San Francisco, CA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4396760009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:32:05-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -274037,7 +274037,7 @@
     "location": "San Francisco, CA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4222051009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:31:56-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -274054,7 +274054,7 @@
     "location": "San Francisco, CA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4392245009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:32:05-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -274071,7 +274071,7 @@
     "location": "San Francisco, CA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4324969009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:32:02-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -274088,7 +274088,7 @@
     "location": "Cambridge, MA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4277749009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:31:59-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -274105,7 +274105,7 @@
     "location": "Cambridge, MA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4324886009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:32:02-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -274139,7 +274139,7 @@
     "location": "Cambridge, MA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4410043009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:32:06-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -274156,7 +274156,7 @@
     "location": "Cambridge, MA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4031328009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:31:43-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -279534,7 +279534,7 @@
     "location": "Austin, Texas, United States; South San Francisco, California, United States",
     "url": "https://boards.greenhouse.io/neuralink/jobs/6057476003?gh_jid=6057476003",
     "ats": "greenhouse",
-    "posted_at": "2026-09-24T21:18:21-04:00",
+    "posted_at": "2026-10-21T17:54:39-04:00",
     "category": "full-time",
     "tags": [
       "swe",
@@ -282864,7 +282864,7 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles/7989547003?gh_jid=7989547003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T12:28:21-04:00",
+    "posted_at": "2026-10-21T18:42:43-04:00",
     "category": "full-time",
     "tags": [
       "ai",
@@ -286812,7 +286812,7 @@
     "location": "Remote - USA",
     "url": "https://www.coinbase.com/careers/positions/8241522?gh_jid=8241522",
     "ats": "greenhouse",
-    "posted_at": "2026-10-13T19:55:22-04:00",
+    "posted_at": "2026-10-21T18:39:44-04:00",
     "category": "full-time",
     "tags": [
       "crypto",
@@ -290397,7 +290397,7 @@
     "uid": "rippling:rippling:f64b6158-9534-4bab-9457-45556166b262",
     "company": "Rippling",
     "title": "Full Stack Software Engineer Intern - Summer 2027",
-    "location": "San Francisco, CA",
+    "location": "New York, NY",
     "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
     "ats": "rippling",
     "posted_at": null,
@@ -290487,7 +290487,7 @@
     "uid": "rippling:rippling:844d2bdf-d672-46d9-a763-6788ba803248",
     "company": "Rippling",
     "title": "Software Engineer II, Backend - Financial Product",
-    "location": "San Francisco, CA",
+    "location": "Seattle, WA",
     "url": "https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248",
     "ats": "rippling",
     "posted_at": null,
@@ -290541,7 +290541,7 @@
     "uid": "rippling:rippling:18d9c9ed-c878-4e78-83a0-6e24cf0bcc9d",
     "company": "Rippling",
     "title": "Software Engineer II, Backend - Platform Team ",
-    "location": "Seattle, WA",
+    "location": "New York, NY",
     "url": "https://ats.rippling.com/rippling/jobs/18d9c9ed-c878-4e78-83a0-6e24cf0bcc9d",
     "ats": "rippling",
     "posted_at": null,
@@ -290577,7 +290577,7 @@
     "uid": "rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba",
     "company": "Rippling",
     "title": "Software Engineer Intern - Backend Focused - Summer 2027",
-    "location": "New York, NY",
+    "location": "Seattle, WA",
     "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
     "ats": "rippling",
     "posted_at": null,
@@ -297784,7 +297784,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:fis:/job/US-FL-JAX-347/Financial-Analyst-I--FIS-University-Program_JR0309326": {
@@ -323686,7 +323686,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T05:30:39.202767+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "smartrecruiters:BoschGroup:744000152270699": {
@@ -329212,7 +329212,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "smartrecruiters:BoschGroup:744000148580705": {
@@ -350974,7 +350974,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:roche:/job/Budapest/Learning-Systems---Solutions-Analyst_202609-123963-1": {
@@ -351010,7 +351010,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:roche:/job/Hyderabad/Full-Stack-AI-Engineer---Data-Scientist---Agentic-Systems_202607-119626-1": {
@@ -359354,7 +359354,7 @@
     "location": "San Diego, CA, USA",
     "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Cloud-Optimization-Engineer---FinOps_J-00353399",
     "ats": "workday",
-    "posted_at": "Posted 21 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe",
@@ -364736,15 +364736,15 @@
     "location": "Ciudad de Panama",
     "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Ciudad-de-Panama/Non-Product-Software-Validation-Engineer_586415",
     "ats": "workday",
-    "posted_at": "Posted 13 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe",
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-09T00:47:09.300657+00:00",
-    "active": false,
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:philips:/job/Nashville-Tennessee-United-States/Field-Service-Engineer---Nashville--TN_590991-1": {
@@ -364942,7 +364942,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Embedded-Software-Verification-Engineer---Surgical-Robotics_581693": {
@@ -377372,15 +377372,15 @@
     "location": "Chicago, IL",
     "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Chicago-IL/Controls---Automation-Engineer_R-1188474",
     "ats": "workday",
-    "posted_at": "Posted 13 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe",
       "uk"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-06T00:27:28.087713+00:00",
-    "active": false,
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:unilever:/job/United-Kingdom/Unilever-Industrial-Placement-Programme---Communications-and-Corporate-Affairs-UK_R-1188502": {
@@ -381260,15 +381260,15 @@
     "location": "Irvine",
     "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Irvine/Network-Engineer_R0335659-1",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe",
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-16T00:52:57.086775+00:00",
-    "active": false,
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:thales:/job/So-Paulo/Presales-Engineer---Identity---Biometric-Solutions_R0322635": {
@@ -390034,7 +390034,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Trapagaran-Bizkaia-Spain/Internship--HSE-department-support_JR00038950-1": {
@@ -390052,7 +390052,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/USA-MS-Senatobia/Procurement-Specialist-Intern---Fall-2026_JR00038667": {
@@ -390232,7 +390232,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Brno-Jihomoravsky-Czechia/Commissioning-Engineer_JR00040982": {
@@ -392968,7 +392968,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Minden-North-Rhine-Westphalia-Germany/Senior-FPGA-Engineer--m-f-d-_JR00025434-1": {
@@ -398900,7 +398900,7 @@
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/talkdesk2/jobs/8103304",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T13:52:12-04:00",
+    "posted_at": "2026-10-21T16:06:55-04:00",
     "category": "full-time",
     "tags": [
       "swe",
@@ -398918,7 +398918,7 @@
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/talkdesk2/jobs/8159422",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T13:52:12-04:00",
+    "posted_at": "2026-10-21T16:06:55-04:00",
     "category": "full-time",
     "tags": [
       "swe",
@@ -399997,7 +399997,7 @@
     "location": "Tokyo, Japan",
     "url": "https://job-boards.greenhouse.io/boxinc/jobs/8050545",
     "ats": "greenhouse",
-    "posted_at": "2026-10-15T07:46:47-04:00",
+    "posted_at": "2026-10-21T15:57:54-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -400252,7 +400252,7 @@
     "location": "New York, NY, United States",
     "url": "https://job-boards.greenhouse.io/boxinc/jobs/8211117",
     "ats": "greenhouse",
-    "posted_at": "2026-09-25T09:56:51-04:00",
+    "posted_at": "2026-10-21T16:08:52-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -400915,7 +400915,7 @@
     "location": "Casa Grande, AZ",
     "url": "https://lucidmotors.com/careers/search/5133671007?gh_jid=5133671007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T19:39:21-04:00",
+    "posted_at": "2026-10-21T15:52:03-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -401167,7 +401167,7 @@
     "uid": "rippling:opendoor:e2ea6b22-2166-46bb-a547-109474727fd6",
     "company": "Opendoor",
     "title": "Data Scientist",
-    "location": "Miami, FL",
+    "location": "Seattle, WA",
     "url": "https://ats.rippling.com/opendoor/jobs/e2ea6b22-2166-46bb-a547-109474727fd6",
     "ats": "rippling",
     "posted_at": null,
@@ -402020,14 +402020,14 @@
     "location": "Santa Clara, California",
     "url": "https://job-boards.greenhouse.io/purestorage/jobs/8065306",
     "ats": "greenhouse",
-    "posted_at": "2026-08-11T04:09:52-04:00",
+    "posted_at": "2026-10-21T16:36:42-04:00",
     "category": "full-time",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "greenhouse:purestorage:8102970": {
@@ -415423,7 +415423,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:relativity:8858535002": {
@@ -415807,7 +415807,7 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/relativity/jobs/8845906002?gh_jid=8845906002",
     "ats": "greenhouse",
-    "posted_at": "2026-10-07T17:25:53-04:00",
+    "posted_at": "2026-10-21T17:58:14-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -416198,7 +416198,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T15:48:06-04:00",
+    "posted_at": "2026-10-21T18:47:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -417694,7 +417694,7 @@
     "location": "Auckland, NZ",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6589226003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-08T16:19:17-04:00",
+    "posted_at": "2026-10-21T17:44:56-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -418092,7 +418092,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:rocketlab:8007047003": {
@@ -418109,7 +418109,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:rocketlab:8008852003": {
@@ -418126,7 +418126,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:rocketlab:7813153003": {
@@ -418143,7 +418143,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:rocketlab:7551977003": {
@@ -418527,7 +418527,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T15:48:11-04:00",
+    "posted_at": "2026-10-21T18:48:00-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -418578,7 +418578,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T15:48:09-04:00",
+    "posted_at": "2026-10-21T18:47:58-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -419707,7 +419707,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:astranis:4625923006": {
@@ -421056,7 +421056,7 @@
   "lever:hermeus:555263f6-c5ec-4489-ab07-1aea546b70e7": {
     "uid": "lever:hermeus:555263f6-c5ec-4489-ab07-1aea546b70e7",
     "company": "Hermeus",
-    "title": "GNC & Flight Software Intern - Spring/Summer 2027",
+    "title": "Flight Software & GNC Intern - Spring/Summer 2027",
     "location": "Atlanta, GA",
     "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
     "ats": "lever",
@@ -425450,10 +425450,10 @@
     "uid": "greenhouse:newrelic:5431953008",
     "company": "New Relic",
     "title": "Software Engineer - Container Fabric",
-    "location": "Portland, Oregon, USA",
+    "location": "Atlanta, Georgia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Charleston, South Carolina, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Philadelphia, Pennsylvania, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA",
     "url": "https://job-boards.greenhouse.io/newrelic/jobs/5431953008",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T12:42:40-04:00",
+    "posted_at": "2026-10-21T18:04:04-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427221,7 +427221,7 @@
     "location": "New York City, NY",
     "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767924003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-14T15:49:34-04:00",
+    "posted_at": "2026-10-21T18:00:33-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427238,7 +427238,7 @@
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767925003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-14T15:48:51-04:00",
+    "posted_at": "2026-10-21T18:00:54-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -427255,7 +427255,7 @@
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767923003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-06T23:27:02-04:00",
+    "posted_at": "2026-10-21T17:59:21-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -435779,7 +435779,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10554903": {
@@ -438754,7 +438754,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10566605": {
@@ -439264,7 +439264,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10537310": {
@@ -441134,7 +441134,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10529821": {
@@ -452014,7 +452014,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10477521": {
@@ -453544,7 +453544,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10459788": {
@@ -467552,7 +467552,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10560313": {
@@ -490570,7 +490570,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:crowdstrike:/job/USA---Remote/Engineer-II--Full-Stack--Remote-_R30113": {
@@ -499648,7 +499648,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:hp:/job/Spring-Texas-United-States-of-America/Engineering---Technical-Internship-Roles---HP-Solutions--HPS-_3167904-1": {
@@ -505812,7 +505812,7 @@
     "location": "Tlaquepaque, Jalisco, Mexico",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213749",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "internship",
     "tags": [
       "swe"
@@ -505914,7 +505914,7 @@
     "location": "Tlaquepaque, Jalisco, Mexico",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Tlaquepaque-Jalisco-Mexico/Special-Pricing-Analyst---Internship_1213751",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "internship",
     "tags": [
       "swe"
@@ -506101,7 +506101,7 @@
     "location": "Tlaquepaque, Jalisco, Mexico",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Tlaquepaque-Jalisco-Mexico/Credit-Analyst---Internship_1213750",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "internship",
     "tags": [
       "swe"
@@ -508114,7 +508114,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:hpe:/job/Bengaluru-Karntaka-India/Agentic-AI---RPA-Developer_1209935": {
@@ -508896,7 +508896,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:hpe:/job/Bengaluru-Karntaka-India/Build-Systems-and-Tools-Developer_1208099-2": {
@@ -509348,14 +509348,14 @@
     "location": "All, New Jersey, United States of America",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/All-New-Jersey-United-States-of-America/Resident-Engineer---Service-Provider-Routing-and-Switching-Design-Consultant--Mt-Laurel--NJ-_1204155",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "workday:hpe:/job/Cupertino-California-United-States-of-America/Software-Engineer---Wireless-Access-Point-Development_1204000-2": {
@@ -510273,7 +510273,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:intel:/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0282062-1": {
@@ -510817,7 +510817,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:intel:/job/US-Texas-Austin/XMLNAME---AI-ML-CAD-Engineer--RTL---Design-Verification_JR0287395": {
@@ -550155,7 +550155,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:workday:/job/USAVAReston/Software-Engineer---DevOps--US-Federal-_JR-0110541-1": {
@@ -552025,7 +552025,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:blueorigin:/job/Huntsville-AL/Engines-Quality-Engineer-III--Weekend-Night-Shift-_R67643": {
@@ -554201,7 +554201,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:blueorigin:/job/Greater-Seattle-Area/MK2-Avionics-Motor-Control-Design-Engineer-III---Lunar-Permanence_R65793": {
@@ -554989,11 +554989,11 @@
   "workday:blueorigin:/job/Denver-CO/HLS-Software-Systems-Engineer-ll---Lunar-Permanence_R72468": {
     "uid": "workday:blueorigin:/job/Denver-CO/HLS-Software-Systems-Engineer-ll---Lunar-Permanence_R72468",
     "company": "Blue Origin",
-    "title": "HLS Software Systems Engineer ll - Lunar Permanence",
+    "title": "HLS Autonomy Software Systems Engineer ll - Lunar Permanence",
     "location": "2 Locations",
     "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/HLS-Software-Systems-Engineer-ll---Lunar-Permanence_R72468",
     "ats": "workday",
-    "posted_at": "Posted 2 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -556700,7 +556700,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:blueorigin:/job/Denver-CO/Embedded-Software-Developer---Level-3_R70917": {
@@ -557407,7 +557407,7 @@
     "location": "2 Locations",
     "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Software-Engineer-III---TeraWave_R71649",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -569178,7 +569178,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Fab-10NX-Singapore/Intern---ADTS-PEE-Dry-Etch_JR109895": {
@@ -574805,7 +574805,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Fab-10NX-Singapore/Engineer--Yield-Enhancement_JR105403": {
@@ -576012,7 +576012,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:micron:/job/Muar-Malaysia/Intern---Operation-Improvement_JR97674": {
@@ -579803,7 +579803,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T19:45:06.300953+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:marvell:/job/Santa-Clara-CA/Board-Product-Engineer-Intern--BS---Summer-2027_2603833-1": {
@@ -586698,14 +586698,14 @@
     "location": "Chandler,AZ",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Software-Engineer_R2628430",
     "ats": "workday",
-    "posted_at": "Posted 27 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-20T00:46:57.223030+00:00",
-    "active": false,
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/AustinTX/Summer-2027-Supply-Chain-Buyer-Intern--Bachelor-s--Austin--TX-_R2627046-1": {
@@ -588500,7 +588500,7 @@
     "location": "Santa Clara,CA",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Packaging-Engineer-II--New-College-Grad--Master-s--Santa-Clara--CA-_R2627547",
     "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -589425,7 +589425,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551": {
@@ -626705,7 +626705,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:ibqbjb:153297": {
@@ -637127,7 +637127,7 @@
     "location": " Palo Alto, CA",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-13T20:15:02-04:00",
+    "posted_at": "2026-10-21T15:56:22-04:00",
     "category": "internship",
     "tags": [
       "ai",
@@ -655813,7 +655813,7 @@
     "location": "Cambridge, MA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4423504009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:32:07-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -662824,7 +662824,7 @@
     ],
     "first_seen": "2026-10-06T13:44:59.696249+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:abb:/job/Singapore-Central-Singapore-Singapore/Service-Engineer_JR00039278": {
     "uid": "workday:abb:/job/Singapore-Central-Singapore-Singapore/Service-Engineer_JR00039278",
@@ -665422,7 +665422,7 @@
     ],
     "first_seen": "2026-10-06T19:12:11.269095+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:citi:/job/Irving-Texas-United-States/AI-ML-Engineer---Engineering-Excellence--Full-Stack-Developer-_26972927": {
     "uid": "workday:citi:/job/Irving-Texas-United-States/AI-ML-Engineer---Engineering-Excellence--Full-Stack-Developer-_26972927",
@@ -665867,14 +665867,14 @@
     "location": "4 Locations",
     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/Quantitative-Model-Analyst-2---Loans-Modeling_2026-0031273",
     "ats": "workday",
-    "posted_at": "Posted 13 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
     ],
     "first_seen": "2026-10-06T19:12:11.269095+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": false
+    "active": true
   },
   "workday:usbank:/job/Chennai-India/Automation-Engineer_2026-0024928-1": {
     "uid": "workday:usbank:/job/Chennai-India/Automation-Engineer_2026-0024928-1",
@@ -668576,7 +668576,7 @@
     "location": "Atlanta, Georgia, US",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Atlanta-Georgia-US/Solutions-Engineer_2027547",
     "ats": "workday",
-    "posted_at": "Posted 15 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -668710,8 +668710,8 @@
       "gaming"
     ],
     "first_seen": "2026-10-06T19:12:11.269095+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
   },
   "avature:jobs.ea.com:216184": {
     "uid": "avature:jobs.ea.com:216184",
@@ -668726,8 +668726,8 @@
       "gaming"
     ],
     "first_seen": "2026-10-06T19:12:11.269095+00:00",
-    "last_seen": "2026-10-08T01:25:27.218543+00:00",
-    "active": false
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
   },
   "avature:jobs.ea.com:216240": {
     "uid": "avature:jobs.ea.com:216240",
@@ -671921,7 +671921,7 @@
     "location": "2 Locations",
     "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/San-Jose/Communications-Systems---Ops-Specialist_R0077069",
     "ats": "workday",
-    "posted_at": "Posted 15 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -680631,7 +680631,7 @@
     ],
     "first_seen": "2026-10-07T21:41:16.789453+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:mastercard:/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924": {
     "uid": "workday:mastercard:/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924",
@@ -684135,7 +684135,7 @@
     ],
     "first_seen": "2026-10-07T21:41:16.789453+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:adobe:/job/Austin/XMLNAME-2027-University-Graduate---Solutions-Consulting-Analyst_R172585": {
     "uid": "workday:adobe:/job/Austin/XMLNAME-2027-University-Graduate---Solutions-Consulting-Analyst_R172585",
@@ -686039,7 +686039,7 @@
     ],
     "first_seen": "2026-10-07T21:41:16.789453+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:snapchat:/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-4_Q426SWEFS2-2": {
     "uid": "workday:snapchat:/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-4_Q426SWEFS2-2",
@@ -688444,7 +688444,7 @@
     ],
     "first_seen": "2026-10-08T01:25:27.218543+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:snapchat:/job/Remote---Washington/Integrated-Circuit-Design-Verification-Engineer_R0046055": {
     "uid": "workday:snapchat:/job/Remote---Washington/Integrated-Circuit-Design-Verification-Engineer_R0046055",
@@ -688620,7 +688620,7 @@
     ],
     "first_seen": "2026-10-08T01:25:27.218543+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:globalfoundries:/job/USA---New-York---Malta/XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678": {
     "uid": "workday:globalfoundries:/job/USA---New-York---Malta/XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678",
@@ -688677,14 +688677,14 @@
     "location": "Sunnyvale, CA, United States",
     "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22516",
     "ats": "oraclecloud",
-    "posted_at": "2026-04-23",
+    "posted_at": "2026-10-21",
     "category": "full-time",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-10-08T01:25:27.218543+00:00",
-    "last_seen": "2026-10-13T01:42:36.592368+00:00",
-    "active": false
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
   },
   "greenhouse:FlowTraders:7064123": {
     "uid": "greenhouse:FlowTraders:7064123",
@@ -694348,7 +694348,7 @@
     ],
     "first_seen": "2026-10-08T15:02:08.571895+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:zalando:/job/Berlin/Applied-Scientist---LLMs---Agentic-AI--all-genders-_2724863-1": {
     "uid": "workday:zalando:/job/Berlin/Applied-Scientist---LLMs---Agentic-AI--all-genders-_2724863-1",
@@ -695045,7 +695045,7 @@
     ],
     "first_seen": "2026-10-08T15:02:08.571895+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:abb:/job/Shanghai-Shanghai-China/-AI-_JR00048554": {
     "uid": "workday:abb:/job/Shanghai-Shanghai-China/-AI-_JR00048554",
@@ -695164,7 +695164,7 @@
     ],
     "first_seen": "2026-10-08T15:02:08.571895+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:wolt:7738724": {
     "uid": "greenhouse:wolt:7738724",
@@ -697588,14 +697588,14 @@
     "location": "Wilmington, DE, United States",
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782788",
     "ats": "oraclecloud",
-    "posted_at": "2026-10-08",
+    "posted_at": "2026-10-21",
     "category": "full-time",
     "tags": [
       "bank"
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
-    "last_seen": "2026-10-12T02:31:05.065736+00:00",
-    "active": false
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
   },
   "oraclecloud:jpmc:210785708": {
     "uid": "oraclecloud:jpmc:210785708",
@@ -703207,7 +703207,7 @@
     ],
     "first_seen": "2026-10-09T00:47:09.300657+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:broadcom:/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/RTL-IC-Design-Engineer_R027142": {
     "uid": "workday:broadcom:/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/RTL-IC-Design-Engineer_R027142",
@@ -703344,7 +703344,7 @@
     "location": "Austin,TX",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/XMLNAME-2027-Data-Analytics---Business-Operations-Spring-Co-Op-or-Summer-Intern--Bachelor-s-Master-s--Austin--TX-_R2626381",
     "ats": "workday",
-    "posted_at": "Posted 13 Days Ago",
+    "posted_at": "Posted Today",
     "category": "internship",
     "tags": [
       "swe"
@@ -707114,7 +707114,7 @@
     "uid": "rippling:rippling:ebc7a777-aa35-4333-ac95-ebc98e375f75",
     "company": "Rippling",
     "title": "Software Engineer II, Backend - IT Product",
-    "location": "New York, NY",
+    "location": "San Francisco, CA",
     "url": "https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75",
     "ats": "rippling",
     "posted_at": null,
@@ -714563,7 +714563,7 @@
     "location": "Santa Clara,CA",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Systems-Engineer--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2629143",
     "ats": "workday",
-    "posted_at": "Posted 12 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -714675,7 +714675,7 @@
     "location": "Santa Clara,CA",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Industrial-Engineer-New-College-Grad--Master-s--Santa-Clara--CA-_R2630069",
     "ats": "workday",
-    "posted_at": "Posted 12 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -728212,7 +728212,7 @@
     "location": "Southfield, MI",
     "url": "https://lucidmotors.com/careers/search/5245614007?gh_jid=5245614007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T20:55:59-04:00",
+    "posted_at": "2026-10-21T17:36:09-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -729412,14 +729412,14 @@
     "location": "Austin Domain 11 - HomeAway",
     "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Austin-Domain-11---HomeAway/Machine-Learning-Scientist-III---VRBO-Pricing_R-105582-1",
     "ats": "workday",
-    "posted_at": "Posted 6 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-10-12T19:33:20.038416+00:00",
-    "last_seen": "2026-10-19T00:16:37.876074+00:00",
-    "active": false
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
   },
   "workday:expedia:/job/Austin-Domain-11---HomeAway/Data-Engineer-III---Click-Stream-Data-Products_R-109710": {
     "uid": "workday:expedia:/job/Austin-Domain-11---HomeAway/Data-Engineer-III---Click-Stream-Data-Products_R-109710",
@@ -733449,7 +733449,7 @@
     ],
     "first_seen": "2026-10-13T01:42:36.592368+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": false
+    "active": true
   },
   "oraclecloud:iaziqy:156028": {
     "uid": "oraclecloud:iaziqy:156028",
@@ -735989,7 +735989,7 @@
     "location": "US, Arizona, Phoenix",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Module-Engineering---Day-Shift-5-or-7_JR0287830",
     "ats": "workday",
-    "posted_at": "Posted 9 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -749020,7 +749020,7 @@
     "location": "Cambridge, MA USA; San Francisco, CA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286513009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:32:00-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -754140,7 +754140,7 @@
     ],
     "first_seen": "2026-10-14T15:36:19.819152+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:ms:/job/Beverly-Hills-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR045320": {
     "uid": "workday:ms:/job/Beverly-Hills-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR045320",
@@ -758663,7 +758663,7 @@
     "location": "Cambridge, MA USA; San Francisco, CA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4116513009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-16T12:52:35-04:00",
+    "posted_at": "2026-10-21T16:31:50-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -760574,10 +760574,10 @@
     "uid": "workday:blueorigin:/job/Denver-CO/Ground-Station-Software-Engineer-III_R70379",
     "company": "Blue Origin",
     "title": "Ground Station Software Engineer III",
-    "location": "2 Locations",
+    "location": "3 Locations",
     "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/Ground-Station-Software-Engineer-III_R70379",
     "ats": "workday",
-    "posted_at": "Posted 7 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -762552,7 +762552,7 @@
     ],
     "first_seen": "2026-10-14T22:48:17.055100+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:edbz:25018522": {
     "uid": "oraclecloud:edbz:25018522",
@@ -769635,7 +769635,7 @@
     "uid": "rippling:rippling:3e8a771f-b3a3-40a0-b4c7-5ada1cb64652",
     "company": "Rippling",
     "title": "GTM Engineer",
-    "location": "New York, NY",
+    "location": "San Francisco, CA",
     "url": "https://ats.rippling.com/rippling/jobs/3e8a771f-b3a3-40a0-b4c7-5ada1cb64652",
     "ats": "rippling",
     "posted_at": null,
@@ -775508,7 +775508,7 @@
     ],
     "first_seen": "2026-10-15T22:45:03.584129+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:icbpjb:6288": {
     "uid": "oraclecloud:icbpjb:6288",
@@ -776956,11 +776956,11 @@
   "workday:blueorigin:/job/Denver-CO/HLS-Autonomy-Software-Systems-Engineer-II_R73833": {
     "uid": "workday:blueorigin:/job/Denver-CO/HLS-Autonomy-Software-Systems-Engineer-II_R73833",
     "company": "Blue Origin",
-    "title": "HLS Autonomy Software Systems Engineer II",
+    "title": "HLS Software Systems Engineer II",
     "location": "3 Locations",
     "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/HLS-Autonomy-Software-Systems-Engineer-II_R73833",
     "ats": "workday",
-    "posted_at": "Posted 2 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -778475,7 +778475,7 @@
     ],
     "first_seen": "2026-10-16T05:15:17.305577+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": false
+    "active": true
   },
   "workday:abb:/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954": {
     "uid": "workday:abb:/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954",
@@ -778492,7 +778492,7 @@
     ],
     "first_seen": "2026-10-16T05:15:17.305577+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": false
+    "active": true
   },
   "workday:abb:/job/Izmir-zmir-Trkiye/Field-Service-Engineer_JR00021873": {
     "uid": "workday:abb:/job/Izmir-zmir-Trkiye/Field-Service-Engineer_JR00021873",
@@ -778509,7 +778509,7 @@
     ],
     "first_seen": "2026-10-16T05:15:17.305577+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": false
+    "active": true
   },
   "workday:novartis:/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10090076": {
     "uid": "workday:novartis:/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10090076",
@@ -781634,7 +781634,7 @@
     "location": "Canada",
     "url": "https://job-boards.greenhouse.io/axon/jobs/7791815003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T14:22:20-04:00",
+    "posted_at": "2026-10-21T18:21:06-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -785378,7 +785378,7 @@
     ],
     "first_seen": "2026-10-16T18:29:56.897645+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:usbank:/job/Irving-TX/Software-Engineer-2--Gen-AI--LLM--Spring-Boot-_2026-0028585": {
     "uid": "workday:usbank:/job/Irving-TX/Software-Engineer-2--Gen-AI--LLM--Spring-Boot-_2026-0028585",
@@ -786599,8 +786599,8 @@
       "swe"
     ],
     "first_seen": "2026-10-16T18:29:56.897645+00:00",
-    "last_seen": "2026-10-17T00:02:04.879553+00:00",
-    "active": false
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
   },
   "amazon:10581605": {
     "uid": "amazon:10581605",
@@ -790149,7 +790149,7 @@
     "location": "US, California, Folsom",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0283073",
     "ats": "workday",
-    "posted_at": "Posted 5 Days Ago",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -790193,8 +790193,8 @@
   "oraclecloud:iaziqy:302533": {
     "uid": "oraclecloud:iaziqy:302533",
     "company": "Uber",
-    "title": "Software Engineer II - Engineer",
-    "location": "San Francisco, CA, United States",
+    "title": "Software Engineer II",
+    "location": "San Francisco, CA, United States (+1)",
     "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/job/302533",
     "ats": "oraclecloud",
     "posted_at": "2026-10-16",
@@ -790244,7 +790244,7 @@
     "uid": "rippling:rippling:86e4b180-a27e-4b86-bc80-6b7cefa2e1c9",
     "company": "Rippling",
     "title": "Software Engineer II, Backend - HR Product",
-    "location": "Seattle, WA",
+    "location": "San Francisco, CA",
     "url": "https://ats.rippling.com/rippling/jobs/86e4b180-a27e-4b86-bc80-6b7cefa2e1c9",
     "ats": "rippling",
     "posted_at": null,
@@ -790879,14 +790879,14 @@
     "location": "2 Locations",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Richardson-Texas-US/Software-Engineer_2021849",
     "ats": "workday",
-    "posted_at": "Posted Yesterday",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
     ],
     "first_seen": "2026-10-17T18:37:49.922332+00:00",
-    "last_seen": "2026-10-19T00:16:37.876074+00:00",
-    "active": false
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
   },
   "ashby:higgsfieldai:e25dfe75-6766-4cc5-b0cc-d86be0e5f7c0": {
     "uid": "ashby:higgsfieldai:e25dfe75-6766-4cc5-b0cc-d86be0e5f7c0",
@@ -797232,7 +797232,7 @@
     ],
     "first_seen": "2026-10-19T17:04:10.375074+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "gsgraphql:152679_GS_MID_CAREER": {
     "uid": "gsgraphql:152679_GS_MID_CAREER",
@@ -797250,7 +797250,7 @@
     ],
     "first_seen": "2026-10-19T17:04:10.375074+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "gsgraphql:187069_GS_MID_CAREER": {
     "uid": "gsgraphql:187069_GS_MID_CAREER",
@@ -800530,7 +800530,7 @@
     ],
     "first_seen": "2026-10-19T17:04:10.375074+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Instrument-Panel--Floor-Console--and-Deco-Trim_JR-202618139": {
     "uid": "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Instrument-Panel--Floor-Console--and-Deco-Trim_JR-202618139",
@@ -803725,7 +803725,7 @@
     ],
     "first_seen": "2026-10-19T21:36:45.430019+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "amazon:10583377": {
     "uid": "amazon:10583377",
@@ -803917,7 +803917,7 @@
     ],
     "first_seen": "2026-10-19T21:36:45.430019+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "amazon:10575843": {
     "uid": "amazon:10575843",
@@ -805586,7 +805586,7 @@
     ],
     "first_seen": "2026-10-20T00:46:57.223030+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "ashby:Mercor:c34c84d9-b7f8-436e-ae8d-a9a9120cecac": {
     "uid": "ashby:Mercor:c34c84d9-b7f8-436e-ae8d-a9a9120cecac",
@@ -812295,11 +812295,11 @@
   "workday:cisco:/job/San-Jose-California-US/Machine-Learning-Engineering-Technical-Leader_2026440": {
     "uid": "workday:cisco:/job/San-Jose-California-US/Machine-Learning-Engineering-Technical-Leader_2026440",
     "company": "Cisco",
-    "title": "Machine Learning Engineering Technical Leader",
+    "title": "Technical Leader, Software Engineering – Agentic AI Platform (Identity & Security)",
     "location": "2 Locations",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineering-Technical-Leader_2026440",
     "ats": "workday",
-    "posted_at": "Posted Yesterday",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -816585,7 +816585,7 @@
     "location": "2 Locations",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/RTL-IC-Design-Engineer_R027378",
     "ats": "workday",
-    "posted_at": "Posted Yesterday",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -816601,7 +816601,7 @@
     "location": "2 Locations",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/IC-Design-Engineer_R027380-1",
     "ats": "workday",
-    "posted_at": "Posted Yesterday",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -816617,7 +816617,7 @@
     "location": "2 Locations",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/IC-Design-Engineer_R027381",
     "ats": "workday",
-    "posted_at": "Posted Yesterday",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -816633,7 +816633,7 @@
     "location": "2 Locations",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/IC-Design-Engineer_R027379",
     "ats": "workday",
-    "posted_at": "Posted Yesterday",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "swe"
@@ -818430,7 +818430,7 @@
     ],
     "first_seen": "2026-10-20T22:27:27.687014+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:cisco:/job/Rome-Italy/Cisco-Solutions-Engineer---Italy_2025686": {
     "uid": "workday:cisco:/job/Rome-Italy/Cisco-Solutions-Engineer---Italy_2025686",
@@ -818510,7 +818510,7 @@
     ],
     "first_seen": "2026-10-20T22:27:27.687014+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:intel:/job/Canada-Toronto/Power-Delivery-Design-Engineer_JR0287983": {
     "uid": "workday:intel:/job/Canada-Toronto/Power-Delivery-Design-Engineer_JR0287983",
@@ -818958,7 +818958,7 @@
     ],
     "first_seen": "2026-10-20T22:27:27.687014+00:00",
     "last_seen": "2026-10-21T00:43:47.122385+00:00",
-    "active": true
+    "active": false
   },
   "workday:amat:/job/GloucesterMA/New-College-Grad---Product-Safety-Engineer--Bachelors-Masters---Santa-Clara--CA-_R2628099": {
     "uid": "workday:amat:/job/GloucesterMA/New-College-Grad---Product-Safety-Engineer--Bachelors-Masters---Santa-Clara--CA-_R2628099",
@@ -819188,10 +819188,10 @@
     "uid": "workday:td:/job/Victoria-British-Columbia/Mobile-Mortgage-Specialist---Victoria--BC_R_1517280",
     "company": "TD Bank",
     "title": "Mobile Mortgage Specialist - Victoria, BC",
-    "location": "Victoria, British Columbia",
+    "location": "4 Locations",
     "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Victoria-British-Columbia/Mobile-Mortgage-Specialist---Victoria--BC_R_1517280",
     "ats": "workday",
-    "posted_at": "Posted Yesterday",
+    "posted_at": "Posted Today",
     "category": "full-time",
     "tags": [
       "bank"
@@ -827270,7 +827270,7 @@
     ],
     "first_seen": "2026-10-21T15:43:12.579984+00:00",
     "last_seen": "2026-10-21T15:43:12.579984+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:spacex:8901184002": {
     "uid": "greenhouse:spacex:8901184002",
@@ -828971,7 +828971,7 @@
   "oraclecloud:eofe:82923": {
     "uid": "oraclecloud:eofe:82923",
     "company": "BNY",
-    "title": "Specialist, Finance AI Delivery Support",
+    "title": "Specialist, Finance AI Product Support",
     "location": "Lake Mary, FL, United States",
     "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82923",
     "ats": "oraclecloud",
@@ -829491,11 +829491,11 @@
   "greenhouse:xairatherapeutics:5255784007": {
     "uid": "greenhouse:xairatherapeutics:5255784007",
     "company": "Xaira Therapeutics",
-    "title": "Lab Automation - Robotics Systems & Simulation Engineer",
+    "title": "Robotics Systems & Simulation Engineer",
     "location": "South San Francisco, California, United States",
     "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5255784007",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T13:40:47-04:00",
+    "posted_at": "2026-10-21T16:50:16-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -829511,7 +829511,7 @@
     "location": "Cambridge, MA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4291695009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T14:19:05-04:00",
+    "posted_at": "2026-10-21T16:32:01-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -829527,7 +829527,7 @@
     "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4423488009",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T13:39:14-04:00",
+    "posted_at": "2026-10-21T16:32:07-04:00",
     "category": "full-time",
     "tags": [
       "ai"
@@ -830171,7 +830171,7 @@
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-21T15:48:16-04:00",
+    "posted_at": "2026-10-21T18:48:03-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -830354,7 +830354,7 @@
     ],
     "first_seen": "2026-10-21T19:45:06.300953+00:00",
     "last_seen": "2026-10-21T19:45:06.300953+00:00",
-    "active": true
+    "active": false
   },
   "amazon:10584882": {
     "uid": "amazon:10584882",
@@ -830402,7 +830402,7 @@
     ],
     "first_seen": "2026-10-21T19:45:06.300953+00:00",
     "last_seen": "2026-10-21T19:45:06.300953+00:00",
-    "active": true
+    "active": false
   },
   "amazon:10585292": {
     "uid": "amazon:10585292",
@@ -830450,7 +830450,7 @@
     ],
     "first_seen": "2026-10-21T19:45:06.300953+00:00",
     "last_seen": "2026-10-21T19:45:06.300953+00:00",
-    "active": true
+    "active": false
   },
   "jibe:careers.amd.com:93875": {
     "uid": "jibe:careers.amd.com:93875",
@@ -830626,7 +830626,7 @@
     ],
     "first_seen": "2026-10-21T19:45:06.300953+00:00",
     "last_seen": "2026-10-21T19:45:06.300953+00:00",
-    "active": true
+    "active": false
   },
   "workday:expedia:/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-109797-1": {
     "uid": "workday:expedia:/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-109797-1",
@@ -831842,6 +831842,1451 @@
     ],
     "first_seen": "2026-10-21T19:45:06.300953+00:00",
     "last_seen": "2026-10-21T19:45:06.300953+00:00",
+    "active": true
+  },
+  "workday:fmr:/job/Covington-KY/Senior-Process-Automation-Engineer--Power-Apps--SQL--RPA--JavaScript-_2128624": {
+    "uid": "workday:fmr:/job/Covington-KY/Senior-Process-Automation-Engineer--Power-Apps--SQL--RPA--JavaScript-_2128624",
+    "company": "Fidelity",
+    "title": "Process Automation Engineer (Power Apps, SQL, RPA, JavaScript)",
+    "location": "Covington, KY",
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Covington-KY/Senior-Process-Automation-Engineer--Power-Apps--SQL--RPA--JavaScript-_2128624",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "asset-mgmt"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-4_R1001783-1": {
+    "uid": "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-4_R1001783-1",
+    "company": "Capital One",
+    "title": "Full-stack Engineer 4",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001783-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank",
+      "fintech"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "oraclecloud:jpmc:210795724": {
+    "uid": "oraclecloud:jpmc:210795724",
+    "company": "J.P. Morgan",
+    "title": "Python & AWS Software Engineer III",
+    "location": "Plano, TX, United States (+1)",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795724",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "oraclecloud:jpmc:210796075": {
+    "uid": "oraclecloud:jpmc:210796075",
+    "company": "J.P. Morgan",
+    "title": "Software Engineer III - iOS Developer",
+    "location": "Plano, TX, United States",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796075",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "oraclecloud:jpmc:210797321": {
+    "uid": "oraclecloud:jpmc:210797321",
+    "company": "J.P. Morgan",
+    "title": "Full-stack Python and React Software Engineer III",
+    "location": "Plano, TX, United States (+1)",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797321",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:rbc:/job/RICHMOND-British-Columbia-Canada/Banking-Advisor-Intern_R-0000190874": {
+    "uid": "workday:rbc:/job/RICHMOND-British-Columbia-Canada/Banking-Advisor-Intern_R-0000190874",
+    "company": "RBC",
+    "title": "Banking Advisor Intern",
+    "location": "RICHMOND, British Columbia, Canada",
+    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/RICHMOND-British-Columbia-Canada/Banking-Advisor-Intern_R-0000190874",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:td:/job/Houston-Texas/XMLNAME-2027-Summer-Associate_R_1518189": {
+    "uid": "workday:td:/job/Houston-Texas/XMLNAME-2027-Summer-Associate_R_1518189",
+    "company": "TD Bank",
+    "title": "2027 Summer Associate",
+    "location": "Houston, Texas",
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Houston-Texas/XMLNAME-2027-Summer-Associate_R_1518189",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:td:/job/Toronto-Ontario/Data-Scientist-II_R_1514936-1": {
+    "uid": "workday:td:/job/Toronto-Ontario/Data-Scientist-II_R_1514936-1",
+    "company": "TD Bank",
+    "title": "Data Scientist II",
+    "location": "2 Locations",
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist-II_R_1514936-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:cibc:/job/Houston-TX/Associate--Global-Investment-Banking_2611543": {
+    "uid": "workday:cibc:/job/Houston-TX/Associate--Global-Investment-Banking_2611543",
+    "company": "CIBC",
+    "title": "Associate Petroleum Engineer, Global Investment Banking",
+    "location": "Houston, TX",
+    "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Houston-TX/Associate--Global-Investment-Banking_2611543",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:bbva:/job/Lima-San-Isidro/AI-SOLUTIONS-HEAD_JR00118189": {
+    "uid": "workday:bbva:/job/Lima-San-Isidro/AI-SOLUTIONS-HEAD_JR00118189",
+    "company": "BBVA",
+    "title": "AI SOLUTIONS HEAD",
+    "location": "Lima, San Isidro",
+    "url": "https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/Lima-San-Isidro/AI-SOLUTIONS-HEAD_JR00118189",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank",
+      "europe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:juliusbaer:/job/Zurich/SDN-Private-Cloud-Engineer--SME--100---f-m-d-_r-20086-1": {
+    "uid": "workday:juliusbaer:/job/Zurich/SDN-Private-Cloud-Engineer--SME--100---f-m-d-_r-20086-1",
+    "company": "Julius Baer",
+    "title": "SDN Private Cloud Engineer (SME) 100% (f/m/d)",
+    "location": "Zurich",
+    "url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/External/job/Zurich/SDN-Private-Cloud-Engineer--SME--100---f-m-d-_r-20086-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank",
+      "europe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:juliusbaer:/job/Zurich/SDN-Private-Cloud-Engineer--SME--100---f-m-d-_r-20086": {
+    "uid": "workday:juliusbaer:/job/Zurich/SDN-Private-Cloud-Engineer--SME--100---f-m-d-_r-20086",
+    "company": "Julius Baer",
+    "title": "SDN Private Cloud Engineer (SME) 100% (f/m/d)",
+    "location": "Zurich",
+    "url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/Technology/job/Zurich/SDN-Private-Cloud-Engineer--SME--100---f-m-d-_r-20086",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "bank",
+      "europe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "ashby:openai:1441816f-6429-426e-8f6d-8e5930a818f9": {
+    "uid": "ashby:openai:1441816f-6429-426e-8f6d-8e5930a818f9",
+    "company": "OpenAI",
+    "title": "Research Scientist / Research Engineer, Search - Knowledge Graphs",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/1441816f-6429-426e-8f6d-8e5930a818f9",
+    "ats": "ashby",
+    "posted_at": "2026-10-21T21:04:47.291+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "ashby:openai:5ef10e09-2b3f-41de-b77c-829787302101": {
+    "uid": "ashby:openai:5ef10e09-2b3f-41de-b77c-829787302101",
+    "company": "OpenAI",
+    "title": "Research Scientist / Research Engineer, Search Integrity",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/5ef10e09-2b3f-41de-b77c-829787302101",
+    "ats": "ashby",
+    "posted_at": "2026-10-21T21:05:30.865+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "ashby:1x:59a00e67-dd1d-4b1c-a860-fc5ef72dea99": {
+    "uid": "ashby:1x:59a00e67-dd1d-4b1c-a860-fc5ef72dea99",
+    "company": "1X Technologies",
+    "title": "Integration Engineer - Hands",
+    "location": "San Carlos, CA",
+    "url": "https://jobs.ashbyhq.com/1x/59a00e67-dd1d-4b1c-a860-fc5ef72dea99",
+    "ats": "ashby",
+    "posted_at": "2026-10-21T20:41:03.807+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "ashby:cerebras:c6f607ce-306c-4deb-8825-4175201a7cd4": {
+    "uid": "ashby:cerebras:c6f607ce-306c-4deb-8825-4175201a7cd4",
+    "company": "Cerebras",
+    "title": "AI Engineer, Developer Relations",
+    "location": "Sunnyvale, CA",
+    "url": "https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4",
+    "ats": "ashby",
+    "posted_at": "2026-10-21T20:18:48.281+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "ashby:cerebras:315e96ea-e64d-4096-b9ba-c0025cf796f6": {
+    "uid": "ashby:cerebras:315e96ea-e64d-4096-b9ba-c0025cf796f6",
+    "company": "Cerebras",
+    "title": "Cloud Infrastructure Engineer ",
+    "location": "Sunnyvale, CA",
+    "url": "https://jobs.ashbyhq.com/cerebras/315e96ea-e64d-4096-b9ba-c0025cf796f6",
+    "ats": "ashby",
+    "posted_at": "2026-10-21T21:14:22.711+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "ashby:pinecone:08760530-e6c3-4167-9272-923d85a2388d": {
+    "uid": "ashby:pinecone:08760530-e6c3-4167-9272-923d85a2388d",
+    "company": "Pinecone",
+    "title": "Full-Stack Software Engineer, Experience",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/pinecone/08760530-e6c3-4167-9272-923d85a2388d",
+    "ats": "ashby",
+    "posted_at": "2026-10-21T20:01:29.020+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "ashby:higgsfieldai:76d03c4d-8579-487f-ad4d-4328cc09825a": {
+    "uid": "ashby:higgsfieldai:76d03c4d-8579-487f-ad4d-4328cc09825a",
+    "company": "Higgsfield",
+    "title": "Software Engineer, Business Engineering",
+    "location": "Almaty, Kazakhstan",
+    "url": "https://jobs.ashbyhq.com/higgsfieldai/76d03c4d-8579-487f-ad4d-4328cc09825a",
+    "ats": "ashby",
+    "posted_at": "2026-10-21T20:31:43.704+00:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:queracomputinginc:5460475008": {
+    "uid": "greenhouse:queracomputinginc:5460475008",
+    "company": "QuEra",
+    "title": "Scientific Software Engineer – Machine Programming",
+    "location": "Boston, MA, USA",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5460475008",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T16:44:33-04:00",
+    "category": "full-time",
+    "tags": [
+      "quantum"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "smartrecruiters:BoschGroup:744000156904899": {
+    "uid": "smartrecruiters:BoschGroup:744000156904899",
+    "company": "Bosch",
+    "title": "Associate Facility Engineer- UPW & Bulk Chemical",
+    "location": "Roseville, CA, us",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156904899",
+    "ats": "smartrecruiters",
+    "posted_at": "2026-10-21T22:54:38.631Z",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:roche:/job/Mississauga/Quality-Management-System-Process-Engineer_202610-126567": {
+    "uid": "workday:roche:/job/Mississauga/Quality-Management-System-Process-Engineer_202610-126567",
+    "company": "Roche",
+    "title": "Quality Management System Process Engineer",
+    "location": "2 Locations",
+    "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Mississauga/Quality-Management-System-Process-Engineer_202610-126567",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:roche:/job/Texas/Field-Engineering-Specialist---Houston_202610-125319-1": {
+    "uid": "workday:roche:/job/Texas/Field-Engineering-Specialist---Houston_202610-125319-1",
+    "company": "Roche",
+    "title": "Field Engineering Specialist - Houston",
+    "location": "Texas",
+    "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Texas/Field-Engineering-Specialist---Houston_202610-125319-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:roche:/job/Kaiseraugst/Praktikum-fr-Pharmazeuten-und-Naturwissenschaftler-in-der-MU-Packaging---Assembly---Asset-Small-Volume--ab-1-Mai-2026-fr-6-12-Monate-in-Kaiseraugst-_202610-126967": {
+    "uid": "workday:roche:/job/Kaiseraugst/Praktikum-fr-Pharmazeuten-und-Naturwissenschaftler-in-der-MU-Packaging---Assembly---Asset-Small-Volume--ab-1-Mai-2026-fr-6-12-Monate-in-Kaiseraugst-_202610-126967",
+    "company": "Roche",
+    "title": "Praktikum für Pharmazeuten und Naturwissenschaftler in der MU Packaging & Assembly - Asset Small Volume (ab 1. Mai 2026 für 6-12 Monate in Kaiseraugst)",
+    "location": "Kaiseraugst",
+    "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Kaiseraugst/Praktikum-fr-Pharmazeuten-und-Naturwissenschaftler-in-der-MU-Packaging---Assembly---Asset-Small-Volume--ab-1-Mai-2026-fr-6-12-Monate-in-Kaiseraugst-_202610-126967",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:zalando:/job/Berlin/Fixed-Assets-Working-Student--all-genders-_2725804-2": {
+    "uid": "workday:zalando:/job/Berlin/Fixed-Assets-Working-Student--all-genders-_2725804-2",
+    "company": "Zalando",
+    "title": "Fixed Assets Working Student (all genders)",
+    "location": "Berlin",
+    "url": "https://zalando.wd3.myworkdayjobs.com/en-US/ZalandoSiteWD/job/Berlin/Fixed-Assets-Working-Student--all-genders-_2725804-2",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:nxp:/job/Bangalore/SoC-Verification-Engineer_R-10067210": {
+    "uid": "workday:nxp:/job/Bangalore/SoC-Verification-Engineer_R-10067210",
+    "company": "NXP",
+    "title": "SoC Verification Engineer",
+    "location": "Bangalore",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/SoC-Verification-Engineer_R-10067210",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:staffbase:8907771002": {
+    "uid": "greenhouse:staffbase:8907771002",
+    "company": "Staffbase",
+    "title": "Join Our Talent Community: Solutions Engineer",
+    "location": "Berlin, Germany; Chemnitz, Sachsen, Germany; Dresden, Sachsen, Germany; Germany; Germany Remote; Köln, Nordrhein-Westfalen, Germany; München, Bayern, Germany",
+    "url": "https://job-boards.greenhouse.io/staffbase/jobs/8907771002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T18:34:54-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:affirm:8039471003": {
+    "uid": "greenhouse:affirm:8039471003",
+    "company": "Affirm",
+    "title": "Analyst, Early Career (Full Stack)",
+    "location": "New York, New York, United States; San Francisco, California, United States",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T17:19:14-04:00",
+    "category": "new-grad",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:Verkada:5271745007": {
+    "uid": "greenhouse:Verkada:5271745007",
+    "company": "Verkada",
+    "title": "Channel Solutions Engineer",
+    "location": "Seattle, WA United States",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5271745007",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T16:55:15-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:Verkada:5271734007": {
+    "uid": "greenhouse:Verkada:5271734007",
+    "company": "Verkada",
+    "title": "Channel Solutions Engineer",
+    "location": "Chicago, IL United States",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5271734007",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T16:55:15-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:Verkada:5271742007": {
+    "uid": "greenhouse:Verkada:5271742007",
+    "company": "Verkada",
+    "title": "Channel Solutions Engineer",
+    "location": "Denver, CO United States",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5271742007",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T16:55:15-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "rippling:opendoor:281c625a-1316-4d6c-aad2-2765110dbd10": {
+    "uid": "rippling:opendoor:281c625a-1316-4d6c-aad2-2765110dbd10",
+    "company": "Opendoor",
+    "title": "Enterprise IAM Security Engineer",
+    "location": "Miami, FL",
+    "url": "https://ats.rippling.com/opendoor/jobs/281c625a-1316-4d6c-aad2-2765110dbd10",
+    "ats": "rippling",
+    "posted_at": null,
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:purestorage:8282746": {
+    "uid": "greenhouse:purestorage:8282746",
+    "company": "Pure Storage (Everpure)",
+    "title": "Junior DevOps Engineer",
+    "location": "Santa Clara, California",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8282746",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T17:45:45-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:spacex:8907194002": {
+    "uid": "greenhouse:spacex:8907194002",
+    "company": "SpaceX",
+    "title": "Thermal Engineer (Starshield)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8907194002?gh_jid=8907194002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T17:15:00-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:chaosindustries:5238386007": {
+    "uid": "greenhouse:chaosindustries:5238386007",
+    "company": "Chaos Industries",
+    "title": "Test Equipment Development Engineer (HIL and Test Equipment)",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5238386007",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T16:48:33-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "ashby:supabase:7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259": {
+    "uid": "ashby:supabase:7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+    "company": "Supabase",
+    "title": "Software Engineer - Turso",
+    "location": "Remote, Global",
+    "url": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+    "ats": "ashby",
+    "posted_at": "2026-10-21T21:46:43.334+00:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:cribl:6226641004": {
+    "uid": "greenhouse:cribl:6226641004",
+    "company": "Cribl",
+    "title": "Software Engineer, Stream Integrations",
+    "location": "Remote - Canada",
+    "url": "https://cribl.io/job-detail/?gh_jid=6226641004",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T18:35:34-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "amazon:10585694": {
+    "uid": "amazon:10585694",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Quick",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10585694/software-development-engineer-amazon-quick",
+    "ats": "amazon",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "amazon:10585712": {
+    "uid": "amazon:10585712",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10585712/software-development-engineer-ii-aws",
+    "ats": "amazon",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "amazon:10585658": {
+    "uid": "amazon:10585658",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10585658/software-development-engineer-aws",
+    "ats": "amazon",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "amazon:10585475": {
+    "uid": "amazon:10585475",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Quick",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10585475/software-development-engineer-amazon-quick",
+    "ats": "amazon",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "amazon:10585474": {
+    "uid": "amazon:10585474",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Quick",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10585474/software-development-engineer-amazon-quick",
+    "ats": "amazon",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "amazon:10585831": {
+    "uid": "amazon:10585831",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Optics",
+    "location": "Herndon, Virginia, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10585831/software-development-engineer-amazon-optics",
+    "ats": "amazon",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "amazon:10585706": {
+    "uid": "amazon:10585706",
+    "company": "Amazon",
+    "title": "Embedded Software Engineer II, Ring, Ring Firmware",
+    "location": "Gdansk, Pomeranian Voivodeship, POL",
+    "url": "https://www.amazon.jobs/en/jobs/10585706/embedded-software-engineer-ii-ring-ring-firmware",
+    "ats": "amazon",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "amazon:10585615": {
+    "uid": "amazon:10585615",
+    "company": "Amazon",
+    "title": "Applied & Research Scientist - Safe Autonomy Frontiers (SAF) Lab, Safe Autonomy Frontiers (SAF) Lab",
+    "location": "Pasadena, California, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10585615/applied-research-scientist-safe-autonomy-frontiers-saf-lab-safe-autonomy-frontiers-saf-lab",
+    "ats": "amazon",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "jibe:careers.amd.com:93678": {
+    "uid": "jibe:careers.amd.com:93678",
+    "company": "AMD",
+    "title": "Serdes Silicon Design and Micro-Architecture Engineer",
+    "location": "San Jose, California, United States",
+    "url": "https://careers-amd.icims.com/jobs/93678/login",
+    "ats": "jibe",
+    "posted_at": "2026-10-21T21:28:00+0000",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "jibe:careers.amd.com:93791": {
+    "uid": "jibe:careers.amd.com:93791",
+    "company": "AMD",
+    "title": "RTL Design Engineer",
+    "location": "MARKHAM, Ontario, Canada",
+    "url": "https://canadacareers-amd.icims.com/jobs/93791/login",
+    "ats": "jibe",
+    "posted_at": "2026-10-21T21:26:00+0000",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "jibe:careers.amd.com:91746": {
+    "uid": "jibe:careers.amd.com:91746",
+    "company": "AMD",
+    "title": "Field Applications Engineer, AI Infrastructure",
+    "location": "Austin, Texas, United States",
+    "url": "https://careers-amd.icims.com/jobs/91746/login",
+    "ats": "jibe",
+    "posted_at": "2026-09-03T19:48:00+0000",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Chicago-Illinois-US/Solutions-Engineer_2028496": {
+    "uid": "workday:cisco:/job/Chicago-Illinois-US/Solutions-Engineer_2028496",
+    "company": "Cisco",
+    "title": "Solutions Engineer",
+    "location": "Chicago, Illinois, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Chicago-Illinois-US/Solutions-Engineer_2028496",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2028163-1": {
+    "uid": "workday:cisco:/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2028163-1",
+    "company": "Cisco",
+    "title": "Software Engineering Technical Leader",
+    "location": "San Jose, California, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2028163-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:disney:/job/New-York-NY-USA/ABC-News-Audience-Engagement-Intern--Spring-2027_10163290": {
+    "uid": "workday:disney:/job/New-York-NY-USA/ABC-News-Audience-Engagement-Intern--Spring-2027_10163290",
+    "company": "Disney",
+    "title": "ABC News Audience Engagement Intern, Spring 2027",
+    "location": "New York, NY, USA",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/ABC-News-Audience-Engagement-Intern--Spring-2027_10163290",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:expedia:/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737": {
+    "uid": "workday:expedia:/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737",
+    "company": "Expedia",
+    "title": "Applied Science Intern - PhD - 2027 - London",
+    "location": "UK - London",
+    "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/ADAS-Design-Release-Engineer--DRE--for-Front-Camera-Module_JR-202620886": {
+    "uid": "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/ADAS-Design-Release-Engineer--DRE--for-Front-Camera-Module_JR-202620886",
+    "company": "General Motors",
+    "title": "ADAS Design Release Engineer (DRE) for Front Camera Module",
+    "location": "Warren, Michigan, United States of America",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/ADAS-Design-Release-Engineer--DRE--for-Front-Camera-Module_JR-202620886",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Senor-Advanced-Optical-Sensor-Test---Development-Engineer_JR-202621090": {
+    "uid": "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Senor-Advanced-Optical-Sensor-Test---Development-Engineer_JR-202621090",
+    "company": "General Motors",
+    "title": "Senor Advanced Optical Sensor Test & Development Engineer",
+    "location": "Warren, Michigan, United States of America",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Senor-Advanced-Optical-Sensor-Test---Development-Engineer_JR-202621090",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:generalmotors:/job/Remote---New-York/Field-Service-Engineer---Albany--NY_JR-202620243": {
+    "uid": "workday:generalmotors:/job/Remote---New-York/Field-Service-Engineer---Albany--NY_JR-202620243",
+    "company": "General Motors",
+    "title": "Field Service Engineer - Albany, NY",
+    "location": "Remote - New York",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Remote---New-York/Field-Service-Engineer---Albany--NY_JR-202620243",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:hpe:/job/Heredia-Heredia-Costa-Rica/Supply-Chain-Planning-Intern_1212998": {
+    "uid": "workday:hpe:/job/Heredia-Heredia-Costa-Rica/Supply-Chain-Planning-Intern_1212998",
+    "company": "HPE",
+    "title": "Supply Chain Planning Intern",
+    "location": "Heredia, Heredia, Costa Rica",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Supply-Chain-Planning-Intern_1212998",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:hpe:/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-1": {
+    "uid": "workday:hpe:/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-1",
+    "company": "HPE",
+    "title": "Test Engineer, HPC & AI Systems",
+    "location": "Spring, Texas, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:hpe:/job/Charlotte-North-Carolina-United-States-of-America/Resident-Engineer_1203264-3": {
+    "uid": "workday:hpe:/job/Charlotte-North-Carolina-United-States-of-America/Resident-Engineer_1203264-3",
+    "company": "HPE",
+    "title": "Resident Engineer",
+    "location": "Charlotte, North Carolina, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Charlotte-North-Carolina-United-States-of-America/Resident-Engineer_1203264-3",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:intel:/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588": {
+    "uid": "workday:intel:/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
+    "company": "Intel",
+    "title": "Information Security Engineer Undergraduate Intern",
+    "location": "US, California, Folsom",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:intel:/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0288467-1": {
+    "uid": "workday:intel:/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0288467-1",
+    "company": "Intel",
+    "title": "Packaging Module Development Engineer",
+    "location": "US, Arizona, Phoenix",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0288467-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:intel:/job/US-New-Mexico-Albuquerque/APTM-Yield-Analysis-Device-Engineer_JR0288358": {
+    "uid": "workday:intel:/job/US-New-Mexico-Albuquerque/APTM-Yield-Analysis-Device-Engineer_JR0288358",
+    "company": "Intel",
+    "title": "APTM Yield Analysis/Device Engineer",
+    "location": "US, New Mexico, Albuquerque",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/APTM-Yield-Analysis-Device-Engineer_JR0288358",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:intel:/job/US-Arizona-Phoenix/Industrial-Engineer---Foundry-Strategic-Capacity_JR0285709-1": {
+    "uid": "workday:intel:/job/US-Arizona-Phoenix/Industrial-Engineer---Foundry-Strategic-Capacity_JR0285709-1",
+    "company": "Intel",
+    "title": "Industrial Engineer - Foundry Strategic Capacity",
+    "location": "3 Locations",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Industrial-Engineer---Foundry-Strategic-Capacity_JR0285709-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "oraclecloud:eeho:347945": {
+    "uid": "oraclecloud:eeho:347945",
+    "company": "Oracle",
+    "title": "Cloud Solution Engineer, Data Platform and OCI - State and Local Government",
+    "location": "United States (+2)",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347945",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-19",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "avature:synopsys.avature.net:19033": {
+    "uid": "avature:synopsys.avature.net:19033",
+    "company": "Synopsys",
+    "title": "Principle Applications Engineer, 3DIC SI PI",
+    "location": "",
+    "url": "https://synopsys.avature.net/careers/JobDetail/Applications-Engineering-Principal-Engineer-19033/19033?businessTitle=Principle+Applications+Engineer%2C+3DIC+SI+PI",
+    "ats": "avature",
+    "posted_at": null,
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "oraclecloud:edbz:25017989": {
+    "uid": "oraclecloud:edbz:25017989",
+    "company": "Texas Instruments",
+    "title": "Program Management Engineer",
+    "location": "Dallas, TX, United States",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017989",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:thomsonreuters:/job/United-States-of-America-Eagan-Minnesota/Software-Engineer_JREQ204694": {
+    "uid": "workday:thomsonreuters:/job/United-States-of-America-Eagan-Minnesota/Software-Engineer_JREQ204694",
+    "company": "Thomson Reuters",
+    "title": "Software Engineer",
+    "location": "",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Software-Engineer_JREQ204694",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "oraclecloud:iaziqy:303493": {
+    "uid": "oraclecloud:iaziqy:303493",
+    "company": "Uber",
+    "title": "Software Engineer, Agentic",
+    "location": "San Francisco, CA, United States (+1)",
+    "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/job/303493",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:broadcom:/job/USA-TN-Remote-Location/Forward-Deployed-Engineer---Kubernetes_R027412": {
+    "uid": "workday:broadcom:/job/USA-TN-Remote-Location/Forward-Deployed-Engineer---Kubernetes_R027412",
+    "company": "Broadcom (VMware)",
+    "title": "Forward Deployed Engineer - Kubernetes",
+    "location": "USA-TN-Remote Location",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TN-Remote-Location/Forward-Deployed-Engineer---Kubernetes_R027412",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:workday:/job/USAVAReston/Site-Reliability-Engineer--US-Federal-_JR-0110896": {
+    "uid": "workday:workday:/job/USAVAReston/Site-Reliability-Engineer--US-Federal-_JR-0110896",
+    "company": "Workday",
+    "title": "Site Reliability Engineer (US Federal)",
+    "location": "USA.VA.Reston",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Site-Reliability-Engineer--US-Federal-_JR-0110896",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:blueorigin:/job/Denver-CO/Electromechanical-Packaging-Engineer-III---Electro-Optical-Components_R73806": {
+    "uid": "workday:blueorigin:/job/Denver-CO/Electromechanical-Packaging-Engineer-III---Electro-Optical-Components_R73806",
+    "company": "Blue Origin",
+    "title": "Electromechanical Packaging Engineer III - Electro-Optical Components",
+    "location": "2 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/Electromechanical-Packaging-Engineer-III---Electro-Optical-Components_R73806",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Boise-ID---Main-Site/Intern---Surface-Lab_JR114827": {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Surface-Lab_JR114827",
+    "company": "Micron",
+    "title": "Intern - Surface Lab",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Surface-Lab_JR114827",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:micron:/job/Manassas-VA----Fab-6/Thin-Films-Equipment-Engineer_JR115599": {
+    "uid": "workday:micron:/job/Manassas-VA----Fab-6/Thin-Films-Equipment-Engineer_JR115599",
+    "company": "Micron",
+    "title": "Thin Films Equipment Engineer",
+    "location": "Manassas, VA -  Fab 6",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Thin-Films-Equipment-Engineer_JR115599",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:amat:/job/RehovotISR/Supplier-Quality-Engineer_R2631001": {
+    "uid": "workday:amat:/job/RehovotISR/Supplier-Quality-Engineer_R2631001",
+    "company": "Applied Materials",
+    "title": "Supplier Quality Engineer",
+    "location": "Rehovot,ISR",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Supplier-Quality-Engineer_R2631001",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:globalfoundries:/job/MYS---Penang/Intern_JR-2604474": {
+    "uid": "workday:globalfoundries:/job/MYS---Penang/Intern_JR-2604474",
+    "company": "GlobalFoundries",
+    "title": "Intern",
+    "location": "MYS - Penang",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/MYS---Penang/Intern_JR-2604474",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:globalfoundries:/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034": {
+    "uid": "workday:globalfoundries:/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034",
+    "company": "GlobalFoundries",
+    "title": "Software Engineering Intern, Cloud Platform (Summer 2027)",
+    "location": "USA - California - Santa Clara",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:globalfoundries:/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029": {
+    "uid": "workday:globalfoundries:/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029",
+    "company": "GlobalFoundries",
+    "title": "AI Software Intern (Summer 2027)",
+    "location": "2 Locations",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:globalfoundries:/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055": {
+    "uid": "workday:globalfoundries:/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
+    "company": "GlobalFoundries",
+    "title": "AI Software Engineer (2027 New College Graduate)",
+    "location": "2 Locations",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:airbnb:8274152": {
+    "uid": "greenhouse:airbnb:8274152",
+    "company": "Airbnb",
+    "title": "Software Engineer, Payments",
+    "location": "Remote, USA",
+    "url": "https://careers.airbnb.com/positions/8274152?gh_jid=8274152",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T16:01:47-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:lyft:8907156002": {
+    "uid": "greenhouse:lyft:8907156002",
+    "company": "Lyft",
+    "title": "Data Scientist, Decisions - Payments",
+    "location": "Toronto, Canada",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8907156002?gh_jid=8907156002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T16:44:05-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:twitch:8906750002": {
+    "uid": "greenhouse:twitch:8906750002",
+    "company": "Twitch",
+    "title": "Software Engineer I",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T16:56:21-04:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "oraclecloud:edel:24608": {
+    "uid": "oraclecloud:edel:24608",
+    "company": "Fortinet",
+    "title": "Systems Engineer",
+    "location": "Rio de Janeiro, RJ, Brazil",
+    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24608",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "oraclecloud:edel:23622": {
+    "uid": "oraclecloud:edel:23622",
+    "company": "Fortinet",
+    "title": "Early Careers: Verification Engineer",
+    "location": "Sunnyvale, CA, United States",
+    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23622",
+    "ats": "oraclecloud",
+    "posted_at": "2026-07-27",
+    "category": "new-grad",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:gehc:/job/Madison/Software-Engineer---Embedded-Systems--Anesthesia-Devices_R4047729-1": {
+    "uid": "workday:gehc:/job/Madison/Software-Engineer---Embedded-Systems--Anesthesia-Devices_R4047729-1",
+    "company": "GE Healthcare",
+    "title": "Software Engineer - Embedded Systems, Anesthesia Devices",
+    "location": "Madison",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Madison/Software-Engineer---Embedded-Systems--Anesthesia-Devices_R4047729-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:160173": {
+    "uid": "oraclecloud:ibqbjb:160173",
+    "company": "Honeywell",
+    "title": "Application Engineer II",
+    "location": "Raleigh, NC, United States",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160173",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:160542": {
+    "uid": "oraclecloud:ibqbjb:160542",
+    "company": "Honeywell",
+    "title": "Field Service Engineer II- Access Controls- Baton Rouge, LA",
+    "location": "Baton Rouge, LA, United States",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160542",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-21",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:160874": {
+    "uid": "oraclecloud:ibqbjb:160874",
+    "company": "Honeywell",
+    "title": "Analytics Project Coordinator Intern",
+    "location": "Monterrey, NLE, Mexico",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160874",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-21",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "workday:usaa:/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-I_R0121794": {
+    "uid": "workday:usaa:/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-I_R0121794",
+    "company": "USAA",
+    "title": "Quantitative Risk Analyst I",
+    "location": "3 Locations",
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-I_R0121794",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "fintech"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:xai:5271634007": {
+    "uid": "greenhouse:xai:5271634007",
+    "company": "xAI / X",
+    "title": "Security Engineer - GRC Federal Frameworks",
+    "location": " Palo Alto, CA; Austin, TX; New York, NY; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5271634007",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T17:08:57-04:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "ai-lab",
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
+    "active": true
+  },
+  "greenhouse:xai:5007261007": {
+    "uid": "greenhouse:xai:5007261007",
+    "company": "xAI / X",
+    "title": "Security Engineer - GRC Frameworks & AI Governance",
+    "location": " Palo Alto, CA; New York, NY; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5007261007",
+    "ats": "greenhouse",
+    "posted_at": "2026-10-21T17:17:38-04:00",
+    "category": "full-time",
+    "tags": [
+      "ai",
+      "ai-lab",
+      "swe"
+    ],
+    "first_seen": "2026-10-21T22:52:26.470311+00:00",
+    "last_seen": "2026-10-21T22:52:26.470311+00:00",
     "active": true
   }
 }
