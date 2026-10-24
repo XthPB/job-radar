@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-10-24T21:18:09.102877+00:00",
-  "count": 34806,
+  "generated_at": "2026-10-24T23:27:28.783502+00:00",
+  "count": 34770,
   "postings": [
+    {
+      "uid": "ashby:braintrust:e32cd249-c23d-4064-8f06-949f91a73a98",
+      "company": "Braintrust",
+      "title": "Detection and Response Engineer",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/braintrust/e32cd249-c23d-4064-8f06-949f91a73a98",
+      "ats": "ashby",
+      "posted_at": "2026-10-24T22:44:51.966+00:00",
+      "category": "full-time",
+      "tags": [
+        "ai",
+        "swe"
+      ],
+      "first_seen": "2026-10-24T23:27:28.783502+00:00",
+      "last_seen": "2026-10-24T23:27:28.783502+00:00",
+      "active": true
+    },
+    {
+      "uid": "greenhouse:andurilindustries:5274647007",
+      "company": "Anduril",
+      "title": "Software Engineer- Infrastructure ",
+      "location": "Waltham, Massachusetts, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274647007?gh_jid=5274647007",
+      "ats": "greenhouse",
+      "posted_at": "2026-10-24T19:30:11-04:00",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T23:27:28.783502+00:00",
+      "last_seen": "2026-10-24T23:27:28.783502+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:eeho:348279",
+      "company": "Oracle",
+      "title": "GTM Specialist – Developer Relations",
+      "location": "Mexico",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348279",
+      "ats": "oraclecloud",
+      "posted_at": "2026-10-21",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T23:27:28.783502+00:00",
+      "last_seen": "2026-10-24T23:27:28.783502+00:00",
+      "active": true
+    },
     {
       "uid": "greenhouse:chaosindustries:5270684007",
       "company": "Chaos Industries",
@@ -4258,26 +4307,6 @@
       "ats": "beesite",
       "posted_at": "2026-10-23",
       "expires_at": "2099-12-31",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-23T17:37:19.645454+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:74332",
-      "company": "Deutsche Bank",
-      "title": "SAP CML Test Engineer",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=74332",
-      "ats": "beesite",
-      "posted_at": "2026-10-23",
-      "expires_at": "2026-10-24",
       "category": "full-time",
       "tags": [
         "bank",
@@ -11763,23 +11792,6 @@
       "title": "Operations assistant Intern",
       "location": "Shanghai, Shanghai, China",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Operations-assistant-Intern_JR00051133",
-      "ats": "workday",
-      "posted_at": "Posted Yesterday",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-23T07:46:06.639789+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:abb:/job/Eggelsberg-Oberosterreich-Austria/Werkstudent-in---PG-Motion--w-m-d-_JR00050014-1",
-      "company": "ABB",
-      "title": "Werkstudent:in - PG Motion (w/m/d)",
-      "location": "Eggelsberg, Oberosterreich, Austria",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Eggelsberg-Oberosterreich-Austria/Werkstudent-in---PG-Motion--w-m-d-_JR00050014-1",
       "ats": "workday",
       "posted_at": "Posted Yesterday",
       "category": "internship",
@@ -27654,23 +27666,6 @@
       "active": true
     },
     {
-      "uid": "workday:zalando:/job/Berlin/Fixed-Assets-Working-Student--all-genders-_2725804-2",
-      "company": "Zalando",
-      "title": "Fixed Assets Working Student (all genders)",
-      "location": "Berlin",
-      "url": "https://zalando.wd3.myworkdayjobs.com/en-US/ZalandoSiteWD/job/Berlin/Fixed-Assets-Working-Student--all-genders-_2725804-2",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-21T22:52:26.470311+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:nxp:/job/Bangalore/SoC-Verification-Engineer_R-10067210",
       "company": "NXP",
       "title": "SoC Verification Engineer",
@@ -30137,7 +30132,7 @@
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T17:18:34-04:00",
+      "posted_at": "2026-10-24T19:18:44-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -69867,23 +69862,6 @@
       "ats": "workday",
       "posted_at": "Posted 8 Days Ago",
       "category": "internship",
-      "tags": [
-        "bank",
-        "europe"
-      ],
-      "first_seen": "2026-10-16T09:58:42.864716+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:ing:/job/Madrid-Va-de-los-Poblados/Retail-Lending-Strategist_REQ-10123352-1",
-      "company": "ING",
-      "title": "Retail Lending Strategist",
-      "location": "Madrid (Vía de los Poblados)",
-      "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Madrid-Va-de-los-Poblados/Retail-Lending-Strategist_REQ-10123352-1",
-      "ats": "workday",
-      "posted_at": "Posted 8 Days Ago",
-      "category": "full-time",
       "tags": [
         "bank",
         "europe"
@@ -121304,22 +121282,6 @@
       "active": true
     },
     {
-      "uid": "workday:mufgub:/job/Frankfurt/XMLNAME-2026-MUFG-Analyst-Programme--Frankfurt-GCIB-Rotational-Programme_10073048-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG Analyst Programme Frankfurt: Global Coverage & Investment Banking",
-      "location": "Frankfurt",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Frankfurt/XMLNAME-2026-MUFG-Analyst-Programme--Frankfurt-GCIB-Rotational-Programme_10073048-WD",
-      "ats": "workday",
-      "posted_at": "Posted 11 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-09T13:59:10.439241+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Digital-Transformation---Artificial-Intelligence_10080075-WD",
       "company": "MUFG",
       "title": "2027 MUFG UK Analyst Programme: Digital Transformation & Artificial Intelligence",
@@ -121360,22 +121322,6 @@
       "ats": "workday",
       "posted_at": "Posted 11 Days Ago",
       "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-09T13:59:10.439241+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:mufgub:/job/Frankfurt/XMLNAME-2026-MUFG-Analyst-Programme--Frankfurt-GCIB-Rotational-Programme_10073048-WD-1",
-      "company": "MUFG",
-      "title": "2027 MUFG Analyst Programme Frankfurt: Global Coverage & Investment Banking",
-      "location": "Frankfurt",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Frankfurt/XMLNAME-2026-MUFG-Analyst-Programme--Frankfurt-GCIB-Rotational-Programme_10073048-WD-1",
-      "ats": "workday",
-      "posted_at": "Posted 11 Days Ago",
-      "category": "full-time",
       "tags": [
         "bank"
       ],
@@ -121836,23 +121782,6 @@
       "category": "full-time",
       "tags": [
         "quantum",
-        "europe"
-      ],
-      "first_seen": "2026-10-09T13:59:10.439241+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:ag:/job/Manching/Electronic-Warfare-Developer--d-m-f-_JR10446773",
-      "company": "Airbus",
-      "title": "Electronic Warfare Developer (d/m/f)",
-      "location": "Manching",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Electronic-Warfare-Developer--d-m-f-_JR10446773",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
         "europe"
       ],
       "first_seen": "2026-10-09T13:59:10.439241+00:00",
@@ -124076,23 +124005,6 @@
       "tags": [
         "ai",
         "swe"
-      ],
-      "first_seen": "2026-10-09T06:55:33.300523+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:hargreaveslansdown:/job/Welcome-Building/Network-and-Security-Sysops-Engineer_R9848",
-      "company": "Hargreaves Lansdown",
-      "title": "Network and Security Sysops Engineer",
-      "location": "Welcome Building",
-      "url": "https://hargreaveslansdown.wd3.myworkdayjobs.com/en-US/HargreavesLansdown/job/Welcome-Building/Network-and-Security-Sysops-Engineer_R9848",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "fintech",
-        "uk"
       ],
       "first_seen": "2026-10-09T06:55:33.300523+00:00",
       "last_seen": "2026-10-24T02:23:20.053238+00:00",
@@ -147364,23 +147276,6 @@
       "active": true
     },
     {
-      "uid": "workday:roche:/job/Bratislava/Finance-Administrative-Support---part-time-role-for-University-Student_202609-124264-2",
-      "company": "Roche",
-      "title": "Finance Administrative Support - part time role for University Student",
-      "location": "Bratislava",
-      "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Bratislava/Finance-Administrative-Support---part-time-role-for-University-Student_202609-124264-2",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-06T19:12:11.269095+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:zalando:/job/Berlin/Software-Engineer---Fashion-Store-API--all-genders-_2725513",
       "company": "Zalando",
       "title": "Software Engineer - Fashion Store API (all genders)",
@@ -149812,70 +149707,6 @@
       "title": "2027 MUFG Analyst Programme Amsterdam: Global Coverage & Investment Banking",
       "location": "Amsterdam",
       "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Amsterdam/XMLNAME-2027-MUFG-Analyst-Programme-Amsterdam--Global-Coverage---Investment-Banking_10079925-WD",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-06T13:44:59.696249+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:mufgub:/job/Amsterdam/XMLNAME-2026-MUFG-Analyst-Programme--Firmwide-Rotation---Finance-Track_10073393-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG Analyst Programme: Finance Track",
-      "location": "Amsterdam",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Amsterdam/XMLNAME-2026-MUFG-Analyst-Programme--Firmwide-Rotation---Finance-Track_10073393-WD",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-06T13:44:59.696249+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:mufgub:/job/Amsterdam/XMLNAME-2026-MUFG-Analyst-Programme--Firmwide-Rotation---Risk-Management-Track_10073277-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG Analyst Programme: Risk Management Track",
-      "location": "Amsterdam",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Amsterdam/XMLNAME-2026-MUFG-Analyst-Programme--Firmwide-Rotation---Risk-Management-Track_10073277-WD",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-06T13:44:59.696249+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:mufgub:/job/Amsterdam/XMLNAME-2026-MUFG-Analyst-Programme--Firmwide-Rotation---Business-Management-Track_10073272-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG Analyst Programme: COO Domain Track",
-      "location": "Amsterdam",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Amsterdam/XMLNAME-2026-MUFG-Analyst-Programme--Firmwide-Rotation---Business-Management-Track_10073272-WD",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-06T13:44:59.696249+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:mufgub:/job/Amsterdam/XMLNAME-2026-MUFG-Analyst-Programme--Firmwide-Rotation---Strategic-Planning-Projects-Track_10073239-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG Analyst Programme: CEO Domain Track",
-      "location": "Amsterdam",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Amsterdam/XMLNAME-2026-MUFG-Analyst-Programme--Firmwide-Rotation---Strategic-Planning-Projects-Track_10073239-WD",
       "ats": "workday",
       "posted_at": "Posted 18 Days Ago",
       "category": "full-time",
@@ -164804,22 +164635,6 @@
       "ats": "workday",
       "posted_at": "Posted 19 Days Ago",
       "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-05T09:17:11.218071+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:disney:/job/Lisbon-Portugal/Acquisitions-Intern_10159707-1",
-      "company": "Disney",
-      "title": "Acquisitions Intern",
-      "location": "Lisbon, Portugal",
-      "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lisbon-Portugal/Acquisitions-Intern_10159707-1",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "internship",
       "tags": [
         "swe"
       ],
@@ -189240,27 +189055,6 @@
       "backfill": true
     },
     {
-      "uid": "beesite:api-deutschebank.beesite.de:68075",
-      "company": "Deutsche Bank",
-      "title": "GCP - JAVA Developer, AVP",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=68075",
-      "ats": "beesite",
-      "posted_at": "2026-10-23",
-      "expires_at": "2026-10-24",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "beesite:api-deutschebank.beesite.de:69563",
       "company": "Deutsche Bank",
       "title": "Java Engineer",
@@ -202905,6 +202699,24 @@
       "backfill": true
     },
     {
+      "uid": "workday:capitalone:/job/Plano-TX/Full-stack-Engineer-4_R1001592-1",
+      "company": "Capital One",
+      "title": "Full-stack Engineer 4",
+      "location": "Plano, TX",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001592-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "bank",
+        "fintech"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T23:27:28.783502+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:capitalone:/job/Plano-TX/Full-Stack-Engineer-4--Enterprise-CI-CD--AWS--Python--Groovy-_R1001453-1",
       "company": "Capital One",
       "title": "Full Stack Engineer 4, Enterprise CI/CD (AWS, Python, Groovy)",
@@ -206195,23 +206007,6 @@
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:citi:/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134",
-      "company": "Citi",
-      "title": "Markets, Quantitative Analysis, Off Cycle Placement , London, UK, 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134",
-      "ats": "workday",
-      "posted_at": "Posted 5 Days Ago",
-      "category": "internship",
       "tags": [
         "bank"
       ],
@@ -215453,23 +215248,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:mufgub:/job/Amsterdam/XMLNAME-2027-MUFG-Analyst-Programme--Finance-Track_10073393-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG Analyst Programme: Finance Track",
-      "location": "Amsterdam",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Amsterdam/XMLNAME-2027-MUFG-Analyst-Programme--Finance-Track_10073393-WD",
-      "ats": "workday",
-      "posted_at": "Posted 24 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:mufgub:/job/New-York-NY/Analyst--Markets-AI-Enablement-and-Digitization_10079702-WD-1",
       "company": "MUFG",
       "title": "Analyst, Markets AI Enablement and Digitization",
@@ -215526,57 +215304,6 @@
       "title": "Software Engineering - Fullstack Developer, AVP",
       "location": "4 Locations",
       "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Jersey-City-NJ/Software-Engineering---Fullstack-Developer--AVP_10078923-WD",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mufgub:/job/Amsterdam/XMLNAME-2027-MUFG-Analyst-Programme--CEO-Domain-Track_10073239-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG Analyst Programme: CEO Domain Track",
-      "location": "Amsterdam",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Amsterdam/XMLNAME-2027-MUFG-Analyst-Programme--CEO-Domain-Track_10073239-WD",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mufgub:/job/Amsterdam/XMLNAME-2027-MUFG-Analyst-Programme--COO-Domain-Track_10073272-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG Analyst Programme: COO Domain Track",
-      "location": "Amsterdam",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Amsterdam/XMLNAME-2027-MUFG-Analyst-Programme--COO-Domain-Track_10073272-WD",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mufgub:/job/Amsterdam/XMLNAME-2027-MUFG-Analyst-Programme--Risk-Management-Track_10073277-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG Analyst Programme: Risk Management Track",
-      "location": "Amsterdam",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Amsterdam/XMLNAME-2027-MUFG-Analyst-Programme--Risk-Management-Track_10073277-WD",
       "ats": "workday",
       "posted_at": "Posted 26 Days Ago",
       "category": "full-time",
@@ -215997,40 +215724,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Capital-Markets_10079264-WD-1",
-      "company": "MUFG",
-      "title": "2027 MUFG UK Analyst Programme: Capital Markets",
-      "location": "London",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Capital-Markets_10079264-WD-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Transaction-Banking_10079268-WD-1",
-      "company": "MUFG",
-      "title": "2027 MUFG UK Analyst Programme: Transaction Banking",
-      "location": "London",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Transaction-Banking_10079268-WD-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Structured-Trading-Group_10079356-WD-1",
       "company": "MUFG",
       "title": "2027 MUFG UK Summer Analyst Programme: Structured Trading Group",
@@ -216039,40 +215732,6 @@
       "ats": "workday",
       "posted_at": "Posted 9 Days Ago",
       "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Global-Corporate-Investment-Banking_10079262-WD-1",
-      "company": "MUFG",
-      "title": "2027 MUFG UK Analyst Programme: Global Corporate Investment Banking",
-      "location": "London",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Global-Corporate-Investment-Banking_10079262-WD-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Risk_10079267-WD-2",
-      "company": "MUFG",
-      "title": "2027 MUFG UK Analyst Programme: Risk",
-      "location": "London",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Risk_10079267-WD-2",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
       "tags": [
         "bank"
       ],
@@ -216626,40 +216285,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Capital-Markets_10079264-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG UK Analyst Programme: Capital Markets",
-      "location": "London",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Capital-Markets_10079264-WD",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Transaction-Banking_10079268-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG UK Analyst Programme: Transaction Banking",
-      "location": "London",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Transaction-Banking_10079268-WD",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Structured-Trading-Group_10079356-WD",
       "company": "MUFG",
       "title": "2027 MUFG UK Summer Analyst Programme: Structured Trading Group",
@@ -216668,40 +216293,6 @@
       "ats": "workday",
       "posted_at": "Posted 9 Days Ago",
       "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Global-Corporate-Investment-Banking_10079262-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG UK Analyst Programme: Global Corporate Investment Banking",
-      "location": "London",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Global-Corporate-Investment-Banking_10079262-WD",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mufgub:/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Risk_10079267-WD-1",
-      "company": "MUFG",
-      "title": "2027 MUFG UK Analyst Programme: Risk",
-      "location": "London",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme--Risk_10079267-WD-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
       "tags": [
         "bank"
       ],
@@ -218156,40 +217747,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:td:/job/London-United-Kingdom/XMLNAME-2027-Graduate-Programme---Investment-Banking-Analyst_R_1514179",
-      "company": "TD Bank",
-      "title": "2027 Graduate Programme - Investment Banking Analyst",
-      "location": "London, United Kingdom",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Graduate-Programme---Investment-Banking-Analyst_R_1514179",
-      "ats": "workday",
-      "posted_at": "Posted 23 Days Ago",
-      "category": "new-grad",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:td:/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Investment-Banking_R_1513486-1",
-      "company": "TD Bank",
-      "title": "2027 Summer Internship - Investment Banking",
-      "location": "London, United Kingdom",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Investment-Banking_R_1513486-1",
-      "ats": "workday",
-      "posted_at": "Posted 23 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:td:/job/Brampton-Ontario/Mobile-Mortgage-Specialist_R_1514123",
       "company": "TD Bank",
       "title": "Mobile Mortgage Specialist",
@@ -218317,91 +217874,6 @@
       "ats": "workday",
       "posted_at": "Posted 26 Days Ago",
       "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:td:/job/Dublin-Ireland/XMLNAME-2027-Summer-Internship---Debt-Capital-Markets_R_1513494",
-      "company": "TD Bank",
-      "title": "2027 Summer Internship – Debt Capital Markets",
-      "location": "Dublin, Ireland",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Summer-Internship---Debt-Capital-Markets_R_1513494",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:td:/job/Dublin-Ireland/XMLNAME-2027-Summer-Internship---Global-Markets_R_1513493",
-      "company": "TD Bank",
-      "title": "2027 Summer Internship - Global Markets",
-      "location": "Dublin, Ireland",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Summer-Internship---Global-Markets_R_1513493",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:td:/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Corporate-Banking_R_1513491",
-      "company": "TD Bank",
-      "title": "2027 Summer Internship – Corporate Banking",
-      "location": "London, United Kingdom",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Corporate-Banking_R_1513491",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:td:/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Debt-Capital-Markets_R_1513489",
-      "company": "TD Bank",
-      "title": "2027 Summer Internship – Debt Capital Markets",
-      "location": "London, United Kingdom",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Debt-Capital-Markets_R_1513489",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:td:/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Global-Markets_R_1513487",
-      "company": "TD Bank",
-      "title": "2027 Summer Internship – Global Markets",
-      "location": "London, United Kingdom",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Global-Markets_R_1513487",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "internship",
       "tags": [
         "bank"
       ],
@@ -225135,23 +224607,6 @@
       "backfill": true
     },
     {
-      "uid": "oraclecloud:icbpjb:6525",
-      "company": "Lazard",
-      "title": "2027 - M&A Internship Brussels",
-      "location": "Belgium",
-      "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6525",
-      "ats": "oraclecloud",
-      "posted_at": "2026-09-16",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "oraclecloud:icbpjb:6464",
       "company": "Lazard",
       "title": "Associate - Power, Energy & Infrastructure",
@@ -227831,23 +227286,6 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/AZ---Phoenix/Mobile-Branch-Banker_R236136-2",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:pnc:/job/PA---Pittsburgh-15222/Relationship-Strategist-II---PNC-Private-Bank_R233006-1",
-      "company": "PNC",
-      "title": "Relationship Strategist II - PNC Private Bank",
-      "location": "2 Locations",
-      "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/PA---Pittsburgh-15222/Relationship-Strategist-II---PNC-Private-Bank_R233006-1",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
       "category": "full-time",
       "tags": [
         "bank"
@@ -259467,25 +258905,6 @@
       "backfill": true
     },
     {
-      "uid": "greenhouse:celonis:7989895003",
-      "company": "Celonis",
-      "title": "Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team)",
-      "location": "Madrid, Spain",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-23T11:30:21-04:00",
-      "category": "internship",
-      "tags": [
-        "ai",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "greenhouse:celonis:7962340003",
       "company": "Celonis",
       "title": "Intern Technology & Management Consulting (Value Engineering)",
@@ -267778,23 +267197,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:mastercard:/job/Lisbon-Portugal/Global-Markets-Intern--Summer-2027---Lisbon--Portugal_R-287710-2",
-      "company": "Mastercard",
-      "title": "Global Markets Intern, Summer 2027 - Lisbon, Portugal",
-      "location": "Lisbon, Portugal",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Global-Markets-Intern--Summer-2027---Lisbon--Portugal_R-287710-2",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "internship",
-      "tags": [
-        "fintech"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:mastercard:/job/Lisbon-Portugal/Global-Markets--Graduate-Launch-Program-2027---Lisbon--Portugal_R-287705-2",
       "company": "Mastercard",
       "title": "Global Markets, Graduate Launch Program 2027 - Lisbon, Portugal",
@@ -268278,23 +267680,6 @@
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Warsaw-Poland/Associate-Consultant-Intern--2027---Warsaw--Poland_R-287716",
       "ats": "workday",
       "posted_at": "Posted 25 Days Ago",
-      "category": "internship",
-      "tags": [
-        "fintech"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mastercard:/job/Lisbon-Portugal/Global-Markets-Intern--Summer-2027---Lisbon--Portugal_R-287710-1",
-      "company": "Mastercard",
-      "title": "Global Markets Intern, Summer 2027 - Lisbon, Portugal",
-      "location": "Lisbon, Portugal",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Lisbon-Portugal/Global-Markets-Intern--Summer-2027---Lisbon--Portugal_R-287710-1",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
       "category": "internship",
       "tags": [
         "fintech"
@@ -331885,24 +331270,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:abb:/job/Frosinone-Frosinone-Italy/Line-Product-Engineer_JR00039733",
-      "company": "ABB",
-      "title": "Electric Product Engineering",
-      "location": "Frosinone, Frosinone, Italy",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Frosinone-Frosinone-Italy/Line-Product-Engineer_JR00039733",
-      "ats": "workday",
-      "posted_at": "Posted 23 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:abb:/job/Paterna-Valencia-Spain/Service-Control-Software-Engineer-for-Traction-Applications_JR00040313",
       "company": "ABB",
       "title": "Service Control Software Engineer for Traction Applications",
@@ -332379,24 +331746,6 @@
       "ats": "workday",
       "posted_at": "Posted Yesterday",
       "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:abb:/job/Eggelsberg-Oberosterreich-Austria/Quality---Support-Engineer--f-m-d-_JR00033027",
-      "company": "ABB",
-      "title": "Support Engineer (f/m/d)",
-      "location": "Eggelsberg, Oberosterreich, Austria",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Eggelsberg-Oberosterreich-Austria/Quality---Support-Engineer--f-m-d-_JR00033027",
-      "ats": "workday",
-      "posted_at": "Posted 24 Days Ago",
-      "category": "full-time",
       "tags": [
         "swe",
         "europe"
@@ -334725,6 +334074,114 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-10-24T21:18:09.102877+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Xiamen-Fujian-China/Project-Engineer_JR00043165-2",
+      "company": "ABB",
+      "title": "Project Engineer",
+      "location": "Xiamen, Fujian, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Xiamen-Fujian-China/Project-Engineer_JR00043165-2",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T23:27:28.783502+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Chongqing-Chongqing-China/Project-Engineer_JR00041172",
+      "company": "ABB",
+      "title": "Project Engineer",
+      "location": "Chongqing, Chongqing, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Chongqing-Chongqing-China/Project-Engineer_JR00041172",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T23:27:28.783502+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Ningbo-Zhejiang-China/Project-Engineer_JR00042848-3",
+      "company": "ABB",
+      "title": "Project Engineer",
+      "location": "Ningbo, Zhejiang, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Ningbo-Zhejiang-China/Project-Engineer_JR00042848-3",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T23:27:28.783502+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Sant-Quirze-del-Valles-Barcelona-Spain/Internship--Customer-Operations-Department--customer-service-and-order-management_JR00039581",
+      "company": "ABB",
+      "title": "Internship: Customer Operations Department: customer service and order management",
+      "location": "Sant Quirze del Valles, Barcelona, Spain",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Sant-Quirze-del-Valles-Barcelona-Spain/Internship--Customer-Operations-Department--customer-service-and-order-management_JR00039581",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T23:27:28.783502+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Shanghai-Shanghai-China/Production-Engineering-Specialist_JR00041104",
+      "company": "ABB",
+      "title": "Production Engineering Specialist",
+      "location": "Shanghai, Shanghai, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Production-Engineering-Specialist_JR00041104",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T23:27:28.783502+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Krakow-Lesser-Poland-Poland/ABB-Krakw-Student-Internship-Talent-Pool---Leave-Your-CV_JR00042570",
+      "company": "ABB",
+      "title": "ABB Kraków Student Internship Talent Pool – Share your CV with us",
+      "location": "Krakow, Lesser Poland, Poland",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Krakow-Lesser-Poland-Poland/ABB-Krakw-Student-Internship-Talent-Pool---Leave-Your-CV_JR00042570",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T23:27:28.783502+00:00",
       "active": true,
       "backfill": true
     },
@@ -353632,7 +353089,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T17:18:22-04:00",
+      "posted_at": "2026-10-24T19:18:23-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -355349,7 +354806,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T17:18:26-04:00",
+      "posted_at": "2026-10-24T19:18:32-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -355400,7 +354857,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T17:18:24-04:00",
+      "posted_at": "2026-10-24T19:18:25-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -408563,23 +408020,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:expedia:/job/UK---London/Data-Scientist-II--HEP-Analytics_R-109496-1",
-      "company": "Expedia",
-      "title": "Data Scientist II, HEP Analytics",
-      "location": "UK - London",
-      "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/UK---London/Data-Scientist-II--HEP-Analytics_R-109496-1",
-      "ats": "workday",
-      "posted_at": "Posted 5 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:expedia:/job/Czech-Republic---Prague/Network-Engineer-II_R-105183",
       "company": "Expedia",
       "title": "Network Engineer II",
@@ -430680,23 +430120,6 @@
       "backfill": true
     },
     {
-      "uid": "oraclecloud:eeho:341865",
-      "company": "Oracle",
-      "title": "Core Infrastructure Engineer",
-      "location": "Nashville, TN, United States",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/341865",
-      "ats": "oraclecloud",
-      "posted_at": "2026-09-30",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "oraclecloud:eeho:346357",
       "company": "Oracle",
       "title": "February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN",
@@ -452668,23 +452091,6 @@
       "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Software-Engineer-III---TeraWave_R71649",
       "ats": "workday",
       "posted_at": "Posted 3 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:blueorigin:/job/Greater-Seattle-Area/Materials---Process-Engineer-II---Composite_R71381",
-      "company": "Blue Origin",
-      "title": "Materials & Process Engineer II - Composite",
-      "location": "Greater Seattle Area",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Materials---Process-Engineer-II---Composite_R71381",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -515667,22 +515073,6 @@
       "active": true
     },
     {
-      "uid": "greenhouse:andurilindustries:5248872007",
-      "company": "Anduril",
-      "title": "Software Engineer- Infrastructure ",
-      "location": "Waltham, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248872007?gh_jid=5248872007",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-23T19:21:47-04:00",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-09-25T02:21:24.782008+00:00",
-      "last_seen": "2026-10-24T07:28:12.005579+00:00",
-      "active": true
-    },
-    {
       "uid": "greenhouse:andurilindustries:5248869007",
       "company": "Anduril",
       "title": "Software Engineer- Machine Learning",
@@ -516043,7 +515433,7 @@
       "location": "Broomfield, Colorado, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5124336007?gh_jid=5124336007",
       "ats": "greenhouse",
-      "posted_at": "2026-10-23T19:21:47-04:00",
+      "posted_at": "2026-10-24T19:27:22-04:00",
       "category": "full-time",
       "tags": [
         "swe"
