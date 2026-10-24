@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-10-24T18:53:05.379305+00:00",
-  "count": 34803,
+  "generated_at": "2026-10-24T21:18:09.102877+00:00",
+  "count": 34806,
   "postings": [
+    {
+      "uid": "greenhouse:chaosindustries:5270684007",
+      "company": "Chaos Industries",
+      "title": "Product Security Engineer",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5270684007",
+      "ats": "greenhouse",
+      "posted_at": "2026-10-24T16:10:33-04:00",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T21:18:09.102877+00:00",
+      "last_seen": "2026-10-24T21:18:09.102877+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:salesforce:/job/Argentina---Remote/Data-Foundation-Solution-Engineer_JR365218",
+      "company": "Salesforce",
+      "title": "Data Foundation Solution Engineer",
+      "location": "3 Locations",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Argentina---Remote/Data-Foundation-Solution-Engineer_JR365218",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T21:18:09.102877+00:00",
+      "last_seen": "2026-10-24T21:18:09.102877+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:cisco:/job/Jeddah-Saudi-Arabia/Solutions-Engineer---Enterprise_2025658",
+      "company": "Cisco",
+      "title": "Solutions Engineer - Enterprise",
+      "location": "Jeddah, Saudi Arabia",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Jeddah-Saudi-Arabia/Solutions-Engineer---Enterprise_2025658",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T21:18:09.102877+00:00",
+      "last_seen": "2026-10-24T21:18:09.102877+00:00",
+      "active": true
+    },
     {
       "uid": "workday:citi:/job/Pune-Maharashtra-India/Angular-Full-Stack-Developer_261000266",
       "company": "Citi",
@@ -30089,7 +30137,7 @@
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T14:48:34-04:00",
+      "posted_at": "2026-10-24T17:18:34-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -63094,7 +63142,7 @@
       "uid": "rippling:rippling:86e4b180-a27e-4b86-bc80-6b7cefa2e1c9",
       "company": "Rippling",
       "title": "Software Engineer II, Backend - HR Product",
-      "location": "Seattle, WA",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/86e4b180-a27e-4b86-bc80-6b7cefa2e1c9",
       "ats": "rippling",
       "posted_at": null,
@@ -121593,7 +121641,7 @@
       "uid": "rippling:rippling:ebc7a777-aa35-4333-ac95-ebc98e375f75",
       "company": "Rippling",
       "title": "Software Engineer II, Backend - IT Product",
-      "location": "New York, NY",
+      "location": "San Francisco, CA",
       "url": "https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75",
       "ats": "rippling",
       "posted_at": null,
@@ -334663,6 +334711,24 @@
       "backfill": true
     },
     {
+      "uid": "workday:abb:/job/Ratingen-North-Rhine-Westphalia-Germany/Werkstudent--m-w-d--in-der-Entwicklung-von-Vakuumschaltkammern_JR00041879",
+      "company": "ABB",
+      "title": "Werkstudent (m/w/d) in der Entwicklung von Vakuumschaltkammern",
+      "location": "Ratingen, North Rhine-Westphalia, Germany",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Ratingen-North-Rhine-Westphalia-Germany/Werkstudent--m-w-d--in-der-Entwicklung-von-Vakuumschaltkammern_JR00041879",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T21:18:09.102877+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:novartis:/job/Basel-City/Forward-Deployed-Engineer--FDE--Data42_REQ-10079038-1",
       "company": "Novartis",
       "title": "Forward Deployed Engineer (FDE) Data42 (Palantir Foundry)",
@@ -353566,7 +353632,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T14:48:12-04:00",
+      "posted_at": "2026-10-24T17:18:22-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -355283,7 +355349,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T14:48:26-04:00",
+      "posted_at": "2026-10-24T17:18:26-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -355334,7 +355400,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T14:48:24-04:00",
+      "posted_at": "2026-10-24T17:18:24-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -376272,23 +376338,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10501325/software-development-engineer-agentic-workspace",
       "ats": "amazon",
       "posted_at": "2026-08-13",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "amazon:10499104",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Amazon Customer Service",
-      "location": "Seattle, Washington, USA",
-      "url": "https://www.amazon.jobs/en/jobs/10499104/software-development-engineer-amazon-customer-service",
-      "ats": "amazon",
-      "posted_at": "2026-08-11",
       "category": "full-time",
       "tags": [
         "swe"
