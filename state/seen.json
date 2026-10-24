@@ -9599,23 +9599,6 @@
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
   },
-  "greenhouse:anthropic:5135168008": {
-    "uid": "greenhouse:anthropic:5135168008",
-    "company": "Anthropic",
-    "title": "Research Engineer / Research Scientist, Pre-training",
-    "location": "Zürich, CH",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5135168008",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-21T12:49:59-04:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-25T14:10:53.486622+00:00",
-    "active": false
-  },
   "greenhouse:anthropic:4616971008": {
     "uid": "greenhouse:anthropic:4616971008",
     "company": "Anthropic",
@@ -18535,22 +18518,6 @@
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
   },
-  "greenhouse:databricks:8029677002": {
-    "uid": "greenhouse:databricks:8029677002",
-    "company": "Databricks",
-    "title": "Software Engineer - Fullstack",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029677002",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-18T13:17:07-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
   "greenhouse:databricks:8482037002": {
     "uid": "greenhouse:databricks:8482037002",
     "company": "Databricks",
@@ -22694,22 +22661,6 @@
     "first_seen": "2026-06-08T00:47:01.367572+00:00",
     "last_seen": "2026-10-24T07:28:12.005579+00:00",
     "active": true
-  },
-  "greenhouse:andurilindustries:5139900007": {
-    "uid": "greenhouse:andurilindustries:5139900007",
-    "company": "Anduril",
-    "title": "Maritime Technical Operations Engineer",
-    "location": "Quincy, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5139900007?gh_jid=5139900007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-25T08:35:31-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-25T15:11:19.086648+00:00",
-    "active": false
   },
   "greenhouse:andurilindustries:5130552007": {
     "uid": "greenhouse:andurilindustries:5130552007",
@@ -27543,22 +27494,6 @@
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
   },
-  "workday:salesforce:/job/Netherlands---Amsterdam/Alliances---Channels-Intern_JR342991-1": {
-    "uid": "workday:salesforce:/job/Netherlands---Amsterdam/Alliances---Channels-Intern_JR342991-1",
-    "company": "Salesforce",
-    "title": "Alliances & Channels Intern",
-    "location": "Netherlands - Amsterdam",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Netherlands---Amsterdam/Alliances---Channels-Intern_JR342991-1",
-    "ats": "workday",
-    "posted_at": "Posted 30+ Days Ago",
-    "category": "internship",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-08T00:47:01.367572+00:00",
-    "last_seen": "2026-08-25T12:24:41.191785+00:00",
-    "active": false
-  },
   "workday:salesforce:/job/Mexico---Mexico-City/Salesforce-Developer_JR337290": {
     "uid": "workday:salesforce:/job/Mexico---Mexico-City/Salesforce-Developer_JR337290",
     "company": "Salesforce",
@@ -30695,23 +30630,6 @@
     ],
     "first_seen": "2026-06-08T01:26:44.010968+00:00",
     "last_seen": "2026-09-24T06:54:03.818541+00:00",
-    "active": false
-  },
-  "gsgraphql:171537_GS_MID_CAREER": {
-    "uid": "gsgraphql:171537_GS_MID_CAREER",
-    "company": "Goldman Sachs",
-    "title": "Compliance Engineering - Fiduciary Oversight Model Eng - Associate - Bengaluru",
-    "location": "Bengaluru",
-    "url": "https://higher.gs.com/roles/171537_GS_MID_CAREER",
-    "ats": "gsgraphql",
-    "posted_at": "2026-08-24T13:10:43.107Z",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe"
-    ],
-    "first_seen": "2026-06-08T01:26:44.010968+00:00",
-    "last_seen": "2026-08-25T14:10:53.486622+00:00",
     "active": false
   },
   "gsgraphql:175238_GS_MID_CAREER": {
@@ -34302,25 +34220,6 @@
     ],
     "first_seen": "2026-06-09T13:26:39.444570+00:00",
     "last_seen": "2026-09-08T05:25:26.478900+00:00",
-    "active": false
-  },
-  "beesite:api-deutschebank.beesite.de:73279": {
-    "uid": "beesite:api-deutschebank.beesite.de:73279",
-    "company": "Deutsche Bank",
-    "title": "Quantitative Strategist – Capital and Liquidity Strats",
-    "location": "London",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=73279",
-    "ats": "beesite",
-    "posted_at": "2026-07-27",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-06-09T13:26:39.444570+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
     "active": false
   },
   "greenhouse:andurilindustries:5159698007": {
@@ -48337,44 +48236,6 @@
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
   },
-  "beesite:api-deutschebank.beesite.de:73974": {
-    "uid": "beesite:api-deutschebank.beesite.de:73974",
-    "company": "Deutsche Bank",
-    "title": "US Inflation Trader – Rates",
-    "location": "New York",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=73974",
-    "ats": "beesite",
-    "posted_at": "2026-06-16",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-06-16T01:35:08.122634+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
-  "beesite:api-deutschebank.beesite.de:73965": {
-    "uid": "beesite:api-deutschebank.beesite.de:73965",
-    "company": "Deutsche Bank",
-    "title": "DBMN - Philippines Treasury Pool Trader, Treasury Markets and Investment - AVP",
-    "location": "Manila",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=73965",
-    "ats": "beesite",
-    "posted_at": "2026-06-15",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-06-16T01:35:08.122634+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
   "greenhouse:imc:4531501101": {
     "uid": "greenhouse:imc:4531501101",
     "company": "IMC Trading",
@@ -51649,63 +51510,6 @@
     "last_seen": "2026-10-14T00:43:16.476470+00:00",
     "active": false
   },
-  "beesite:api-deutschebank.beesite.de:72990": {
-    "uid": "beesite:api-deutschebank.beesite.de:72990",
-    "company": "Deutsche Bank",
-    "title": "Database Engineer (f/m/x)",
-    "location": "Bucharest",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=72990",
-    "ats": "beesite",
-    "posted_at": "2026-06-17",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-06-23T13:25:32.952122+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
-  "beesite:api-deutschebank.beesite.de:73254": {
-    "uid": "beesite:api-deutschebank.beesite.de:73254",
-    "company": "Deutsche Bank",
-    "title": "Java Developer (f/m/x)",
-    "location": "Bucharest",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=73254",
-    "ats": "beesite",
-    "posted_at": "2026-05-05",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-06-23T13:25:32.952122+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
-  "beesite:api-deutschebank.beesite.de:73479": {
-    "uid": "beesite:api-deutschebank.beesite.de:73479",
-    "company": "Deutsche Bank",
-    "title": "Intern - Global Corporate Coverage Belgium (f/m/x)",
-    "location": "Brussels",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=73479",
-    "ats": "beesite",
-    "posted_at": "2026-05-13",
-    "expires_at": "2099-12-31",
-    "category": "internship",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-06-23T13:25:32.952122+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
   "beesite:api-deutschebank.beesite.de:73820": {
     "uid": "beesite:api-deutschebank.beesite.de:73820",
     "company": "Deutsche Bank",
@@ -52069,23 +51873,6 @@
     "first_seen": "2026-06-23T20:40:09.614158+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
-  },
-  "greenhouse:ManGroup:4889919101": {
-    "uid": "greenhouse:ManGroup:4889919101",
-    "company": "Man Group",
-    "title": "Quant Developer",
-    "location": "New York",
-    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4889919101",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-14T01:04:41-04:00",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "europe"
-    ],
-    "first_seen": "2026-06-23T21:31:04.905018+00:00",
-    "last_seen": "2026-08-25T16:05:55.199415+00:00",
-    "active": false
   },
   "greenhouse:stripe:7983456": {
     "uid": "greenhouse:stripe:7983456",
@@ -54064,22 +53851,6 @@
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
   },
-  "ashby:notion:53fb4637-d1d6-4411-8a87-52865db5a11c": {
-    "uid": "ashby:notion:53fb4637-d1d6-4411-8a87-52865db5a11c",
-    "company": "Notion",
-    "title": "Software Engineer, Product Analytics Platform",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/53fb4637-d1d6-4411-8a87-52865db5a11c",
-    "ats": "ashby",
-    "posted_at": "2026-06-26T19:29:53.967+00:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-26T19:30:58.142423+00:00",
-    "last_seen": "2026-08-25T14:10:53.486622+00:00",
-    "active": false
-  },
   "greenhouse:reddit:8029120": {
     "uid": "greenhouse:reddit:8029120",
     "company": "Reddit",
@@ -55957,38 +55728,6 @@
     ],
     "first_seen": "2026-06-30T14:48:53.858938+00:00",
     "last_seen": "2026-09-11T18:41:05.515217+00:00",
-    "active": false
-  },
-  "jibe:careers.sig.com:11137": {
-    "uid": "jibe:careers.sig.com:11137",
-    "company": "SIG (Susquehanna)",
-    "title": "Financial Reporting AI Co-op with Drexel University",
-    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania, United States",
-    "url": "https://careers-sig.icims.com/jobs/11137/login",
-    "ats": "jibe",
-    "posted_at": "2026-06-30T14:57:00+0000",
-    "category": "internship",
-    "tags": [
-      "quant"
-    ],
-    "first_seen": "2026-06-30T15:47:41.819556+00:00",
-    "last_seen": "2026-08-25T14:10:53.486622+00:00",
-    "active": false
-  },
-  "jibe:careers.sig.com:11078": {
-    "uid": "jibe:careers.sig.com:11078",
-    "company": "SIG (Susquehanna)",
-    "title": "Equity Options AI Co-op with Drexel University",
-    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania, United States",
-    "url": "https://careers-sig.icims.com/jobs/11078/login",
-    "ats": "jibe",
-    "posted_at": "2026-06-30T14:49:00+0000",
-    "category": "internship",
-    "tags": [
-      "quant"
-    ],
-    "first_seen": "2026-06-30T15:47:41.819556+00:00",
-    "last_seen": "2026-08-25T14:10:53.486622+00:00",
     "active": false
   },
   "workday:salesforce:/job/Belgium---Brussels/Forward-Deployed-Engineer_JR349187-1": {
@@ -60909,22 +60648,6 @@
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
   },
-  "greenhouse:jumptrading:8052356": {
-    "uid": "greenhouse:jumptrading:8052356",
-    "company": "Jump Trading",
-    "title": "Campus AI Research Engineer – Research Automation (Full-Time)",
-    "location": "Chicago; New York",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052356",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-18T18:48:22-04:00",
-    "category": "new-grad",
-    "tags": [
-      "quant"
-    ],
-    "first_seen": "2026-07-08T21:50:05.897158+00:00",
-    "last_seen": "2026-08-25T14:10:53.486622+00:00",
-    "active": false
-  },
   "greenhouse:jumptrading:8052351": {
     "uid": "greenhouse:jumptrading:8052351",
     "company": "Jump Trading",
@@ -64833,25 +64556,6 @@
     "last_seen": "2026-10-09T00:47:09.300657+00:00",
     "active": false
   },
-  "beesite:api-deutschebank.beesite.de:74495": {
-    "uid": "beesite:api-deutschebank.beesite.de:74495",
-    "company": "Deutsche Bank",
-    "title": "Full Stack Engineer, AVP",
-    "location": "Bangalore",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74495",
-    "ats": "beesite",
-    "posted_at": "2026-08-04",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-07-14T16:51:17.418202+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
   "ashby:ramp:1540a41f-d88f-4c89-9b08-5b9fade1ee81": {
     "uid": "ashby:ramp:1540a41f-d88f-4c89-9b08-5b9fade1ee81",
     "company": "Ramp",
@@ -66043,25 +65747,6 @@
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
   },
-  "beesite:api-deutschebank.beesite.de:74352": {
-    "uid": "beesite:api-deutschebank.beesite.de:74352",
-    "company": "Deutsche Bank",
-    "title": "Cross Asset Structurer – Cross Product &amp; Platform Solutions",
-    "location": "London",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74352",
-    "ats": "beesite",
-    "posted_at": "2026-07-08",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-07-15T19:26:36.158528+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
   "ashby:openai:e5e1a914-79b6-4cf5-929a-01671d8ec4cd": {
     "uid": "ashby:openai:e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
     "company": "OpenAI",
@@ -66255,22 +65940,6 @@
     ],
     "first_seen": "2026-07-15T23:46:24.645908+00:00",
     "last_seen": "2026-09-09T00:49:18.109448+00:00",
-    "active": false
-  },
-  "ashby:applied:92fcf1bf-5a29-46fb-bc86-fee1ad310a34": {
-    "uid": "ashby:applied:92fcf1bf-5a29-46fb-bc86-fee1ad310a34",
-    "company": "Applied Intuition",
-    "title": "Perception & Fusion Engineer",
-    "location": "Poway, CA",
-    "url": "https://jobs.ashbyhq.com/applied/92fcf1bf-5a29-46fb-bc86-fee1ad310a34",
-    "ats": "ashby",
-    "posted_at": "2026-07-09T00:24:52.279+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai"
-    ],
-    "first_seen": "2026-07-15T23:46:24.645908+00:00",
-    "last_seen": "2026-08-25T16:05:55.199415+00:00",
     "active": false
   },
   "greenhouse:stripe:7860377": {
@@ -69239,25 +68908,6 @@
     "first_seen": "2026-07-21T15:59:57.804684+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
-  },
-  "beesite:api-deutschebank.beesite.de:74595": {
-    "uid": "beesite:api-deutschebank.beesite.de:74595",
-    "company": "Deutsche Bank",
-    "title": "Internship Communications &amp; CSR Italy (f/m/x)",
-    "location": "Milano",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74595",
-    "ats": "beesite",
-    "posted_at": "2026-07-21",
-    "expires_at": "2099-12-31",
-    "category": "internship",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-07-21T16:35:40.918853+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
   },
   "greenhouse:janestreet:8641377002": {
     "uid": "greenhouse:janestreet:8641377002",
@@ -73885,24 +73535,6 @@
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
   },
-  "ashby:ElevenLabs:179541ee-8225-437b-b67d-d24c09240cd5": {
-    "uid": "ashby:ElevenLabs:179541ee-8225-437b-b67d-d24c09240cd5",
-    "company": "ElevenLabs",
-    "title": "Engineering - ElevenAPI",
-    "location": "United Kingdom",
-    "url": "https://jobs.ashbyhq.com/ElevenLabs/179541ee-8225-437b-b67d-d24c09240cd5",
-    "ats": "ashby",
-    "posted_at": "2026-07-28T03:11:19.447+00:00",
-    "category": "full-time",
-    "tags": [
-      "ai",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-07-28T04:06:11.117498+00:00",
-    "last_seen": "2026-08-25T14:10:53.486622+00:00",
-    "active": false
-  },
   "workday:nvidia:/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952": {
     "uid": "workday:nvidia:/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952",
     "company": "NVIDIA",
@@ -73933,22 +73565,6 @@
     ],
     "first_seen": "2026-07-28T05:29:42.604514+00:00",
     "last_seen": "2026-08-28T01:33:13.297999+00:00",
-    "active": false
-  },
-  "workday:nvidia:/job/US-MA-Westford/System-Software-Engineer---Performance-Verification-Infrastructure_JR2021574": {
-    "uid": "workday:nvidia:/job/US-MA-Westford/System-Software-Engineer---Performance-Verification-Infrastructure_JR2021574",
-    "company": "NVIDIA",
-    "title": "System Software Engineer - Performance Verification Infrastructure",
-    "location": "2 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/System-Software-Engineer---Performance-Verification-Infrastructure_JR2021574",
-    "ats": "workday",
-    "posted_at": "Posted 28 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-28T05:29:42.604514+00:00",
-    "last_seen": "2026-08-25T15:11:19.086648+00:00",
     "active": false
   },
   "jibe:careers.sig.com:11098": {
@@ -76686,22 +76302,6 @@
     "last_seen": "2026-10-09T00:47:09.300657+00:00",
     "active": false
   },
-  "greenhouse:gusto:8075990": {
-    "uid": "greenhouse:gusto:8075990",
-    "company": "Gusto",
-    "title": "Platform Operations Analyst",
-    "location": "New York, New York, United States",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/8075990",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-14T19:27:24-04:00",
-    "category": "full-time",
-    "tags": [
-      "fintech"
-    ],
-    "first_seen": "2026-07-30T18:27:23.719747+00:00",
-    "last_seen": "2026-08-25T16:05:55.199415+00:00",
-    "active": false
-  },
   "workday:adobe:/job/San-Francisco/Product-Designer--Acrobat-Mobile-Growth_R170472-1": {
     "uid": "workday:adobe:/job/San-Francisco/Product-Designer--Acrobat-Mobile-Growth_R170472-1",
     "company": "Adobe",
@@ -77460,25 +77060,6 @@
     ],
     "first_seen": "2026-07-31T13:31:31.684772+00:00",
     "last_seen": "2026-09-15T10:37:58.836183+00:00",
-    "active": false
-  },
-  "beesite:api-deutschebank.beesite.de:74776": {
-    "uid": "beesite:api-deutschebank.beesite.de:74776",
-    "company": "Deutsche Bank",
-    "title": "TDI - L2 Networks Operations Engineer - AVP",
-    "location": "Singapore",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74776",
-    "ats": "beesite",
-    "posted_at": "2026-08-04",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-07-31T13:31:31.684772+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
     "active": false
   },
   "greenhouse:drweng:8097519": {
@@ -84699,44 +84280,6 @@
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
   },
-  "beesite:api-deutschebank.beesite.de:74702": {
-    "uid": "beesite:api-deutschebank.beesite.de:74702",
-    "company": "Deutsche Bank",
-    "title": "Intern",
-    "location": "Sao Paulo",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74702",
-    "ats": "beesite",
-    "posted_at": "2026-07-28",
-    "expires_at": "2099-12-31",
-    "category": "internship",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-08-10T19:27:07.630557+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
-  "beesite:api-deutschebank.beesite.de:74781": {
-    "uid": "beesite:api-deutschebank.beesite.de:74781",
-    "company": "Deutsche Bank",
-    "title": "Foreign Exchange (FX) Options Trader",
-    "location": "London",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74781",
-    "ats": "beesite",
-    "posted_at": "2026-08-03",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-08-10T19:27:07.630557+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
   "greenhouse:figma:6131089004": {
     "uid": "greenhouse:figma:6131089004",
     "company": "Figma",
@@ -91800,22 +91343,6 @@
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
   },
-  "greenhouse:cloudflare:8129796": {
-    "uid": "greenhouse:cloudflare:8129796",
-    "company": "Cloudflare",
-    "title": "GRC Team Intern (Fall 2026) ",
-    "location": "In-Office",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8129796?gh_jid=8129796",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-24T16:06:07-04:00",
-    "category": "internship",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-17T07:41:59.279411+00:00",
-    "last_seen": "2026-08-25T14:10:53.486622+00:00",
-    "active": false
-  },
   "greenhouse:coupang:8131839": {
     "uid": "greenhouse:coupang:8131839",
     "company": "Coupang",
@@ -93330,38 +92857,6 @@
     ],
     "first_seen": "2026-08-18T14:58:33.290875+00:00",
     "last_seen": "2026-10-04T17:10:22.707353+00:00",
-    "active": false
-  },
-  "greenhouse:andurilindustries:5214739007": {
-    "uid": "greenhouse:andurilindustries:5214739007",
-    "company": "Anduril",
-    "title": "Technical Field Operations Engineer",
-    "location": "Waltham, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214739007?gh_jid=5214739007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-25T08:12:15-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-18T14:58:33.290875+00:00",
-    "last_seen": "2026-08-25T14:10:53.486622+00:00",
-    "active": false
-  },
-  "greenhouse:andurilindustries:5214743007": {
-    "uid": "greenhouse:andurilindustries:5214743007",
-    "company": "Anduril",
-    "title": "Technical Operations Engineer",
-    "location": "Waltham, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214743007?gh_jid=5214743007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-25T08:12:15-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-18T14:58:33.290875+00:00",
-    "last_seen": "2026-08-25T14:10:53.486622+00:00",
     "active": false
   },
   "ashby:ElevenLabs:29aed1f3-26f8-4d3b-8cc4-7ca7d9342eeb": {
@@ -94885,25 +94380,6 @@
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
   },
-  "beesite:api-deutschebank.beesite.de:74859": {
-    "uid": "beesite:api-deutschebank.beesite.de:74859",
-    "company": "Deutsche Bank",
-    "title": "Requirements Engineer – PDB business solutions (f/m/x)",
-    "location": "Bucharest",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=74859",
-    "ats": "beesite",
-    "posted_at": "2026-08-05",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-08-19T16:25:19.490108+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
   "beesite:api-deutschebank.beesite.de:75061": {
     "uid": "beesite:api-deutschebank.beesite.de:75061",
     "company": "Deutsche Bank",
@@ -95116,25 +94592,6 @@
     ],
     "first_seen": "2026-08-19T19:25:11.678840+00:00",
     "last_seen": "2026-09-28T07:53:29.308226+00:00",
-    "active": false
-  },
-  "beesite:api-deutschebank.beesite.de:72959": {
-    "uid": "beesite:api-deutschebank.beesite.de:72959",
-    "company": "Deutsche Bank",
-    "title": "Quant Strategist",
-    "location": "London",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=72959",
-    "ats": "beesite",
-    "posted_at": "2026-08-24",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-08-19T19:25:11.678840+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
     "active": false
   },
   "greenhouse:gitlab:8710061002": {
@@ -98960,63 +98417,6 @@
     "last_seen": "2026-10-22T12:09:57.935290+00:00",
     "active": false
   },
-  "beesite:api-deutschebank.beesite.de:75155": {
-    "uid": "beesite:api-deutschebank.beesite.de:75155",
-    "company": "Deutsche Bank",
-    "title": "UI/UX Engineering, Hybrid Cloud",
-    "location": "Pune",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=75155",
-    "ats": "beesite",
-    "posted_at": "2026-08-24",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-08-24T13:27:46.921996+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
-  "beesite:api-deutschebank.beesite.de:75161": {
-    "uid": "beesite:api-deutschebank.beesite.de:75161",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Pune",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=75161",
-    "ats": "beesite",
-    "posted_at": "2026-08-24",
-    "expires_at": "2026-08-27",
-    "category": "internship",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-08-24T13:27:46.921996+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
-  "beesite:api-deutschebank.beesite.de:75164": {
-    "uid": "beesite:api-deutschebank.beesite.de:75164",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Pune",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=75164",
-    "ats": "beesite",
-    "posted_at": "2026-08-24",
-    "expires_at": "2026-08-27",
-    "category": "internship",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-08-24T13:27:46.921996+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
-  },
   "gsgraphql:182573_GS_CAMPUS": {
     "uid": "gsgraphql:182573_GS_CAMPUS",
     "company": "Goldman Sachs",
@@ -100423,25 +99823,6 @@
     "first_seen": "2026-08-25T13:25:32.548331+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
     "active": true
-  },
-  "beesite:api-deutschebank.beesite.de:73311": {
-    "uid": "beesite:api-deutschebank.beesite.de:73311",
-    "company": "Deutsche Bank",
-    "title": "SAS DMS AI Full Stack Engineer, AS",
-    "location": "Pune",
-    "url": "https://careers.db.com/index.php?ac=jobad&id=73311",
-    "ats": "beesite",
-    "posted_at": "2026-08-20",
-    "expires_at": "2099-12-31",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe",
-      "europe"
-    ],
-    "first_seen": "2026-08-25T13:25:32.548331+00:00",
-    "last_seen": "2026-08-25T13:25:32.548331+00:00",
-    "active": false
   },
   "workday:salesforce:/job/Illinois---Chicago/Migration-Delivery--Deployment-Strategist_JR357407": {
     "uid": "workday:salesforce:/job/Illinois---Chicago/Migration-Delivery--Deployment-Strategist_JR357407",
@@ -118560,7 +117941,7 @@
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
     "ats": "greenhouse",
-    "posted_at": "2026-10-23T20:22:44-04:00",
+    "posted_at": "2026-10-24T08:18:54-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -150308,7 +149689,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:3redpartners:8634612002": {
@@ -206335,7 +205716,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:jpmc:210744550": {
@@ -209769,7 +209150,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:jpmc:210528470": {
@@ -225186,7 +224567,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:ing:/job/Bucharest---Dacia-One/DevOps-Engineer---Employee-Permissions-for-Wholesale-Banking--ING-Hubs-Romania_REQ-10117467-1": {
@@ -272721,14 +272102,14 @@
     "location": "Boston (Onsite), New York (Onsite) Preferred, or Remote",
     "url": "https://www.pathai.com/careers/8786343002?gh_jid=8786343002",
     "ats": "greenhouse",
-    "posted_at": "2026-09-21T11:49:31-04:00",
+    "posted_at": "2026-10-24T09:42:05-04:00",
     "category": "full-time",
     "tags": [
       "ai"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": false,
+    "active": true,
     "backfill": true
   },
   "greenhouse:pathai:8843495002": {
@@ -390876,8 +390257,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-23T02:25:20.126255+00:00",
-    "active": false,
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Mannheim-Baden-Wurttemberg-Germany/MSc-or-BSc-Thesis---Internship--m-f-d--AI-for-Intent-Based-Networking_JR00043251-1": {
@@ -390912,8 +390293,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-23T02:25:20.126255+00:00",
-    "active": false,
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Minden-North-Rhine-Westphalia-Germany/Senior-FPGA-Engineer--m-f-d-_JR00025434-1": {
@@ -414143,7 +413524,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-24T08:03:41-04:00",
+    "posted_at": "2026-10-24T12:03:24-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -416472,7 +415853,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-24T08:03:48-04:00",
+    "posted_at": "2026-10-24T12:03:27-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -416523,7 +415904,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-24T08:03:43-04:00",
+    "posted_at": "2026-10-24T12:03:26-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -431293,7 +430674,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10566948": {
@@ -464324,7 +463705,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10542497": {
@@ -530012,7 +529393,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "jibe:careers.rivian.com:32343": {
@@ -582355,7 +581736,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/YixingCHN/Customer-Engineer---C1_R2627645": {
@@ -589512,7 +588893,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/ShenzhenCHN/Customer-Engineer--CMP-EPI-ETCH_R2626646": {
@@ -590583,7 +589964,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/Santa-ClaraCA/Systems-Engineer---RF-Sensors_R2625694": {
@@ -590906,7 +590287,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/HsinchuTWN/Technical-Product-Support--TPS--Engineer---SPG-Organization_R2621186": {
@@ -591790,7 +591171,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:amat:/job/YokkaichiJPN/VSE-Customer-Engineer-II_R2624738-1": {
@@ -593880,8 +593261,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-22T01:04:13.827499+00:00",
-    "active": false,
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/SingaporeSGP/Process-Support-Engineer--Epitaxy-_R2616775": {
@@ -593897,8 +593278,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-22T01:04:13.827499+00:00",
-    "active": false,
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/SingaporeSGP/Process-Support-Engineer--New-College-Graduate-_R2616773": {
@@ -593914,8 +593295,8 @@
       "swe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-22T01:04:13.827499+00:00",
-    "active": false,
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:amat:/job/SingaporeSGP/Customer-Engineer_R2613380": {
@@ -622576,7 +621957,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:ibqbjb:157881": {
@@ -639219,7 +638600,7 @@
     ],
     "first_seen": "2026-10-05T09:17:11.218071+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true
+    "active": false
   },
   "workday:cisco:/job/Bangalore-India/Software-Engineer_2025517-1": {
     "uid": "workday:cisco:/job/Bangalore-India/Software-Engineer_2025517-1",
@@ -655470,7 +654851,7 @@
     ],
     "first_seen": "2026-10-06T06:39:00.272558+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true
+    "active": false
   },
   "workday:amat:/job/ShanghaiCHN/Customer-Engineer-IV-ETCH_R2628225": {
     "uid": "workday:amat:/job/ShanghaiCHN/Customer-Engineer-IV-ETCH_R2628225",
@@ -674285,7 +673666,7 @@
     ],
     "first_seen": "2026-10-07T09:29:19.869746+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true
+    "active": false
   },
   "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596": {
     "uid": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596",
@@ -694552,7 +693933,7 @@
     ],
     "first_seen": "2026-10-08T15:02:08.571895+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true
+    "active": false
   },
   "workday:globalfoundries:/job/IND---Karnataka---Bengaluru---North/Java-Full-Stack-Developer---Core-Java--Springboot--Angular--Jenkins--AWS-_JR-2602888": {
     "uid": "workday:globalfoundries:/job/IND---Karnataka---Bengaluru---North/Java-Full-Stack-Developer---Core-Java--Springboot--Angular--Jenkins--AWS-_JR-2602888",
@@ -759578,7 +758959,7 @@
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
     "ats": "greenhouse",
-    "posted_at": "2026-10-23T20:22:48-04:00",
+    "posted_at": "2026-10-24T08:18:58-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -813705,7 +813086,7 @@
     ],
     "first_seen": "2026-10-20T19:25:43.675630+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true
+    "active": false
   },
   "amazon:10584434": {
     "uid": "amazon:10584434",
@@ -816167,7 +815548,7 @@
     ],
     "first_seen": "2026-10-20T22:27:27.687014+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true
+    "active": false
   },
   "amazon:10584670": {
     "uid": "amazon:10584670",
@@ -828116,7 +827497,7 @@
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-24T08:03:51-04:00",
+    "posted_at": "2026-10-24T12:03:30-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -840166,7 +839547,7 @@
     "location": "Los Angeles, CA",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8191664",
     "ats": "greenhouse",
-    "posted_at": "2026-10-23T20:22:45-04:00",
+    "posted_at": "2026-10-24T08:18:55-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -853934,7 +853315,7 @@
     ],
     "first_seen": "2026-10-23T17:37:19.645454+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:isomorphiclabs:6136171004": {
     "uid": "greenhouse:isomorphiclabs:6136171004",
@@ -856239,7 +855620,7 @@
     ],
     "first_seen": "2026-10-23T17:37:19.645454+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true
+    "active": false
   },
   "workday:globalfoundries:/job/USA---New-York---Malta/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923": {
     "uid": "workday:globalfoundries:/job/USA---New-York---Malta/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923",
@@ -859785,7 +859166,7 @@
     ],
     "first_seen": "2026-10-23T23:38:00.152683+00:00",
     "last_seen": "2026-10-24T02:23:20.053238+00:00",
-    "active": true
+    "active": false
   },
   "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Process-Engineer---Gears-and-Shafts_JR-202621775": {
     "uid": "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Process-Engineer---Gears-and-Shafts_JR-202621775",
@@ -860541,6 +859922,216 @@
     ],
     "first_seen": "2026-10-24T12:08:29.088407+00:00",
     "last_seen": "2026-10-24T12:08:29.088407+00:00",
+    "active": true
+  },
+  "workday:vanguard:/job/Hyderabad-India/Application-Engineer---III-HRCS-MYCE-CS_182546": {
+    "uid": "workday:vanguard:/job/Hyderabad-India/Application-Engineer---III-HRCS-MYCE-CS_182546",
+    "company": "Vanguard",
+    "title": "Application Engineer - III HRCS-MYCE CS",
+    "location": "Hyderabad, India",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Hyderabad-India/Application-Engineer---III-HRCS-MYCE-CS_182546",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "asset-mgmt"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "workday:vanguard:/job/Hyderabad-India/Application-Engineer---III-HRCS-MYCE-CS_182547": {
+    "uid": "workday:vanguard:/job/Hyderabad-India/Application-Engineer---III-HRCS-MYCE-CS_182547",
+    "company": "Vanguard",
+    "title": "Application Engineer - III HRCS-MYCE CS",
+    "location": "Hyderabad, India",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Hyderabad-India/Application-Engineer---III-HRCS-MYCE-CS_182547",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "asset-mgmt"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "workday:roche:/job/Kent/Field-Service-Engineer-Kent-Location_202610-127342-1": {
+    "uid": "workday:roche:/job/Kent/Field-Service-Engineer-Kent-Location_202610-127342-1",
+    "company": "Roche",
+    "title": "Field Service Engineer Kent Location",
+    "location": "Kent",
+    "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Kent/Field-Service-Engineer-Kent-Location_202610-127342-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "workday:roche:/job/Lincolnshire/Field-Service-Engineer----Grantham-to-Peterborough-Location_202610-127371-1": {
+    "uid": "workday:roche:/job/Lincolnshire/Field-Service-Engineer----Grantham-to-Peterborough-Location_202610-127371-1",
+    "company": "Roche",
+    "title": "Field Service Engineer -  Grantham to Peterborough Location",
+    "location": "2 Locations",
+    "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Lincolnshire/Field-Service-Engineer----Grantham-to-Peterborough-Location_202610-127371-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "ashby:supabase:950e8ffc-79a5-4626-b1dd-115fcbcddad0": {
+    "uid": "ashby:supabase:950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+    "company": "Supabase",
+    "title": "Data API Engineer",
+    "location": "Remote, Global",
+    "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+    "ats": "ashby",
+    "posted_at": "2026-10-24T16:04:20.762+00:00",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "amazon:10587705": {
+    "uid": "amazon:10587705",
+    "company": "Amazon",
+    "title": "Machine learning engineer II, AWS Inference Optimization",
+    "location": "Santa Clara, California, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10587705/machine-learning-engineer-ii-aws-inference-optimization",
+    "ats": "amazon",
+    "posted_at": "2026-10-24",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:160494": {
+    "uid": "oraclecloud:ibqbjb:160494",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-24",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:160495": {
+    "uid": "oraclecloud:ibqbjb:160495",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Software Eng",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160495",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-24",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:160490": {
+    "uid": "oraclecloud:ibqbjb:160490",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160490",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-24",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:160491": {
+    "uid": "oraclecloud:ibqbjb:160491",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Software Eng",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160491",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-24",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:160492": {
+    "uid": "oraclecloud:ibqbjb:160492",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Software Eng",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160492",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-24",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:160493": {
+    "uid": "oraclecloud:ibqbjb:160493",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160493",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-24",
+    "category": "internship",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
+    "active": true
+  },
+  "oraclecloud:ibqbjb:160849": {
+    "uid": "oraclecloud:ibqbjb:160849",
+    "company": "Honeywell",
+    "title": "Software Engr II",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160849",
+    "ats": "oraclecloud",
+    "posted_at": "2026-10-24",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-24T16:07:37.017218+00:00",
+    "last_seen": "2026-10-24T16:07:37.017218+00:00",
     "active": true
   }
 }

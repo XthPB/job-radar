@@ -1,7 +1,217 @@
 {
-  "generated_at": "2026-10-24T12:08:29.088407+00:00",
-  "count": 34820,
+  "generated_at": "2026-10-24T16:07:37.017218+00:00",
+  "count": 34817,
   "postings": [
+    {
+      "uid": "workday:vanguard:/job/Hyderabad-India/Application-Engineer---III-HRCS-MYCE-CS_182546",
+      "company": "Vanguard",
+      "title": "Application Engineer - III HRCS-MYCE CS",
+      "location": "Hyderabad, India",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Hyderabad-India/Application-Engineer---III-HRCS-MYCE-CS_182546",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "asset-mgmt"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:vanguard:/job/Hyderabad-India/Application-Engineer---III-HRCS-MYCE-CS_182547",
+      "company": "Vanguard",
+      "title": "Application Engineer - III HRCS-MYCE CS",
+      "location": "Hyderabad, India",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Hyderabad-India/Application-Engineer---III-HRCS-MYCE-CS_182547",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "asset-mgmt"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:roche:/job/Kent/Field-Service-Engineer-Kent-Location_202610-127342-1",
+      "company": "Roche",
+      "title": "Field Service Engineer Kent Location",
+      "location": "Kent",
+      "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Kent/Field-Service-Engineer-Kent-Location_202610-127342-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:roche:/job/Lincolnshire/Field-Service-Engineer----Grantham-to-Peterborough-Location_202610-127371-1",
+      "company": "Roche",
+      "title": "Field Service Engineer -  Grantham to Peterborough Location",
+      "location": "2 Locations",
+      "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Lincolnshire/Field-Service-Engineer----Grantham-to-Peterborough-Location_202610-127371-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "ashby:supabase:950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+      "company": "Supabase",
+      "title": "Data API Engineer",
+      "location": "Remote, Global",
+      "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+      "ats": "ashby",
+      "posted_at": "2026-10-24T16:04:20.762+00:00",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "amazon:10587705",
+      "company": "Amazon",
+      "title": "Machine learning engineer II, AWS Inference Optimization",
+      "location": "Santa Clara, California, USA",
+      "url": "https://www.amazon.jobs/en/jobs/10587705/machine-learning-engineer-ii-aws-inference-optimization",
+      "ats": "amazon",
+      "posted_at": "2026-10-24",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:ibqbjb:160494",
+      "company": "Honeywell",
+      "title": "Intern Bachelors AI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494",
+      "ats": "oraclecloud",
+      "posted_at": "2026-10-24",
+      "category": "internship",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:ibqbjb:160495",
+      "company": "Honeywell",
+      "title": "Intern Bachelors Software Eng",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160495",
+      "ats": "oraclecloud",
+      "posted_at": "2026-10-24",
+      "category": "internship",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:ibqbjb:160490",
+      "company": "Honeywell",
+      "title": "Intern Bachelors AI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160490",
+      "ats": "oraclecloud",
+      "posted_at": "2026-10-24",
+      "category": "internship",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:ibqbjb:160491",
+      "company": "Honeywell",
+      "title": "Intern Bachelors Software Eng",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160491",
+      "ats": "oraclecloud",
+      "posted_at": "2026-10-24",
+      "category": "internship",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:ibqbjb:160492",
+      "company": "Honeywell",
+      "title": "Intern Bachelors Software Eng",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160492",
+      "ats": "oraclecloud",
+      "posted_at": "2026-10-24",
+      "category": "internship",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:ibqbjb:160493",
+      "company": "Honeywell",
+      "title": "Intern Bachelors AI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160493",
+      "ats": "oraclecloud",
+      "posted_at": "2026-10-24",
+      "category": "internship",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:ibqbjb:160849",
+      "company": "Honeywell",
+      "title": "Software Engr II",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160849",
+      "ats": "oraclecloud",
+      "posted_at": "2026-10-24",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-24T16:07:37.017218+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true
+    },
     {
       "uid": "workday:asml:/job/Veldhoven-Netherlands/HBO-deeltijd-IT-Engineer---ICT_J-00354206",
       "company": "ASML",
@@ -1268,22 +1478,6 @@
       "title": "Optical Design Engineer",
       "location": "2 Locations",
       "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Carlsbad-California-US/Optical-Design-Engineer_2028305",
-      "ats": "workday",
-      "posted_at": "Posted Yesterday",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-23T23:38:00.152683+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:cisco:/job/San-Jose-California-US/ASIC-Engineering-Technical-Leader_2029332",
-      "company": "Cisco",
-      "title": "ASIC Engineering Technical Leader",
-      "location": "2 Locations",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineering-Technical-Leader_2029332",
       "ats": "workday",
       "posted_at": "Posted Yesterday",
       "category": "full-time",
@@ -4866,24 +5060,6 @@
       "active": true
     },
     {
-      "uid": "ashby:legora:c3c6e7d1-b4e8-488e-9481-d0e1fb996761",
-      "company": "Legora",
-      "title": "AI Automation & Enablement Engineer",
-      "location": "New York City",
-      "url": "https://jobs.ashbyhq.com/legora/c3c6e7d1-b4e8-488e-9481-d0e1fb996761",
-      "ats": "ashby",
-      "posted_at": "2026-10-23T15:25:10.268+00:00",
-      "category": "full-time",
-      "tags": [
-        "ai",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-23T17:37:19.645454+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
       "uid": "greenhouse:isomorphiclabs:6136171004",
       "company": "Isomorphic Labs",
       "title": "Security Engineer (Corporate Security), London",
@@ -7148,22 +7324,6 @@
       "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10NX-Singapore/ENGINEER---PROBE-SHIFT-EQUIPMENT_JR88371",
       "ats": "workday",
       "posted_at": "Posted Today",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-23T17:37:19.645454+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:amat:/job/ShanghaiCHN/Customer-Engineer-MDP_R2626977",
-      "company": "Applied Materials",
-      "title": "Customer Engineer-MDP",
-      "location": "Shanghai,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShanghaiCHN/Customer-Engineer-MDP_R2626977",
-      "ats": "workday",
-      "posted_at": "Posted Yesterday",
       "category": "full-time",
       "tags": [
         "swe"
@@ -18952,7 +19112,7 @@
       "location": "Los Angeles, CA",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8191664",
       "ats": "greenhouse",
-      "posted_at": "2026-10-23T20:22:45-04:00",
+      "posted_at": "2026-10-24T08:18:55-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -29865,7 +30025,7 @@
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T08:03:51-04:00",
+      "posted_at": "2026-10-24T12:03:30-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -40420,22 +40580,6 @@
       "active": true
     },
     {
-      "uid": "amazon:10584680",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, AWS Emerging Planning Solutions",
-      "location": "Arlington, Virginia, USA",
-      "url": "https://www.amazon.jobs/en/jobs/10584680/software-development-engineer-ii-aws-emerging-planning-solutions",
-      "ats": "amazon",
-      "posted_at": "2026-10-20",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-20T22:27:27.687014+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
       "uid": "amazon:10584670",
       "company": "Amazon",
       "title": "Software Development Engineer II, Amazon Vulnerability Management Service (AVMS)",
@@ -42689,22 +42833,6 @@
       "title": "Software Development Engineer, Amazon 1P Credito",
       "location": "Sao Paulo, Sao Paulo, BRA",
       "url": "https://www.amazon.jobs/en/jobs/10584131/software-development-engineer-amazon-1p-credito",
-      "ats": "amazon",
-      "posted_at": "2026-10-20",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-20T19:25:43.675630+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "amazon:10584437",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, AWS Emerging Planning Solutions",
-      "location": "Dallas, Texas, USA",
-      "url": "https://www.amazon.jobs/en/jobs/10584437/software-development-engineer-ii-aws-emerging-planning-solutions",
       "ats": "amazon",
       "posted_at": "2026-10-20",
       "category": "full-time",
@@ -83916,7 +84044,7 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
       "ats": "greenhouse",
-      "posted_at": "2026-10-23T20:22:48-04:00",
+      "posted_at": "2026-10-24T08:18:58-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -132018,22 +132146,6 @@
       "active": true
     },
     {
-      "uid": "workday:amat:/job/HefeiCHN/Customer-Engineer-DDP-CMP-IMP_R2630439",
-      "company": "Applied Materials",
-      "title": "Customer Engineer-DDP/CMP/IMP",
-      "location": "Hefei,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HefeiCHN/Customer-Engineer-DDP-CMP-IMP_R2630439",
-      "ats": "workday",
-      "posted_at": "Posted 16 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-08T15:02:08.571895+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:globalfoundries:/job/IND---Karnataka---Bengaluru---North/Java-Full-Stack-Developer---Core-Java--Springboot--Angular--Jenkins--AWS-_JR-2602888",
       "company": "GlobalFoundries",
       "title": "Java Full Stack Developer- (Core Java, Springboot, Angular, Jenkins, AWS)",
@@ -142963,22 +143075,6 @@
       "ats": "oraclecloud",
       "posted_at": "2026-10-07",
       "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-07T09:29:19.869746+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:iaziqy:303104",
-      "company": "Uber",
-      "title": "2027 Account Management Intern, Madrid, Spain",
-      "location": "Madrid, Spain",
-      "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/job/303104",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-16",
-      "category": "internship",
       "tags": [
         "swe"
       ],
@@ -155308,22 +155404,6 @@
       "active": true
     },
     {
-      "uid": "workday:amat:/job/ShanghaiCHN/Customer-Engineer-EPI-IMP_R2630210",
-      "company": "Applied Materials",
-      "title": "Customer Engineer-EPI/IMP",
-      "location": "Shanghai,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShanghaiCHN/Customer-Engineer-EPI-IMP_R2630210",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-06T06:39:00.272558+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:amat:/job/ShanghaiCHN/Customer-Engineer-IV-ETCH_R2628225",
       "company": "Applied Materials",
       "title": "Customer Engineer IV-ETCH",
@@ -164803,22 +164883,6 @@
       "active": true
     },
     {
-      "uid": "workday:cisco:/job/Bangalore-India/Software-QA-Engineer_2022394-1",
-      "company": "Cisco",
-      "title": "Software QA Engineer",
-      "location": "Bangalore, India",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-QA-Engineer_2022394-1",
-      "ats": "workday",
-      "posted_at": "Posted 19 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-05T09:17:11.218071+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:cisco:/job/Bangalore-India/Software-Engineer_2025517-1",
       "company": "Cisco",
       "title": "Software Engineer",
@@ -172717,23 +172781,6 @@
       "url": "https://job-boards.greenhouse.io/3redpartners/jobs/8631086002",
       "ats": "greenhouse",
       "posted_at": "2026-10-02T12:57:36-04:00",
-      "category": "full-time",
-      "tags": [
-        "quant"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "greenhouse:3redpartners:8624128002",
-      "company": "3Red Partners",
-      "title": "Graduate Quantitative Researcher (2027 Incoming Graduate, Full-Time)",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/3redpartners/jobs/8624128002",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-02T12:58:01-04:00",
       "category": "full-time",
       "tags": [
         "quant"
@@ -212394,23 +212441,6 @@
       "backfill": true
     },
     {
-      "uid": "oraclecloud:jpmc:210784530",
-      "company": "J.P. Morgan",
-      "title": "Software Engineer III - DevSecOps - Kubernetes Security",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784530",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-19",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "oraclecloud:jpmc:210782760",
       "company": "J.P. Morgan",
       "title": "International Private Bank- Business Developer (Canada Market)- Global Families Group",
@@ -214781,23 +214811,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210619687",
       "ats": "oraclecloud",
       "posted_at": "2025-09-19",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "oraclecloud:jpmc:210588623",
-      "company": "J.P. Morgan",
-      "title": "Software Engineer III - Backend Engineering - Java/Kotlin",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210588623",
-      "ats": "oraclecloud",
-      "posted_at": "2025-01-13",
       "category": "full-time",
       "tags": [
         "bank"
@@ -222381,24 +222394,6 @@
       "title": "Intern, Fund Finance",
       "location": "Singapore",
       "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Fund-Finance_REQ-10122129",
-      "ats": "workday",
-      "posted_at": "Posted 29 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:ing:/job/Manila-Arthaland-Century-Pacific-Tower/Finance-Intern--Wholesale-Banking--Manila-Branch-_REQ-10119098-1",
-      "company": "ING",
-      "title": "Finance Intern (Wholesale Banking, Manila Branch)",
-      "location": "Manila (Arthaland Century Pacific Tower)",
-      "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Manila-Arthaland-Century-Pacific-Tower/Finance-Intern--Wholesale-Banking--Manila-Branch-_REQ-10119098-1",
       "ats": "workday",
       "posted_at": "Posted 29 Days Ago",
       "category": "internship",
@@ -257540,6 +257535,23 @@
       "url": "https://www.pathai.com/careers/8860672002?gh_jid=8860672002",
       "ats": "greenhouse",
       "posted_at": "2026-10-01T13:08:05-04:00",
+      "category": "full-time",
+      "tags": [
+        "ai"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T02:23:20.053238+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "greenhouse:pathai:8786343002",
+      "company": "PathAI",
+      "title": "Machine Learning Engineer III (Applied Research & Model Development)",
+      "location": "Boston (Onsite), New York (Onsite) Preferred, or Remote",
+      "url": "https://www.pathai.com/careers/8786343002?gh_jid=8786343002",
+      "ats": "greenhouse",
+      "posted_at": "2026-10-24T09:42:05-04:00",
       "category": "full-time",
       "tags": [
         "ai"
@@ -334761,6 +334773,24 @@
       "backfill": true
     },
     {
+      "uid": "workday:abb:/job/Mannheim-Baden-Wurttemberg-Germany/Internship---Master-Thesis-Student--m-f-d--AI-for-Network-Security-and-Orchestration_JR00043254",
+      "company": "ABB",
+      "title": "Internship / Master Thesis Student (m/f/d) AI for Network Security and Orchestration",
+      "location": "Mannheim, Baden-Wurttemberg, Germany",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Mannheim-Baden-Wurttemberg-Germany/Internship---Master-Thesis-Student--m-f-d--AI-for-Network-Security-and-Orchestration_JR00043254",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:abb:/job/Mannheim-Baden-Wurttemberg-Germany/MSc-or-BSc-Thesis---Internship--m-f-d--AI-for-Intent-Based-Networking_JR00043251-1",
       "company": "ABB",
       "title": "MSc or BSc Thesis / Internship (m/f/d) AI for Intent-Based Networking",
@@ -334775,6 +334805,24 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-10-24T02:23:20.053238+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Mannheim-Baden-Wurttemberg-Germany/MSc-or-BSc-Thesis---Internship--m-f-d--Industrial-Internet-Speedtest_JR00043286",
+      "company": "ABB",
+      "title": "MSc or BSc Thesis / Internship (m/f/d) Industrial Internet Speedtest",
+      "location": "Mannheim, Baden-Wurttemberg, Germany",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Mannheim-Baden-Wurttemberg-Germany/MSc-or-BSc-Thesis---Internship--m-f-d--Industrial-Internet-Speedtest_JR00043286",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
       "active": true,
       "backfill": true
     },
@@ -353700,7 +353748,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T08:03:41-04:00",
+      "posted_at": "2026-10-24T12:03:24-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -355417,7 +355465,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T08:03:48-04:00",
+      "posted_at": "2026-10-24T12:03:27-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -355468,7 +355516,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T08:03:43-04:00",
+      "posted_at": "2026-10-24T12:03:26-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -366835,23 +366883,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10566956/software-development-engineer-aws-transactional-services",
       "ats": "amazon",
       "posted_at": "2026-10-01",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "amazon:10567987",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Conversational Ads Experience",
-      "location": "New York, New York, USA",
-      "url": "https://www.amazon.jobs/en/jobs/10567987/software-development-engineer-conversational-ads-experience",
-      "ats": "amazon",
-      "posted_at": "2026-10-02",
       "category": "full-time",
       "tags": [
         "swe"
@@ -390041,23 +390072,6 @@
       "ats": "amazon",
       "posted_at": "2026-09-01",
       "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "amazon:10530479",
-      "company": "Amazon",
-      "title": "IMDb Data Scientist, IMDb Insights and Analytics",
-      "location": "Pittsburgh, Pennsylvania, USA",
-      "url": "https://www.amazon.jobs/en/jobs/10530479/imdb-data-scientist-imdb-insights-and-analytics",
-      "ats": "amazon",
-      "posted_at": "2026-09-04",
-      "category": "internship",
       "tags": [
         "swe"
       ],
@@ -433706,23 +433720,6 @@
       "backfill": true
     },
     {
-      "uid": "jibe:careers.rivian.com:32637",
-      "company": "Rivian",
-      "title": "Operations Coordinator, Autonomy Systems Validation (2nd Shift)",
-      "location": "Richmond, British Columbia, Canada",
-      "url": "https://us-careers-rivian.icims.com/jobs/32637/login",
-      "ats": "jibe",
-      "posted_at": "2026-08-07T16:43:00+0000",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "jibe:careers.rivian.com:32343",
       "company": "Rivian",
       "title": "Embedded Software Engineer II, Charging & Energy",
@@ -472381,23 +472378,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:amat:/job/WuxiCHN/Customer-Engineer---C1_R2627644",
-      "company": "Applied Materials",
-      "title": "Customer Engineer - C1",
-      "location": "Wuxi,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/WuxiCHN/Customer-Engineer---C1_R2627644",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:amat:/job/YixingCHN/Customer-Engineer---C1_R2627647",
       "company": "Applied Materials",
       "title": "Customer Engineer - C1",
@@ -477532,23 +477512,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:amat:/job/ShanghaiCHN/Customer-Engineer-ETCH_R2626648",
-      "company": "Applied Materials",
-      "title": "Customer Engineer-ETCH",
-      "location": "Shanghai,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShanghaiCHN/Customer-Engineer-ETCH_R2626648",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:amat:/job/ShenzhenCHN/Customer-Engineer--CMP-EPI-ETCH_R2626646",
       "company": "Applied Materials",
       "title": "Customer Engineer -CMP/EPI/ETCH",
@@ -478280,23 +478243,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:amat:/job/HefeiCHN/Customer-Engineer-DFT-C1_R2624071",
-      "company": "Applied Materials",
-      "title": "Customer Engineer-DFT-C1",
-      "location": "Hefei,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HefeiCHN/Customer-Engineer-DFT-C1_R2624071",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:amat:/job/Santa-ClaraCA/Systems-Engineer---RF-Sensors_R2625694",
       "company": "Applied Materials",
       "title": "Systems Engineer - RF Sensors",
@@ -478506,23 +478452,6 @@
       "title": "Customer Engineer III-IMP",
       "location": "Shanghai,CHN",
       "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShanghaiCHN/Customer-Engineer-III-IMP_R2625359",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:amat:/job/ShenzhenCHN/Customer-Engineer-II-MDP_R2625365",
-      "company": "Applied Materials",
-      "title": "Customer Engineer II-MDP",
-      "location": "Shenzhen,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShenzhenCHN/Customer-Engineer-II-MDP_R2625365",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -479118,23 +479047,6 @@
       "title": "R&D Process Engineer (Etch)",
       "location": "Singapore,SGP",
       "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/R-D-Process-Engineer--Etch-Packaging-_R2514456",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:amat:/job/ShanghaiCHN/Customer-Engineer-Epi_R2624742",
-      "company": "Applied Materials",
-      "title": "Customer Engineer-Epi",
-      "location": "Shanghai,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShanghaiCHN/Customer-Engineer-Epi_R2624742",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -480605,6 +480517,57 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-10-24T12:08:29.088407+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:amat:/job/SingaporeSGP/Industrial-Engineering-Intern_R2614287",
+      "company": "Applied Materials",
+      "title": "Industrial Engineering Intern",
+      "location": "Singapore,SGP",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Industrial-Engineering-Intern_R2614287",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:amat:/job/SingaporeSGP/Process-Support-Engineer--Epitaxy-_R2616775",
+      "company": "Applied Materials",
+      "title": "Process Support Engineer (Epitaxy)",
+      "location": "Singapore,SGP",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Process-Support-Engineer--Epitaxy-_R2616775",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:amat:/job/SingaporeSGP/Process-Support-Engineer--New-College-Graduate-_R2616773",
+      "company": "Applied Materials",
+      "title": "Process Support Engineer (New College Graduate)",
+      "location": "Singapore,SGP",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Process-Support-Engineer--New-College-Graduate-_R2616773",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-24T16:07:37.017218+00:00",
       "active": true,
       "backfill": true
     },
@@ -501149,23 +501112,6 @@
       "title": "Quality Engineer II",
       "location": "Korea, Republic of",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157763",
-      "ats": "oraclecloud",
-      "posted_at": "2026-09-17",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-24T02:23:20.053238+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "oraclecloud:ibqbjb:157595",
-      "company": "Honeywell",
-      "title": "Systems Engr I",
-      "location": "Pune, Maharashtra, India",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157595",
       "ats": "oraclecloud",
       "posted_at": "2026-09-17",
       "category": "full-time",
@@ -526234,7 +526180,7 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
       "ats": "greenhouse",
-      "posted_at": "2026-10-23T20:22:44-04:00",
+      "posted_at": "2026-10-24T08:18:54-04:00",
       "category": "full-time",
       "tags": [
         "swe"
