@@ -1,7 +1,122 @@
 {
-  "generated_at": "2026-10-25T21:05:07.853834+00:00",
-  "count": 34674,
+  "generated_at": "2026-10-25T23:23:15.899075+00:00",
+  "count": 34672,
   "postings": [
+    {
+      "uid": "ashby:skydio:f1a72f5b-6157-47c1-8de9-379a32c7419f",
+      "company": "Skydio",
+      "title": "PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027",
+      "location": "San Mateo, California, United States",
+      "url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f",
+      "ats": "ashby",
+      "posted_at": "2026-10-25T23:03:11.566+00:00",
+      "category": "internship",
+      "tags": [
+        "ai",
+        "swe"
+      ],
+      "first_seen": "2026-10-25T23:23:15.899075+00:00",
+      "last_seen": "2026-10-25T23:23:15.899075+00:00",
+      "active": true
+    },
+    {
+      "uid": "ashby:skydio:fe26fdf8-15b2-44e6-8e43-ace13431453c",
+      "company": "Skydio",
+      "title": "PhD Autonomy Engineer Intern, 2027",
+      "location": "San Mateo, California, United States",
+      "url": "https://jobs.ashbyhq.com/skydio/fe26fdf8-15b2-44e6-8e43-ace13431453c",
+      "ats": "ashby",
+      "posted_at": "2026-10-25T23:06:11.158+00:00",
+      "category": "internship",
+      "tags": [
+        "ai",
+        "swe"
+      ],
+      "first_seen": "2026-10-25T23:23:15.899075+00:00",
+      "last_seen": "2026-10-25T23:23:15.899075+00:00",
+      "active": true
+    },
+    {
+      "uid": "ashby:skydio:d39c46ce-a4e9-45d2-99bf-17e3b7dac34b",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern, 2027",
+      "location": "San Mateo, California, United States",
+      "url": "https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b",
+      "ats": "ashby",
+      "posted_at": "2026-10-25T23:09:06.779+00:00",
+      "category": "internship",
+      "tags": [
+        "ai",
+        "swe"
+      ],
+      "first_seen": "2026-10-25T23:23:15.899075+00:00",
+      "last_seen": "2026-10-25T23:23:15.899075+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:spgi:/job/Cape-Town-ZA/Research-Analyst--Upstream-Asset-Valuation_332343-1",
+      "company": "S&P Global",
+      "title": "Research Analyst, Upstream Asset Valuation",
+      "location": "2 Locations",
+      "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cape-Town-ZA/Research-Analyst--Upstream-Asset-Valuation_332343-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "fintech"
+      ],
+      "first_seen": "2026-10-25T23:23:15.899075+00:00",
+      "last_seen": "2026-10-25T23:23:15.899075+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:nvidia:/job/China-Shanghai/ASIC-Engineer--Networking-Chip-Design---New-College-Grad-2027_JR2028456",
+      "company": "NVIDIA",
+      "title": "ASIC Engineer, Networking Chip Design - New College Grad 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineer--Networking-Chip-Design---New-College-Grad-2027_JR2028456",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-25T23:23:15.899075+00:00",
+      "last_seen": "2026-10-25T23:23:15.899075+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:nvidia:/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2027_JR2028452",
+      "company": "NVIDIA",
+      "title": "ASIC Physical Design Engineer - New College Grad 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2027_JR2028452",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-25T23:23:15.899075+00:00",
+      "last_seen": "2026-10-25T23:23:15.899075+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:cisco:/job/Krakow-Poland/Software-Engineer_2028685",
+      "company": "Cisco",
+      "title": "Software Engineer",
+      "location": "Krakow, Poland",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Krakow-Poland/Software-Engineer_2028685",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-25T23:23:15.899075+00:00",
+      "last_seen": "2026-10-25T23:23:15.899075+00:00",
+      "active": true
+    },
     {
       "uid": "oraclecloud:jpmc:210801787",
       "company": "J.P. Morgan",
@@ -419,6 +534,22 @@
       "tags": [
         "swe",
         "europe"
+      ],
+      "first_seen": "2026-10-25T11:51:03.093118+00:00",
+      "last_seen": "2026-10-25T11:51:03.093118+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:nvidia:/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556",
+      "company": "NVIDIA",
+      "title": "Firmware Engineer",
+      "location": "Israel, Tel Aviv",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
       ],
       "first_seen": "2026-10-25T11:51:03.093118+00:00",
       "last_seen": "2026-10-25T11:51:03.093118+00:00",
@@ -30536,7 +30667,7 @@
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-25T17:03:40-04:00",
+      "posted_at": "2026-10-25T19:18:50-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -47818,22 +47949,6 @@
       "tags": [
         "fintech",
         "uk"
-      ],
-      "first_seen": "2026-10-20T10:35:01.326242+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:fis:/job/PHL-MANI-2305/Systems-Operations-Administrator-II_JR0309792",
-      "company": "FIS",
-      "title": "Systems Operations Administrator II",
-      "location": "PHL MANI 2305",
-      "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/PHL-MANI-2305/Systems-Operations-Administrator-II_JR0309792",
-      "ats": "workday",
-      "posted_at": "Posted 5 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "fintech"
       ],
       "first_seen": "2026-10-20T10:35:01.326242+00:00",
       "last_seen": "2026-10-25T01:23:16.167964+00:00",
@@ -92764,6 +92879,22 @@
       ],
       "first_seen": "2026-10-14T10:48:06.127687+00:00",
       "last_seen": "2026-10-25T01:23:16.167964+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:snapchat:/job/Eindhoven---Netherlands/RTL-Design-Engineer_R0046961",
+      "company": "Snap",
+      "title": "Silicon Design Engineer",
+      "location": "Eindhoven - Netherlands",
+      "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Eindhoven---Netherlands/RTL-Design-Engineer_R0046961",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-14T10:48:06.127687+00:00",
+      "last_seen": "2026-10-25T23:23:15.899075+00:00",
       "active": true
     },
     {
@@ -158109,23 +158240,6 @@
       "active": true
     },
     {
-      "uid": "workday:bbva:/job/11000-Montevideo-Montevideo/AI-PROCESS-ANALYST_JR00110237",
-      "company": "BBVA",
-      "title": "AI PROCESS ANALYST",
-      "location": "11000, Montevideo, Montevideo",
-      "url": "https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/11000-Montevideo-Montevideo/AI-PROCESS-ANALYST_JR00110237",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "europe"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Agentic-automation---AI-Consultant_REQ-10117976-2",
       "company": "ING",
       "title": "Agentic automation & AI Consultant",
@@ -160194,23 +160308,6 @@
       "title": "Associate Project Engineer",
       "location": "Bangalore, Karnataka, India",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Bangalore-Karnataka-India/Associate-Project-Engineer_JR00040208",
-      "ats": "workday",
-      "posted_at": "Posted 20 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:abb:/job/Krakow-Lesser-Poland-Poland/Red-Hat-Ansible-Developer-Engineer_JR00026065-1",
-      "company": "ABB",
-      "title": "Red Hat Ansible Developer Engineer",
-      "location": "Krakow, Lesser Poland, Poland",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Red-Hat-Ansible-Developer-Engineer_JR00026065-1",
       "ats": "workday",
       "posted_at": "Posted 20 Days Ago",
       "category": "full-time",
@@ -216948,23 +217045,6 @@
       "backfill": true
     },
     {
-      "uid": "avature:recruitment.macquarie.com:22923",
-      "company": "Macquarie",
-      "title": "AI Engineer",
-      "location": "Sydney Office",
-      "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=22923",
-      "ats": "avature",
-      "posted_at": null,
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "avature:recruitment.macquarie.com:22937",
       "company": "Macquarie",
       "title": "Client Portfolio Analyst – Systematic Investments",
@@ -223944,23 +224024,6 @@
       "backfill": true
     },
     {
-      "uid": "oraclecloud:icbpjb:4353",
-      "company": "Lazard",
-      "title": "2027 M&A Internship - Amsterdam",
-      "location": "Netherlands",
-      "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/4353",
-      "ats": "oraclecloud",
-      "posted_at": "2026-09-29",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "oraclecloud:icbpjb:6644",
       "company": "Lazard",
       "title": "Quant Developer / Researcher  (London)",
@@ -229381,25 +229444,6 @@
       "url": "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/SHELL-CENTRE--CHENNAI/Technical-Specialist---Reliability-Core_R209101-1",
       "ats": "workday",
       "posted_at": "Posted 24 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "commodities",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:shell:/job/Rotterdam---Weena/Trading-Operator_R206799",
-      "company": "Shell",
-      "title": "Trading & Supply Optimizer",
-      "location": "Rotterdam - Weena",
-      "url": "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Rotterdam---Weena/Trading-Operator_R206799",
-      "ats": "workday",
-      "posted_at": "Posted 6 Days Ago",
       "category": "full-time",
       "tags": [
         "commodities",
@@ -261600,7 +261644,7 @@
     {
       "uid": "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
       "company": "Skydio",
-      "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
+      "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027",
       "location": "San Mateo, California, United States",
       "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
       "ats": "ashby",
@@ -281812,23 +281856,6 @@
       "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5369462008",
       "ats": "greenhouse",
       "posted_at": "2026-08-26T11:02:59-04:00",
-      "category": "full-time",
-      "tags": [
-        "quantum"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "greenhouse:queracomputinginc:5128197008",
-      "company": "QuEra",
-      "title": "Scientific Software Engineer- Shuttle Compilation",
-      "location": "Boston, MA, USA",
-      "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5128197008",
-      "ats": "greenhouse",
-      "posted_at": "2026-09-09T16:55:14-04:00",
       "category": "full-time",
       "tags": [
         "quantum"
@@ -315764,24 +315791,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:asml:/job/Austin-TX-USA/Field-Applications-Engineer---Taylor--TX_J-00350254",
-      "company": "ASML",
-      "title": "Field Applications Engineer - Taylor, TX",
-      "location": "Austin, TX, USA",
-      "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Austin-TX-USA/Field-Applications-Engineer---Taylor--TX_J-00350254",
-      "ats": "workday",
-      "posted_at": "Posted 6 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:asml:/job/Veldhoven-Netherlands/Instructional-Design---Communication-internship--D-E-training-content-development_J-00344208",
       "company": "ASML",
       "title": "Instructional Design | Communication internship: D&E training content development",
@@ -330812,24 +330821,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:abb:/job/Genova-Genova-Italy/Internship---Cybersecurity-for-OT-Systems_JR00042894",
-      "company": "ABB",
-      "title": "Internship - OT Cybersecurity",
-      "location": "Genova, Genova, Italy",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Genova-Genova-Italy/Internship---Cybersecurity-for-OT-Systems_JR00042894",
-      "ats": "workday",
-      "posted_at": "Posted 25 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:abb:/job/Vaesteras-Sweden/Thesis-work---Learning-Robot-Individual-Physics-Models-from-Calibration-Data-and-Test-Measurements_JR00048961",
       "company": "ABB",
       "title": "Thesis work - Learning Robot-Individual Physics-Models from Calibration Data and Test Measurements",
@@ -331082,24 +331073,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:abb:/job/Vittuone-Milano-Italy/Internship---Procurement-Specialist_JR00023548",
-      "company": "ABB",
-      "title": "Internship - Procurement Specialist",
-      "location": "Vittuone, Milano, Italy",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Vittuone-Milano-Italy/Internship---Procurement-Specialist_JR00023548",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:abb:/job/Bangalore-Karnataka-India/Field-Service-Engineer_JR00041621",
       "company": "ABB",
       "title": "Field Service Engineer",
@@ -331244,24 +331217,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:abb:/job/Stryama-Plovdiv-Bulgaria/Maintenance-Engineer_JR00048506",
-      "company": "ABB",
-      "title": "Maintenance Engineer",
-      "location": "Stryama, Plovdiv, Bulgaria",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Stryama-Plovdiv-Bulgaria/Maintenance-Engineer_JR00048506",
-      "ats": "workday",
-      "posted_at": "Posted 27 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:abb:/job/USA-OR-Clackamas/Computer-Applications-Engineer_JR00043436",
       "company": "ABB",
       "title": "Computer Applications Engineer",
@@ -331285,24 +331240,6 @@
       "title": "Digital Automation Project Engineer",
       "location": "Lima, Lima, Peru",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Lima-Lima-Peru/Digital-Automation-Project-Engineer_JR00048197",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:abb:/job/Bergamo-Bergamo-Italy/Senior-Power-Electronic-Engineer-SSCB-Platform_JR00045695",
-      "company": "ABB",
-      "title": "Power Electronic Engineer SSCB Platform",
-      "location": "Bergamo, Bergamo, Italy",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Bergamo-Bergamo-Italy/Senior-Power-Electronic-Engineer-SSCB-Platform_JR00045695",
       "ats": "workday",
       "posted_at": "Posted 13 Days Ago",
       "category": "full-time",
@@ -333274,6 +333211,24 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-10-25T18:29:08.394260+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Mannheim-Baden-Wurttemberg-Germany/Duales-Studium-Integrated-Engineering---Projekt-Engineering--m-w-d--2027_JR00037335",
+      "company": "ABB",
+      "title": "Duales Studium Integrated Engineering – Projekt Engineering (m/w/d) 2027",
+      "location": "Mannheim, Baden-Wurttemberg, Germany",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Mannheim-Baden-Wurttemberg-Germany/Duales-Studium-Integrated-Engineering---Projekt-Engineering--m-w-d--2027_JR00037335",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-25T23:23:15.899075+00:00",
       "active": true,
       "backfill": true
     },
@@ -352147,7 +352102,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-25T17:03:33-04:00",
+      "posted_at": "2026-10-25T19:18:34-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -353864,7 +353819,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-25T17:03:37-04:00",
+      "posted_at": "2026-10-25T19:18:42-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -353915,7 +353870,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-25T17:03:35-04:00",
+      "posted_at": "2026-10-25T19:18:35-04:00",
       "category": "internship",
       "tags": [
         "swe"

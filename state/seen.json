@@ -212652,7 +212652,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "avature:recruitment.macquarie.com:22937": {
@@ -227842,7 +227842,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "oraclecloud:icbpjb:6674": {
@@ -237088,7 +237088,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:shell:/job/Bangalore-RMZ-ECO-WORLD/IT-Operations-Engineer---Realtime_R210575-1": {
@@ -276895,7 +276895,7 @@
   "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9": {
     "uid": "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
     "company": "Skydio",
-    "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
+    "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027",
     "location": "San Mateo, California, United States",
     "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
     "ats": "ashby",
@@ -307395,7 +307395,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "greenhouse:queracomputinginc:4982246008": {
@@ -356601,7 +356601,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:asml:/job/Veldhoven-Netherlands/Instructional-Design---Communication-internship--D-E-training-content-development_J-00344208": {
@@ -382971,7 +382971,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Vaesteras-Sweden/Thesis-work---Learning-Robot-Individual-Physics-Models-from-Calibration-Data-and-Test-Measurements_JR00048961": {
@@ -383475,7 +383475,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Bangalore-Karnataka-India/Field-Service-Engineer_JR00041621": {
@@ -383781,7 +383781,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Przasnysz-Masovian-Poland/Project-Engineer_JR00024971": {
@@ -384033,7 +384033,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Houston-Texas-United-States-of-America/Digital-Engineer---Process-Performance-Optimization_JR00046431": {
@@ -388334,8 +388334,8 @@
       "europe"
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
-    "last_seen": "2026-10-23T02:25:20.126255+00:00",
-    "active": false,
+    "last_seen": "2026-10-25T23:23:15.899075+00:00",
+    "active": true,
     "backfill": true
   },
   "workday:abb:/job/Shanghai-Shanghai-China/Testing-Engineer_JR00033912": {
@@ -411277,7 +411277,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-25T17:03:33-04:00",
+    "posted_at": "2026-10-25T19:18:34-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -413606,7 +413606,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-25T17:03:37-04:00",
+    "posted_at": "2026-10-25T19:18:42-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -413657,7 +413657,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-25T17:03:35-04:00",
+    "posted_at": "2026-10-25T19:18:35-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -639456,7 +639456,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Agentic-automation---AI-Consultant_REQ-10117976-2": {
     "uid": "workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Agentic-automation---AI-Consultant_REQ-10117976-2",
@@ -643137,7 +643137,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:novartis:/job/Other-Russia/Lab-Equipment-Engineer_REQ-10088509": {
     "uid": "workday:novartis:/job/Other-Russia/Lab-Equipment-Engineer_REQ-10088509",
@@ -748213,7 +748213,7 @@
   "workday:snapchat:/job/Eindhoven---Netherlands/RTL-Design-Engineer_R0046961": {
     "uid": "workday:snapchat:/job/Eindhoven---Netherlands/RTL-Design-Engineer_R0046961",
     "company": "Snap",
-    "title": "RTL Design Engineer",
+    "title": "Silicon Design Engineer",
     "location": "Eindhoven - Netherlands",
     "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Eindhoven---Netherlands/RTL-Design-Engineer_R0046961",
     "ats": "workday",
@@ -748223,8 +748223,8 @@
       "swe"
     ],
     "first_seen": "2026-10-14T10:48:06.127687+00:00",
-    "last_seen": "2026-10-14T10:48:06.127687+00:00",
-    "active": false
+    "last_seen": "2026-10-25T23:23:15.899075+00:00",
+    "active": true
   },
   "avature:synopsys.avature.net:19210": {
     "uid": "avature:synopsys.avature.net:19210",
@@ -803502,7 +803502,7 @@
     ],
     "first_seen": "2026-10-20T10:35:01.326242+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:payoneer:8284892": {
     "uid": "greenhouse:payoneer:8284892",
@@ -825250,7 +825250,7 @@
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-25T17:03:40-04:00",
+    "posted_at": "2026-10-25T19:18:50-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -858259,7 +858259,7 @@
     ],
     "first_seen": "2026-10-25T11:51:03.093118+00:00",
     "last_seen": "2026-10-25T11:51:03.093118+00:00",
-    "active": false
+    "active": true
   },
   "workday:cadence:/job/PETAH-TIKVA/Application-Engineer---Physical-Design--Back-End-_R56948": {
     "uid": "workday:cadence:/job/PETAH-TIKVA/Application-Engineer---Physical-Design--Back-End-_R56948",
@@ -858776,6 +858776,121 @@
     ],
     "first_seen": "2026-10-25T21:05:07.853834+00:00",
     "last_seen": "2026-10-25T21:05:07.853834+00:00",
+    "active": true
+  },
+  "ashby:skydio:f1a72f5b-6157-47c1-8de9-379a32c7419f": {
+    "uid": "ashby:skydio:f1a72f5b-6157-47c1-8de9-379a32c7419f",
+    "company": "Skydio",
+    "title": "PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f",
+    "ats": "ashby",
+    "posted_at": "2026-10-25T23:03:11.566+00:00",
+    "category": "internship",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-25T23:23:15.899075+00:00",
+    "last_seen": "2026-10-25T23:23:15.899075+00:00",
+    "active": true
+  },
+  "ashby:skydio:fe26fdf8-15b2-44e6-8e43-ace13431453c": {
+    "uid": "ashby:skydio:fe26fdf8-15b2-44e6-8e43-ace13431453c",
+    "company": "Skydio",
+    "title": "PhD Autonomy Engineer Intern, 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/fe26fdf8-15b2-44e6-8e43-ace13431453c",
+    "ats": "ashby",
+    "posted_at": "2026-10-25T23:06:11.158+00:00",
+    "category": "internship",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-25T23:23:15.899075+00:00",
+    "last_seen": "2026-10-25T23:23:15.899075+00:00",
+    "active": true
+  },
+  "ashby:skydio:d39c46ce-a4e9-45d2-99bf-17e3b7dac34b": {
+    "uid": "ashby:skydio:d39c46ce-a4e9-45d2-99bf-17e3b7dac34b",
+    "company": "Skydio",
+    "title": "Autonomy Engineer Intern, 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b",
+    "ats": "ashby",
+    "posted_at": "2026-10-25T23:09:06.779+00:00",
+    "category": "internship",
+    "tags": [
+      "ai",
+      "swe"
+    ],
+    "first_seen": "2026-10-25T23:23:15.899075+00:00",
+    "last_seen": "2026-10-25T23:23:15.899075+00:00",
+    "active": true
+  },
+  "workday:spgi:/job/Cape-Town-ZA/Research-Analyst--Upstream-Asset-Valuation_332343-1": {
+    "uid": "workday:spgi:/job/Cape-Town-ZA/Research-Analyst--Upstream-Asset-Valuation_332343-1",
+    "company": "S&P Global",
+    "title": "Research Analyst, Upstream Asset Valuation",
+    "location": "2 Locations",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cape-Town-ZA/Research-Analyst--Upstream-Asset-Valuation_332343-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "fintech"
+    ],
+    "first_seen": "2026-10-25T23:23:15.899075+00:00",
+    "last_seen": "2026-10-25T23:23:15.899075+00:00",
+    "active": true
+  },
+  "workday:nvidia:/job/China-Shanghai/ASIC-Engineer--Networking-Chip-Design---New-College-Grad-2027_JR2028456": {
+    "uid": "workday:nvidia:/job/China-Shanghai/ASIC-Engineer--Networking-Chip-Design---New-College-Grad-2027_JR2028456",
+    "company": "NVIDIA",
+    "title": "ASIC Engineer, Networking Chip Design - New College Grad 2027",
+    "location": "China, Shanghai",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineer--Networking-Chip-Design---New-College-Grad-2027_JR2028456",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-25T23:23:15.899075+00:00",
+    "last_seen": "2026-10-25T23:23:15.899075+00:00",
+    "active": true
+  },
+  "workday:nvidia:/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2027_JR2028452": {
+    "uid": "workday:nvidia:/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2027_JR2028452",
+    "company": "NVIDIA",
+    "title": "ASIC Physical Design Engineer - New College Grad 2027",
+    "location": "China, Shanghai",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2027_JR2028452",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-25T23:23:15.899075+00:00",
+    "last_seen": "2026-10-25T23:23:15.899075+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/Krakow-Poland/Software-Engineer_2028685": {
+    "uid": "workday:cisco:/job/Krakow-Poland/Software-Engineer_2028685",
+    "company": "Cisco",
+    "title": "Software Engineer",
+    "location": "Krakow, Poland",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Krakow-Poland/Software-Engineer_2028685",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-25T23:23:15.899075+00:00",
+    "last_seen": "2026-10-25T23:23:15.899075+00:00",
     "active": true
   }
 }
