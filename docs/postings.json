@@ -1,7 +1,89 @@
 {
-  "generated_at": "2026-10-25T01:23:16.167964+00:00",
-  "count": 34766,
+  "generated_at": "2026-10-25T06:22:54.799335+00:00",
+  "count": 34753,
   "postings": [
+    {
+      "uid": "workday:spgi:/job/Princeton-NJ/Zero-Trust---Microsegmentation-Engineer_332010-1",
+      "company": "S&P Global",
+      "title": "Zero Trust & Microsegmentation Engineer",
+      "location": "2 Locations",
+      "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Princeton-NJ/Zero-Trust---Microsegmentation-Engineer_332010-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "fintech"
+      ],
+      "first_seen": "2026-10-25T06:22:54.799335+00:00",
+      "last_seen": "2026-10-25T06:22:54.799335+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:abb:/job/Hangzhou-Zhejiang-China/Assistant-Test-Engineer--Intern-_JR00051251",
+      "company": "ABB",
+      "title": "Assistant Test Engineer (Intern)",
+      "location": "Hangzhou, Zhejiang, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Hangzhou-Zhejiang-China/Assistant-Test-Engineer--Intern-_JR00051251",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-25T06:22:54.799335+00:00",
+      "last_seen": "2026-10-25T06:22:54.799335+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:abb:/job/Hangzhou-Zhejiang-China/Test-Automation-Engineer_JR00050709-1",
+      "company": "ABB",
+      "title": "Test Automation Engineer",
+      "location": "Hangzhou, Zhejiang, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Hangzhou-Zhejiang-China/Test-Automation-Engineer_JR00050709-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-25T06:22:54.799335+00:00",
+      "last_seen": "2026-10-25T06:22:54.799335+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer_2025406",
+      "company": "Cisco",
+      "title": "Software Engineer",
+      "location": "RTP, North Carolina, US",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2025406",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-25T06:22:54.799335+00:00",
+      "last_seen": "2026-10-25T06:22:54.799335+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer_2027979",
+      "company": "Cisco",
+      "title": "Software Engineer",
+      "location": "2 Locations",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2027979",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-25T06:22:54.799335+00:00",
+      "last_seen": "2026-10-25T06:22:54.799335+00:00",
+      "active": true
+    },
     {
       "uid": "ashby:braintrust:e32cd249-c23d-4064-8f06-949f91a73a98",
       "company": "Braintrust",
@@ -4741,22 +4823,6 @@
       "active": true
     },
     {
-      "uid": "workday:td:/job/Toronto-Ontario/TD-Asset-Management-Investment-Management-Intern-Co-op--Winter-2027-_R_1509082",
-      "company": "TD Bank",
-      "title": "TD Asset Management Investment Management Intern/Co-op (Winter 2027)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/TD-Asset-Management-Investment-Management-Intern-Co-op--Winter-2027-_R_1509082",
-      "ats": "workday",
-      "posted_at": "Posted Yesterday",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-23T17:37:19.645454+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:bmo:/job/Toronto-ON-CAN/Data-Engineer--Fraud-Predictive-Analytics_R260029493",
       "company": "BMO",
       "title": "Data Engineer, Fraud Predictive Analytics",
@@ -5175,22 +5241,6 @@
       "tags": [
         "bank",
         "asset-mgmt"
-      ],
-      "first_seen": "2026-10-23T17:37:19.645454+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:usbank:/job/Cincinnati-OH/Software-Engineer-2---NET-Developer---Finance-Technology-_2026-0032458-1",
-      "company": "U.S. Bank",
-      "title": "Software Engineer 2  (.NET Developer - Finance Technology)",
-      "location": "2 Locations",
-      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/Software-Engineer-2---NET-Developer---Finance-Technology-_2026-0032458-1",
-      "ats": "workday",
-      "posted_at": "Posted Yesterday",
-      "category": "full-time",
-      "tags": [
-        "bank"
       ],
       "first_seen": "2026-10-23T17:37:19.645454+00:00",
       "last_seen": "2026-10-25T01:23:16.167964+00:00",
@@ -8521,23 +8571,6 @@
       "tags": [
         "bank",
         "uk"
-      ],
-      "first_seen": "2026-10-23T12:56:14.245097+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:santander:/job/PGX-Porto-Alegre/PGX-SOFTWARE-ENGINEER-ADM_Req1627779",
-      "company": "Santander",
-      "title": "PGX SOFTWARE ENGINEER ADM",
-      "location": "PGX Porto Alegre",
-      "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/PGX-Porto-Alegre/PGX-SOFTWARE-ENGINEER-ADM_Req1627779",
-      "ats": "workday",
-      "posted_at": "Posted Yesterday",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "europe"
       ],
       "first_seen": "2026-10-23T12:56:14.245097+00:00",
       "last_seen": "2026-10-25T01:23:16.167964+00:00",
@@ -27398,22 +27431,6 @@
       "active": true
     },
     {
-      "uid": "workday:td:/job/Houston-Texas/XMLNAME-2027-Summer-Associate_R_1518189",
-      "company": "TD Bank",
-      "title": "2027 Summer Associate",
-      "location": "Houston, Texas",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Houston-Texas/XMLNAME-2027-Summer-Associate_R_1518189",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-21T22:52:26.470311+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:td:/job/Toronto-Ontario/Data-Scientist-II_R_1514936-1",
       "company": "TD Bank",
       "title": "Data Scientist II",
@@ -30132,7 +30149,7 @@
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T21:19:05-04:00",
+      "posted_at": "2026-10-25T02:18:38-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -41880,22 +41897,6 @@
       "ats": "workday",
       "posted_at": "Posted 4 Days Ago",
       "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-20T19:25:43.675630+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:wf:/job/IRVING-TX/Systems-Operations-Associate--Military-Spouse-Homefront-Heroes-Hiring-Program--HHH-_R-570780-1",
-      "company": "Wells Fargo",
-      "title": "Systems Operations Associate- Military Spouse Homefront Heroes Hiring Program (HHH)",
-      "location": "IRVING, TX",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/IRVING-TX/Systems-Operations-Associate--Military-Spouse-Homefront-Heroes-Hiring-Program--HHH-_R-570780-1",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
-      "category": "full-time",
       "tags": [
         "bank"
       ],
@@ -57311,22 +57312,6 @@
       "title": "Software Integration Engineer",
       "location": "Milford, Michigan, United States of America",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Integration-Engineer_JR-202617918",
-      "ats": "workday",
-      "posted_at": "Posted 5 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-19T17:04:10.375074+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:generalmotors:/job/Pontiac-Michigan-United-States-of-America/Controls-Engineer_JR-202622196",
-      "company": "General Motors",
-      "title": "Controls Engineer",
-      "location": "Pontiac, Michigan, United States of America",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Pontiac-Michigan-United-States-of-America/Controls-Engineer_JR-202622196",
       "ats": "workday",
       "posted_at": "Posted 5 Days Ago",
       "category": "full-time",
@@ -87043,22 +87028,6 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Irvine-California-US/Solutions-Engineer_2026736",
       "ats": "workday",
       "posted_at": "Posted 10 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-14T19:48:57.205316+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:cisco:/job/Dallas-Texas-US/Solutions-Engineer_2028382",
-      "company": "Cisco",
-      "title": "Solutions Engineer",
-      "location": "Dallas, Texas, US",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Dallas-Texas-US/Solutions-Engineer_2028382",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -126376,38 +126345,6 @@
       "active": true
     },
     {
-      "uid": "workday:bmo:/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
-      "company": "BMO",
-      "title": "Software Developer ( Early Career )-15",
-      "location": "Irving, TX, USA",
-      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
-      "ats": "workday",
-      "posted_at": "Posted 16 Days Ago",
-      "category": "new-grad",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-08T20:44:11.702669+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:bmo:/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
-      "company": "BMO",
-      "title": "Software Developer ( Early Career )-15",
-      "location": "Irving, TX, USA",
-      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
-      "ats": "workday",
-      "posted_at": "Posted 16 Days Ago",
-      "category": "new-grad",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-08T20:44:11.702669+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:truist:/job/Atlanta-GA/Software-Engineer_R0120558",
       "company": "Truist",
       "title": "Software Engineer for Card Fraud Strategy Data Delivery",
@@ -162716,22 +162653,6 @@
       "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23069",
       "ats": "oraclecloud",
       "posted_at": "2026-05-25",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "jibe:careers.garmin.com:18685",
-      "company": "Garmin",
-      "title": "Embedded Software Engineer",
-      "location": "Cochrane, Alberta, Canada",
-      "url": "https://canada-garmin.icims.com/jobs/18685/login",
-      "ats": "jibe",
-      "posted_at": "2026-05-21T17:35:00+0000",
       "category": "full-time",
       "tags": [
         "swe"
@@ -204714,40 +204635,6 @@
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Applications-Development-Programmer-Analyst---C12_26990563-1",
       "ats": "workday",
       "posted_at": "Posted 24 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:citi:/job/Irving-Texas-United-States/Threat---Exposure-Management-Platform-Engineer_26997074",
-      "company": "Citi",
-      "title": "Threat & Exposure Management Platform Engineer",
-      "location": "Irving Texas United States",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Threat---Exposure-Management-Platform-Engineer_26997074",
-      "ats": "workday",
-      "posted_at": "Posted 25 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:citi:/job/Irving-Texas-United-States/Data-Platform-Engineer--Cybersecurity--Operations_26997079",
-      "company": "Citi",
-      "title": "Data Platform Engineer, Cybersecurity  Operations",
-      "location": "Irving Texas United States",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Data-Platform-Engineer--Cybersecurity--Operations_26997079",
-      "ats": "workday",
-      "posted_at": "Posted 25 Days Ago",
       "category": "full-time",
       "tags": [
         "bank"
@@ -289907,24 +289794,6 @@
       "backfill": true
     },
     {
-      "uid": "smartrecruiters:BoschGroup:744000152043549",
-      "company": "Bosch",
-      "title": "Data Engineer",
-      "location": "Changsha, cn",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152043549",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-09-28T00:59:27.812Z",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "smartrecruiters:BoschGroup:744000151928744",
       "company": "Bosch",
       "title": "Design Engineer",
@@ -293983,24 +293852,6 @@
       "ats": "smartrecruiters",
       "posted_at": "2026-09-07T05:56:33.824Z",
       "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "smartrecruiters:BoschGroup:744000147837181",
-      "company": "Bosch",
-      "title": "热管理电机系统工程师ystem Engineer_PS-TS",
-      "location": "Changsha, cn",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147837181",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-09-07T05:39:55.711Z",
-      "category": "full-time",
       "tags": [
         "swe",
         "europe"
@@ -298806,24 +298657,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137584299",
       "ats": "smartrecruiters",
       "posted_at": "2026-07-14T03:42:59.447Z",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "smartrecruiters:BoschGroup:744000137577949",
-      "company": "Bosch",
-      "title": "物流工程师Logistics Engineer",
-      "location": "Changsha, cn",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137577949",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-07-14T01:54:22.880Z",
       "category": "full-time",
       "tags": [
         "swe",
@@ -331757,24 +331590,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:abb:/job/USA-MS-Senatobia/Process-Quality-Engineer_JR00046147",
-      "company": "ABB",
-      "title": "Process Quality Engineer",
-      "location": "USA, MS, Senatobia",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/USA-MS-Senatobia/Process-Quality-Engineer_JR00046147",
-      "ats": "workday",
-      "posted_at": "Posted 25 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:abb:/job/Beijing-Beijing-China/R-D-Associate-Engineer_JR00040762",
       "company": "ABB",
       "title": "R&D Associate Engineer",
@@ -353036,7 +352851,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T21:18:58-04:00",
+      "posted_at": "2026-10-25T02:18:31-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -354753,7 +354568,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T21:19:02-04:00",
+      "posted_at": "2026-10-25T02:18:35-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -354804,7 +354619,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T21:19:00-04:00",
+      "posted_at": "2026-10-25T02:18:33-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -378149,23 +377964,6 @@
       "backfill": true
     },
     {
-      "uid": "amazon:10506072",
-      "company": "Amazon",
-      "title": "Software Development Engineer, ASP Core Enablement Shared Services (ESS)",
-      "location": "Seattle, Washington, USA",
-      "url": "https://www.amazon.jobs/en/jobs/10506072/software-development-engineer-asp-core-enablement-shared-services-ess",
-      "ats": "amazon",
-      "posted_at": "2026-08-18",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "amazon:10487617",
       "company": "Amazon",
       "title": "Software Development Engineer, Fulfillment Planning and Execution",
@@ -400358,23 +400156,6 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Wallisellen-Switzerland/Splunk-Solutions-Engineer---Switzerland_2021784-1",
       "ats": "workday",
       "posted_at": "Posted 29 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:cisco:/job/Fulton-Maryland-US/Solutions-Engineer---Federal_2025752",
-      "company": "Cisco",
-      "title": "Solutions Engineer - Federal",
-      "location": "4 Locations",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Fulton-Maryland-US/Solutions-Engineer---Federal_2025752",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"

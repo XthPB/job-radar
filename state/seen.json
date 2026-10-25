@@ -33913,23 +33913,6 @@
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
     "active": true
   },
-  "gsgraphql:170259_GS_MID_CAREER": {
-    "uid": "gsgraphql:170259_GS_MID_CAREER",
-    "company": "Goldman Sachs",
-    "title": "The Core Engineering- CPM Platform Engineering - Associate - Bengaluru",
-    "location": "Hyderabad",
-    "url": "https://higher.gs.com/roles/170259_GS_MID_CAREER",
-    "ats": "gsgraphql",
-    "posted_at": "2026-08-26T03:02:18.564Z",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe"
-    ],
-    "first_seen": "2026-06-09T06:45:41.293693+00:00",
-    "last_seen": "2026-08-26T04:29:02.485769+00:00",
-    "active": false
-  },
   "greenhouse:point72:8487494002": {
     "uid": "greenhouse:point72:8487494002",
     "company": "Point72 / Cubist",
@@ -49791,22 +49774,6 @@
     "last_seen": "2026-08-27T17:01:46.134483+00:00",
     "active": false
   },
-  "lever:meesho:c49e13f6-f027-42f3-98b5-745d83997cbf": {
-    "uid": "lever:meesho:c49e13f6-f027-42f3-98b5-745d83997cbf",
-    "company": "Meesho",
-    "title": "GTM Engineer – Meesho AI Services (MAS)",
-    "location": "Bangalore, Karnataka",
-    "url": "https://jobs.lever.co/meesho/c49e13f6-f027-42f3-98b5-745d83997cbf",
-    "ats": "lever",
-    "posted_at": "2026-06-18T09:22:28.508000+00:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-19T07:14:01.471665+00:00",
-    "last_seen": "2026-08-26T05:04:58.342897+00:00",
-    "active": false
-  },
   "ashby:openai:83730f3e-3a96-476e-afb0-15f1f045ab03": {
     "uid": "ashby:openai:83730f3e-3a96-476e-afb0-15f1f045ab03",
     "company": "OpenAI",
@@ -52632,23 +52599,6 @@
     "last_seen": "2026-09-17T03:04:16.162303+00:00",
     "active": false
   },
-  "greenhouse:quberesearchandtechnologies:8608460002": {
-    "uid": "greenhouse:quberesearchandtechnologies:8608460002",
-    "company": "Qube Research & Technologies",
-    "title": "Quantitative Developer - Python",
-    "location": "Dubai",
-    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8608460002",
-    "ats": "greenhouse",
-    "posted_at": "2026-06-25T10:40:20-04:00",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "europe"
-    ],
-    "first_seen": "2026-06-25T14:56:14.448384+00:00",
-    "last_seen": "2026-08-26T04:29:02.485769+00:00",
-    "active": false
-  },
   "greenhouse:ManGroup:4882442101": {
     "uid": "greenhouse:ManGroup:4882442101",
     "company": "Man Group",
@@ -54985,22 +54935,6 @@
     "first_seen": "2026-06-30T00:27:41.337368+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
     "active": true
-  },
-  "greenhouse:netskope:8037194": {
-    "uid": "greenhouse:netskope:8037194",
-    "company": "Netskope",
-    "title": "Site Reliability Engineer",
-    "location": "Taipei, Taiwan",
-    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8037194",
-    "ats": "greenhouse",
-    "posted_at": "2026-07-28T01:06:28-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-06-30T00:27:41.337368+00:00",
-    "last_seen": "2026-08-26T02:17:34.757512+00:00",
-    "active": false
   },
   "beesite:api-deutschebank.beesite.de:68129": {
     "uid": "beesite:api-deutschebank.beesite.de:68129",
@@ -69351,23 +69285,6 @@
     "last_seen": "2026-10-19T00:16:37.876074+00:00",
     "active": false
   },
-  "gsgraphql:177361_GS_MID_CAREER": {
-    "uid": "gsgraphql:177361_GS_MID_CAREER",
-    "company": "Goldman Sachs",
-    "title": "GBM - Public Dept-Bengaluru-Associate-Quantitative Engineering",
-    "location": "Bengaluru",
-    "url": "https://higher.gs.com/roles/177361_GS_MID_CAREER",
-    "ats": "gsgraphql",
-    "posted_at": "2026-08-19T15:01:29.774Z",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe"
-    ],
-    "first_seen": "2026-07-22T12:29:39.353046+00:00",
-    "last_seen": "2026-08-26T05:04:58.342897+00:00",
-    "active": false
-  },
   "greenhouse:Schonfeld:8024002": {
     "uid": "greenhouse:Schonfeld:8024002",
     "company": "Schonfeld",
@@ -73229,22 +73146,6 @@
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
     "active": true
   },
-  "eightfold:mlp:755957516622": {
-    "uid": "eightfold:mlp:755957516622",
-    "company": "Millennium",
-    "title": "Platform Reliability Engineer",
-    "location": "Bangalore, Karnataka, India",
-    "url": "https://mlp.eightfold.ai/careers/job/755957516622",
-    "ats": "eightfold",
-    "posted_at": 1784246400,
-    "category": "full-time",
-    "tags": [
-      "quant"
-    ],
-    "first_seen": "2026-07-28T08:15:53.450591+00:00",
-    "last_seen": "2026-08-26T05:04:58.342897+00:00",
-    "active": false
-  },
   "eightfold:mlp:755957624276": {
     "uid": "eightfold:mlp:755957624276",
     "company": "Millennium",
@@ -74726,23 +74627,6 @@
     ],
     "first_seen": "2026-07-29T16:57:01.458844+00:00",
     "last_seen": "2026-10-02T15:09:14.387609+00:00",
-    "active": false
-  },
-  "gsgraphql:179370_GS_MID_CAREER": {
-    "uid": "gsgraphql:179370_GS_MID_CAREER",
-    "company": "Goldman Sachs",
-    "title": "The Core Engineering - Surveillance & Models Eng - Analyst - Bengaluru",
-    "location": "Bengaluru",
-    "url": "https://higher.gs.com/roles/179370_GS_MID_CAREER",
-    "ats": "gsgraphql",
-    "posted_at": "2026-08-25T18:59:12.828Z",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe"
-    ],
-    "first_seen": "2026-07-29T17:28:47.688846+00:00",
-    "last_seen": "2026-08-26T04:29:02.485769+00:00",
     "active": false
   },
   "gsgraphql:179373_GS_MID_CAREER": {
@@ -78706,22 +78590,6 @@
     ],
     "first_seen": "2026-08-04T05:29:38.895671+00:00",
     "last_seen": "2026-09-04T05:12:37.930820+00:00",
-    "active": false
-  },
-  "greenhouse:phonepe:7821471003": {
-    "uid": "greenhouse:phonepe:7821471003",
-    "company": "PhonePe",
-    "title": "Software Engineer(3-5 years) Backend",
-    "location": "Bangalore",
-    "url": "https://job-boards.greenhouse.io/phonepe/jobs/7821471003",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-24T01:40:20-04:00",
-    "category": "full-time",
-    "tags": [
-      "fintech"
-    ],
-    "first_seen": "2026-08-04T06:22:01.962506+00:00",
-    "last_seen": "2026-08-26T02:17:34.757512+00:00",
     "active": false
   },
   "ashby:openai:eacbd123-83fb-42c6-a5d5-e914b8e135b8": {
@@ -84599,22 +84467,6 @@
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
     "active": true
   },
-  "workday:adobe:/job/Noida/Sr-Computer-Scientist-1--Front-End-_R170860": {
-    "uid": "workday:adobe:/job/Noida/Sr-Computer-Scientist-1--Front-End-_R170860",
-    "company": "Adobe",
-    "title": "Machine Learning Engineer",
-    "location": "Noida",
-    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Sr-Computer-Scientist-1--Front-End-_R170860",
-    "ats": "workday",
-    "posted_at": "Posted 14 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-11T11:10:43.397104+00:00",
-    "last_seen": "2026-08-26T05:04:58.342897+00:00",
-    "active": false
-  },
   "workday:adobe:/job/Bangalore/Software-Development-Engineer_R171037": {
     "uid": "workday:adobe:/job/Bangalore/Software-Development-Engineer_R171037",
     "company": "Adobe",
@@ -84883,22 +84735,6 @@
     ],
     "first_seen": "2026-08-11T13:49:20.877759+00:00",
     "last_seen": "2026-09-15T22:21:57.238534+00:00",
-    "active": false
-  },
-  "greenhouse:gitlab:8686962002": {
-    "uid": "greenhouse:gitlab:8686962002",
-    "company": "GitLab",
-    "title": "Intermediate Backend Engineer",
-    "location": "Bangalore, India",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8686962002",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-14T06:52:46-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-11T13:49:20.877759+00:00",
-    "last_seen": "2026-08-26T05:56:16.127522+00:00",
     "active": false
   },
   "workday:salesforce:/job/Poland---Warszawa/Deployment-Strategist---Polish-Speaking_JR355426": {
@@ -97557,23 +97393,6 @@
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
     "active": true
   },
-  "gsgraphql:165708_GS_MID_CAREER": {
-    "uid": "gsgraphql:165708_GS_MID_CAREER",
-    "company": "Goldman Sachs",
-    "title": "Engineering Division - Data Quality & Governance - Analyst - Bengaluru",
-    "location": "Bengaluru",
-    "url": "https://higher.gs.com/roles/165708_GS_MID_CAREER",
-    "ats": "gsgraphql",
-    "posted_at": "2026-08-24T06:58:40.306Z",
-    "category": "full-time",
-    "tags": [
-      "quant",
-      "swe"
-    ],
-    "first_seen": "2026-08-24T08:09:07.251744+00:00",
-    "last_seen": "2026-08-26T05:04:58.342897+00:00",
-    "active": false
-  },
   "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967": {
     "uid": "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967",
     "company": "NVIDIA",
@@ -98500,22 +98319,6 @@
     "first_seen": "2026-08-24T23:42:22.631924+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
     "active": true
-  },
-  "greenhouse:gitlab:8721229002": {
-    "uid": "greenhouse:gitlab:8721229002",
-    "company": "GitLab",
-    "title": "Intermediate Software Engineer",
-    "location": "Bangalore, India",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8721229002",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-24T19:28:10-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-24T23:42:22.631924+00:00",
-    "last_seen": "2026-08-26T05:56:16.127522+00:00",
-    "active": false
   },
   "greenhouse:andurilindustries:5217888007": {
     "uid": "greenhouse:andurilindustries:5217888007",
@@ -194371,7 +194174,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:citi:/job/Irving-Texas-United-States/Data-Platform-Engineer--Cybersecurity--Operations_26997079": {
@@ -194388,7 +194191,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:citi:/job/Mississauga-Ontario-Canada/Applications-Development-Intermediate-Programmer-Analyst---UI-Developer_26996839": {
@@ -320608,7 +320411,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "smartrecruiters:BoschGroup:744000151928744": {
@@ -326782,7 +326585,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "smartrecruiters:BoschGroup:744000147832649": {
@@ -333982,7 +333785,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "smartrecruiters:BoschGroup:744000137380229": {
@@ -384598,7 +384401,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:abb:/job/Shanghai-Shanghai-China/Digitalization-engineer_JR00048225": {
@@ -412634,7 +412437,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-24T21:18:58-04:00",
+    "posted_at": "2026-10-25T02:18:31-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -414963,7 +414766,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-24T21:19:02-04:00",
+    "posted_at": "2026-10-25T02:18:35-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -415014,7 +414817,7 @@
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-24T21:19:00-04:00",
+    "posted_at": "2026-10-25T02:18:33-04:00",
     "category": "internship",
     "tags": [
       "swe"
@@ -447124,7 +446927,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "amazon:10487617": {
@@ -479900,7 +479703,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:cisco:/job/Heredia-Costa-Rica/Software-Engineering-Technical-Leader_2021234-1": {
@@ -647956,7 +647759,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:gehc:/job/Remote/Field-Service-Engineer-3_R4047265-1": {
     "uid": "workday:gehc:/job/Remote/Field-Service-Engineer-3_R4047265-1",
@@ -694271,7 +694074,7 @@
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:bmo:/job/Toronto-ON-CAN/Analyst--Capital-Markets-Treasury---Winter-2027--Co-op-Internship----4-Months_R260028665-1": {
     "uid": "workday:bmo:/job/Toronto-ON-CAN/Analyst--Capital-Markets-Treasury---Winter-2027--Co-op-Internship----4-Months_R260028665-1",
@@ -694303,7 +694106,7 @@
     ],
     "first_seen": "2026-10-08T20:44:11.702669+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:cibc:/job/Toronto-ON/Consultant--Full-Stack-Developer_2616928-1": {
     "uid": "workday:cibc:/job/Toronto-ON/Consultant--Full-Stack-Developer_2616928-1",
@@ -756460,7 +756263,7 @@
     ],
     "first_seen": "2026-10-14T19:48:57.205316+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:crowdstrike:/job/United-Kingdom---London/Incident-Response-Internship---Professional-Services---Summer-2027--Remote--UK-_R30403": {
     "uid": "workday:crowdstrike:/job/United-Kingdom---London/Incident-Response-Internship---Professional-Services---Summer-2027--Remote--UK-_R30403",
@@ -797078,7 +796881,7 @@
     ],
     "first_seen": "2026-10-19T17:04:10.375074+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Customer-Operations-Intern_UNI4190-1": {
     "uid": "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Customer-Operations-Intern_UNI4190-1",
@@ -810935,7 +810738,7 @@
     ],
     "first_seen": "2026-10-20T19:25:43.675630+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:mufgub:/job/Paris/XMLNAME-2027-MUFG-Analyst-Programme--Paris-GCIB-Rotational-Programme_10080267-WD": {
     "uid": "workday:mufgub:/job/Paris/XMLNAME-2027-MUFG-Analyst-Programme--Paris-GCIB-Rotational-Programme_10080267-WD",
@@ -826607,7 +826410,7 @@
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
     "ats": "greenhouse",
-    "posted_at": "2026-10-24T21:19:05-04:00",
+    "posted_at": "2026-10-25T02:18:38-04:00",
     "category": "full-time",
     "tags": [
       "swe"
@@ -828391,7 +828194,7 @@
     ],
     "first_seen": "2026-10-21T22:52:26.470311+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:td:/job/Toronto-Ontario/Data-Scientist-II_R_1514936-1": {
     "uid": "workday:td:/job/Toronto-Ontario/Data-Scientist-II_R_1514936-1",
@@ -848621,7 +848424,7 @@
     ],
     "first_seen": "2026-10-23T12:56:14.245097+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:ing:/job/CDR-Amsterdam---Cedar/Internship-Regulatory-Data---AI_REQ-10123681": {
     "uid": "workday:ing:/job/CDR-Amsterdam---Cedar/Internship-Regulatory-Data---AI_REQ-10123681",
@@ -851833,7 +851636,7 @@
     ],
     "first_seen": "2026-10-23T17:37:19.645454+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:bmo:/job/Toronto-ON-CAN/Data-Engineer--Fraud-Predictive-Analytics_R260029493": {
     "uid": "workday:bmo:/job/Toronto-ON-CAN/Data-Engineer--Fraud-Predictive-Analytics_R260029493",
@@ -852321,7 +852124,7 @@
     ],
     "first_seen": "2026-10-23T17:37:19.645454+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
-    "active": true
+    "active": false
   },
   "workday:usbank:/job/Minneapolis-MN/Software-Engineer-1---Python_2026-0033403-1": {
     "uid": "workday:usbank:/job/Minneapolis-MN/Software-Engineer-1---Python_2026-0033403-1",
@@ -859469,6 +859272,88 @@
     ],
     "first_seen": "2026-10-24T23:27:28.783502+00:00",
     "last_seen": "2026-10-25T01:23:16.167964+00:00",
+    "active": true
+  },
+  "workday:spgi:/job/Princeton-NJ/Zero-Trust---Microsegmentation-Engineer_332010-1": {
+    "uid": "workday:spgi:/job/Princeton-NJ/Zero-Trust---Microsegmentation-Engineer_332010-1",
+    "company": "S&P Global",
+    "title": "Zero Trust & Microsegmentation Engineer",
+    "location": "2 Locations",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Princeton-NJ/Zero-Trust---Microsegmentation-Engineer_332010-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "fintech"
+    ],
+    "first_seen": "2026-10-25T06:22:54.799335+00:00",
+    "last_seen": "2026-10-25T06:22:54.799335+00:00",
+    "active": true
+  },
+  "workday:abb:/job/Hangzhou-Zhejiang-China/Assistant-Test-Engineer--Intern-_JR00051251": {
+    "uid": "workday:abb:/job/Hangzhou-Zhejiang-China/Assistant-Test-Engineer--Intern-_JR00051251",
+    "company": "ABB",
+    "title": "Assistant Test Engineer (Intern)",
+    "location": "Hangzhou, Zhejiang, China",
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Hangzhou-Zhejiang-China/Assistant-Test-Engineer--Intern-_JR00051251",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "internship",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-25T06:22:54.799335+00:00",
+    "last_seen": "2026-10-25T06:22:54.799335+00:00",
+    "active": true
+  },
+  "workday:abb:/job/Hangzhou-Zhejiang-China/Test-Automation-Engineer_JR00050709-1": {
+    "uid": "workday:abb:/job/Hangzhou-Zhejiang-China/Test-Automation-Engineer_JR00050709-1",
+    "company": "ABB",
+    "title": "Test Automation Engineer",
+    "location": "Hangzhou, Zhejiang, China",
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Hangzhou-Zhejiang-China/Test-Automation-Engineer_JR00050709-1",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe",
+      "europe"
+    ],
+    "first_seen": "2026-10-25T06:22:54.799335+00:00",
+    "last_seen": "2026-10-25T06:22:54.799335+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer_2025406": {
+    "uid": "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer_2025406",
+    "company": "Cisco",
+    "title": "Software Engineer",
+    "location": "RTP, North Carolina, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2025406",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-25T06:22:54.799335+00:00",
+    "last_seen": "2026-10-25T06:22:54.799335+00:00",
+    "active": true
+  },
+  "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer_2027979": {
+    "uid": "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer_2027979",
+    "company": "Cisco",
+    "title": "Software Engineer",
+    "location": "2 Locations",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2027979",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-25T06:22:54.799335+00:00",
+    "last_seen": "2026-10-25T06:22:54.799335+00:00",
     "active": true
   }
 }
