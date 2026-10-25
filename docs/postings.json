@@ -1,7 +1,167 @@
 {
-  "generated_at": "2026-10-25T11:51:03.093118+00:00",
-  "count": 34725,
+  "generated_at": "2026-10-25T15:12:11.524742+00:00",
+  "count": 34712,
   "postings": [
+    {
+      "uid": "greenhouse:point72:8893940002",
+      "company": "Point72 / Cubist",
+      "title": "2027 Software Engineer - Campus Graduate Program - IIT BHU",
+      "location": "India, Bengaluru",
+      "url": "https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002",
+      "ats": "greenhouse",
+      "posted_at": "2026-10-25T08:19:44-04:00",
+      "category": "new-grad",
+      "tags": [
+        "quant"
+      ],
+      "first_seen": "2026-10-25T15:12:11.524742+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true
+    },
+    {
+      "uid": "greenhouse:point72:8893936002",
+      "company": "Point72 / Cubist",
+      "title": "2027 Software Engineer - Campus Graduate Program - IIT Hyderabad",
+      "location": "India, Bengaluru",
+      "url": "https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002",
+      "ats": "greenhouse",
+      "posted_at": "2026-10-25T08:16:54-04:00",
+      "category": "new-grad",
+      "tags": [
+        "quant"
+      ],
+      "first_seen": "2026-10-25T15:12:11.524742+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true
+    },
+    {
+      "uid": "greenhouse:point72:8893939002",
+      "company": "Point72 / Cubist",
+      "title": "2027 Software Engineer - Campus Graduate Program - IIT Kanpur",
+      "location": "India, Bengaluru",
+      "url": "https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002",
+      "ats": "greenhouse",
+      "posted_at": "2026-10-25T08:20:49-04:00",
+      "category": "new-grad",
+      "tags": [
+        "quant"
+      ],
+      "first_seen": "2026-10-25T15:12:11.524742+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true
+    },
+    {
+      "uid": "greenhouse:point72:8893935002",
+      "company": "Point72 / Cubist",
+      "title": "2027 Software Engineer - Campus Graduate Program - IIT Madras",
+      "location": "India, Bengaluru",
+      "url": "https://boards.greenhouse.io/point72/jobs/8893935002?gh_jid=8893935002",
+      "ats": "greenhouse",
+      "posted_at": "2026-10-25T08:16:39-04:00",
+      "category": "new-grad",
+      "tags": [
+        "quant"
+      ],
+      "first_seen": "2026-10-25T15:12:11.524742+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true
+    },
+    {
+      "uid": "eightfold:mlp:755959344770",
+      "company": "Millennium",
+      "title": "Machine Learning Engineer",
+      "location": "Tel Aviv, Israel",
+      "url": "https://mlp.eightfold.ai/careers/job/755959344770",
+      "ats": "eightfold",
+      "posted_at": 1792713600,
+      "category": "full-time",
+      "tags": [
+        "quant"
+      ],
+      "first_seen": "2026-10-25T15:12:11.524742+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true
+    },
+    {
+      "uid": "eightfold:mlp:755959348515",
+      "company": "Millennium",
+      "title": "Cloud Engineer",
+      "location": "Tel Aviv, Israel",
+      "url": "https://mlp.eightfold.ai/careers/job/755959348515",
+      "ats": "eightfold",
+      "posted_at": 1792713600,
+      "category": "full-time",
+      "tags": [
+        "quant"
+      ],
+      "first_seen": "2026-10-25T15:12:11.524742+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:eeho:347700",
+      "company": "Oracle",
+      "title": "AI Technology Instructor (Contract to Hire role) - (Pro-Code & No-Code Development, OpenAI Codex, API Integration, Oracle VBCS, AI Agent Development, Node-Based Workflows & Automation)",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/347700",
+      "ats": "oraclecloud",
+      "posted_at": "2026-10-25",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-25T15:12:11.524742+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/RehovotISR/Computing-Infrastructure-Developer_R2630754",
+      "company": "Applied Materials",
+      "title": "Computing Infrastructure Developer",
+      "location": "Rehovot,ISR",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Computing-Infrastructure-Developer_R2630754",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-25T15:12:11.524742+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/RehovotISR/Computing-HW-Engineer_R2629324",
+      "company": "Applied Materials",
+      "title": "Computing HW Engineer",
+      "location": "Rehovot,ISR",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Computing-HW-Engineer_R2629324",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-25T15:12:11.524742+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true
+    },
+    {
+      "uid": "lever:mobileye:c359a528-8058-4393-818b-52e162418a58",
+      "company": "Mobileye",
+      "title": "Deep Learning Algorithm Developer",
+      "location": "Ramat Gan, Israel",
+      "url": "https://jobs.eu.lever.co/mobileye/c359a528-8058-4393-818b-52e162418a58",
+      "ats": "lever",
+      "posted_at": "2026-04-28T06:45:15.142000+00:00",
+      "category": "full-time",
+      "tags": [
+        "ai"
+      ],
+      "first_seen": "2026-10-25T15:12:11.524742+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true
+    },
     {
       "uid": "eightfold:mlp:755959324202",
       "company": "Millennium",
@@ -46,22 +206,6 @@
       "tags": [
         "swe",
         "europe"
-      ],
-      "first_seen": "2026-10-25T11:51:03.093118+00:00",
-      "last_seen": "2026-10-25T11:51:03.093118+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:nvidia:/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556",
-      "company": "NVIDIA",
-      "title": "Firmware Engineer",
-      "location": "Israel, Tel Aviv",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556",
-      "ats": "workday",
-      "posted_at": "Posted Today",
-      "category": "full-time",
-      "tags": [
-        "swe"
       ],
       "first_seen": "2026-10-25T11:51:03.093118+00:00",
       "last_seen": "2026-10-25T11:51:03.093118+00:00",
@@ -463,7 +607,7 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8319655",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T20:14:14-04:00",
+      "posted_at": "2026-10-25T08:13:36-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -19511,7 +19655,7 @@
       "location": "Los Angeles, CA",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8191664",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T20:14:11-04:00",
+      "posted_at": "2026-10-25T08:13:33-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -21255,22 +21399,6 @@
       "title": "SMTS Quantum Integration Engineer",
       "location": "USA - New York - Malta",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/SMTS-Quantum-Integration-Engineer_JR-2606065",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-22T17:23:57.251234+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:procore:/job/EG---Egypt---Cairo/Software-Engineer-II---Frontend-_R0018849",
-      "company": "Procore",
-      "title": "Software Engineer II - Frontend ",
-      "location": "EG - Egypt - Cairo",
-      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/EG---Egypt---Cairo/Software-Engineer-II---Frontend-_R0018849",
       "ats": "workday",
       "posted_at": "Posted 3 Days Ago",
       "category": "full-time",
@@ -23596,22 +23724,6 @@
       "ats": "workday",
       "posted_at": "Posted 3 Days Ago",
       "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-22T12:09:57.935290+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "amazon:10586170",
-      "company": "Amazon",
-      "title": " Embedded Software Engineer, Annapurna Labs",
-      "location": "Tel Aviv-Yafo, Tel Aviv, ISR",
-      "url": "https://www.amazon.jobs/en/jobs/10586170/embedded-software-engineer-annapurna-labs",
-      "ats": "amazon",
-      "posted_at": "2026-10-22",
-      "category": "full-time",
       "tags": [
         "swe"
       ],
@@ -30342,7 +30454,7 @@
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-25T07:48:45-04:00",
+      "posted_at": "2026-10-25T11:03:34-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -58332,91 +58444,11 @@
       "active": true
     },
     {
-      "uid": "workday:gehc:/job/Riyadh/University-Internship--6-month----ULS-PCS-FSE_R4047306-1",
-      "company": "GE Healthcare",
-      "title": "University Internship (6 month) – ULS/PCS FSE",
-      "location": "Riyadh",
-      "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship--6-month----ULS-PCS-FSE_R4047306-1",
-      "ats": "workday",
-      "posted_at": "Posted 6 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-19T17:04:10.375074+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:gehc:/job/Riyadh/University-Internship--6-month----ULS-PCS-Repair-Shop-Engineer_R4047307-1",
       "company": "GE Healthcare",
       "title": "University Internship (6 month) – ULS/PCS Repair Shop Engineer",
       "location": "Riyadh",
       "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship--6-month----ULS-PCS-Repair-Shop-Engineer_R4047307-1",
-      "ats": "workday",
-      "posted_at": "Posted 6 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-19T17:04:10.375074+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:gehc:/job/Riyadh/University-Internship--Connectivity-Support_R4047324-1",
-      "company": "GE Healthcare",
-      "title": "University Internship- Connectivity Support",
-      "location": "Riyadh",
-      "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship--Connectivity-Support_R4047324-1",
-      "ats": "workday",
-      "posted_at": "Posted 6 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-19T17:04:10.375074+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:gehc:/job/Riyadh/University-Internship---Connectivity-Intern_R4047319-1",
-      "company": "GE Healthcare",
-      "title": "University Internship – Connectivity Intern",
-      "location": "Riyadh",
-      "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship---Connectivity-Intern_R4047319-1",
-      "ats": "workday",
-      "posted_at": "Posted 6 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-19T17:04:10.375074+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:gehc:/job/Riyadh/University-Internship-Program---Diagnostic-Imaging_R4048064-1",
-      "company": "GE Healthcare",
-      "title": "University Internship Program - Diagnostic Imaging",
-      "location": "Riyadh",
-      "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship-Program---Diagnostic-Imaging_R4048064-1",
-      "ats": "workday",
-      "posted_at": "Posted 6 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-19T17:04:10.375074+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:gehc:/job/Riyadh/University-Internship-Program---Diagnostic-Imaging_R4048065-1",
-      "company": "GE Healthcare",
-      "title": "University Internship Program - Diagnostic Imaging",
-      "location": "Riyadh",
-      "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship-Program---Diagnostic-Imaging_R4048065-1",
       "ats": "workday",
       "posted_at": "Posted 6 Days Ago",
       "category": "internship",
@@ -84101,7 +84133,7 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T20:14:15-04:00",
+      "posted_at": "2026-10-25T08:13:37-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -226085,24 +226117,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:statestreet:/job/Melbourne-Australia/Business-Analyst---Alpha-Data-Platform--Charles-River-Development--AVP_R-788748",
-      "company": "State Street",
-      "title": "Business Analyst – Alpha Data Platform, Charles River Development, AVP",
-      "location": "2 Locations",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Melbourne-Australia/Business-Analyst---Alpha-Data-Platform--Charles-River-Development--AVP_R-788748",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "asset-mgmt"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:statestreet:/job/Irvine-California/DevOps-Engineer--Config-Mgmt---AVP_R-795378-1",
       "company": "State Street",
       "title": "DevOps Engineer (Config Mgmt), AVP",
@@ -251124,25 +251138,6 @@
       "url": "https://jobs.ashbyhq.com/n8n/98dc8c86-b135-4803-8044-1d6f6a631aa8",
       "ats": "ashby",
       "posted_at": "2026-09-15T15:21:50.158+00:00",
-      "category": "full-time",
-      "tags": [
-        "ai",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "ashby:n8n:c9fc97fa-a473-4133-b3cb-502785649ecd",
-      "company": "n8n",
-      "title": "Forward Deployed Engineer - EMEA",
-      "location": "Berlin Office",
-      "url": "https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd",
-      "ats": "ashby",
-      "posted_at": "2026-09-15T15:22:26.283+00:00",
       "category": "full-time",
       "tags": [
         "ai",
@@ -308611,24 +308606,6 @@
       "backfill": true
     },
     {
-      "uid": "oraclecloud:fa-evmr-saasfaprod1:35073",
-      "company": "Nokia",
-      "title": "Photonics Layout and Tooling Engineer",
-      "location": "United States",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35073",
-      "ats": "oraclecloud",
-      "posted_at": "2026-04-28",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "oraclecloud:fa-evmr-saasfaprod1:33911",
       "company": "Nokia",
       "title": "Advanced PCB Technology Engineer",
@@ -314659,24 +314636,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:asml:/job/Hwasung-Korea/CSCM-Quality-Repair-Associate-Engineer--1Y-Contract-_J-00348780",
-      "company": "ASML",
-      "title": "CSCM Quality Repair Associate Engineer (1Y Contract)",
-      "location": "Hwasung, Korea",
-      "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Hwasung-Korea/CSCM-Quality-Repair-Associate-Engineer--1Y-Contract-_J-00348780",
-      "ats": "workday",
-      "posted_at": "Posted 10 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:asml:/job/Tainan-Taiwan/CS-service-Engineer_J-00348657-1",
       "company": "ASML",
       "title": "CS service Engineer",
@@ -319357,24 +319316,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:philips:/job/Hamburg/Verification-Engineer--all-genders-_586969-1",
-      "company": "Philips",
-      "title": "Verification Engineer (all genders)",
-      "location": "Hamburg",
-      "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Hamburg/Verification-Engineer--all-genders-_586969-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:philips:/job/Suzhou/Advanced-Quality-Engineer_587500",
       "company": "Philips",
       "title": "Advanced Quality Engineer",
@@ -323448,24 +323389,6 @@
       "title": "Intern, Network and Distribution",
       "location": "Singapore",
       "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Singapore/Intern--Network-and-Distribution_JR6158174",
-      "ats": "workday",
-      "posted_at": "Posted 17 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:rollsroyce:/job/Singapore/Intern--Procurement_JR6158173",
-      "company": "Rolls-Royce",
-      "title": "Intern, Procurement",
-      "location": "Singapore",
-      "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Singapore/Intern--Procurement_JR6158173",
       "ats": "workday",
       "posted_at": "Posted 17 Days Ago",
       "category": "internship",
@@ -352678,7 +352601,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-25T07:48:34-04:00",
+      "posted_at": "2026-10-25T11:03:23-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -354395,7 +354318,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-25T07:48:43-04:00",
+      "posted_at": "2026-10-25T11:03:26-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -354446,7 +354369,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
       "ats": "greenhouse",
-      "posted_at": "2026-10-25T07:48:36-04:00",
+      "posted_at": "2026-10-25T11:03:25-04:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -400095,23 +400018,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:cisco:/job/Bangalore-India/QA-Engineer---Networking-L2-L3-Testing---4---8-yrs_2025052",
-      "company": "Cisco",
-      "title": "QA Engineer - Networking L2/L3 Testing | 4 - 8 yrs",
-      "location": "Bangalore, India",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/QA-Engineer---Networking-L2-L3-Testing---4---8-yrs_2025052",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:cisco:/job/Jakarta-Indonesia/Solutions-Engineer_2024326-1",
       "company": "Cisco",
       "title": "Solutions Engineer",
@@ -403347,23 +403253,6 @@
       "title": "Solutions Engineer",
       "location": "Minato, Japan",
       "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Minato-Japan/Solutions-Engineer_2021140",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:cisco:/job/Bangalore-India/Software-Engineering-Technical-Leader---Distributed-Systems--Microservices--Cloud-Native-Architecture--10--yrs_2019483",
-      "company": "Cisco",
-      "title": "Software Engineering Technical Leader - Distributed Systems, Microservices, Cloud Native Architecture |10+ yrs",
-      "location": "Bangalore, India",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineering-Technical-Leader---Distributed-Systems--Microservices--Cloud-Native-Architecture--10--yrs_2019483",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -416303,23 +416192,6 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0287686",
       "ats": "workday",
       "posted_at": "Posted 24 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:intel:/job/Ireland-Leixlip/AI-Frameworks-Engineer_JR0287676-1",
-      "company": "Intel",
-      "title": "AI Frameworks Engineer",
-      "location": "Ireland, Leixlip",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/AI-Frameworks-Engineer_JR0287676-1",
-      "ats": "workday",
-      "posted_at": "Posted 17 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -436091,23 +435963,6 @@
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Abingdon---141-Park-Drive/Equipement-Engineer_R0045386-1",
       "ats": "workday",
       "posted_at": "Posted 30 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:snapchat:/job/Vancouver-WA---805-Broadway/Integrated-Circuit-Design-Verification-Engineer_R0046054-1",
-      "company": "Snap",
-      "title": "Integrated Circuit Design Verification Engineer",
-      "location": "Vancouver, WA - 805 Broadway",
-      "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Vancouver-WA---805-Broadway/Integrated-Circuit-Design-Verification-Engineer_R0046054-1",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -474266,23 +474121,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:amat:/job/SingaporeSGP/Engineering-Intern_R2627218",
-      "company": "Applied Materials",
-      "title": "Engineering Intern",
-      "location": "Singapore,SGP",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Engineering-Intern_R2627218",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:amat:/job/Santa-ClaraCA/Lithography-Process-Engineer-IV_R2625623",
       "company": "Applied Materials",
       "title": "Lithography Process Engineer -Quantum Program",
@@ -474512,23 +474350,6 @@
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:amat:/job/SingaporeSGP/College-Intern---GT-Indigo-Inter-Die-Gapfill-Process-and-Integration-for-3DIC_R2626651",
-      "company": "Applied Materials",
-      "title": "College Intern - GT Indigo Inter-Die Gapfill Process and Integration for 3DIC",
-      "location": "Singapore,SGP",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/College-Intern---GT-Indigo-Inter-Die-Gapfill-Process-and-Integration-for-3DIC_R2626651",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
       "tags": [
         "swe"
       ],
@@ -475235,23 +475056,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:amat:/job/SingaporeSGP/College-Intern_R2627317",
-      "company": "Applied Materials",
-      "title": "College Intern",
-      "location": "Singapore,SGP",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/College-Intern_R2627317",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:amat:/job/SingaporeSGP/College-Intern_R2627316",
       "company": "Applied Materials",
       "title": "College Intern",
@@ -475308,23 +475112,6 @@
       "title": "College intern",
       "location": "Singapore,SGP",
       "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/College-intern_R2626165",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:amat:/job/SingaporeSGP/Process-Engineering-Intern--Hybrid-Bonding-_R2626437",
-      "company": "Applied Materials",
-      "title": "Process Engineering Intern (Hybrid Bonding)",
-      "location": "Singapore,SGP",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Process-Engineering-Intern--Hybrid-Bonding-_R2626437",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "internship",
@@ -479175,6 +478962,74 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-10-25T01:23:16.167964+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:amat:/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
+      "company": "Applied Materials",
+      "title": "2026 Summer Intern - Physics & AI modeling Engineering",
+      "location": "Santa Clara,CA",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:amat:/job/NagasakiJPN/MDP-Customer-Engineer-II_R2520333",
+      "company": "Applied Materials",
+      "title": "DDP Customer Engineer II",
+      "location": "Nagasaki,JPN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/NagasakiJPN/MDP-Customer-Engineer-II_R2520333",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:amat:/job/ChitoseJPN/MDP-Customer-Engineer-I_R2615455-1",
+      "company": "Applied Materials",
+      "title": "MDP Customer Engineer I",
+      "location": "Chitose,JPN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChitoseJPN/MDP-Customer-Engineer-I_R2615455-1",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:amat:/job/KitakamiJPN/DDP-Customer-Engineer-II_R2615441",
+      "company": "Applied Materials",
+      "title": "DDP Customer Engineer II",
+      "location": "Kitakami,JPN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/KitakamiJPN/DDP-Customer-Engineer-II_R2615441",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-25T15:12:11.524742+00:00",
       "active": true,
       "backfill": true
     },
@@ -524721,7 +524576,7 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
       "ats": "greenhouse",
-      "posted_at": "2026-10-24T20:14:11-04:00",
+      "posted_at": "2026-10-25T08:13:32-04:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -529260,22 +529115,6 @@
       "active": true
     },
     {
-      "uid": "workday:salesforce:/job/Ireland---Dublin/Systems-Engineer--Senior-Associate--Workday-Techno-Functional-Role-_JR357823",
-      "company": "Salesforce",
-      "title": "Workday Systems Engineer - Absence & Time Tracking",
-      "location": "Ireland - Dublin",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Systems-Engineer--Senior-Associate--Workday-Techno-Functional-Role-_JR357823",
-      "ats": "workday",
-      "posted_at": "Posted 12 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-09-02T17:31:18.623707+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:salesforce:/job/Virginia---Mclean/Product-Vulnerability-Engineer_JR355838",
       "company": "Salesforce",
       "title": "Product Vulnerability Engineer",
@@ -533702,22 +533541,6 @@
         "swe"
       ],
       "first_seen": "2026-08-25T17:02:30.692300+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "eightfold:mlp:755957818104",
-      "company": "Millennium",
-      "title": "Cloud Engineer",
-      "location": "Tel Aviv, Israel",
-      "url": "https://mlp.eightfold.ai/careers/job/755957818104",
-      "ats": "eightfold",
-      "posted_at": 1787616000,
-      "category": "full-time",
-      "tags": [
-        "quant"
-      ],
-      "first_seen": "2026-08-25T16:05:55.199415+00:00",
       "last_seen": "2026-10-25T01:23:16.167964+00:00",
       "active": true
     },
@@ -550532,23 +550355,6 @@
       "active": true
     },
     {
-      "uid": "greenhouse:togetherai:5180155007",
-      "company": "Together AI",
-      "title": "AI Infrastructure System Engineer Bangalore ",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5180155007",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-22T09:08:57-04:00",
-      "category": "full-time",
-      "tags": [
-        "ai",
-        "swe"
-      ],
-      "first_seen": "2026-07-13T17:13:50.400372+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
       "uid": "greenhouse:cloudflare:7377424",
       "company": "Cloudflare",
       "title": "Software Engineer, Workers Deploy & Config",
@@ -551219,22 +551025,6 @@
         "europe"
       ],
       "first_seen": "2026-07-13T03:42:50.276908+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "greenhouse:databricks:8593713002",
-      "company": "Databricks",
-      "title": "AI Forward Deployed Engineer - London",
-      "location": "London, United Kingdom",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-20T14:07:47-04:00",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-07-12T15:46:13.715671+00:00",
       "last_seen": "2026-10-25T01:23:16.167964+00:00",
       "active": true
     },
@@ -570270,22 +570060,6 @@
       "url": "https://mlp.eightfold.ai/careers/job/755954183338",
       "ats": "eightfold",
       "posted_at": 1770076800,
-      "category": "full-time",
-      "tags": [
-        "quant"
-      ],
-      "first_seen": "2026-06-08T01:02:48.652859+00:00",
-      "last_seen": "2026-10-25T01:23:16.167964+00:00",
-      "active": true
-    },
-    {
-      "uid": "eightfold:mlp:755954012026",
-      "company": "Millennium",
-      "title": "Machine Learning Engineer",
-      "location": "Tel Aviv, Israel",
-      "url": "https://mlp.eightfold.ai/careers/job/755954012026",
-      "ats": "eightfold",
-      "posted_at": 1769558400,
       "category": "full-time",
       "tags": [
         "quant"
