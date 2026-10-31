@@ -64268,22 +64268,6 @@
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
     "active": true
   },
-  "greenhouse:axon:7576969003": {
-    "uid": "greenhouse:axon:7576969003",
-    "company": "Axon",
-    "title": "Software Engineer I",
-    "location": "Washington, United States",
-    "url": "https://job-boards.greenhouse.io/axon/jobs/7576969003",
-    "ats": "greenhouse",
-    "posted_at": "2026-09-01T15:00:28-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-21T17:28:15.624806+00:00",
-    "last_seen": "2026-09-01T22:40:42.148923+00:00",
-    "active": false
-  },
   "ashby:confluent:47920ccd-db54-4ed4-a865-70857e865fff": {
     "uid": "ashby:confluent:47920ccd-db54-4ed4-a865-70857e865fff",
     "company": "Confluent",
@@ -72214,22 +72198,6 @@
     "first_seen": "2026-07-31T21:22:15.241864+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
     "active": true
-  },
-  "greenhouse:andurilindustries:5201025007": {
-    "uid": "greenhouse:andurilindustries:5201025007",
-    "company": "Anduril",
-    "title": "Research Scientist",
-    "location": "Fort Collins, Colorado, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201025007?gh_jid=5201025007",
-    "ats": "greenhouse",
-    "posted_at": "2026-08-24T14:07:42-04:00",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-07-31T21:49:07.888240+00:00",
-    "last_seen": "2026-09-01T22:40:42.148923+00:00",
-    "active": false
   },
   "workday:nvidia:/job/Israel-Tel-Aviv/SOC-Clocks-RTL-Design-Engineer_JR2022321": {
     "uid": "workday:nvidia:/job/Israel-Tel-Aviv/SOC-Clocks-RTL-Design-Engineer_JR2022321",
@@ -89509,7 +89477,7 @@
     ],
     "first_seen": "2026-08-21T09:04:45.753828+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "greenhouse:drweng:8141687": {
     "uid": "greenhouse:drweng:8141687",
@@ -96583,22 +96551,6 @@
     ],
     "first_seen": "2026-08-28T23:09:10.696344+00:00",
     "last_seen": "2026-10-29T00:30:37.880603+00:00",
-    "active": false
-  },
-  "workday:nvidia:/job/US-CA-Santa-Clara/Customer-Solutions-and-Applications-Engineer_JR2024727": {
-    "uid": "workday:nvidia:/job/US-CA-Santa-Clara/Customer-Solutions-and-Applications-Engineer_JR2024727",
-    "company": "NVIDIA",
-    "title": "Customer Solutions and Applications Engineer",
-    "location": "US, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Solutions-and-Applications-Engineer_JR2024727",
-    "ats": "workday",
-    "posted_at": "Posted 4 Days Ago",
-    "category": "full-time",
-    "tags": [
-      "swe"
-    ],
-    "first_seen": "2026-08-28T23:09:10.696344+00:00",
-    "last_seen": "2026-09-01T22:40:42.148923+00:00",
     "active": false
   },
   "workday:nvidia:/job/Australia-Remote/Data-Center-Infrastructure-Specialist_JR2024595": {
@@ -224669,7 +224621,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:statestreet:/job/Quincy-Massachusetts/Red-Team-Engineer_R-789964": {
@@ -231600,7 +231552,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:equinor:/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Finance---Trading_JR107237": {
@@ -231967,7 +231919,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "smartrecruiters:vattenfall:744000151306649": {
@@ -231985,7 +231937,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "smartrecruiters:vattenfall:744000151301049": {
@@ -256331,7 +256283,7 @@
     "location": "Stockholm",
     "url": "https://jobs.ashbyhq.com/lovable/13c2f37b-a60c-4601-993b-88baac9cbdfc",
     "ats": "ashby",
-    "posted_at": "2026-10-02T10:46:54.896+00:00",
+    "posted_at": "2026-10-31T22:48:31.488+00:00",
     "category": "full-time",
     "tags": [
       "ai",
@@ -303389,7 +303341,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:ag:/job/Toulouse-Area/Flight-Test-Instrumentation-Engineer---Gas---Particle-Sensing-Systems--m-f-_JR10421433": {
@@ -361727,7 +361679,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:rollsroyce:/job/Indianapolis/Engineering-and-Technology-Graduate-Program_JR6157064-1": {
@@ -383381,7 +383333,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "teamtailor:nordicsemiconductor:2138a6be-a665-4838-8e41-3f193ad88d75": {
@@ -523106,7 +523058,7 @@
     ],
     "first_seen": "2026-10-04T22:31:38.852569+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true,
+    "active": false,
     "backfill": true
   },
   "workday:sec:/job/12100-Samsung-Blvd-Austin-TX-USA/Planar-Nodes--Experienced-Process-Integration-Engineer_R120249": {
@@ -626732,7 +626684,7 @@
     ],
     "first_seen": "2026-10-04T23:20:22.647117+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:thales:/job/Crawley/XMLNAME-2027-Obsolescence-Management-Engineer-Apprentice---Level-6-Applied-Professional-Engineering-Apprenticeship_R0337811-1": {
     "uid": "workday:thales:/job/Crawley/XMLNAME-2027-Obsolescence-Management-Engineer-Apprentice---Level-6-Applied-Professional-Engineering-Apprenticeship_R0337811-1",
@@ -626749,7 +626701,7 @@
     ],
     "first_seen": "2026-10-04T23:20:22.647117+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:thales:/job/Templecombe/XMLNAME-2027-Procurement-Apprentice_R0337776": {
     "uid": "workday:thales:/job/Templecombe/XMLNAME-2027-Procurement-Apprentice_R0337776",
@@ -633089,7 +633041,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:mufgub:/job/San-Diego-CA/XMLNAME-2027-Corporate--Investment-Banking-and-Markets--CIBM--Full-Time-Analyst-Program---Restaurant---Hospitality-Finance---San-Diego--Atlanta--Boston_10079932-WD-1": {
     "uid": "workday:mufgub:/job/San-Diego-CA/XMLNAME-2027-Corporate--Investment-Banking-and-Markets--CIBM--Full-Time-Analyst-Program---Restaurant---Hospitality-Finance---San-Diego--Atlanta--Boston_10079932-WD-1",
@@ -633121,7 +633073,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:mufgub:/job/San-Diego-CA/XMLNAME-2027-Corporate--Investment-Banking-and-Markets--CIBM--Full-Time-Analyst-Program---Restaurant---Hospitality-Finance---San-Diego--Atlanta--Boston_10079932-WD": {
     "uid": "workday:mufgub:/job/San-Diego-CA/XMLNAME-2027-Corporate--Investment-Banking-and-Markets--CIBM--Full-Time-Analyst-Program---Restaurant---Hospitality-Finance---San-Diego--Atlanta--Boston_10079932-WD",
@@ -636972,7 +636924,7 @@
     ],
     "first_seen": "2026-10-05T18:37:17.354026+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:abb:/job/Minden-North-Rhine-Westphalia-Germany/Project-Engineer--m-f-d----Human-System-Interface---Informationsmanagement_JR00043837": {
     "uid": "workday:abb:/job/Minden-North-Rhine-Westphalia-Germany/Project-Engineer--m-f-d----Human-System-Interface---Informationsmanagement_JR00043837",
@@ -716903,7 +716855,7 @@
     ],
     "first_seen": "2026-10-12T19:33:20.038416+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "personio:fairphone:2838639": {
     "uid": "personio:fairphone:2838639",
@@ -729823,7 +729775,7 @@
     ],
     "first_seen": "2026-10-13T16:33:42.291434+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "teamtailor:sendcloud:ef07cb8b-e9f5-44b5-bb13-1f1491e51d35": {
     "uid": "teamtailor:sendcloud:ef07cb8b-e9f5-44b5-bb13-1f1491e51d35",
@@ -755238,7 +755190,7 @@
     ],
     "first_seen": "2026-10-15T11:47:24.357669+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:ag:/job/Beijing-Area/Intern--Engineering---digitalization-_JR10414576": {
     "uid": "workday:ag:/job/Beijing-Area/Intern--Engineering---digitalization-_JR10414576",
@@ -767610,7 +767562,7 @@
     ],
     "first_seen": "2026-10-16T05:15:17.305577+00:00",
     "last_seen": "2026-10-31T12:52:03.174227+00:00",
-    "active": false
+    "active": true
   },
   "workday:abb:/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954": {
     "uid": "workday:abb:/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954",
@@ -767627,7 +767579,7 @@
     ],
     "first_seen": "2026-10-16T05:15:17.305577+00:00",
     "last_seen": "2026-10-31T12:52:03.174227+00:00",
-    "active": false
+    "active": true
   },
   "workday:abb:/job/Izmir-zmir-Trkiye/Field-Service-Engineer_JR00021873": {
     "uid": "workday:abb:/job/Izmir-zmir-Trkiye/Field-Service-Engineer_JR00021873",
@@ -772816,7 +772768,7 @@
     ],
     "first_seen": "2026-10-16T14:32:28.087026+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:abb:/job/Xiamen-Fujian-China/Intern-engineer_JR00049947": {
     "uid": "workday:abb:/job/Xiamen-Fujian-China/Intern-engineer_JR00049947",
@@ -775342,7 +775294,7 @@
     ],
     "first_seen": "2026-10-16T18:29:56.897645+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:thales:/job/Reading/Embedded-Systems---Integration-Engineer---UAS_R0341274": {
     "uid": "workday:thales:/job/Reading/Embedded-Systems---Integration-Engineer---UAS_R0341274",
@@ -807581,7 +807533,7 @@
     ],
     "first_seen": "2026-10-20T22:27:27.687014+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:cisco:/job/RTP-North-Carolina-US/Software-Security-Engineer_2026681-1": {
     "uid": "workday:cisco:/job/RTP-North-Carolina-US/Software-Security-Engineer_2026681-1",
@@ -826661,7 +826613,7 @@
     ],
     "first_seen": "2026-10-22T12:09:57.935290+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:asml:/job/Veldhoven-Netherlands/Communication---Media-internship--learning-content-creation_J-00355546": {
     "uid": "workday:asml:/job/Veldhoven-Netherlands/Communication---Media-internship--learning-content-creation_J-00355546",
@@ -859205,7 +859157,7 @@
     ],
     "first_seen": "2026-10-26T19:38:18.187802+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "beesite:api-deutschebank.beesite.de:76341": {
     "uid": "beesite:api-deutschebank.beesite.de:76341",
@@ -871937,7 +871889,7 @@
     ],
     "first_seen": "2026-10-27T14:43:54.760334+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:rollsroyce:/job/Derby/System-Design-Integrator-Engineer_JR6160403-1": {
     "uid": "workday:rollsroyce:/job/Derby/System-Design-Integrator-Engineer_JR6160403-1",
@@ -885621,7 +885573,7 @@
     ],
     "first_seen": "2026-10-28T15:35:36.986736+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:ntrs:/job/Limerick-Ireland/Analyst--Alternative-Asset-Services---Graduate-Opportunity-_R162143": {
     "uid": "workday:ntrs:/job/Limerick-Ireland/Analyst--Alternative-Asset-Services---Graduate-Opportunity-_R162143",
@@ -915082,7 +915034,7 @@
     ],
     "first_seen": "2026-10-30T16:04:51.221953+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:ibqbjb:161065": {
     "uid": "oraclecloud:ibqbjb:161065",
@@ -915098,7 +915050,7 @@
     ],
     "first_seen": "2026-10-30T16:04:51.221953+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:ibqbjb:161066": {
     "uid": "oraclecloud:ibqbjb:161066",
@@ -915114,7 +915066,7 @@
     ],
     "first_seen": "2026-10-30T16:04:51.221953+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:ibqbjb:161067": {
     "uid": "oraclecloud:ibqbjb:161067",
@@ -915146,7 +915098,7 @@
     ],
     "first_seen": "2026-10-30T16:04:51.221953+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "oraclecloud:ibqbjb:161069": {
     "uid": "oraclecloud:ibqbjb:161069",
@@ -915162,7 +915114,7 @@
     ],
     "first_seen": "2026-10-30T16:04:51.221953+00:00",
     "last_seen": "2026-10-31T00:15:05.806310+00:00",
-    "active": true
+    "active": false
   },
   "workday:ncr:/job/BELGRADE-SRB/AI---Hyperautomation-Engineer-III_R0158993-1": {
     "uid": "workday:ncr:/job/BELGRADE-SRB/AI---Hyperautomation-Engineer-III_R0158993-1",
@@ -920381,6 +920333,38 @@
     ],
     "first_seen": "2026-10-31T20:31:08.360347+00:00",
     "last_seen": "2026-10-31T20:31:08.360347+00:00",
+    "active": true
+  },
+  "amazon:10592678": {
+    "uid": "amazon:10592678",
+    "company": "Amazon",
+    "title": "Forward Deployed Engineer (Model Customization and Optimization), AWS Forward Deployed Engineering",
+    "location": "London, England, GBR",
+    "url": "https://www.amazon.jobs/en/jobs/10592678/forward-deployed-engineer-model-customization-and-optimization-aws-forward-deployed-engineering",
+    "ats": "amazon",
+    "posted_at": "2026-10-31",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-31T23:50:31.551542+00:00",
+    "last_seen": "2026-10-31T23:50:31.551542+00:00",
+    "active": true
+  },
+  "workday:amat:/job/HeimstettenDEU/Electron-Optics---Multiphysics-Simulation-Physicist---Engineer--m-f-d-_R2631003": {
+    "uid": "workday:amat:/job/HeimstettenDEU/Electron-Optics---Multiphysics-Simulation-Physicist---Engineer--m-f-d-_R2631003",
+    "company": "Applied Materials",
+    "title": "Electron Optics & Multiphysics Simulation Physicist / Engineer (m/f/d)",
+    "location": "Heimstetten,DEU",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Electron-Optics---Multiphysics-Simulation-Physicist---Engineer--m-f-d-_R2631003",
+    "ats": "workday",
+    "posted_at": "Posted Today",
+    "category": "full-time",
+    "tags": [
+      "swe"
+    ],
+    "first_seen": "2026-10-31T23:50:31.551542+00:00",
+    "last_seen": "2026-10-31T23:50:31.551542+00:00",
     "active": true
   }
 }

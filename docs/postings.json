@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-10-31T20:31:08.360347+00:00",
-  "count": 34237,
+  "generated_at": "2026-10-31T23:50:31.551542+00:00",
+  "count": 34212,
   "postings": [
+    {
+      "uid": "amazon:10592678",
+      "company": "Amazon",
+      "title": "Forward Deployed Engineer (Model Customization and Optimization), AWS Forward Deployed Engineering",
+      "location": "London, England, GBR",
+      "url": "https://www.amazon.jobs/en/jobs/10592678/forward-deployed-engineer-model-customization-and-optimization-aws-forward-deployed-engineering",
+      "ats": "amazon",
+      "posted_at": "2026-10-31",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-31T23:50:31.551542+00:00",
+      "last_seen": "2026-10-31T23:50:31.551542+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/HeimstettenDEU/Electron-Optics---Multiphysics-Simulation-Physicist---Engineer--m-f-d-_R2631003",
+      "company": "Applied Materials",
+      "title": "Electron Optics & Multiphysics Simulation Physicist / Engineer (m/f/d)",
+      "location": "Heimstetten,DEU",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Electron-Optics---Multiphysics-Simulation-Physicist---Engineer--m-f-d-_R2631003",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-31T23:50:31.551542+00:00",
+      "last_seen": "2026-10-31T23:50:31.551542+00:00",
+      "active": true
+    },
     {
       "uid": "amazon:10593974",
       "company": "Amazon",
@@ -9124,86 +9156,6 @@
       "title": "Intern Bachelors - Software Engineering (QA Automation) (1-year full-time contract)",
       "location": "Bucuresti, Romania",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159184",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-30",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-30T16:04:51.221953+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:ibqbjb:161064",
-      "company": "Honeywell",
-      "title": "Intern Bachelors App Eng",
-      "location": "Pune, Maharashtra, India",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161064",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-30",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-30T16:04:51.221953+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:ibqbjb:161065",
-      "company": "Honeywell",
-      "title": "Intern Bachelors App Eng",
-      "location": "Pune, Maharashtra, India",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161065",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-30",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-30T16:04:51.221953+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:ibqbjb:161066",
-      "company": "Honeywell",
-      "title": "Intern Bachelors Systems Eng",
-      "location": "Pune, Maharashtra, India",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161066",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-30",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-30T16:04:51.221953+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:ibqbjb:161068",
-      "company": "Honeywell",
-      "title": "Intern Bachelors App Eng",
-      "location": "Pune, Maharashtra, India",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161068",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-30",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-30T16:04:51.221953+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:ibqbjb:161069",
-      "company": "Honeywell",
-      "title": "Intern Bachelors Systems Eng",
-      "location": "Pune, Maharashtra, India",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161069",
       "ats": "oraclecloud",
       "posted_at": "2026-10-30",
       "category": "internship",
@@ -29616,23 +29568,6 @@
       "active": true
     },
     {
-      "uid": "workday:statestreet:/job/Gdansk-Poland/Junior-Software-Engineer---SA_R-799312-1",
-      "company": "State Street",
-      "title": "Junior Software Engineer - SA",
-      "location": "2 Locations",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Gdansk-Poland/Junior-Software-Engineer---SA_R-799312-1",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "asset-mgmt"
-      ],
-      "first_seen": "2026-10-28T15:35:36.986736+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:ntrs:/job/Limerick-Ireland/Analyst--Alternative-Asset-Services---Graduate-Opportunity-_R162143",
       "company": "Northern Trust",
       "title": "Analyst, Alternative Asset Services  (Graduate Opportunity)",
@@ -44069,23 +44004,6 @@
       "active": true
     },
     {
-      "uid": "workday:dyson:/job/Netherlands---Amsterdam-Office/Platform-Content-Specialist---Dysoncom_JR37041",
-      "company": "Dyson",
-      "title": "Platform Content Specialist - Dyson.com",
-      "location": "Netherlands - Amsterdam Office",
-      "url": "https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Netherlands---Amsterdam-Office/Platform-Content-Specialist---Dysoncom_JR37041",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-27T14:43:54.760334+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:rollsroyce:/job/Derby/System-Design-Integrator-Engineer_JR6160403-1",
       "company": "Rolls-Royce",
       "title": "System Design Integrator Engineer",
@@ -50474,26 +50392,6 @@
       "category": "internship",
       "tags": [
         "asset-mgmt"
-      ],
-      "first_seen": "2026-10-26T19:38:18.187802+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:76344",
-      "company": "Deutsche Bank",
-      "title": "Engineer, AS",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=76344",
-      "ats": "beesite",
-      "posted_at": "2026-10-28",
-      "expires_at": "2026-10-31",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
       ],
       "first_seen": "2026-10-26T19:38:18.187802+00:00",
       "last_seen": "2026-10-31T00:15:05.806310+00:00",
@@ -78130,23 +78028,6 @@
       "active": true
     },
     {
-      "uid": "workday:roche:/job/Basel/Machine-Learning-Engineer--AI-Enablement_202610-126071-2",
-      "company": "Roche",
-      "title": "Machine Learning Engineer, AI Enablement",
-      "location": "Basel",
-      "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Machine-Learning-Engineer--AI-Enablement_202610-126071-2",
-      "ats": "workday",
-      "posted_at": "Posted 9 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-22T12:09:57.935290+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:asml:/job/Veldhoven-Netherlands/Communication---Media-internship--learning-content-creation_J-00355546",
       "company": "ASML",
       "title": "Communication | Media internship: learning content creation",
@@ -93066,22 +92947,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10584623/software-development-engineer-elastic-block-store",
       "ats": "amazon",
       "posted_at": "2026-10-20",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-20T22:27:27.687014+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:cisco:/job/Rome-Italy/Cisco-Solutions-Engineer---Italy_2025686",
-      "company": "Cisco",
-      "title": "Cisco Solutions Engineer - Italy",
-      "location": "2 Locations",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Rome-Italy/Cisco-Solutions-Engineer---Italy_2025686",
-      "ats": "workday",
-      "posted_at": "Posted 10 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -115020,23 +114885,6 @@
       "active": true
     },
     {
-      "uid": "workday:rollsroyce:/job/Dahlewitz/Working-Student-Research---Technology--f-m-d-_JR6161666",
-      "company": "Rolls-Royce",
-      "title": "Working Student Research & Technology (f/m/d)",
-      "location": "Dahlewitz",
-      "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Dahlewitz/Working-Student-Research---Technology--f-m-d-_JR6161666",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-16T18:29:56.897645+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:thales:/job/Reading/Embedded-Systems---Integration-Engineer---UAS_R0341274",
       "company": "Thales",
       "title": "Embedded Systems & Integration Engineer - UAS",
@@ -116989,23 +116837,6 @@
       "title": "R&D Associate Engineer",
       "location": "Przasnysz, Masovian, Poland",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Przasnysz-Masovian-Poland/R-D-Designer_JR00041580",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-16T14:32:28.087026+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/Engineer-Network---Cyber-Security-at-ABB-Marine---Ports_JR00049869",
-      "company": "ABB",
-      "title": "Engineer Network & Cyber Security at ABB Marine & Ports",
-      "location": "Vaesteras, Vastmanland County, Sweden",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Vaesteras-Vastmanland-County-Sweden/Engineer-Network---Cyber-Security-at-ABB-Marine---Ports_JR00049869",
       "ats": "workday",
       "posted_at": "Posted 15 Days Ago",
       "category": "full-time",
@@ -119783,6 +119614,40 @@
       "title": "Talent Pool -FP&A- Data Scientist / Analytics Specialist /  Data & AI Specialist",
       "location": "Bangalore, Karnataka, India",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Bangalore-Karnataka-India/Talent-Pool--FP-A--Data-Scientist---Analytics-Specialist----Data---AI-Specialist_JR00031176",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-16T05:15:17.305577+00:00",
+      "last_seen": "2026-10-31T12:52:03.174227+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:abb:/job/Shanghai-Shanghai-China/Supplier--Quality-Engineer_JR00024540-1",
+      "company": "ABB",
+      "title": "Supplier  Quality Engineer",
+      "location": "Shanghai, Shanghai, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Supplier--Quality-Engineer_JR00024540-1",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-16T05:15:17.305577+00:00",
+      "last_seen": "2026-10-31T12:52:03.174227+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:abb:/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954",
+      "company": "ABB",
+      "title": "Power electronics engineer, main circuit",
+      "location": "Beijing, Beijing, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -126813,23 +126678,6 @@
       "category": "full-time",
       "tags": [
         "fintech",
-        "europe"
-      ],
-      "first_seen": "2026-10-15T11:47:24.357669+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:ag:/job/Albacete/Elec-System-Install-Design-Engineering_JR10451049-1",
-      "company": "Airbus",
-      "title": "Elec. System Install. Design Engineering",
-      "location": "Albacete",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Albacete/Elec-System-Install-Design-Engineering_JR10451049-1",
-      "ats": "workday",
-      "posted_at": "Posted 16 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
         "europe"
       ],
       "first_seen": "2026-10-15T11:47:24.357669+00:00",
@@ -143616,23 +143464,6 @@
       "active": true
     },
     {
-      "uid": "workday:rollsroyce:/job/Oberursel/Werkstudent--in-fr-Produktionsplanung--und-Steuerung--w-m-d-_JR6160228",
-      "company": "Rolls-Royce",
-      "title": "Werkstudent-/in für Produktionsplanung- und Steuerung (w/m/d)",
-      "location": "Oberursel",
-      "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Oberursel/Werkstudent--in-fr-Produktionsplanung--und-Steuerung--w-m-d-_JR6160228",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-13T16:33:42.291434+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
       "uid": "teamtailor:sendcloud:ef07cb8b-e9f5-44b5-bb13-1f1491e51d35",
       "company": "Sendcloud",
       "title": "Talent Acquisition Intern",
@@ -150417,23 +150248,6 @@
       "ats": "workday",
       "posted_at": "Posted 2 Days Ago",
       "category": "full-time",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-12T19:33:20.038416+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:rollsroyce:/job/Dahlewitz/Working-Student---Indirect-Procurement--f-m-d-_JR6160247",
-      "company": "Rolls-Royce",
-      "title": "Working Student - Indirect Procurement (f/m/d)",
-      "location": "Dahlewitz",
-      "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Dahlewitz/Working-Student---Indirect-Procurement--f-m-d-_JR6160247",
-      "ats": "workday",
-      "posted_at": "Posted 19 Days Ago",
-      "category": "internship",
       "tags": [
         "swe",
         "uk"
@@ -194237,38 +194051,6 @@
       "active": true
     },
     {
-      "uid": "workday:mufgub:/job/Duesseldorf/XMLNAME-2027-MUFG-6-Month-Early-Careers-Placement---Germany_10079947-WD-1",
-      "company": "MUFG",
-      "title": "2027 MUFG 6-Month Early Careers Placement - Germany",
-      "location": "Duesseldorf",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Duesseldorf/XMLNAME-2027-MUFG-6-Month-Early-Careers-Placement---Germany_10079947-WD-1",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:mufgub:/job/Duesseldorf/XMLNAME-2027-MUFG-6-Month-Early-Careers-Placement---Germany_10079947-WD",
-      "company": "MUFG",
-      "title": "2027 MUFG 6-Month Early Careers Placement - Germany",
-      "location": "Duesseldorf",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Duesseldorf/XMLNAME-2027-MUFG-6-Month-Early-Careers-Placement---Germany_10079947-WD",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:mufgub:/job/Amsterdam/XMLNAME-2027-MUFG-6-month-Amsterdam-internship--Japanese-Corporate-Banking-Division_10079926-WD-2",
       "company": "MUFG",
       "title": "2027 MUFG 6 month Amsterdam internship: Japanese Corporate Banking Division",
@@ -196069,23 +195851,6 @@
       "title": "Strategic Segment Proposal Engineer",
       "location": "183 Locations",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/USA-NC-Cary/Strategic-Segment-Proposal-Engineer_JR00035950",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:abb:/job/Brno-Jihomoravsk-kraj-Czechia/DP-Associate-Project-Engineer_JR00036343",
-      "company": "ABB",
-      "title": "DPČ Associate Project Engineer",
-      "location": "Brno, Jihomoravský kraj, Czechia",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Brno-Jihomoravsk-kraj-Czechia/DP-Associate-Project-Engineer_JR00036343",
       "ats": "workday",
       "posted_at": "Posted 26 Days Ago",
       "category": "full-time",
@@ -200874,40 +200639,6 @@
       "ats": "workday",
       "posted_at": "Posted 26 Days Ago",
       "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T23:20:22.647117+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:thales:/job/Templecombe/XMLNAME-2027-Machine-Learning-Apprentice---Level-6-AI-Engineer_R0337867-1",
-      "company": "Thales",
-      "title": "2027 Machine Learning Apprentice - Level 6 AI Engineer",
-      "location": "Templecombe",
-      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Machine-Learning-Apprentice---Level-6-AI-Engineer_R0337867-1",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T23:20:22.647117+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:thales:/job/Crawley/XMLNAME-2027-Obsolescence-Management-Engineer-Apprentice---Level-6-Applied-Professional-Engineering-Apprenticeship_R0337811-1",
-      "company": "Thales",
-      "title": "2027 Obsolescence Management Engineer Apprentice - Level 6 Applied Professional Engineering Apprenticeship",
-      "location": "Crawley",
-      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Obsolescence-Management-Engineer-Apprentice---Level-6-Applied-Professional-Engineering-Apprenticeship_R0337811-1",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "internship",
       "tags": [
         "swe",
         "europe"
@@ -253739,24 +253470,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:statestreet:/job/Gdansk-Poland/Java-Software-Engineer--hybrid--Offcer_R-774716",
-      "company": "State Street",
-      "title": "Java Software Engineer, hybrid, Officer",
-      "location": "3 Locations",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Gdansk-Poland/Java-Software-Engineer--hybrid--Offcer_R-774716",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "asset-mgmt"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:statestreet:/job/Princeton-New-Jersey/Alternative-Investments-Business-Transformation-Business-Analyst--Officer_R-785364",
       "company": "State Street",
       "title": "Alternative Investments Reporting Developer, Officer",
@@ -257178,61 +256891,6 @@
       "tags": [
         "commodities",
         "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:shell:/job/Qatar---Ras-Laffan/Shell-Graduate-Programme-2026---Qatar_R182165",
-      "company": "Shell",
-      "title": "Shell Graduate Programme 2026 - Qatar",
-      "location": "2 Locations",
-      "url": "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Qatar---Ras-Laffan/Shell-Graduate-Programme-2026---Qatar_R182165",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "new-grad",
-      "tags": [
-        "commodities",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "smartrecruiters:vattenfall:744000151305520",
-      "company": "Vattenfall",
-      "title": "Thesis Work - Seeing Beneath the Surface: A Data Fusion Approach to Bathymetric Mapping",
-      "location": "Älvkarleby, Uppsala County, se",
-      "url": "https://jobs.smartrecruiters.com/vattenfall/744000151305520",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-09-23T07:15:17.134Z",
-      "category": "internship",
-      "tags": [
-        "commodities",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "smartrecruiters:vattenfall:744000151306649",
-      "company": "Vattenfall",
-      "title": "Thesis Work - Seeing Beneath the Surface: A Data Fusion Approach to Bathymetric Mapping",
-      "location": "Solna, Stockholm County, se",
-      "url": "https://jobs.smartrecruiters.com/vattenfall/744000151306649",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-09-23T07:14:52.669Z",
-      "category": "internship",
-      "tags": [
-        "commodities",
         "europe"
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
@@ -276046,7 +275704,7 @@
       "location": "Stockholm",
       "url": "https://jobs.ashbyhq.com/lovable/13c2f37b-a60c-4601-993b-88baac9cbdfc",
       "ats": "ashby",
-      "posted_at": "2026-10-02T10:46:54.896+00:00",
+      "posted_at": "2026-10-31T22:48:31.488+00:00",
       "category": "full-time",
       "tags": [
         "ai",
@@ -305824,24 +305482,6 @@
       "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Portsmouth/Systems-Engineer_JR10433681",
       "ats": "workday",
       "posted_at": "Posted 18 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:ag:/job/Leiden/On-Site-Galileo-2nd-Generation-Navigation-Signal-Engineer--d-m-f-_JR10439708-1",
-      "company": "Airbus",
-      "title": "On Site Galileo 2nd Generation Navigation Signal Engineer (d/m/f)",
-      "location": "Leiden",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Leiden/On-Site-Galileo-2nd-Generation-Navigation-Signal-Engineer--d-m-f-_JR10439708-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
       "tags": [
         "swe",
@@ -341241,24 +340881,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:rollsroyce:/job/Dahlewitz/Masterand--in-Experimental-Measurement-Systems--f-m-d-_JR6160681",
-      "company": "Rolls-Royce",
-      "title": "Masterand/-in Experimental Measurement Systems (f/m/d)",
-      "location": "Dahlewitz",
-      "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Dahlewitz/Masterand--in-Experimental-Measurement-Systems--f-m-d-_JR6160681",
-      "ats": "workday",
-      "posted_at": "Posted 16 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:rollsroyce:/job/Dahlewitz/Working-Student---Parts-Availability--f-m-d-_JR6160488",
       "company": "Rolls-Royce",
       "title": "Working Student - Parts Availability (f/m/d)",
@@ -350374,24 +349996,6 @@
       "url": "https://schibsted.teamtailor.com/jobs/8267369-application-security-engineer",
       "ats": "teamtailor",
       "posted_at": "Tue, 25 Aug 2026 14:48:19 +0200",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "teamtailor:schibsted:0834d2bc-f138-4f9f-8723-af8d1da5e45f",
-      "company": "Schibsted",
-      "title": "MuleSoft Integration Developer",
-      "location": "Stockholm (+2)",
-      "url": "https://schibsted.teamtailor.com/jobs/8009424-mulesoft-integration-developer",
-      "ats": "teamtailor",
-      "posted_at": "Thu, 02 Jul 2026 13:13:57 +0200",
       "category": "full-time",
       "tags": [
         "swe",
@@ -436996,23 +436600,6 @@
       "title": "Anneal Engineer - Equipment or Process",
       "location": "1530 FM 973 Taylor, TX, USA",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Anneal-Engineer---Equipment-or-Process_R120361",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:sec:/job/Bavaria-Towers-Munich-Germany/Engineer--Technical-Marketing_R118101",
-      "company": "Samsung",
-      "title": "Field Application Engineer – Smartcard (Munich OR Paris based)",
-      "location": "2 Locations",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Engineer--Technical-Marketing_R118101",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -527874,22 +527461,6 @@
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-08-21T09:04:45.753828+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:nvidia:/job/Israel-Raanana/Software-Engineer--SONiC_JR2023435",
-      "company": "NVIDIA",
-      "title": "Software Engineer, SONiC",
-      "location": "2 Locations",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineer--SONiC_JR2023435",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "full-time",
       "tags": [
         "swe"
       ],
