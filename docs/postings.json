@@ -1,7 +1,105 @@
 {
-  "generated_at": "2026-10-31T12:52:03.174227+00:00",
-  "count": 34268,
+  "generated_at": "2026-10-31T17:25:14.940743+00:00",
+  "count": 34241,
   "postings": [
+    {
+      "uid": "workday:statestreet:/job/Kilkenny-Ireland/Cyber-Security-Operations-Center-Early-Career-Placement-Program-2027_R-800620",
+      "company": "State Street",
+      "title": "Cyber Security Operations Center Early Career Placement Program 2027",
+      "location": "Kilkenny, Ireland",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Kilkenny-Ireland/Cyber-Security-Operations-Center-Early-Career-Placement-Program-2027_R-800620",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "internship",
+      "tags": [
+        "bank",
+        "asset-mgmt"
+      ],
+      "first_seen": "2026-10-31T17:25:14.940743+00:00",
+      "last_seen": "2026-10-31T17:25:14.940743+00:00",
+      "active": true
+    },
+    {
+      "uid": "lever:sonarsource:7b304f33-35f3-4734-9772-b4ceb447f8c0",
+      "company": "Sonar",
+      "title": "Identity & Access Management Engineer",
+      "location": "Geneva",
+      "url": "https://jobs.lever.co/sonarsource/7b304f33-35f3-4734-9772-b4ceb447f8c0",
+      "ats": "lever",
+      "posted_at": "2026-10-31T13:12:57.362000+00:00",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-31T17:25:14.940743+00:00",
+      "last_seen": "2026-10-31T17:25:14.940743+00:00",
+      "active": true
+    },
+    {
+      "uid": "greenhouse:andurilindustries:5281150007",
+      "company": "Anduril",
+      "title": "FPGA Engineer",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281150007?gh_jid=5281150007",
+      "ats": "greenhouse",
+      "posted_at": "2026-10-31T12:50:40-04:00",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-31T17:25:14.940743+00:00",
+      "last_seen": "2026-10-31T17:25:14.940743+00:00",
+      "active": true
+    },
+    {
+      "uid": "greenhouse:andurilindustries:5281151007",
+      "company": "Anduril",
+      "title": "RF Engineer",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281151007?gh_jid=5281151007",
+      "ats": "greenhouse",
+      "posted_at": "2026-10-31T12:52:41-04:00",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-31T17:25:14.940743+00:00",
+      "last_seen": "2026-10-31T17:25:14.940743+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:nvidia:/job/US-CA-Santa-Clara/Deep-Learning-Compiler-Verification-Engineer_JR2028930",
+      "company": "NVIDIA",
+      "title": "Deep Learning Compiler Verification Engineer",
+      "location": "4 Locations",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Compiler-Verification-Engineer_JR2028930",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-31T17:25:14.940743+00:00",
+      "last_seen": "2026-10-31T17:25:14.940743+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:cisco:/job/Melbourne-Australia/Solutions-Engineer-Splunk--VIC-_2028516-1",
+      "company": "Cisco",
+      "title": "Solutions Engineer Splunk (VIC)",
+      "location": "Melbourne, Australia",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Melbourne-Australia/Solutions-Engineer-Splunk--VIC-_2028516-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-31T17:25:14.940743+00:00",
+      "last_seen": "2026-10-31T17:25:14.940743+00:00",
+      "active": true
+    },
     {
       "uid": "greenhouse:quberesearchandtechnologies:8908075002",
       "company": "Qube Research & Technologies",
@@ -346,22 +444,6 @@
       "title": "Product Support Engineer - (Sustainment/Reliability/Maintainability)",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249040007?gh_jid=5249040007",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-30T21:04:22-04:00",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-31T06:00:23.802423+00:00",
-      "last_seen": "2026-10-31T06:00:23.802423+00:00",
-      "active": true
-    },
-    {
-      "uid": "greenhouse:andurilindustries:5280849007",
-      "company": "Anduril",
-      "title": "RF Engineer",
-      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5280849007?gh_jid=5280849007",
       "ats": "greenhouse",
       "posted_at": "2026-10-30T21:04:22-04:00",
       "category": "full-time",
@@ -3278,23 +3360,6 @@
       "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Hillsboro-OR-USA/Internship---EUV-CSCM-UIR_J-00355836",
       "ats": "workday",
       "posted_at": "Posted Yesterday",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-30T20:55:49.523469+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:philips:/job/Chennai-ex-Madras/Apprentice---Product-Configuration-Management_593810",
-      "company": "Philips",
-      "title": "Apprentice - Product Configuration Management",
-      "location": "Chennai (ex Madras)",
-      "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Chennai-ex-Madras/Apprentice---Product-Configuration-Management_593810",
-      "ats": "workday",
-      "posted_at": "Posted Today",
       "category": "internship",
       "tags": [
         "swe",
@@ -8947,22 +9012,6 @@
       "title": "Intern Bachelors - Software Engineering (QA Automation) (1-year full-time contract)",
       "location": "Bucuresti, Romania",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159184",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-30",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-30T16:04:51.221953+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:ibqbjb:161063",
-      "company": "Honeywell",
-      "title": "Intern Bachelors Systems Eng",
-      "location": "Pune, Maharashtra, India",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161063",
       "ats": "oraclecloud",
       "posted_at": "2026-10-30",
       "category": "internship",
@@ -25460,26 +25509,6 @@
       "active": true
     },
     {
-      "uid": "beesite:api-deutschebank.beesite.de:75038",
-      "company": "Deutsche Bank",
-      "title": "Associate DevOps &amp; BI Platform Engineer, AS",
-      "location": "Bangalore",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=75038",
-      "ats": "beesite",
-      "posted_at": "2026-10-28",
-      "expires_at": "2099-12-31",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-28T20:39:54.902830+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
       "uid": "gsgraphql:187976_GS_MID_CAREER",
       "company": "Goldman Sachs",
       "title": "Software Engineer, Global Investment Research, Agentic Systems - Associate",
@@ -32362,22 +32391,6 @@
       "active": true
     },
     {
-      "uid": "oraclecloud:eeho:344981",
-      "company": "Oracle",
-      "title": "AI Analytic Developer- Federal Projects",
-      "location": "United States",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344981",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-28",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-28T15:35:36.986736+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:sec:/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Controls-Engineer--Gas-and-Chemical-Systems--GCS-_R121014",
       "company": "Samsung",
       "title": "Experienced Controls Engineer, Gas and Chemical Systems (GCS)",
@@ -37820,22 +37833,6 @@
       "ats": "workday",
       "posted_at": "Posted 4 Days Ago",
       "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-27T23:18:33.785892+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:eeho:348219",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348219",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-21",
-      "category": "full-time",
       "tags": [
         "swe"
       ],
@@ -73472,26 +73469,6 @@
       "ats": "beesite",
       "posted_at": "2026-10-22",
       "expires_at": "2099-12-31",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-22T17:23:57.251234+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:76301",
-      "company": "Deutsche Bank",
-      "title": "Full-Stack Developer, AVP",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=76301",
-      "ats": "beesite",
-      "posted_at": "2026-10-30",
-      "expires_at": "2026-11-01",
       "category": "full-time",
       "tags": [
         "bank",
@@ -117939,22 +117916,6 @@
       "active": true
     },
     {
-      "uid": "workday:mufgub:/job/Singapore-Office-OCC/Financial-Crimes-Compliance---Complex-Investigations-Intern_10079069-WD",
-      "company": "MUFG",
-      "title": "Financial Crimes Compliance – Complex Investigations Intern",
-      "location": "Singapore Office OCC",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Singapore-Office-OCC/Financial-Crimes-Compliance---Complex-Investigations-Intern_10079069-WD",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-16T09:58:42.864716+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
       "uid": "avature:recruitment.macquarie.com:23490",
       "company": "Macquarie",
       "title": "Data Engineer, Data Platform",
@@ -119786,23 +119747,6 @@
       "title": "Supplier  Quality Engineer",
       "location": "Shanghai, Shanghai, China",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Supplier--Quality-Engineer_JR00024540-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-16T05:15:17.305577+00:00",
-      "last_seen": "2026-10-31T12:52:03.174227+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:abb:/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954",
-      "company": "ABB",
-      "title": "Power electronics engineer, main circuit",
-      "location": "Beijing, Beijing, China",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Beijing-Beijing-China/Power-electronics-engineer--main-circuit_96524954",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -139521,26 +139465,6 @@
       "category": "full-time",
       "tags": [
         "asset-mgmt"
-      ],
-      "first_seen": "2026-10-13T21:37:57.046601+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:76172",
-      "company": "Deutsche Bank",
-      "title": "Internship Private Bank – Client Lifecyle Management Team",
-      "location": "Luxemburg",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=76172",
-      "ats": "beesite",
-      "posted_at": "2026-10-14",
-      "expires_at": "2026-11-15",
-      "category": "internship",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
       ],
       "first_seen": "2026-10-13T21:37:57.046601+00:00",
       "last_seen": "2026-10-31T00:15:05.806310+00:00",
@@ -219099,23 +219023,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:capgroup:/job/Singapore/CAP-Summer-Associate---Asia--2026-_JR7204",
-      "company": "Capital Group",
-      "title": "CAP Summer Associate - Asia (2027)",
-      "location": "Singapore",
-      "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Singapore/CAP-Summer-Associate---Asia--2026-_JR7204",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "asset-mgmt"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:capgroup:/job/London/CAP-Summer-Associate---Europe--2027-_JR7201",
       "company": "Capital Group",
       "title": "CAP Summer Associate - Europe (2027)",
@@ -222788,27 +222695,6 @@
       "url": "https://careers.db.com/index.php?ac=jobad&id=75734",
       "ats": "beesite",
       "posted_at": "2026-09-17",
-      "expires_at": "2099-12-31",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:75878",
-      "company": "Deutsche Bank",
-      "title": "Front End / UI Engineer, Associate",
-      "location": "Madrid",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=75878",
-      "ats": "beesite",
-      "posted_at": "2026-09-25",
       "expires_at": "2099-12-31",
       "category": "full-time",
       "tags": [
@@ -228941,42 +228827,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:barclays:/job/Singapore-Marina-Bay-Financial-Tower-2/Investment-Banking-Graduate-Programme-2027-Singapore_JR-0000128135",
-      "company": "Barclays",
-      "title": "Investment Banking Graduate Programme 2027 Singapore",
-      "location": "Singapore, Marina Bay Financial Tower 2",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Investment-Banking-Graduate-Programme-2027-Singapore_JR-0000128135",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "new-grad",
-      "tags": [
-        "bank",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:barclays:/job/Singapore-Marina-Bay-Financial-Tower-2/Private-Bank-and-Wealth-Management-Graduate-Programme-2027-Singapore_JR-0000128136",
-      "company": "Barclays",
-      "title": "Private Bank and Wealth Management Graduate Programme 2027 Singapore",
-      "location": "Singapore, Marina Bay Financial Tower 2",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Private-Bank-and-Wealth-Management-Graduate-Programme-2027-Singapore_JR-0000128136",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "new-grad",
-      "tags": [
-        "bank",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:barclays:/job/Chennai-DLF-IT-Park/Data-Engineer_JR-0000115259",
       "company": "Barclays",
       "title": "Data Engineer",
@@ -229157,24 +229007,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:barclays:/job/Singapore-Marina-Bay-Financial-Tower-2/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-Singapore_JR-0000117561",
-      "company": "Barclays",
-      "title": "Private Bank and Wealth Management Summer Internship Programme 2027 Singapore",
-      "location": "Singapore, Marina Bay Financial Tower 2",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-Singapore_JR-0000117561",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:barclays:/job/Hong-Kong-Cheung-Kong-Center/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Hong-Kong_JR-0000117565",
       "company": "Barclays",
       "title": "Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong",
@@ -229198,24 +229030,6 @@
       "title": "Quantitative Analytics Associate Off Cycle Internship 2027 Singapore",
       "location": "Singapore, Marina Bay Financial Tower 2",
       "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Singapore_JR-0000117563",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:barclays:/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610",
-      "company": "Barclays",
-      "title": "Research Analyst Summer Internship Programme 2027 Singapore",
-      "location": "Singapore, Marina Bay Financial Tower 2",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "internship",
@@ -244428,57 +244242,6 @@
       "backfill": true
     },
     {
-      "uid": "oraclecloud:jpmc:210753819",
-      "company": "J.P. Morgan",
-      "title": "2027 Corporate Analyst Development Program - Summer Analyst - Hong Kong",
-      "location": "Hong Kong",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753819",
-      "ats": "oraclecloud",
-      "posted_at": "2026-06-30",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "oraclecloud:jpmc:210754291",
-      "company": "J.P. Morgan",
-      "title": "2027 Corporate Analyst Development Program - Summer Analyst - Singapore",
-      "location": "Singapore",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754291",
-      "ats": "oraclecloud",
-      "posted_at": "2026-06-30",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "oraclecloud:jpmc:210754294",
-      "company": "J.P. Morgan",
-      "title": "2027 Human Resources Analyst Development Program - Summer Analyst - Hong Kong",
-      "location": "Hong Kong",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754294",
-      "ats": "oraclecloud",
-      "posted_at": "2026-06-30",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "oraclecloud:jpmc:210763386",
       "company": "J.P. Morgan",
       "title": "Software Engineer III- SRE",
@@ -246401,23 +246164,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:mufgub:/job/Singapore-Office-Marina-One/Financial-Planning--Balance-Sheet-Management--Intern_10079141-WD",
-      "company": "MUFG",
-      "title": "Financial Planning (Balance Sheet Management) Intern",
-      "location": "Singapore Office Marina One",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Singapore-Office-Marina-One/Financial-Planning--Balance-Sheet-Management--Intern_10079141-WD",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:mufgub:/job/Singapore-Office-OCC/Identity-and-Access-Management-Intern_10078898-WD",
       "company": "MUFG",
       "title": "Identity and Access Management Intern",
@@ -246493,23 +246239,6 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Singapore-Office-Marina-One/Middle-Office-Client-Onboarding-Intern_10078897-WD",
       "ats": "workday",
       "posted_at": "Posted Yesterday",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mufgub:/job/Singapore-Office-Marina-One/Financial-Planning--Expense-Management--Intern_10078788-WD",
-      "company": "MUFG",
-      "title": "Financial Planning (Expense Management) Intern",
-      "location": "Singapore Office Marina One",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Singapore-Office-Marina-One/Financial-Planning--Expense-Management--Intern_10078788-WD",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
       "category": "internship",
       "tags": [
         "bank"
@@ -254343,24 +254072,6 @@
       "title": "Software Engineering & Development",
       "location": "Princeton, New Jersey",
       "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Princeton-New-Jersey/Software-Engineering---Development_R-796126",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "asset-mgmt"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:statestreet:/job/Hangzhou-China/Software-Developer--AI---Agentic-Engineering---SrAssc_R-795530",
-      "company": "State Street",
-      "title": "Software Developer (AI & Agentic Engineering), SrAssc",
-      "location": "Hangzhou, China",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Hangzhou-China/Software-Developer--AI---Agentic-Engineering---SrAssc_R-795530",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -347312,6 +347023,24 @@
       "backfill": true
     },
     {
+      "uid": "workday:abb:/job/USA-NC-Mebane/Associate-Project-Engineer_JR00049161",
+      "company": "ABB",
+      "title": "Associate Project Engineer",
+      "location": "USA, NC, Mebane",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/USA-NC-Mebane/Associate-Project-Engineer_JR00049161",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-31T17:25:14.940743+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:abb:/job/Paterna-Valencia-Spain/Service-Control-Software-Engineer-for-Traction-Applications_JR00040313",
       "company": "ABB",
       "title": "Service Control Software Engineer for Traction Applications",
@@ -352822,7 +352551,7 @@
     {
       "uid": "ashby:voodoo:d284a256-2429-4c44-ab5d-a50642f4bfc6",
       "company": "Voodoo",
-      "title": "Growth Associate Playable - end of study internship",
+      "title": "Growth Associate (Intern) - Playables Performance Strategy",
       "location": "Paris",
       "url": "https://jobs.ashbyhq.com/voodoo/d284a256-2429-4c44-ab5d-a50642f4bfc6",
       "ats": "ashby",
@@ -352910,20 +352639,20 @@
       "backfill": true
     },
     {
-      "uid": "ashby:voodoo:ec35f065-70a7-4205-83f7-98368adb9388",
+      "uid": "ashby:voodoo:c52cbf94-ebb8-4c64-9fdf-1c8d5cf11be2",
       "company": "Voodoo",
-      "title": "Growth Associate - End of study internship",
+      "title": "Growth Associate (Intern) - Ad Monetization",
       "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/voodoo/ec35f065-70a7-4205-83f7-98368adb9388",
+      "url": "https://jobs.ashbyhq.com/voodoo/c52cbf94-ebb8-4c64-9fdf-1c8d5cf11be2",
       "ats": "ashby",
-      "posted_at": "2026-08-21T19:29:34.840+00:00",
+      "posted_at": "2026-10-31T15:48:58.894+00:00",
       "category": "internship",
       "tags": [
         "gaming",
         "europe"
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
+      "last_seen": "2026-10-31T17:25:14.940743+00:00",
       "active": true,
       "backfill": true
     },
@@ -354981,7 +354710,7 @@
       "uid": "rippling:opendoor:39324638-e89a-4747-821c-935aa2baba26",
       "company": "Opendoor",
       "title": "Machine Learning Engineer",
-      "location": "Miami, FL",
+      "location": "Seattle, WA",
       "url": "https://ats.rippling.com/opendoor/jobs/39324638-e89a-4747-821c-935aa2baba26",
       "ats": "rippling",
       "posted_at": null,
@@ -389632,23 +389361,6 @@
       "backfill": true
     },
     {
-      "uid": "amazon:10486419",
-      "company": "Amazon",
-      "title": "Machine Learning Engineer, Amazon Music - Catalog Quality",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10486419/machine-learning-engineer-amazon-music-catalog-quality",
-      "ats": "amazon",
-      "posted_at": "2026-07-28",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "amazon:10487481",
       "company": "Amazon",
       "title": "Software Development Engineer, AWS Config, AWS Config",
@@ -396352,23 +396064,6 @@
       "title": "Machine Learning - Compiler Engineer , AWS Neuron, Annapurna Labs",
       "location": "Cupertino, California, USA",
       "url": "https://www.amazon.jobs/en/jobs/3119465/machine-learning-compiler-engineer-aws-neuron-annapurna-labs",
-      "ats": "amazon",
-      "posted_at": "2025-10-31",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "amazon:3119226",
-      "company": "Amazon",
-      "title": "Software Development Engineer – 2026",
-      "location": "Iasi, ROU",
-      "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
       "ats": "amazon",
       "posted_at": "2025-10-31",
       "category": "full-time",
@@ -424227,6 +423922,23 @@
       "backfill": true
     },
     {
+      "uid": "workday:intel:/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
+      "company": "Intel",
+      "title": "Compiler Engineer",
+      "location": "Canada, Toronto",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-10-31T17:25:14.940743+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:intel:/job/Canada-Toronto/Triton-Compiler-Engineer_JR0286282",
       "company": "Intel",
       "title": "Triton Compiler Engineer",
@@ -440938,23 +440650,6 @@
       "backfill": true
     },
     {
-      "uid": "oraclecloud:edbz:25018265",
-      "company": "Texas Instruments",
-      "title": "Die Prep Process Engineer (MES Project)",
-      "location": "Wilayah Persekutuan Kuala Lumpur, Malaysia",
-      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018265",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-19",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "oraclecloud:edbz:25015877",
       "company": "Texas Instruments",
       "title": "Career Accelerator Program - Reliability Engineer",
@@ -455269,23 +454964,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-EQUIPMENT-ENGINEER_JR113652-1",
-      "company": "Micron",
-      "title": "HBM EQUIPMENT ENGINEER",
-      "location": "Taichung - MTB, Taiwan",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/HBM-EQUIPMENT-ENGINEER_JR113652-1",
-      "ats": "workday",
-      "posted_at": "Posted 26 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-EQUIPMENT-ENGINEER_JR113717",
       "company": "Micron",
       "title": "HBM EQUIPMENT ENGINEER",
@@ -461975,23 +461653,6 @@
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053",
-      "company": "Micron",
-      "title": "Intern - EUV & Materials Lithography",
-      "location": "Boise, ID - Main Site",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
       "tags": [
         "swe"
       ],
@@ -476570,23 +476231,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:amat:/job/HiroshimaJPN/ETCH-Customer-Engineer--_R2619082-1",
-      "company": "Applied Materials",
-      "title": "ETCH Customer Engineer Ⅰ",
-      "location": "Hiroshima,JPN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HiroshimaJPN/ETCH-Customer-Engineer--_R2619082-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:amat:/job/RehovotISR/Validation-Engineer_R2517856",
       "company": "Applied Materials",
       "title": "Validation Engineer (Software QA Engineer)",
@@ -480485,23 +480129,6 @@
       "title": "Backend and System Engineer, Flows",
       "location": "NYC, NY, US",
       "url": "https://postman.wd108.myworkdayjobs.com/en-US/careers/job/NYC-NY-US/Backend-and-System-Engineer--Flows_JR1000007",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:servicetitan:/job/India-Remote/Data-Infrastructure-Administrator_JR114858",
-      "company": "ServiceTitan",
-      "title": "Data Infrastructure Administrator",
-      "location": "India Remote",
-      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/India-Remote/Data-Infrastructure-Administrator_JR114858",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -494832,23 +494459,6 @@
       "title": "Field Service Engineer I",
       "location": "Pensacola, FL, United States",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157755",
-      "ats": "oraclecloud",
-      "posted_at": "2026-09-24",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "oraclecloud:ibqbjb:157876",
-      "company": "Honeywell",
-      "title": "Advanced Field Service Engineer",
-      "location": "Cairo, Egypt",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157876",
       "ats": "oraclecloud",
       "posted_at": "2026-09-24",
       "category": "full-time",
@@ -513289,26 +512899,6 @@
       "active": true
     },
     {
-      "uid": "beesite:api-deutschebank.beesite.de:75762",
-      "company": "Deutsche Bank",
-      "title": "L2 Application Support &amp; Release Engineer",
-      "location": "Bucharest",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=75762",
-      "ats": "beesite",
-      "posted_at": "2026-09-18",
-      "expires_at": "2099-12-31",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-09-18T18:34:38.454180+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
       "uid": "greenhouse:cloudflare:8119184",
       "company": "Cloudflare",
       "title": "Systems Engineering, Metrics and Alerting",
@@ -514910,22 +514500,6 @@
       "title": "Product Sourcing Engineer, Semiconductor",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240082007?gh_jid=5240082007",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-30T21:04:22-04:00",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-09-16T18:57:26.474495+00:00",
-      "last_seen": "2026-10-31T06:00:23.802423+00:00",
-      "active": true
-    },
-    {
-      "uid": "greenhouse:andurilindustries:5240043007",
-      "company": "Anduril",
-      "title": "RF Production Engineer",
-      "location": "Fort Collins, Colorado, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240043007?gh_jid=5240043007",
       "ats": "greenhouse",
       "posted_at": "2026-10-30T21:04:22-04:00",
       "category": "full-time",
@@ -524004,22 +523578,6 @@
       ],
       "first_seen": "2026-08-31T20:27:09.776957+00:00",
       "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
-      "uid": "greenhouse:andurilindustries:5226648007",
-      "company": "Anduril",
-      "title": "FPGA Engineer",
-      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226648007?gh_jid=5226648007",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-30T21:04:22-04:00",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-08-31T20:27:09.776957+00:00",
-      "last_seen": "2026-10-31T06:00:23.802423+00:00",
       "active": true
     },
     {
@@ -557958,26 +557516,6 @@
       "active": true
     },
     {
-      "uid": "beesite:api-deutschebank.beesite.de:63496",
-      "company": "Deutsche Bank",
-      "title": "Investment Bank – Local Intern China",
-      "location": "Shanghai",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=63496",
-      "ats": "beesite",
-      "posted_at": "2026-03-18",
-      "expires_at": "2099-12-31",
-      "category": "internship",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-06-10T01:40:48.576340+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:nvidia:/job/US-CA-Santa-Clara/ASIC-Design-Engineer_JR2019466",
       "company": "NVIDIA",
       "title": "Circuit Design Engineer - Standard Cell",
@@ -558404,26 +557942,6 @@
       ],
       "first_seen": "2026-06-08T21:13:21.523784+00:00",
       "last_seen": "2026-10-31T06:00:23.802423+00:00",
-      "active": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:63784",
-      "company": "Deutsche Bank",
-      "title": "Production Engineer SAP  (f/m/x)",
-      "location": "Bucharest",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=63784",
-      "ats": "beesite",
-      "posted_at": "2026-09-16",
-      "expires_at": "2099-12-31",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-06-08T20:14:57.953578+00:00",
-      "last_seen": "2026-10-31T00:15:05.806310+00:00",
       "active": true
     },
     {
