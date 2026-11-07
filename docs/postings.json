@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-07T19:30:21.315032+00:00",
-  "count": 34243,
+  "generated_at": "2026-11-07T23:12:43.488353+00:00",
+  "count": 34226,
   "postings": [
+    {
+      "uid": "workday:amat:/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2633258",
+      "company": "Applied Materials",
+      "title": "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
+      "location": "Gloucester,MA",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2633258",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "internship",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-07T23:12:43.488353+00:00",
+      "last_seen": "2026-11-07T23:12:43.488353+00:00",
+      "active": true
+    },
     {
       "uid": "ashby:Harvey:8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a",
       "company": "Harvey",
@@ -161,7 +177,7 @@
       "location": "3 Locations",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--Data-Curation---Autonomous-Vehicles_JR2028908",
       "ats": "workday",
-      "posted_at": "Posted Yesterday",
+      "posted_at": "Posted Today",
       "category": "full-time",
       "tags": [
         "swe"
@@ -14208,22 +14224,6 @@
       "active": true
     },
     {
-      "uid": "oraclecloud:eeho:349730",
-      "company": "Oracle",
-      "title": "Software Developer 3",
-      "location": "Seattle, WA, United States",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349730",
-      "ats": "oraclecloud",
-      "posted_at": "2026-11-04",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-06T02:38:39.201663+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:sec:/job/1530-FM-973-Taylor-TX-USA/Experienced-DC-Test-Engineer_R121999",
       "company": "Samsung",
       "title": "Experienced DC Test Engineer",
@@ -18105,7 +18105,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8243631?gh_jid=8243631",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:36:22-05:00",
+      "posted_at": "2026-11-07T14:37:52-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -19118,23 +19118,6 @@
         "bank",
         "asset-mgmt",
         "europe"
-      ],
-      "first_seen": "2026-11-05T16:35:34.927107+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:statestreet:/job/Gdansk-Poland/Junior-Quality-Assurance-and-Automation-Engineer--SA_R-798675",
-      "company": "State Street",
-      "title": "Junior Quality Assurance and Automation Engineer, SA",
-      "location": "Gdansk, Poland",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Gdansk-Poland/Junior-Quality-Assurance-and-Automation-Engineer--SA_R-798675",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "asset-mgmt"
       ],
       "first_seen": "2026-11-05T16:35:34.927107+00:00",
       "last_seen": "2026-11-07T02:11:35.496830+00:00",
@@ -26862,22 +26845,6 @@
       "title": " Applied Scientist, Fauna Robotics",
       "location": "Sunnyvale, California, USA",
       "url": "https://www.amazon.jobs/en/jobs/10597214/applied-scientist-fauna-robotics",
-      "ats": "amazon",
-      "posted_at": "2026-11-04",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-05T01:20:29.751230+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
-      "uid": "amazon:10597174",
-      "company": "Amazon",
-      "title": "Data Engineer , AWS Infrastructure Supply Chain Intelligence",
-      "location": "Austin, Texas, USA",
-      "url": "https://www.amazon.jobs/en/jobs/10597174/data-engineer-aws-infrastructure-supply-chain-intelligence",
       "ats": "amazon",
       "posted_at": "2026-11-04",
       "category": "full-time",
@@ -64863,7 +64830,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107255003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-07T14:31:49-05:00",
+      "posted_at": "2026-11-07T18:01:54-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -65663,7 +65630,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8304210?gh_jid=8304210",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:33:41-05:00",
+      "posted_at": "2026-11-07T14:35:21-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -70511,22 +70478,6 @@
       "ats": "workday",
       "posted_at": "Posted 8 Days Ago",
       "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-30T09:14:58.784654+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:amat:/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2632516",
-      "company": "Applied Materials",
-      "title": "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
-      "location": "Gloucester,MA",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2632516",
-      "ats": "workday",
-      "posted_at": "Posted 9 Days Ago",
-      "category": "internship",
       "tags": [
         "swe"
       ],
@@ -85721,23 +85672,6 @@
       "active": true
     },
     {
-      "uid": "workday:ing:/job/Madrid-Va-de-los-Poblados/Customer-Growth-Strategist_REQ-10123920-1",
-      "company": "ING",
-      "title": "Customer Growth Strategist",
-      "location": "Madrid (Vía de los Poblados)",
-      "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Madrid-Va-de-los-Poblados/Customer-Growth-Strategist_REQ-10123920-1",
-      "ats": "workday",
-      "posted_at": "Posted 10 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "europe"
-      ],
-      "first_seen": "2026-10-28T15:35:36.986736+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:ing:/job/CDR-Amsterdam---Cedar/Internship-Human-Resources-Business-Partners_REQ-10123941",
       "company": "ING",
       "title": "Internship Human Resources Business Partners",
@@ -95998,7 +95932,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8283641?gh_jid=8283641",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:35:18-05:00",
+      "posted_at": "2026-11-07T14:36:52-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -102709,26 +102643,6 @@
       "active": true
     },
     {
-      "uid": "beesite:api-deutschebank.beesite.de:76346",
-      "company": "Deutsche Bank",
-      "title": "Requirements Engineer, AS",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=76346",
-      "ats": "beesite",
-      "posted_at": "2026-11-06",
-      "expires_at": "2026-11-07",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-26T19:38:18.187802+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
       "uid": "beesite:api-deutschebank.beesite.de:76341",
       "company": "Deutsche Bank",
       "title": "Engineer, AS",
@@ -105922,7 +105836,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8259453?gh_jid=8259453",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:35:44-05:00",
+      "posted_at": "2026-11-07T14:37:17-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -106601,23 +106515,6 @@
       "title": "Data Scientist | KYC @ING Hubs Romania",
       "location": "Bucharest - Dacia One",
       "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bucharest---Dacia-One/Data-Scientist---KYC--ING-Hubs-Romania_REQ-10123669",
-      "ats": "workday",
-      "posted_at": "Posted 12 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "europe"
-      ],
-      "first_seen": "2026-10-26T13:42:35.464889+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:rabobank:/job/Utrecht-Croeselaan-18/Arealead-Frontend-foundation_JR_00146779-1",
-      "company": "Rabobank",
-      "title": "Arealead Frontend foundation",
-      "location": "Utrecht Croeselaan 18",
-      "url": "https://rabobank.wd3.myworkdayjobs.com/en-US/jobs/job/Utrecht-Croeselaan-18/Arealead-Frontend-foundation_JR_00146779-1",
       "ats": "workday",
       "posted_at": "Posted 12 Days Ago",
       "category": "full-time",
@@ -110531,22 +110428,6 @@
       "active": true
     },
     {
-      "uid": "workday:cisco:/job/Jeddah-Saudi-Arabia/Solutions-Engineer---Enterprise_2025658",
-      "company": "Cisco",
-      "title": "Solutions Engineer - Enterprise",
-      "location": "Jeddah, Saudi Arabia",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Jeddah-Saudi-Arabia/Solutions-Engineer---Enterprise_2025658",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-24T21:18:09.102877+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
       "uid": "oraclecloud:jpmc:210801265",
       "company": "J.P. Morgan",
       "title": "Associate Banker, 30 Hours, Winston Salem, NC - University Pkwy Branch",
@@ -113384,7 +113265,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8261393?gh_jid=8261393",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:35:28-05:00",
+      "posted_at": "2026-11-07T14:37:02-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -113400,7 +113281,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8283707?gh_jid=8283707",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:34:33-05:00",
+      "posted_at": "2026-11-07T14:36:09-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -118396,23 +118277,6 @@
       "active": true
     },
     {
-      "uid": "workday:ag:/job/Augsburg-Area/ERP--SAP--Platform---Infrastructure-Specialist--m-w-d-_JR10434382-1",
-      "company": "Airbus",
-      "title": "ERP (SAP) Platform & Infrastructure Specialist (m/w/d)",
-      "location": "Augsburg Area",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Augsburg-Area/ERP--SAP--Platform---Infrastructure-Specialist--m-w-d-_JR10434382-1",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-23T07:46:06.639789+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
       "uid": "smartrecruiters:BoschGroup:744000157395399",
       "company": "Bosch",
       "title": "Production Engineer Intern",
@@ -122604,26 +122468,6 @@
       "category": "internship",
       "tags": [
         "asset-mgmt",
-        "europe"
-      ],
-      "first_seen": "2026-10-22T17:23:57.251234+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:76302",
-      "company": "Deutsche Bank",
-      "title": "Adobe Experience Platform Engineer",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=76302",
-      "ats": "beesite",
-      "posted_at": "2026-11-06",
-      "expires_at": "2026-11-07",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
         "europe"
       ],
       "first_seen": "2026-10-22T17:23:57.251234+00:00",
@@ -131595,7 +131439,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-07T14:31:56-05:00",
+      "posted_at": "2026-11-07T18:02:00-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -142861,40 +142705,6 @@
       "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Simulation---Modelling-Engineer--d-m-w----Space-Systems_JR10429971",
       "ats": "workday",
       "posted_at": "Posted 17 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-20T15:26:13.639964+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:ag:/job/Getafe-Area/Connectivity-Systems-Engineer_JR10450679-1",
-      "company": "Airbus",
-      "title": "Connectivity Systems Engineer",
-      "location": "Getafe Area",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/Connectivity-Systems-Engineer_JR10450679-1",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-20T15:26:13.639964+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:ag:/job/Getafe-Area/Electronic-Warefare-System-Engineer_JR10450743-1",
-      "company": "Airbus",
-      "title": "Electronic Warefare System Engineer",
-      "location": "Getafe Area",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/Electronic-Warefare-System-Engineer_JR10450743-1",
-      "ats": "workday",
-      "posted_at": "Posted 18 Days Ago",
       "category": "full-time",
       "tags": [
         "swe",
@@ -161653,23 +161463,6 @@
       "active": true
     },
     {
-      "uid": "workday:ing:/job/Madrid-Va-de-los-Poblados/Retail-Lending-Strategist_REQ-10123352-1",
-      "company": "ING",
-      "title": "Retail Lending Strategist",
-      "location": "Madrid (Vía de los Poblados)",
-      "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Madrid-Va-de-los-Poblados/Retail-Lending-Strategist_REQ-10123352-1",
-      "ats": "workday",
-      "posted_at": "Posted 9 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "europe"
-      ],
-      "first_seen": "2026-10-16T09:58:42.864716+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:ing:/job/Manila-One-Ayala-Tower-2/QA-Automation-Engineer_REQ-10123288",
       "company": "ING",
       "title": "QA Automation Engineer",
@@ -162655,22 +162448,6 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--hybrid-_2024453",
       "ats": "workday",
       "posted_at": "Posted 2 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-16T09:58:42.864716+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:expedia:/job/Spain---Madrid/Data-Scientist-III---Analytics_R-110413",
-      "company": "Expedia",
-      "title": "Data Scientist III - Analytics",
-      "location": "Spain - Madrid",
-      "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Spain---Madrid/Data-Scientist-III---Analytics_R-110413",
-      "ats": "workday",
-      "posted_at": "Posted 22 Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -196322,7 +196099,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8209006?gh_jid=8209006",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:37:52-05:00",
+      "posted_at": "2026-11-07T14:39:20-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -197299,7 +197076,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8262223?gh_jid=8262223",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:35:40-05:00",
+      "posted_at": "2026-11-07T14:37:13-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -203882,7 +203659,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8159857?gh_jid=8159857",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:39:38-05:00",
+      "posted_at": "2026-11-07T14:41:02-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -206159,7 +205936,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:36:27-05:00",
+      "posted_at": "2026-11-07T14:37:57-05:00",
       "category": "internship",
       "tags": [
         "gaming"
@@ -206175,7 +205952,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8242619?gh_jid=8242619",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:36:24-05:00",
+      "posted_at": "2026-11-07T14:37:54-05:00",
       "category": "internship",
       "tags": [
         "gaming"
@@ -206191,7 +205968,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8159854?gh_jid=8159854",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:39:35-05:00",
+      "posted_at": "2026-11-07T14:41:00-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -212419,23 +212196,6 @@
       "active": true
     },
     {
-      "uid": "workday:ag:/job/Getafe-Area/Research---Technology-Business-Developer_JR10448642",
-      "company": "Airbus",
-      "title": "Research & Technology Business Developer",
-      "location": "2 Locations",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/Research---Technology-Business-Developer_JR10448642",
-      "ats": "workday",
-      "posted_at": "Posted 16 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-07T21:41:16.789453+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:ag:/job/Stevenage/Linux-Systems-Engineer_JR10405320",
       "company": "Airbus",
       "title": "Linux Systems Engineer",
@@ -215917,38 +215677,6 @@
       "tags": [
         "bank",
         "europe"
-      ],
-      "first_seen": "2026-10-07T09:29:19.869746+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:mastercard:/job/Dubai-United-Arab-Emirates/Intern--Technical-Program-Management_R-284922-2",
-      "company": "Mastercard",
-      "title": "Intern, Technical Program Management",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dubai-United-Arab-Emirates/Intern--Technical-Program-Management_R-284922-2",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "fintech"
-      ],
-      "first_seen": "2026-10-07T09:29:19.869746+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:mastercard:/job/Dubai-United-Arab-Emirates/Intern--Technical-Program-Management_R-284922-1",
-      "company": "Mastercard",
-      "title": "Intern, Technical Program Management",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Dubai-United-Arab-Emirates/Intern--Technical-Program-Management_R-284922-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "fintech"
       ],
       "first_seen": "2026-10-07T09:29:19.869746+00:00",
       "last_seen": "2026-11-07T02:11:35.496830+00:00",
@@ -221676,7 +221404,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8229705?gh_jid=8229705",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:36:59-05:00",
+      "posted_at": "2026-11-07T14:38:31-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -228812,23 +228540,6 @@
       "category": "full-time",
       "tags": [
         "bank"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:bbva:/job/11000-Montevideo-Montevideo/AI-PROCESS-ANALYST_JR00110237",
-      "company": "BBVA",
-      "title": "AI PROCESS ANALYST",
-      "location": "11000, Montevideo, Montevideo",
-      "url": "https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/11000-Montevideo-Montevideo/AI-PROCESS-ANALYST_JR00110237",
-      "ats": "workday",
-      "posted_at": "Posted 11 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "europe"
       ],
       "first_seen": "2026-10-05T18:37:17.354026+00:00",
       "last_seen": "2026-11-07T02:11:35.496830+00:00",
@@ -253792,27 +253503,6 @@
       "category": "full-time",
       "tags": [
         "asset-mgmt",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:69609",
-      "company": "Deutsche Bank",
-      "title": "GCP Data and AI Engineer, AVP",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=69609",
-      "ats": "beesite",
-      "posted_at": "2026-11-05",
-      "expires_at": "2026-11-07",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
         "europe"
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
@@ -300886,7 +300576,7 @@
     {
       "uid": "ashby:claylabs:4b20eb92-c27c-46fb-8d5b-ead32765a7d8",
       "company": "Clay",
-      "title": "Software Engineer, Full Stack (Product)",
+      "title": "Software Engineer, Full Stack (Frontend Leaning)",
       "location": "New York",
       "url": "https://jobs.ashbyhq.com/claylabs/4b20eb92-c27c-46fb-8d5b-ead32765a7d8",
       "ats": "ashby",
@@ -315606,23 +315296,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:mastercard:/job/Warsaw-Poland/Global-Markets-Intern--2027---Warsaw--Poland_R-287717-2",
-      "company": "Mastercard",
-      "title": "Global Markets Intern, 2027 - Warsaw, Poland",
-      "location": "Warsaw, Poland",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Warsaw-Poland/Global-Markets-Intern--2027---Warsaw--Poland_R-287717-2",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "fintech"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:mastercard:/job/Cairo-Egypt/Global-Markets-Intern--Summer-2027---Cairo--Egypt_R-291975-2",
       "company": "Mastercard",
       "title": "Global Markets Intern, Summer 2027 - Cairo, Egypt",
@@ -315968,23 +315641,6 @@
       "title": "Associate Consultant Intern, 2027 – Warsaw, Poland",
       "location": "Warsaw, Poland",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Warsaw-Poland/Associate-Consultant-Intern--2027---Warsaw--Poland_R-287716",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "fintech"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:mastercard:/job/Warsaw-Poland/Global-Markets-Intern--2027---Warsaw--Poland_R-287717-1",
-      "company": "Mastercard",
-      "title": "Global Markets Intern, 2027 - Warsaw, Poland",
-      "location": "Warsaw, Poland",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Warsaw-Poland/Global-Markets-Intern--2027---Warsaw--Poland_R-287717-1",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "internship",
@@ -367698,6 +367354,60 @@
       "backfill": true
     },
     {
+      "uid": "workday:abb:/job/Shanghai-Shanghai-China/Supplier-Quality---Development-Engineer_JR00042993",
+      "company": "ABB",
+      "title": "Supplier Quality & Development Engineer",
+      "location": "Shanghai, Shanghai, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Supplier-Quality---Development-Engineer_JR00042993",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-07T08:58:47.906455+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Rotterdam-South-Holland-Netherlands/Field-Service-Engineer-Analytics_JR00042810",
+      "company": "ABB",
+      "title": "Field Service Engineer Analytics",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Rotterdam-South-Holland-Netherlands/Field-Service-Engineer-Analytics_JR00042810",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-07T23:12:43.488353+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/XMLNAME-2027-Discovery-Project-Engineering-Track---2027_JR00044361",
+      "company": "ABB",
+      "title": "Discovery Project Engineering Track - 2027",
+      "location": "",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/XMLNAME-2027-Discovery-Project-Engineering-Track---2027_JR00044361",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-07T23:12:43.488353+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:abb:/job/Xiamen-Fujian-China/Electronic-Engineer_JR00018043-3",
       "company": "ABB",
       "title": "Electronic Engineer",
@@ -385334,7 +385044,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-07T14:31:53-05:00",
+      "posted_at": "2026-11-07T18:01:58-05:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -388485,7 +388195,7 @@
       "location": "Hybrid - San Francisco, New York City, Austin",
       "url": "https://job-boards.greenhouse.io/vercel/jobs/6122437004",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T12:57:40-05:00",
+      "posted_at": "2026-11-07T16:12:27-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -388587,7 +388297,7 @@
       "location": "Hybrid - San Francisco, New York City",
       "url": "https://job-boards.greenhouse.io/vercel/jobs/6199608004",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T12:57:40-05:00",
+      "posted_at": "2026-11-07T16:12:27-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -388604,7 +388314,7 @@
       "location": "Hybrid - San Francisco",
       "url": "https://job-boards.greenhouse.io/vercel/jobs/5798406004",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T12:57:40-05:00",
+      "posted_at": "2026-11-07T16:12:27-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -479905,23 +479615,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:amat:/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230",
-      "company": "Applied Materials",
-      "title": "2026-2027 Process Engineer Co-op - Doctorate (Gloucester, MA)",
-      "location": "Gloucester,MA",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-07T02:11:35.496830+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:amat:/job/GloucesterMA/XMLNAME-2027-Engineer-Development-Rotation-Program---Systems-Engineer-I-New-College-Grad---BS-or-MS--Gloucester--MA-_R2625758-1",
       "company": "Applied Materials",
       "title": "2027 Engineer Development Rotation Program - Systems Engineer I New College Grad - BS or MS (Gloucester, MA)",
@@ -481627,6 +481320,23 @@
       "title": "Advanced Packaging Process Support Engineer",
       "location": "Hwaseong-Lucestar,KOR",
       "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Hwaseong-LucestarKOR/Advanced-Packaging-Process-Support-Engineer_R2622669",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-07T08:58:47.906455+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:amat:/job/HsinchuTWN/Finance-Analyst-IV--B4----Global-Workplace---Infrastructure_R2610376",
+      "company": "Applied Materials",
+      "title": "Finance Analyst IV (B4) – Global Workplace & Infrastructure",
+      "location": "Hsinchu,TWN",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HsinchuTWN/Finance-Analyst-IV--B4----Global-Workplace---Infrastructure_R2610376",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -507925,7 +507635,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8226958?gh_jid=8226958",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:37:08-05:00",
+      "posted_at": "2026-11-07T14:38:38-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -510530,7 +510240,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8171283?gh_jid=8171283",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:38:51-05:00",
+      "posted_at": "2026-11-07T14:40:18-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -511945,7 +511655,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:39:13-05:00",
+      "posted_at": "2026-11-07T14:40:38-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -520610,7 +520320,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8171506?gh_jid=8171506",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:39:33-05:00",
+      "posted_at": "2026-11-07T14:40:58-05:00",
       "category": "full-time",
       "tags": [
         "gaming"
@@ -523662,7 +523372,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8143982?gh_jid=8143982",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:39:49-05:00",
+      "posted_at": "2026-11-07T14:41:13-05:00",
       "category": "new-grad",
       "tags": [
         "gaming"
@@ -535774,7 +535484,7 @@
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
       "ats": "greenhouse",
-      "posted_at": "2026-11-06T14:41:54-05:00",
+      "posted_at": "2026-11-07T14:43:11-05:00",
       "category": "internship",
       "tags": [
         "gaming"
