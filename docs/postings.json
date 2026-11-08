@@ -1,7 +1,238 @@
 {
-  "generated_at": "2026-11-08T09:40:18.257681+00:00",
-  "count": 34186,
+  "generated_at": "2026-11-08T16:26:18.419524+00:00",
+  "count": 34181,
   "postings": [
+    {
+      "uid": "avature:recruitment.macquarie.com:24752",
+      "company": "Macquarie",
+      "title": "Master Data - Software Engineer",
+      "location": "Gurugram Office",
+      "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24752",
+      "ats": "avature",
+      "posted_at": null,
+      "category": "full-time",
+      "tags": [
+        "bank"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:juliusbaer:/job/Singapore/Platform-Engineer_r-20202-2",
+      "company": "Julius Baer",
+      "title": "Platform Engineer",
+      "location": "Singapore",
+      "url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/External/job/Singapore/Platform-Engineer_r-20202-2",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "bank",
+        "europe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:juliusbaer:/job/Singapore/Platform-Engineer_r-20202-1",
+      "company": "Julius Baer",
+      "title": "Platform Engineer",
+      "location": "Singapore",
+      "url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/Technology/job/Singapore/Platform-Engineer_r-20202-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "bank",
+        "europe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:vontobel:/job/Zrich--Genferstrasse-27/Early-Careers-Internship-Program---Controlling--80-100--_9594-1",
+      "company": "Vontobel",
+      "title": "Early Careers Internship Program – Controlling (80-100%)",
+      "location": "Zürich / Genferstrasse 27",
+      "url": "https://vontobel.wd3.myworkdayjobs.com/en-US/Vontobel_External_Career/job/Zrich--Genferstrasse-27/Early-Careers-Internship-Program---Controlling--80-100--_9594-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "internship",
+      "tags": [
+        "bank",
+        "asset-mgmt",
+        "europe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "greenhouse:tenstorrent:5284404007",
+      "company": "Tenstorrent",
+      "title": "Engineer, CPU Performance Verification",
+      "location": "Austin, Texas, United States; Santa Clara, California, United States",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5284404007",
+      "ats": "greenhouse",
+      "posted_at": "2026-11-08T11:21:02-05:00",
+      "category": "full-time",
+      "tags": [
+        "ai",
+        "swe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:abb:/job/Krakow-Lesser-Poland-Poland/Automation-Engineer_JR00051983",
+      "company": "ABB",
+      "title": "Automation Engineer - B&R Automation",
+      "location": "Krakow, Lesser Poland, Poland",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Automation-Engineer_JR00051983",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:novartis:/job/Riyadh/Regulatory-Affairs-Intern_REQ-10092280",
+      "company": "Novartis",
+      "title": "Regulatory Affairs Intern",
+      "location": "Riyadh",
+      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Riyadh/Regulatory-Affairs-Intern_REQ-10092280",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:intel:/job/Israel-Kiryat-Gat/Bulk-Chemical-Delivery--CIU-stream--Engineer---Kiryat-Gat_JR0288920",
+      "company": "Intel",
+      "title": "Bulk Chemical Delivery (CIU stream) Engineer - Kiryat Gat",
+      "location": "Israel, Kiryat-Gat",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Kiryat-Gat/Bulk-Chemical-Delivery--CIU-stream--Engineer---Kiryat-Gat_JR0288920",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:kla:/job/Montbonnot-France/Customer-Service-Engineer-for-SPTS_2642893",
+      "company": "KLA",
+      "title": "Customer Service Engineer for SPTS",
+      "location": "Montbonnot, France",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Montbonnot-France/Customer-Service-Engineer-for-SPTS_2642893",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:eeho:349186",
+      "company": "Oracle",
+      "title": "Cloud Adoption Engineer — Oracle Government, Defense & Intelligence",
+      "location": "Reston, VA, United States (+1)",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349186",
+      "ats": "oraclecloud",
+      "posted_at": "2026-11-08",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:eeho:349971",
+      "company": "Oracle",
+      "title": "Systems Engineer 2",
+      "location": "PETACH TIKVA, Israel",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349971",
+      "ats": "oraclecloud",
+      "posted_at": "2026-11-08",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:analogdevices:/job/Philippines-Cavite-GTC/Associate-Test-Engineer---Product-Development_R266527",
+      "company": "Analog Devices",
+      "title": "Associate Test Engineer - Product Development",
+      "location": "Philippines, Cavite, GTC",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-GTC/Associate-Test-Engineer---Product-Development_R266527",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:dxctechnology:/job/EGY---C---CAIRO/MS-Power-Platform-Technical-Consultant_51593682",
+      "company": "DXC Technology",
+      "title": "MS Power Platform Technical Consultant",
+      "location": "EGY - C - CAIRO",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/EGY---C---CAIRO/MS-Power-Platform-Technical-Consultant_51593682",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
+      "uid": "lever:mobileye:6fccf6c1-f0c6-4f95-b290-48410598752e",
+      "company": "Mobileye",
+      "title": "Autonomous Vehicle Validation Field Engineer",
+      "location": "Jerusalem, Israel",
+      "url": "https://jobs.eu.lever.co/mobileye/6fccf6c1-f0c6-4f95-b290-48410598752e",
+      "ats": "lever",
+      "posted_at": "2026-11-08T15:25:17.934000+00:00",
+      "category": "full-time",
+      "tags": [
+        "ai"
+      ],
+      "first_seen": "2026-11-08T16:26:18.419524+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
     {
       "uid": "ashby:Harvey:e2613ef0-b37c-42ab-aae2-3b47162a9401",
       "company": "Harvey",
@@ -292,22 +523,6 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349939",
       "ats": "oraclecloud",
       "posted_at": "2026-11-07",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-07T15:25:44.238890+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:amat:/job/DalianCHN/Customer-Engineer-ETCH_R2630717",
-      "company": "Applied Materials",
-      "title": "Customer Engineer-ETCH",
-      "location": "Dalian,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/DalianCHN/Customer-Engineer-ETCH_R2630717",
-      "ats": "workday",
-      "posted_at": "Posted Yesterday",
       "category": "full-time",
       "tags": [
         "swe"
@@ -2442,7 +2657,7 @@
     {
       "uid": "ashby:openai:554a6565-0c9a-42e8-8f6f-a22ba23f336b",
       "company": "OpenAI",
-      "title": "Controls Engineer, Power Generation and Microgird",
+      "title": "Controls Engineer, Power Generation & Microgird",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/openai/554a6565-0c9a-42e8-8f6f-a22ba23f336b",
       "ats": "ashby",
@@ -7626,7 +7841,7 @@
       "location": "Johannesburg, Gauteng, South Africa",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Johannesburg-Gauteng-South-Africa/Engineer-In-Training_JR00052774",
       "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
+      "posted_at": "Posted Today",
       "category": "full-time",
       "tags": [
         "swe",
@@ -7643,7 +7858,7 @@
       "location": "Johannesburg, Gauteng, South Africa",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Johannesburg-Gauteng-South-Africa/Graduate-in-Traning_JR00052784",
       "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
+      "posted_at": "Posted Today",
       "category": "full-time",
       "tags": [
         "swe",
@@ -12128,22 +12343,6 @@
       "title": "Regional Development Applications Engineer (SPTS)",
       "location": "2 Locations",
       "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Hsinchu-Taiwan/Regional-Development-Applications-Engineer--SPTS-_2639784",
-      "ats": "workday",
-      "posted_at": "Posted 2 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-06T10:03:38.558837+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:kla:/job/Icheon-si-Gyunggi-do-Korea/SKBU-OMD-Customer-Engagement-Applications-Engineer_2641400",
-      "company": "KLA",
-      "title": "SKBU OMD Customer Engagement Applications Engineer",
-      "location": "2 Locations",
-      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Icheon-si-Gyunggi-do-Korea/SKBU-OMD-Customer-Engagement-Applications-Engineer_2641400",
       "ats": "workday",
       "posted_at": "Posted 2 Days Ago",
       "category": "full-time",
@@ -22687,38 +22886,6 @@
       "active": true
     },
     {
-      "uid": "oraclecloud:eeho:349764",
-      "company": "Oracle",
-      "title": "Software Developer 4",
-      "location": "Burlington, MA, United States",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349764",
-      "ats": "oraclecloud",
-      "posted_at": "2026-11-05",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-05T16:35:34.927107+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:eeho:349765",
-      "company": "Oracle",
-      "title": "Software Developer 3",
-      "location": "Austin, TX, United States",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349765",
-      "ats": "oraclecloud",
-      "posted_at": "2026-11-05",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-05T16:35:34.927107+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
       "uid": "oraclecloud:eeho:349622",
       "company": "Oracle",
       "title": "Core Infrastructure Engineer 2",
@@ -23607,22 +23774,6 @@
       "url": "https://jobs.eu.lever.co/mobileye/32b2bae5-bb30-49fa-b7df-41387fcdc5c9",
       "ats": "lever",
       "posted_at": "2026-11-05T11:39:44.529000+00:00",
-      "category": "full-time",
-      "tags": [
-        "ai"
-      ],
-      "first_seen": "2026-11-05T16:35:34.927107+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "lever:mobileye:28d00939-d06e-4f6d-84aa-4f155fe88b62",
-      "company": "Mobileye",
-      "title": "Validation Analytics Tools Developer",
-      "location": "Ramat Gan, Israel",
-      "url": "https://jobs.eu.lever.co/mobileye/28d00939-d06e-4f6d-84aa-4f155fe88b62",
-      "ats": "lever",
-      "posted_at": "2026-11-05T13:07:18.110000+00:00",
       "category": "full-time",
       "tags": [
         "ai"
@@ -48112,22 +48263,6 @@
       "active": true
     },
     {
-      "uid": "lever:mobileye:df0e4aa1-62ca-4774-b443-cc806a8d28ab",
-      "company": "Mobileye",
-      "title": "Deep Learning Algorithm Developer - Ground Truth",
-      "location": "Ramat Gan, Israel",
-      "url": "https://jobs.eu.lever.co/mobileye/df0e4aa1-62ca-4774-b443-cc806a8d28ab",
-      "ats": "lever",
-      "posted_at": "2026-11-02T08:23:30.897000+00:00",
-      "category": "full-time",
-      "tags": [
-        "ai"
-      ],
-      "first_seen": "2026-11-03T12:10:11.822220+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
       "uid": "greenhouse:ManGroup:5012811101",
       "company": "Man Group",
       "title": "Systematic Quant Intern - PhD",
@@ -61587,22 +61722,6 @@
       "active": true
     },
     {
-      "uid": "workday:intel:/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0288200-1",
-      "company": "Intel",
-      "title": "GPU Software Development Engineer",
-      "location": "US, California, Folsom",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0288200-1",
-      "ats": "workday",
-      "posted_at": "Posted 8 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-01T03:02:05.520623+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:intel:/job/Mexico-Guadalajara/Software-Development-Engineer-with-uArch-Expertise--Temporary-position-_JR0288520",
       "company": "Intel",
       "title": "Software Development Engineer with uArch Expertise (Temporary position)",
@@ -64817,7 +64936,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107255003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-08T04:32:01-05:00",
+      "posted_at": "2026-11-08T11:16:51-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -80661,22 +80780,6 @@
       "title": "Engineer, Industrial Engineering",
       "location": "Philippines, Cavite (jp)",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-jp/Engineer--Industrial-Engineering_R266721",
-      "ats": "workday",
-      "posted_at": "Posted 10 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-29T06:36:10.397332+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:analogdevices:/job/Philippines-Cavite-jp/Engineer--Equipment-Engineering_R265178",
-      "company": "Analog Devices",
-      "title": "Engineer, Equipment Engineering",
-      "location": "Philippines, Cavite (jp)",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-jp/Engineer--Equipment-Engineering_R265178",
       "ats": "workday",
       "posted_at": "Posted 10 Days Ago",
       "category": "full-time",
@@ -110076,6 +110179,22 @@
       "active": true
     },
     {
+      "uid": "workday:nvidia:/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556",
+      "company": "NVIDIA",
+      "title": "Firmware Engineer",
+      "location": "2 Locations",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-25T11:51:03.093118+00:00",
+      "last_seen": "2026-11-08T02:34:37.563561+00:00",
+      "active": true
+    },
+    {
       "uid": "workday:cadence:/job/PETAH-TIKVA/Application-Engineer---Physical-Design--Back-End-_R56948",
       "company": "Cadence",
       "title": "Application Engineer - Physical Design (Back-End)",
@@ -121628,22 +121747,6 @@
       "active": true
     },
     {
-      "uid": "workday:intel:/job/US-Massachusetts-Beaver-Brook/SoC-Debug-Engineer_JR0288224",
-      "company": "Intel",
-      "title": "SoC Debug Engineer",
-      "location": "5 Locations",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Massachusetts-Beaver-Brook/SoC-Debug-Engineer_JR0288224",
-      "ats": "workday",
-      "posted_at": "Posted 17 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-22T20:39:19.816833+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:intel:/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
       "company": "Intel",
       "title": "Compiler Engineering Graduate Intern",
@@ -131298,7 +131401,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-08T04:32:08-05:00",
+      "posted_at": "2026-11-08T11:16:57-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -135943,6 +136046,22 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156764110",
       "ats": "smartrecruiters",
       "posted_at": "2026-10-21T10:14:37.300Z",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-10-21T10:46:47.853615+00:00",
+      "last_seen": "2026-11-08T02:34:37.563561+00:00",
+      "active": true
+    },
+    {
+      "uid": "greenhouse:jfrog:8302975",
+      "company": "JFrog",
+      "title": "QA Engineer, Salesforce",
+      "location": "Tel Aviv, Israel",
+      "url": "https://join.jfrog.com/job/?job=8302975&gh_jid=8302975",
+      "ats": "greenhouse",
+      "posted_at": "2026-11-08T04:58:51-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -155551,19 +155670,19 @@
       "active": true
     },
     {
-      "uid": "lever:mobileye:cb66d92f-f4e9-4578-9d51-2ac0394aca20",
+      "uid": "lever:mobileye:b571e504-4e18-4de1-a12f-eaac1392bf8f",
       "company": "Mobileye",
-      "title": "System Integration Engineer",
+      "title": "Production Software Engineer for Algo Objects",
       "location": "Jerusalem, Israel",
-      "url": "https://jobs.eu.lever.co/mobileye/cb66d92f-f4e9-4578-9d51-2ac0394aca20",
+      "url": "https://jobs.eu.lever.co/mobileye/b571e504-4e18-4de1-a12f-eaac1392bf8f",
       "ats": "lever",
-      "posted_at": "2026-03-11T10:21:16.925000+00:00",
+      "posted_at": "2026-10-18T09:37:01.441000+00:00",
       "category": "full-time",
       "tags": [
         "ai"
       ],
       "first_seen": "2026-10-18T11:27:09.823369+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
       "active": true
     },
     {
@@ -197865,91 +197984,6 @@
       "active": true
     },
     {
-      "uid": "greenhouse:riverlane:5000685101",
-      "company": "Riverlane",
-      "title": "Engineering Graduate Scheme 2027",
-      "location": "Cambridge, UK",
-      "url": "https://www.riverlane.com/jobs?gh_jid=5000685101#vacancies",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-26T09:12:17-04:00",
-      "category": "full-time",
-      "tags": [
-        "quantum",
-        "uk"
-      ],
-      "first_seen": "2026-10-09T19:16:57.122952+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "greenhouse:riverlane:5001381101",
-      "company": "Riverlane",
-      "title": "PhD Research Internship 2027",
-      "location": "Cambridge, UK",
-      "url": "https://www.riverlane.com/jobs?gh_jid=5001381101#vacancies",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-26T09:12:17-04:00",
-      "category": "internship",
-      "tags": [
-        "quantum",
-        "uk"
-      ],
-      "first_seen": "2026-10-09T19:16:57.122952+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "greenhouse:riverlane:5001775101",
-      "company": "Riverlane",
-      "title": "Project Management Industrial Placement 2027",
-      "location": "Cambridge, UK",
-      "url": "https://www.riverlane.com/jobs?gh_jid=5001775101#vacancies",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-26T09:12:17-04:00",
-      "category": "internship",
-      "tags": [
-        "quantum",
-        "uk"
-      ],
-      "first_seen": "2026-10-09T19:16:57.122952+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "greenhouse:riverlane:5001380101",
-      "company": "Riverlane",
-      "title": "Research Internship 2027",
-      "location": "Cambridge, UK",
-      "url": "https://www.riverlane.com/jobs?gh_jid=5001380101#vacancies",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-26T09:12:17-04:00",
-      "category": "internship",
-      "tags": [
-        "quantum",
-        "uk"
-      ],
-      "first_seen": "2026-10-09T19:16:57.122952+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "greenhouse:riverlane:5000786101",
-      "company": "Riverlane",
-      "title": "Software Engineering Internship 2027",
-      "location": "Cambridge, UK",
-      "url": "https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies",
-      "ats": "greenhouse",
-      "posted_at": "2026-10-26T09:12:17-04:00",
-      "category": "internship",
-      "tags": [
-        "quantum",
-        "uk"
-      ],
-      "first_seen": "2026-10-09T19:16:57.122952+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
       "uid": "smartrecruiters:BoschGroup:744000154759734",
       "company": "Bosch",
       "title": "Artificial Intelligence / Machine Learning: Foundation Models - Intern",
@@ -203291,22 +203325,6 @@
       "ats": "workday",
       "posted_at": "Posted 30 Days Ago",
       "category": "new-grad",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-09T00:47:09.300657+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:amat:/job/ShenzhenCHN/Customer-Engineer-CMP_R2630311",
-      "company": "Applied Materials",
-      "title": "Customer Engineer-CMP",
-      "location": "Shenzhen,CHN",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShenzhenCHN/Customer-Engineer-CMP_R2630311",
-      "ats": "workday",
-      "posted_at": "Posted Yesterday",
-      "category": "full-time",
       "tags": [
         "swe"
       ],
@@ -231431,22 +231449,6 @@
       "tags": [
         "quant",
         "europe"
-      ],
-      "first_seen": "2026-10-05T09:17:11.218071+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:invesco:/job/Hong-Kong-Hong-Kong/Research-Analyst--Equities_R-15723",
-      "company": "Invesco",
-      "title": "Research Analyst, Equities (Healthcare)",
-      "location": "Hong Kong, Hong Kong",
-      "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Hong-Kong-Hong-Kong/Research-Analyst--Equities_R-15723",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "asset-mgmt"
       ],
       "first_seen": "2026-10-05T09:17:11.218071+00:00",
       "last_seen": "2026-11-08T02:34:37.563561+00:00",
@@ -358388,24 +358390,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:sky:/job/Osterley/AI-Operations-Engineer--Python-_R0057440",
-      "company": "Sky",
-      "title": "AI Platform Engineer (Cloud)",
-      "location": "2 Locations",
-      "url": "https://sky.wd3.myworkdayjobs.com/en-US/TUX/job/Osterley/AI-Operations-Engineer--Python-_R0057440",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:sky:/job/Osterley/Production-Support-Engineer_R0057926",
       "company": "Sky",
       "title": "Production Support Engineer",
@@ -358501,24 +358485,6 @@
       "title": "Production Support Engineer",
       "location": "Osterley",
       "url": "https://sky.wd3.myworkdayjobs.com/en-US/TUX/job/Osterley/Production-Support-Engineer_R0056154-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:sky:/job/Osterley/Java---NET-Developer_R0054879",
-      "company": "Sky",
-      "title": "Java & .NET Developer",
-      "location": "Osterley",
-      "url": "https://sky.wd3.myworkdayjobs.com/en-US/TUX/job/Osterley/Java---NET-Developer_R0054879",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -366200,24 +366166,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:abb:/job/Shanghai-Shanghai-China/Production-Engineering-Specialist_JR00046161",
-      "company": "ABB",
-      "title": "Production Engineering Specialist",
-      "location": "Shanghai, Shanghai, China",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Production-Engineering-Specialist_JR00046161",
-      "ats": "workday",
-      "posted_at": "Posted 27 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:abb:/job/Ratingen-North-Rhine-Westphalia-Germany/Working-student--m-f-d--in-the-Development-of-Pole-Pieces_JR00046368",
       "company": "ABB",
       "title": "Working student (m/f/d) in the Development of Pole Parts",
@@ -366844,6 +366792,24 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-11-08T02:34:37.563561+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Mannheim-Baden-Wurttemberg-Germany/Internship---Master-Thesis-Student--m-f-d--AI-for-Network-Security-and-Orchestration_JR00043254",
+      "company": "ABB",
+      "title": "Internship / Master Thesis Student (m/f/d) AI for Network Security and Orchestration",
+      "location": "Mannheim, Baden-Wurttemberg, Germany",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Mannheim-Baden-Wurttemberg-Germany/Internship---Master-Thesis-Student--m-f-d--AI-for-Network-Security-and-Orchestration_JR00043254",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
       "active": true,
       "backfill": true
     },
@@ -371050,7 +371016,7 @@
       "uid": "rippling:opendoor:e2ea6b22-2166-46bb-a547-109474727fd6",
       "company": "Opendoor",
       "title": "Data Scientist",
-      "location": "Seattle, WA",
+      "location": "Miami, FL",
       "url": "https://ats.rippling.com/opendoor/jobs/e2ea6b22-2166-46bb-a547-109474727fd6",
       "ats": "rippling",
       "posted_at": null,
@@ -371152,7 +371118,7 @@
       "uid": "rippling:opendoor:39324638-e89a-4747-821c-935aa2baba26",
       "company": "Opendoor",
       "title": "Machine Learning Engineer",
-      "location": "Toronto, Canada",
+      "location": "Miami, FL",
       "url": "https://ats.rippling.com/opendoor/jobs/39324638-e89a-4747-821c-935aa2baba26",
       "ats": "rippling",
       "posted_at": null,
@@ -384466,7 +384432,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-08T04:32:05-05:00",
+      "posted_at": "2026-11-08T11:16:55-05:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -440668,23 +440634,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:kla:/job/Migdal-Haemek-Israel/System-Engineer_2638398-1",
-      "company": "KLA",
-      "title": "System Engineer",
-      "location": "Migdal Ha'emek, Israel",
-      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Migdal-Haemek-Israel/System-Engineer_2638398-1",
-      "ats": "workday",
-      "posted_at": "Posted 19 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:kla:/job/Singapore-Singapore/MACH-Applications-Development-Engineer_2638123",
       "company": "KLA",
       "title": "MACH Applications Development Engineer",
@@ -477796,23 +477745,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:amat:/job/RehovotISR/Physicist---Advanced-Optical-Systems-_R2625525",
-      "company": "Applied Materials",
-      "title": "Physicist  (Advanced Optical Systems)",
-      "location": "Rehovot,ISR",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Physicist---Advanced-Optical-Systems-_R2625525",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:amat:/job/LinkouTWN/AIx-Field-Service-Engineer_R2627577",
       "company": "Applied Materials",
       "title": "AIx Field Service Engineer",
@@ -479892,23 +479824,6 @@
       "title": "Global Process Support Engineer",
       "location": "Santa Clara,CA",
       "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Global-Process-Support-Engineer_R2625034",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:amat:/job/HeimstettenDEU/Physicist---Engineer--m-f-d--Particle-Beam-Technology---Semiconductor-Control_R2621507",
-      "company": "Applied Materials",
-      "title": "Physicist / Engineer (m/f/d) Particle Beam Technology / Semiconductor Control",
-      "location": "Heimstetten,DEU",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Physicist---Engineer--m-f-d--Particle-Beam-Technology---Semiconductor-Control_R2621507",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -499538,6 +499453,23 @@
       "backfill": true
     },
     {
+      "uid": "lever:mobileye:c457aba7-5e7c-4085-ae7d-f9e2001621b6",
+      "company": "Mobileye",
+      "title": "System Validation Engineer",
+      "location": "Jerusalem, Israel",
+      "url": "https://jobs.eu.lever.co/mobileye/c457aba7-5e7c-4085-ae7d-f9e2001621b6",
+      "ats": "lever",
+      "posted_at": "2026-07-30T08:43:45.202000+00:00",
+      "category": "full-time",
+      "tags": [
+        "ai"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "lever:mobileye:38210898-5bc0-4eb5-bbd0-99d53b6a99ff",
       "company": "Mobileye",
       "title": "Testing & Validation Engineer",
@@ -505860,7 +505792,7 @@
       "location": "Bay Area, CA, United States of America",
       "url": "http://block.xyz/careers/jobs/5427789008?gh_jid=5427789008",
       "ats": "greenhouse",
-      "posted_at": "2026-10-30T09:43:51-04:00",
+      "posted_at": "2026-11-08T10:46:46-05:00",
       "category": "full-time",
       "tags": [
         "fintech"
@@ -520857,6 +520789,22 @@
       "active": true
     },
     {
+      "uid": "workday:nvidia:/job/Israel-Yokneam/Software-Engineer--Cloud-Platforms_JR2025037",
+      "company": "NVIDIA",
+      "title": "Software Engineer, Cloud Platforms",
+      "location": "2 Locations",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--Cloud-Platforms_JR2025037",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-09-08T00:33:04.119486+00:00",
+      "last_seen": "2026-11-08T16:26:18.419524+00:00",
+      "active": true
+    },
+    {
       "uid": "greenhouse:netskope:8164266",
       "company": "Netskope",
       "title": "Solutions Engineer",
@@ -525305,22 +525253,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Distinguished-Technical-Architect--Data---AI_JR350331",
       "ats": "workday",
       "posted_at": "Posted 11 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-08-27T17:01:46.134483+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:salesforce:/job/United-Kingdom---London/Distinguished-Technical-Architect--Data---AI_JR355099",
-      "company": "Salesforce",
-      "title": "Field CTO, Data and AI",
-      "location": "United Kingdom - London",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Distinguished-Technical-Architect--Data---AI_JR355099",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
       "tags": [
         "swe"
@@ -538520,22 +538452,6 @@
         "swe"
       ],
       "first_seen": "2026-07-23T17:34:32.963894+00:00",
-      "last_seen": "2026-11-08T02:34:37.563561+00:00",
-      "active": true
-    },
-    {
-      "uid": "eightfold:mlp:755957583465",
-      "company": "Millennium",
-      "title": "AI Data Engineer",
-      "location": "Tel Aviv, Israel",
-      "url": "https://mlp.eightfold.ai/careers/job/755957583465",
-      "ats": "eightfold",
-      "posted_at": 1784678400,
-      "category": "full-time",
-      "tags": [
-        "quant"
-      ],
-      "first_seen": "2026-07-23T15:13:31.225127+00:00",
       "last_seen": "2026-11-08T02:34:37.563561+00:00",
       "active": true
     },
