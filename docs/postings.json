@@ -1,7 +1,188 @@
 {
-  "generated_at": "2026-11-15T19:54:20.573883+00:00",
-  "count": 33742,
+  "generated_at": "2026-11-15T23:38:14.424798+00:00",
+  "count": 33719,
   "postings": [
+    {
+      "uid": "workday:capitalone:/job/New-York-NY/Mobile-Engineer-4--Android-_R1005736-1",
+      "company": "Capital One",
+      "title": "Mobile Engineer 4 (Android)",
+      "location": "2 Locations",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Mobile-Engineer-4--Android-_R1005736-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "bank",
+        "fintech"
+      ],
+      "first_seen": "2026-11-15T23:38:14.424798+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:rabobank:/job/Utrecht-Croeselaan-18/DevOps-Engineer-SaaS-Security---Integration_JR_00147878",
+      "company": "Rabobank",
+      "title": "DevOps Engineer SaaS Security & Integration",
+      "location": "Utrecht Croeselaan 18",
+      "url": "https://rabobank.wd3.myworkdayjobs.com/en-US/jobs/job/Utrecht-Croeselaan-18/DevOps-Engineer-SaaS-Security---Integration_JR_00147878",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "bank",
+        "europe"
+      ],
+      "first_seen": "2026-11-15T23:38:14.424798+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true
+    },
+    {
+      "uid": "ashby:openai:2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
+      "company": "OpenAI",
+      "title": "Full Stack Software Engineer, Travel",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
+      "ats": "ashby",
+      "posted_at": "2026-11-15T21:10:17.443+00:00",
+      "category": "full-time",
+      "tags": [
+        "ai",
+        "swe"
+      ],
+      "first_seen": "2026-11-15T23:38:14.424798+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:roche:/job/Hyderabad/Custom-Software-Developer--IT-Software-Engineer--Workflow-Automation---Engineering-Excellence---Experience_202611-129036-1",
+      "company": "Roche",
+      "title": "Custom Software Developer, IT Software Engineer, Workflow Automation - Engineering Excellence & Experience",
+      "location": "Hyderabad",
+      "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Hyderabad/Custom-Software-Developer--IT-Software-Engineer--Workflow-Automation---Engineering-Excellence---Experience_202611-129036-1",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-11-15T23:38:14.424798+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:zalando:/job/Berlin/Intern-Buying-Beauty--all-genders-_2726280",
+      "company": "Zalando",
+      "title": "Intern Buying Beauty (all genders)",
+      "location": "Berlin",
+      "url": "https://zalando.wd3.myworkdayjobs.com/en-US/ZalandoSiteWD/job/Berlin/Intern-Buying-Beauty--all-genders-_2726280",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-11-15T23:38:14.424798+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true
+    },
+    {
+      "uid": "greenhouse:purestorage:8383151",
+      "company": "Pure Storage (Everpure)",
+      "title": "Associate Systems Engineer, Excellence Center, (Prague)",
+      "location": "Prague, Czech Republic",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8383151",
+      "ats": "greenhouse",
+      "posted_at": "2026-11-15T15:06:42-05:00",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-15T23:38:14.424798+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true
+    },
+    {
+      "uid": "amazon:10604856",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Agentic AI, Velocity Labs",
+      "location": "New York, New York, USA",
+      "url": "https://www.amazon.jobs/en/jobs/10604856/software-development-engineer-agentic-ai-velocity-labs",
+      "ats": "amazon",
+      "posted_at": "2026-11-15",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-15T23:38:14.424798+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:paloaltonetworks:/job/Office---Israel---Tel-Aviv/AI-Engineer--Cortex-Agenitx-_JR-019817",
+      "company": "Palo Alto Networks",
+      "title": "AI Engineer (Cortex Agenitx)",
+      "location": "Office - Israel - Tel Aviv",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/AI-Engineer--Cortex-Agenitx-_JR-019817",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-15T23:38:14.424798+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/Hwaseong-LucestarKOR/Data-Scientist_R2633362",
+      "company": "Applied Materials",
+      "title": "Data Scientist",
+      "location": "2 Locations",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Hwaseong-LucestarKOR/Data-Scientist_R2633362",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-15T23:38:14.424798+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:amat:/job/Icheon-GwangoKOR/Technical-Product-Support-TPS--Engineer_R2633348",
+      "company": "Applied Materials",
+      "title": "Technical Product Support(TPS) Engineer",
+      "location": "Icheon-Gwango,KOR",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Icheon-GwangoKOR/Technical-Product-Support-TPS--Engineer_R2633348",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-15T23:38:14.424798+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true
+    },
+    {
+      "uid": "oraclecloud:ibqbjb:162274",
+      "company": "Honeywell",
+      "title": "Intern - Bachelor's SW",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162274",
+      "ats": "oraclecloud",
+      "posted_at": "2026-11-15",
+      "category": "internship",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-15T23:38:14.424798+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true
+    },
     {
       "uid": "ashby:photoroom:866bdfdb-a1d8-4d68-b9d1-66219f5f2d59",
       "company": "Photoroom",
@@ -2537,22 +2718,6 @@
       "title": "Software Developer 3",
       "location": "Czech Republic",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350487",
-      "ats": "oraclecloud",
-      "posted_at": "2026-11-12",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-14T02:31:33.895937+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:eeho:350502",
-      "company": "Oracle",
-      "title": "Business Analyst - NetSuite Business Transformation, Headless AI & Customer Health",
-      "location": "Austin, TX, United States (+2)",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350502",
       "ats": "oraclecloud",
       "posted_at": "2026-11-12",
       "category": "full-time",
@@ -21627,7 +21792,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8010571003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-15T14:46:55-05:00",
+      "posted_at": "2026-11-15T18:32:05-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -36374,23 +36539,6 @@
       "active": true
     },
     {
-      "uid": "workday:ag:/job/Donauwrth/XMLNAME--ET22G-Vibration---Dynamics-Engineer--d-f-m-_JR10454265-1",
-      "company": "Airbus",
-      "title": "#ET22G Vibration & Dynamics Engineer (d/f/m)",
-      "location": "Donauwörth",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth/XMLNAME--ET22G-Vibration---Dynamics-Engineer--d-f-m-_JR10454265-1",
-      "ats": "workday",
-      "posted_at": "Posted 5 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-11-10T15:54:47.212766+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:ag:/job/Toulouse-Area/ATR---New-Avionics-Suite-Design-Engineer_JR10444167-2",
       "company": "Airbus",
       "title": "ATR - New Avionics Suite Design Engineer",
@@ -41669,7 +41817,7 @@
     {
       "uid": "ashby:legora:9269dfa8-1e26-4373-9fb2-cb48f5ba70ed",
       "company": "Legora",
-      "title": "Legal Engineer - Knowledge Management",
+      "title": "Legal Engineer, Knowledge Management",
       "location": "New York City",
       "url": "https://jobs.ashbyhq.com/legora/9269dfa8-1e26-4373-9fb2-cb48f5ba70ed",
       "ats": "ashby",
@@ -52438,22 +52586,6 @@
       "ats": "workday",
       "posted_at": "Posted 9 Days Ago",
       "category": "internship",
-      "tags": [
-        "fintech"
-      ],
-      "first_seen": "2026-11-06T22:29:28.561181+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:visa:/job/US---Foster-City-CA/Data-and-AI-Governance-Analyst_REF088667W",
-      "company": "Visa",
-      "title": "Data and AI Governance Analyst",
-      "location": "US - Foster City, CA",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Data-and-AI-Governance-Analyst_REF088667W",
-      "ats": "workday",
-      "posted_at": "Posted 9 Days Ago",
-      "category": "full-time",
       "tags": [
         "fintech"
       ],
@@ -66075,23 +66207,6 @@
       "ats": "workday",
       "posted_at": "Posted 10 Days Ago",
       "category": "full-time",
-      "tags": [
-        "bank",
-        "europe"
-      ],
-      "first_seen": "2026-11-05T16:35:34.927107+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:rabobank:/job/Utrecht-Croeselaan-18/Graduation-Internship-Design-Research---Platform-Quality---Utrecht_JR_00147181",
-      "company": "Rabobank",
-      "title": "Graduation Internship Design Research | Platform Quality | Utrecht",
-      "location": "Utrecht Croeselaan 18",
-      "url": "https://rabobank.wd3.myworkdayjobs.com/en-US/jobs/job/Utrecht-Croeselaan-18/Graduation-Internship-Design-Research---Platform-Quality---Utrecht_JR_00147181",
-      "ats": "workday",
-      "posted_at": "Posted 10 Days Ago",
-      "category": "internship",
       "tags": [
         "bank",
         "europe"
@@ -96228,23 +96343,6 @@
       "active": true
     },
     {
-      "uid": "smartrecruiters:vattenfall:744000159110484",
-      "company": "Vattenfall",
-      "title": "Working Student Offshore Operations (f/m/d)",
-      "location": "Hamburg, HH, de",
-      "url": "https://jobs.smartrecruiters.com/vattenfall/744000159110484",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-11-02T11:11:08.564Z",
-      "category": "internship",
-      "tags": [
-        "commodities",
-        "europe"
-      ],
-      "first_seen": "2026-11-02T16:39:53.549066+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
       "uid": "ashby:etched:4020db7a-1ec0-48e3-9bbd-f1337c63a403",
       "company": "Etched",
       "title": "Build Engineer",
@@ -96607,23 +96705,6 @@
       "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Antibes-Area/STAGE-2027---Dveloppeur-Fullstack---Ingnieur-AI---Outillage-FinOps-pour-les-Clouds-Souverains_JR10434929",
       "ats": "workday",
       "posted_at": "Posted 9 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-11-02T16:39:53.549066+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:ag:/job/Manching/Engineering-Technical-planning-and-Integration-support--d-f-m-_JR10454208-1",
-      "company": "Airbus",
-      "title": "Engineering Technical planning and Integration support (d/f/m)",
-      "location": "Manching",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Engineering-Technical-planning-and-Integration-support--d-f-m-_JR10454208-1",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
       "category": "full-time",
       "tags": [
         "swe",
@@ -97246,23 +97327,6 @@
       "active": true
     },
     {
-      "uid": "workday:unilever:/job/Heilbronn/Praktikum--d-w-m--Technik_R-1190848-1",
-      "company": "Unilever",
-      "title": "Praktikum (d/w/m) Technik",
-      "location": "Heilbronn",
-      "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Heilbronn/Praktikum--d-w-m--Technik_R-1190848-1",
-      "ats": "workday",
-      "posted_at": "Posted 10 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-11-02T16:39:53.549066+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:thales:/job/Vlizy-Villacoublay/STAGE-DevOps-Chane-CI-CD---F-H_R0344383-1",
       "company": "Thales",
       "title": "STAGE DevOps Chaîne CI/CD – F/H",
@@ -97693,40 +97757,6 @@
       "title": "Test Engineer",
       "location": "Bangalore Rural, Karnataka, India",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Bangalore-Rural-Karnataka-India/Test-Engineer_JR00052128",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-11-02T16:39:53.549066+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:novartis:/job/Prague/Forward-Deployed-Engineer---AI-Prototyping---Product-Engineering_REQ-10091267",
-      "company": "Novartis",
-      "title": "Forward Deployed Engineer - AI Prototyping & Product Engineering",
-      "location": "Prague",
-      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Prague/Forward-Deployed-Engineer---AI-Prototyping---Product-Engineering_REQ-10091267",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-11-02T16:39:53.549066+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:novartis:/job/Basel-City/Research-Scientist---In-Vivo-Preclinical-RLT-Pharmacology--80-100--_REQ-10088997-2",
-      "company": "Novartis",
-      "title": "Research Scientist - In Vivo Preclinical RLT Pharmacology (80-100%)",
-      "location": "Basel (City)",
-      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Basel-City/Research-Scientist---In-Vivo-Preclinical-RLT-Pharmacology--80-100--_REQ-10088997-2",
       "ats": "workday",
       "posted_at": "Posted 13 Days Ago",
       "category": "full-time",
@@ -104633,7 +104663,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8107255003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-15T14:46:50-05:00",
+      "posted_at": "2026-11-15T18:32:00-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -117574,7 +117604,7 @@
       "uid": "lever:q-ctrl:ad82ad19-2d01-4c4b-89a7-4c02ad1ec2ef",
       "company": "Q-CTRL",
       "title": "Security Engineer",
-      "location": "Sydney",
+      "location": "Los Angeles",
       "url": "https://jobs.lever.co/q-ctrl/ad82ad19-2d01-4c4b-89a7-4c02ad1ec2ef",
       "ats": "lever",
       "posted_at": "2026-10-29T02:52:38.622000+00:00",
@@ -129273,22 +129303,6 @@
       "ats": "oraclecloud",
       "posted_at": "2026-11-12",
       "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-27T19:44:20.673242+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:jpmc:210803822",
-      "company": "J.P. Morgan",
-      "title": "Relationship Banker - Alabama Campus Dr - Tuscaloosa, AL",
-      "location": "Tuscaloosa, AL, United States",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803822",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-27",
-      "category": "new-grad",
       "tags": [
         "bank"
       ],
@@ -144319,22 +144333,6 @@
       "active": true
     },
     {
-      "uid": "workday:cisco:/job/Jeddah-Saudi-Arabia/Solutions-Engineer---Enterprise_2025658",
-      "company": "Cisco",
-      "title": "Solutions Engineer - Enterprise",
-      "location": "Jeddah, Saudi Arabia",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Jeddah-Saudi-Arabia/Solutions-Engineer---Enterprise_2025658",
-      "ats": "workday",
-      "posted_at": "Posted 6 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-24T21:18:09.102877+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
       "uid": "oraclecloud:jpmc:210801265",
       "company": "J.P. Morgan",
       "title": "Associate Banker, 30 Hours, Winston Salem, NC - University Pkwy Branch",
@@ -147071,26 +147069,6 @@
       "active": true
     },
     {
-      "uid": "beesite:api-deutschebank.beesite.de:76320",
-      "company": "Deutsche Bank",
-      "title": "Full Stack Engineer (React) - Trade Finance and Lending",
-      "location": "London",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=76320",
-      "ats": "beesite",
-      "posted_at": "2026-11-13",
-      "expires_at": "2026-11-15",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-23T17:37:19.645454+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
       "uid": "gsgraphql:186693_GS_EARLY_CAREER",
       "company": "Goldman Sachs",
       "title": "Global Banking & Markets Public - Natural Gas Trading - Analyst - Calgary",
@@ -147453,22 +147431,6 @@
       "title": "2028 Summer Analyst - New York M&A / Restructuring Generalist",
       "location": "New York, United States",
       "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6768",
-      "ats": "oraclecloud",
-      "posted_at": "2026-10-23",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-23T17:37:19.645454+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "oraclecloud:icbpjb:6773",
-      "company": "Lazard",
-      "title": "2027 Q3 - M&A Internship - Frankfurt and Munich",
-      "location": "Frankfurt am Main, Germany (+1)",
-      "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6773",
       "ats": "oraclecloud",
       "posted_at": "2026-10-23",
       "category": "internship",
@@ -163183,7 +163145,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8040212003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-15T14:46:56-05:00",
+      "posted_at": "2026-11-15T18:32:07-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -165402,23 +165364,6 @@
       "ats": "workday",
       "posted_at": "Posted 25 Days Ago",
       "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-21T15:43:12.579984+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:abb:/job/Sant-Quirze-del-Valles-Barcelona-Spain/Robotics-Test-Automation-Engineer_JR00024735",
-      "company": "ABB",
-      "title": "Robotics Software Engineer, Test Infrastructure",
-      "location": "Sant Quirze del Valles, Barcelona, Spain",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Sant-Quirze-del-Valles-Barcelona-Spain/Robotics-Test-Automation-Engineer_JR00024735",
-      "ats": "workday",
-      "posted_at": "Posted 25 Days Ago",
-      "category": "full-time",
       "tags": [
         "swe",
         "europe"
@@ -172220,6 +172165,22 @@
       ],
       "first_seen": "2026-10-20T19:25:43.675630+00:00",
       "last_seen": "2026-11-15T00:29:23.660846+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:usaa:/job/San-Antonio-Home-Office-I/Mid-Level-Software-Engineer---UI-API-Application-Development_R0121105",
+      "company": "USAA",
+      "title": "Mid-Level Software Engineer – UI/API Application Development",
+      "location": "San Antonio Home Office I",
+      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Mid-Level-Software-Engineer---UI-API-Application-Development_R0121105",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "fintech"
+      ],
+      "first_seen": "2026-10-20T19:25:43.675630+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
       "active": true
     },
     {
@@ -180948,23 +180909,6 @@
       "active": true
     },
     {
-      "uid": "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/Master-s-thesis---Bridging-the-protocol-gap--Network-independent-industrial-drive-configuratio_JR00050884",
-      "company": "ABB",
-      "title": "Master´s thesis – Bridging the protocol gap: Network independent industrial drive configuration",
-      "location": "Vaesteras, Vastmanland County, Sweden",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Vaesteras-Vastmanland-County-Sweden/Master-s-thesis---Bridging-the-protocol-gap--Network-independent-industrial-drive-configuratio_JR00050884",
-      "ats": "workday",
-      "posted_at": "Posted 27 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-19T17:04:10.375074+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:abb:/job/Remote-United-Kingdom/Field-Service-Engineer_JR00050261",
       "company": "ABB",
       "title": "Field Service Engineer",
@@ -183276,40 +183220,6 @@
       "title": "STAGE - Ingénieur Développement Web - F/H",
       "location": "Vélizy-Villacoublay",
       "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Vlizy-Villacoublay/STAGE---Ingnieur-Dveloppement-Web---F-H_R0344303-1",
-      "ats": "workday",
-      "posted_at": "Posted 27 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-19T10:28:55.543571+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/Supplier-Quality-Engineer---gjutna-komponenter--ABB-Traction_JR00049680",
-      "company": "ABB",
-      "title": "Supplier Quality Engineer – gjutna komponenter, ABB Traction",
-      "location": "Vaesteras, Vastmanland County, Sweden",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Vaesteras-Vastmanland-County-Sweden/Supplier-Quality-Engineer---gjutna-komponenter--ABB-Traction_JR00049680",
-      "ats": "workday",
-      "posted_at": "Posted 27 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-19T10:28:55.543571+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:abb:/job/Machelen-Flemish-Brabant-Belgium/Field-Service-Engineer---Electrification_JR00047396",
-      "company": "ABB",
-      "title": "Field Service Engineer - Electrification",
-      "location": "Machelen, Flemish Brabant, Belgium",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Machelen-Flemish-Brabant-Belgium/Field-Service-Engineer---Electrification_JR00047396",
       "ats": "workday",
       "posted_at": "Posted 27 Days Ago",
       "category": "full-time",
@@ -189944,40 +189854,6 @@
       "active": true
     },
     {
-      "uid": "smartrecruiters:vattenfall:744000155941139",
-      "company": "Vattenfall",
-      "title": ".NET Software Engineer (Backend)",
-      "location": "Hamburg, HH, de",
-      "url": "https://jobs.smartrecruiters.com/vattenfall/744000155941139",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-10-16T08:38:34.720Z",
-      "category": "full-time",
-      "tags": [
-        "commodities",
-        "europe"
-      ],
-      "first_seen": "2026-10-16T09:58:42.864716+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "smartrecruiters:vattenfall:744000155935282",
-      "company": "Vattenfall",
-      "title": ".NET Software Engineer (Backend)",
-      "location": "Berlin, BE, de",
-      "url": "https://jobs.smartrecruiters.com/vattenfall/744000155935282",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-10-16T08:36:32.068Z",
-      "category": "full-time",
-      "tags": [
-        "commodities",
-        "europe"
-      ],
-      "first_seen": "2026-10-16T09:58:42.864716+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
       "uid": "ashby:mistral.ai:dff09cb5-0c21-4bec-971b-297225d5fbcd",
       "company": "Mistral AI",
       "title": "Research Engineer, Orchestral",
@@ -190934,7 +190810,7 @@
       "location": "Canada",
       "url": "https://job-boards.greenhouse.io/axon/jobs/7791815003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-15T14:01:32-05:00",
+      "posted_at": "2026-11-15T15:16:25-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -193670,26 +193546,6 @@
       "category": "internship",
       "tags": [
         "asset-mgmt",
-        "europe"
-      ],
-      "first_seen": "2026-10-15T19:32:36.824206+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:76222",
-      "company": "Deutsche Bank",
-      "title": "Internship Human Resources",
-      "location": "Luxemburg",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=76222",
-      "ats": "beesite",
-      "posted_at": "2026-10-15",
-      "expires_at": "2026-11-15",
-      "category": "internship",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
         "europe"
       ],
       "first_seen": "2026-10-15T19:32:36.824206+00:00",
@@ -202810,23 +202666,6 @@
       "active": true
     },
     {
-      "uid": "workday:ag:/job/Toulouse-Area/Training-Support-Engineer-F-H_JR10446305",
-      "company": "Airbus",
-      "title": "Training Support Engineer F/H",
-      "location": "Toulouse Area",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/Training-Support-Engineer-F-H_JR10446305",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-14T15:36:19.819152+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
       "uid": "smartrecruiters:BoschGroup:744000155505319",
       "company": "Bosch",
       "title": "Praktikum im Bereich Einkaufsqualität",
@@ -206721,26 +206560,6 @@
       "category": "full-time",
       "tags": [
         "asset-mgmt"
-      ],
-      "first_seen": "2026-10-13T21:37:57.046601+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:76172",
-      "company": "Deutsche Bank",
-      "title": "Internship Private Bank – Client Lifecyle Management Team",
-      "location": "Luxemburg",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=76172",
-      "ats": "beesite",
-      "posted_at": "2026-10-14",
-      "expires_at": "2026-11-15",
-      "category": "internship",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
       ],
       "first_seen": "2026-10-13T21:37:57.046601+00:00",
       "last_seen": "2026-11-15T00:29:23.660846+00:00",
@@ -234921,23 +234740,6 @@
       "active": true
     },
     {
-      "uid": "teamtailor:nordicsemiconductor:9f59ee4e-ff37-4966-ac40-4b34607da9b7",
-      "company": "Nordic Semiconductor",
-      "title": "ASIC RTL Design Engineer",
-      "location": "Bristol (+1)",
-      "url": "https://careers.nordicsemi.com/jobs/8510525-asic-rtl-design-engineer",
-      "ats": "teamtailor",
-      "posted_at": "Wed, 07 Oct 2026 11:11:44 +0200",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-07T21:41:16.789453+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
       "uid": "greenhouse:stripe:8144196",
       "company": "Stripe",
       "title": "AI Engineer",
@@ -241042,24 +240844,6 @@
         "ai",
         "ai-lab",
         "europe"
-      ],
-      "first_seen": "2026-10-06T19:12:11.269095+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "ashby:fluidstack:412f8e9d-c6ae-497f-9f4e-522deeb26861",
-      "company": "Fluidstack",
-      "title": "Security Engineer, Incident Response ",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/fluidstack/412f8e9d-c6ae-497f-9f4e-522deeb26861",
-      "ats": "ashby",
-      "posted_at": "2026-10-06T18:31:46.282+00:00",
-      "category": "full-time",
-      "tags": [
-        "ai",
-        "swe",
-        "uk"
       ],
       "first_seen": "2026-10-06T19:12:11.269095+00:00",
       "last_seen": "2026-11-15T00:29:23.660846+00:00",
@@ -249926,125 +249710,6 @@
       "ats": "workday",
       "posted_at": "Posted 4 Days Ago",
       "category": "full-time",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:unilever:/job/Rotterdam---Hofplein-19/Internship--27--Sustainable-Business-and-Communications_R-1189141",
-      "company": "Unilever",
-      "title": "Internship '27: Sustainable Business and Communications",
-      "location": "Rotterdam - Hofplein 19",
-      "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Sustainable-Business-and-Communications_R-1189141",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:unilever:/job/Rotterdam---Hofplein-19/Internship--27--Supply-Chain-and-Operations_R-1189149",
-      "company": "Unilever",
-      "title": "Internship '27: Supply Chain and Operations",
-      "location": "Rotterdam - Hofplein 19",
-      "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Supply-Chain-and-Operations_R-1189149",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:unilever:/job/Rotterdam---Hofplein-19/Internship--27-----Customer-Development---Category---Account-Management_R-1189150",
-      "company": "Unilever",
-      "title": "Internship '27:  - Customer Development - Category & Account Management",
-      "location": "Rotterdam - Hofplein 19",
-      "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27-----Customer-Development---Category---Account-Management_R-1189150",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:unilever:/job/Rotterdam---Hofplein-19/Internship--27--Customer-Development_R-1189152",
-      "company": "Unilever",
-      "title": "Internship '27: Customer Development",
-      "location": "Rotterdam - Hofplein 19",
-      "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Customer-Development_R-1189152",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:unilever:/job/Rotterdam---Hofplein-19/Internship--27--Finance_R-1189146",
-      "company": "Unilever",
-      "title": "Internship '27: Finance",
-      "location": "Rotterdam - Hofplein 19",
-      "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Finance_R-1189146",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:unilever:/job/Rotterdam---Hofplein-19/Internship--27--Digital-Finance_R-1189144",
-      "company": "Unilever",
-      "title": "Internship '27: Digital Finance",
-      "location": "Rotterdam - Hofplein 19",
-      "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Digital-Finance_R-1189144",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe",
-        "uk"
-      ],
-      "first_seen": "2026-10-05T18:37:17.354026+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:unilever:/job/Rotterdam---Hofplein-19/Internship--27--Human-Resources_R-1189147",
-      "company": "Unilever",
-      "title": "Internship '27: Human Resources",
-      "location": "Rotterdam - Hofplein 19",
-      "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Human-Resources_R-1189147",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "internship",
       "tags": [
         "swe",
         "uk"
@@ -284189,40 +283854,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:citi:/job/Warsaw--Poland/Technology---Cyber-Security--Summer-Analyst--Warsaw-2027_26999062",
-      "company": "Citi",
-      "title": "Technology - Cyber Security, Summer Analyst, Warsaw 2027",
-      "location": "Warsaw  Poland",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Warsaw--Poland/Technology---Cyber-Security--Summer-Analyst--Warsaw-2027_26999062",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:citi:/job/Warsaw--Poland/Technology---Infrastructure--Summer-Analyst--Warsaw-2027_26999106",
-      "company": "Citi",
-      "title": "Technology - Infrastructure, Summer Analyst, Warsaw 2027",
-      "location": "Warsaw  Poland",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Warsaw--Poland/Technology---Infrastructure--Summer-Analyst--Warsaw-2027_26999106",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:citi:/job/Tampa-Florida-United-States/Functions---Finance--Summer-Associate--Tampa---USA--2027_26997272",
       "company": "Citi",
       "title": "Functions - Finance, Summer Associate, Tampa - USA, 2027",
@@ -299441,25 +299072,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:shell:/job/Assen/Snr-Rotating-Equipment-Engineer_R211209",
-      "company": "Shell",
-      "title": "Snr Rotating Equipment Engineer",
-      "location": "Assen",
-      "url": "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Assen/Snr-Rotating-Equipment-Engineer_R211209",
-      "ats": "workday",
-      "posted_at": "Posted 27 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "commodities",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:shell:/job/The-Hague/DLNG-Trader_R210590",
       "company": "Shell",
       "title": "DLNG Trader",
@@ -299737,24 +299349,6 @@
       "tags": [
         "commodities",
         "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "smartrecruiters:vattenfall:744000151003720",
-      "company": "Vattenfall",
-      "title": "Thesis Work – From flow to fish: Hydraulic characterization of a new fish swimming flume",
-      "location": "Älvkarleby, Uppsala County, se",
-      "url": "https://jobs.smartrecruiters.com/vattenfall/744000151003720",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-09-22T11:03:36.704Z",
-      "category": "internship",
-      "tags": [
-        "commodities",
         "europe"
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
@@ -337800,6 +337394,24 @@
       "backfill": true
     },
     {
+      "uid": "lever:zopa:962f3756-6e45-480f-984c-64e024b57c4f",
+      "company": "Zopa",
+      "title": "2027 Graduate Analyst",
+      "location": "London",
+      "url": "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f",
+      "ats": "lever",
+      "posted_at": "2026-08-28T10:37:56.287000+00:00",
+      "category": "full-time",
+      "tags": [
+        "fintech",
+        "uk"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "lever:zopa:b7c4f329-9bbc-4bfc-b90d-d0fee58d30fb",
       "company": "Zopa",
       "title": "Android Engineer",
@@ -375040,24 +374652,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:abb:/job/Sesto-San-Giovanni-Milano-Italy/Robotics-Systems-Engineer_JR00046553",
-      "company": "ABB",
-      "title": "Robotics Systems Engineer",
-      "location": "Sesto San Giovanni, Milano, Italy",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Sesto-San-Giovanni-Milano-Italy/Robotics-Systems-Engineer_JR00046553",
-      "ats": "workday",
-      "posted_at": "Posted 25 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:abb:/job/Minden-North-Rhine-Westphalia-Germany/Technical-Support-Engineer--m-f-d-_JR00038945",
       "company": "ABB",
       "title": "Technical Support Engineer (m/f/d)  - All locations within Germany possible",
@@ -375138,24 +374732,6 @@
       "ats": "workday",
       "posted_at": "Posted 19 Days Ago",
       "category": "internship",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:abb:/job/Sesto-San-Giovanni-Milano-Italy/Robotics-Project-Engineer_JR00046628",
-      "company": "ABB",
-      "title": "Robotics Project Engineer",
-      "location": "Sesto San Giovanni, Milano, Italy",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Sesto-San-Giovanni-Milano-Italy/Robotics-Project-Engineer_JR00046628",
-      "ats": "workday",
-      "posted_at": "Posted 25 Days Ago",
-      "category": "full-time",
       "tags": [
         "swe",
         "europe"
@@ -375796,24 +375372,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:abb:/job/Sesto-San-Giovanni-Milano-Italy/Robotics-Project-Engineer_JR00046659",
-      "company": "ABB",
-      "title": "Robotics Project Engineer",
-      "location": "Sesto San Giovanni, Milano, Italy",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Sesto-San-Giovanni-Milano-Italy/Robotics-Project-Engineer_JR00046659",
-      "ats": "workday",
-      "posted_at": "Posted 25 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:abb:/job/Brno-Jihomoravsky-Czechia/Commissioning-Engineer_JR00040982",
       "company": "ABB",
       "title": "Commissioning Engineer",
@@ -375904,24 +375462,6 @@
       "backfill": true
     },
     {
-      "uid": "workday:abb:/job/Sant-Quirze-del-Valles-Barcelona-Spain/Robotics-Applications-Engineer_JR00037569-1",
-      "company": "ABB",
-      "title": "Robotics Applications Engineer",
-      "location": "Sant Quirze del Valles, Barcelona, Spain",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Sant-Quirze-del-Valles-Barcelona-Spain/Robotics-Applications-Engineer_JR00037569-1",
-      "ats": "workday",
-      "posted_at": "Posted 25 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:abb:/job/Vittuone-Milano-Italy/R-D-Associate-Engineer_JR00046666",
       "company": "ABB",
       "title": "R&D Associate Engineer",
@@ -375976,6 +375516,24 @@
       "backfill": true
     },
     {
+      "uid": "workday:abb:/job/Suzhou-Jiangsu-China/Production-Engineering-Specialist_JR00042199",
+      "company": "ABB",
+      "title": "Production Engineering Specialist",
+      "location": "Suzhou, Jiangsu, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Suzhou-Jiangsu-China/Production-Engineering-Specialist_JR00042199",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:abb:/job/Beijing-Beijing-China/Product-Compliance-Engineer_JR00014567",
       "company": "ABB",
       "title": "Product Compliance Engineer",
@@ -376008,6 +375566,24 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-11-15T00:29:23.660846+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Planning---Fulfillment-Intern---Summer-2027_JR00045988",
+      "company": "ABB",
+      "title": "Planning & Fulfillment Intern - Summer 2027",
+      "location": "New Berlin, Wisconsin, United States of America",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Planning---Fulfillment-Intern---Summer-2027_JR00045988",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
       "active": true,
       "backfill": true
     },
@@ -376080,6 +375656,24 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-11-15T00:29:23.660846+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Krakow-Lesser-Poland-Poland/Student-Internship-in-HR-Services-with-Spanish_JR00045657",
+      "company": "ABB",
+      "title": "ABB Kraków Student Internship with Foreign Language Talent Pool – Share your CV with us",
+      "location": "Krakow, Lesser Poland, Poland",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Student-Internship-in-HR-Services-with-Spanish_JR00045657",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
       "active": true,
       "backfill": true
     },
@@ -376228,6 +375822,42 @@
       "backfill": true
     },
     {
+      "uid": "workday:abb:/job/Ratingen-North-Rhine-Westphalia-Germany/Working-student--m-f-d--in-the-Development-of-Pole-Pieces_JR00046368",
+      "company": "ABB",
+      "title": "Working student (m/f/d) in the Development of Pole Parts",
+      "location": "Ratingen, North Rhine-Westphalia, Germany",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Ratingen-North-Rhine-Westphalia-Germany/Working-student--m-f-d--in-the-Development-of-Pole-Pieces_JR00046368",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Rotterdam-South-Holland-Netherlands/Field-Service-Engineer-Marine---Ports-Power_JR00018103-1",
+      "company": "ABB",
+      "title": "Field Service Engineer Marine & Ports Power",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Rotterdam-South-Holland-Netherlands/Field-Service-Engineer-Marine---Ports-Power_JR00018103-1",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:abb:/job/Richmond-Virginia-United-States-of-America/Industrial-Engineer_JR00019725",
       "company": "ABB",
       "title": "Industrial Engineer",
@@ -376242,6 +375872,42 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-11-15T00:29:23.660846+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Shanghai-Shanghai-China/Project-Technical-Engineer_JR00046866-2",
+      "company": "ABB",
+      "title": "Project Technical Engineer",
+      "location": "Shanghai, Shanghai, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Project-Technical-Engineer_JR00046866-2",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Shanghai-Shanghai-China/R-D-Engineer---Certification_JR00046516-6",
+      "company": "ABB",
+      "title": "R&D Engineer - Certification",
+      "location": "Shanghai, Shanghai, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/R-D-Engineer---Certification_JR00046516-6",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-15T23:38:14.424798+00:00",
       "active": true,
       "backfill": true
     },
@@ -391903,7 +391569,7 @@
       "location": "Wallops Island, VA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-15T14:46:54-05:00",
+      "posted_at": "2026-11-15T18:32:04-05:00",
       "category": "internship",
       "tags": [
         "swe"
@@ -443345,23 +443011,6 @@
       "backfill": true
     },
     {
-      "uid": "oraclecloud:eeho:334350",
-      "company": "Oracle",
-      "title": "NetSuite Customer Success Special Projects Intern - OVIP",
-      "location": "Nashville, TN, United States (+2)",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334350",
-      "ats": "oraclecloud",
-      "posted_at": "2026-05-19",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "workday:paloaltonetworks:/job/Office---Israel---Tel-Aviv/C---Developer---macOS-Platform-Engineer--Cortex-XDR-_JR-021730",
       "company": "Palo Alto Networks",
       "title": "C++ Developer - macOS Platform Engineer (Cortex XDR)",
@@ -445478,23 +445127,6 @@
       "ats": "jibe",
       "posted_at": "2026-09-17T15:14:00+0000",
       "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:sec:/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-HVAC-Engineer_R121076",
-      "company": "Samsung",
-      "title": "HVAC Engineer",
-      "location": "12100 Samsung Blvd, Austin, TX, USA",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-HVAC-Engineer_R121076",
-      "ats": "workday",
-      "posted_at": "Posted 24 Days Ago",
-      "category": "full-time",
       "tags": [
         "swe"
       ],
@@ -477605,23 +477237,6 @@
       "title": "Ramp/NPI Process Engineer - Dry / Wet Etch",
       "location": "Singapore,SGP",
       "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Failure-Analysis-Engineer_R2624658-1",
-      "ats": "workday",
-      "posted_at": "Posted 30+ Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
-      "uid": "workday:amat:/job/Santa-ClaraCA/Process-Engineer_R2620975",
-      "company": "Applied Materials",
-      "title": "Process Engineer",
-      "location": "Santa Clara,CA",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer_R2620975",
       "ats": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "category": "full-time",
@@ -518255,22 +517870,6 @@
         "ai"
       ],
       "first_seen": "2026-08-30T02:14:43.932367+00:00",
-      "last_seen": "2026-11-15T00:29:23.660846+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:nvidia:/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2021950",
-      "company": "NVIDIA",
-      "title": "ATE Test Engineer",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2021950",
-      "ats": "workday",
-      "posted_at": "Posted 16 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-08-29T04:12:53.553534+00:00",
       "last_seen": "2026-11-15T00:29:23.660846+00:00",
       "active": true
     },
