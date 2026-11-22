@@ -1,7 +1,104 @@
 {
-  "generated_at": "2026-11-21T19:52:08.099088+00:00",
-  "count": 33830,
+  "generated_at": "2026-11-21T23:59:02.553319+00:00",
+  "count": 33821,
   "postings": [
+    {
+      "uid": "ashby:exa:fdecb657-e185-4fb4-b04c-d2c1fec240ff",
+      "company": "Exa",
+      "title": "Social Media Strategist",
+      "location": "San Francisco, California",
+      "url": "https://jobs.ashbyhq.com/exa/fdecb657-e185-4fb4-b04c-d2c1fec240ff",
+      "ats": "ashby",
+      "posted_at": "2026-11-21T22:09:21.784+00:00",
+      "category": "full-time",
+      "tags": [
+        "ai",
+        "swe"
+      ],
+      "first_seen": "2026-11-21T23:59:02.553319+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
+      "active": true
+    },
+    {
+      "uid": "greenhouse:spacex:8952902002",
+      "company": "SpaceX",
+      "title": "Critical Lift & Transport Engineer (Starship)",
+      "location": "Starbase, TX",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8952902002?gh_jid=8952902002",
+      "ats": "greenhouse",
+      "posted_at": "2026-11-21T15:17:05-05:00",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-21T23:59:02.553319+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
+      "active": true
+    },
+    {
+      "uid": "greenhouse:spacex:8947625002",
+      "company": "SpaceX",
+      "title": "GNC Engineer (Starship)",
+      "location": "Starbase, TX",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8947625002?gh_jid=8947625002",
+      "ats": "greenhouse",
+      "posted_at": "2026-11-21T16:52:05-05:00",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-21T23:59:02.553319+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:blueorigin:/job/Denver-CO/System-Safety---Mission-Assurance-Engineer-Project-Sunrise_R75633",
+      "company": "Blue Origin",
+      "title": "System Safety & Mission Assurance Engineer-Project Sunrise",
+      "location": "7 Locations",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/System-Safety---Mission-Assurance-Engineer-Project-Sunrise_R75633",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-21T23:59:02.553319+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:blueorigin:/job/Denver-CO/Reliability-Engineer--Spacecraft_R75634",
+      "company": "Blue Origin",
+      "title": "Reliability Engineer, Spacecraft",
+      "location": "7 Locations",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/Reliability-Engineer--Spacecraft_R75634",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-21T23:59:02.553319+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
+      "active": true
+    },
+    {
+      "uid": "workday:blueorigin:/job/Denver-CO/Systems-Engineer--Spacecraft-Thermal-Control-Project-Sunrise_R75626",
+      "company": "Blue Origin",
+      "title": "Systems Engineer, Spacecraft Thermal Control-Project Sunrise",
+      "location": "7 Locations",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/Systems-Engineer--Spacecraft-Thermal-Control-Project-Sunrise_R75626",
+      "ats": "workday",
+      "posted_at": "Posted Today",
+      "category": "full-time",
+      "tags": [
+        "swe"
+      ],
+      "first_seen": "2026-11-21T23:59:02.553319+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
+      "active": true
+    },
     {
       "uid": "greenhouse:aqr:7013706",
       "company": "AQR Capital",
@@ -12189,7 +12286,7 @@
       "location": "Sydney",
       "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5302971007",
       "ats": "greenhouse",
-      "posted_at": "2026-11-20T03:07:02-05:00",
+      "posted_at": "2026-11-21T19:01:00-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -24612,7 +24709,7 @@
       "location": "San Francisco, CA ",
       "url": "https://stripe.com/jobs/search?gh_jid=8374754",
       "ats": "greenhouse",
-      "posted_at": "2026-11-19T12:12:32-05:00",
+      "posted_at": "2026-11-21T16:11:40-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -25758,38 +25855,6 @@
       "active": true
     },
     {
-      "uid": "workday:blueorigin:/job/Denver-CO/Structural-Engineer---Solar-Array-Project-Sunrise_R75754",
-      "company": "Blue Origin",
-      "title": "Structural Engineer — Solar Array-Project Sunrise",
-      "location": "6 Locations",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/Structural-Engineer---Solar-Array-Project-Sunrise_R75754",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-19T01:55:41.895469+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:blueorigin:/job/Denver-CO/Structural-Engineer---Radiator-System-Project-Sunrise_R75746",
-      "company": "Blue Origin",
-      "title": "Structural Engineer — Radiator System-Project Sunrise",
-      "location": "6 Locations",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/Structural-Engineer---Radiator-System-Project-Sunrise_R75746",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-19T01:55:41.895469+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:blueorigin:/job/Denver-CO/Mechanisms-Engineer---Radiator-Deployment-Project-Sunrise_R75752",
       "company": "Blue Origin",
       "title": "Mechanisms Engineer — Radiator Deployment-Project Sunrise",
@@ -25806,43 +25871,11 @@
       "active": true
     },
     {
-      "uid": "workday:blueorigin:/job/Denver-CO/CAD---Drawings-Engineer---Radiator-System-Project-Sunrise_R75732",
-      "company": "Blue Origin",
-      "title": "CAD / Drawings Engineer — Radiator System-Project Sunrise",
-      "location": "6 Locations",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/CAD---Drawings-Engineer---Radiator-System-Project-Sunrise_R75732",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-19T01:55:41.895469+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:blueorigin:/job/Denver-CO/Design-Engineer---Platform-Project-Sunrise_R75751",
       "company": "Blue Origin",
       "title": "Design Engineer — Platform-Project Sunrise",
       "location": "6 Locations",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/Design-Engineer---Platform-Project-Sunrise_R75751",
-      "ats": "workday",
-      "posted_at": "Posted 3 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-19T01:55:41.895469+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:blueorigin:/job/Denver-CO/Structural-Analysis-Engineer-Project-Sunrise_R75706",
-      "company": "Blue Origin",
-      "title": "Structural Analysis Engineer-Project Sunrise",
-      "location": "6 Locations",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/Structural-Analysis-Engineer-Project-Sunrise_R75706",
       "ats": "workday",
       "posted_at": "Posted 3 Days Ago",
       "category": "full-time",
@@ -36401,7 +36434,7 @@
       "location": "Long Beach, California, United States",
       "url": "https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002",
       "ats": "greenhouse",
-      "posted_at": "2026-11-20T14:16:23-05:00",
+      "posted_at": "2026-11-21T17:46:10-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -43051,23 +43084,6 @@
       "active": true
     },
     {
-      "uid": "workday:lbg:/job/Hyderabad-Knowledge-Park-Tower-2/AI-Engineer_166705",
-      "company": "Lloyds Banking Group",
-      "title": "AI Engineer",
-      "location": "Hyderabad Knowledge Park Tower 2",
-      "url": "https://lbg.wd3.myworkdayjobs.com/en-US/Lloyds_Technology_Centre/job/Hyderabad-Knowledge-Park-Tower-2/AI-Engineer_166705",
-      "ats": "workday",
-      "posted_at": "Posted 4 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "uk"
-      ],
-      "first_seen": "2026-11-17T13:56:56.585669+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:rbs:/job/Bengaluru/Data-Engineer---Python--PySpark---AWS--AVP_R-00287798",
       "company": "NatWest Group",
       "title": "Data Engineer – Python, PySpark & AWS, AVP",
@@ -47124,22 +47140,6 @@
       "ats": "greenhouse",
       "posted_at": "2026-11-18T11:32:25-05:00",
       "category": "full-time",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-11-17T04:39:18.172531+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
-      "uid": "smartrecruiters:ServiceNow:744000161936128",
-      "company": "ServiceNow",
-      "title": "Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027)",
-      "location": "Santa Clara, CALIFORNIA, us",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-11-16T23:37:21.422Z",
-      "category": "internship",
       "tags": [
         "swe"
       ],
@@ -53390,26 +53390,6 @@
       "active": true
     },
     {
-      "uid": "beesite:api-deutschebank.beesite.de:76729",
-      "company": "Deutsche Bank",
-      "title": "QA Engineer for F2B Test Management, AS",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=76729",
-      "ats": "beesite",
-      "posted_at": "2026-11-20",
-      "expires_at": "2026-11-21",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-11-16T12:11:53.578385+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:barclays:/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Gen-AI-Engineer_JR-0000100208",
       "company": "Barclays",
       "title": "Gen AI Engineer",
@@ -57687,7 +57667,7 @@
     {
       "uid": "ashby:black-forest-labs:f83d3aee-d270-4ef6-b7a4-845a38afb3aa",
       "company": "Black Forest Labs",
-      "title": "Machine Learning Engineer - AI Safety",
+      "title": "Machine Learning Engineer - Trust and Safety",
       "location": "San Francisco (United States)",
       "url": "https://jobs.ashbyhq.com/black-forest-labs/f83d3aee-d270-4ef6-b7a4-845a38afb3aa",
       "ats": "ashby",
@@ -78903,23 +78883,6 @@
       "active": true
     },
     {
-      "uid": "workday:abb:/job/Vaesteras-Vastmanland-County-Sweden/R-D-Engineer_JR00020433-1",
-      "company": "ABB",
-      "title": "R&D Engineer",
-      "location": "Vaesteras, Vastmanland County, Sweden",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Vaesteras-Vastmanland-County-Sweden/R-D-Engineer_JR00020433-1",
-      "ats": "workday",
-      "posted_at": "Posted 10 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-11-11T16:44:23.995023+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:abb:/job/Malmo-Skane-County-Sweden/Master-Thesis-Work---Industrializing-e-SBOM-Traceability-across-DevOps--Windchill-and-Product-Lifecycle-Systems_JR00053120",
       "company": "ABB",
       "title": "Master Thesis Work - Industrializing e-SBOM Traceability across DevOps, Windchill and Product Lifecycle Systems",
@@ -87169,23 +87132,6 @@
       "ats": "lever",
       "posted_at": "2026-11-10T14:06:35.534000+00:00",
       "category": "internship",
-      "tags": [
-        "quantum",
-        "europe"
-      ],
-      "first_seen": "2026-11-10T15:54:47.212766+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
-      "uid": "teamtailor:iqm:e4b89d25-ca76-4300-a008-d0fecfd5966f",
-      "company": "IQM",
-      "title": "Software Engineer, QPU Numerics",
-      "location": "Espoo",
-      "url": "https://iqm.teamtailor.com/jobs/8382820-software-engineer-qpu-numerics",
-      "ats": "teamtailor",
-      "posted_at": "Tue, 15 Sep 2026 16:06:36 +0300",
-      "category": "full-time",
       "tags": [
         "quantum",
         "europe"
@@ -99164,23 +99110,6 @@
       "active": true
     },
     {
-      "uid": "workday:abb:/job/Krakow-Lesser-Poland-Poland/Automation-Engineer_JR00051983",
-      "company": "ABB",
-      "title": "Automation Engineer - B&R Automation",
-      "location": "Krakow, Lesser Poland, Poland",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Automation-Engineer_JR00051983",
-      "ats": "workday",
-      "posted_at": "Posted 13 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-11-08T16:26:18.419524+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:kla:/job/Montbonnot-France/Customer-Service-Engineer-for-SPTS_2642893",
       "company": "KLA",
       "title": "Customer Service Engineer for SPTS",
@@ -103777,23 +103706,6 @@
       "category": "full-time",
       "tags": [
         "quantum",
-        "europe"
-      ],
-      "first_seen": "2026-11-06T17:35:13.889281+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:ag:/job/Albacete/AIRFRAME-DESIGN-ENGINEER_JR10454683",
-      "company": "Airbus",
-      "title": "AIRFRAME DESIGN ENGINEER",
-      "location": "2 Locations",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Albacete/AIRFRAME-DESIGN-ENGINEER_JR10454683",
-      "ats": "workday",
-      "posted_at": "Posted 15 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
         "europe"
       ],
       "first_seen": "2026-11-06T17:35:13.889281+00:00",
@@ -118774,40 +118686,6 @@
       "url": "https://centrica.wd3.myworkdayjobs.com/en-US/Centrica/job/Shrewsbury/Gas-Service-and-Repair-Engineer_R0086004",
       "ats": "workday",
       "posted_at": "Posted 17 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "commodities",
-        "europe"
-      ],
-      "first_seen": "2026-11-04T20:59:58.645968+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
-      "uid": "smartrecruiters:vattenfall:744000159675235",
-      "company": "Vattenfall",
-      "title": "OT SCADA Engineer ",
-      "location": "Amsterdam, NH, nl",
-      "url": "https://jobs.smartrecruiters.com/vattenfall/744000159675235",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-11-04T16:14:05.758Z",
-      "category": "full-time",
-      "tags": [
-        "commodities",
-        "europe"
-      ],
-      "first_seen": "2026-11-04T20:59:58.645968+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
-      "uid": "smartrecruiters:vattenfall:744000159675859",
-      "company": "Vattenfall",
-      "title": "OT SCADA Engineer ",
-      "location": "Kolding, dk",
-      "url": "https://jobs.smartrecruiters.com/vattenfall/744000159675859",
-      "ats": "smartrecruiters",
-      "posted_at": "2026-11-04T16:12:01.817Z",
       "category": "full-time",
       "tags": [
         "commodities",
@@ -139920,23 +139798,6 @@
       "active": true
     },
     {
-      "uid": "workday:abb:/job/Zagreb-Grad-Zagreb-Croatia/Project-Engineer_JR00043146",
-      "company": "ABB",
-      "title": "Project Engineer",
-      "location": "Zagreb, Grad Zagreb, Croatia",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Zagreb-Grad-Zagreb-Croatia/Project-Engineer_JR00043146",
-      "ats": "workday",
-      "posted_at": "Posted 19 Days Ago",
-      "category": "full-time",
-      "tags": [
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-11-02T16:39:53.549066+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:abb:/job/Frosinone-Frosinone-Italy/Supplier-Product-Engineering-Specialist_95794041",
       "company": "ABB",
       "title": "Supplier Product Engineering Specialist",
@@ -159859,22 +159720,6 @@
       "active": true
     },
     {
-      "uid": "workday:td:/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241",
-      "company": "TD Bank",
-      "title": "2027 Summer Internship - Technology",
-      "location": "Belfast, United Kingdom",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241",
-      "ats": "workday",
-      "posted_at": "Posted 24 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-28T20:39:54.902830+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:td:/job/Belfast-United-Kingdom/Software-Engineer-II_R_1518247",
       "company": "TD Bank",
       "title": "Java Engineer",
@@ -175313,26 +175158,6 @@
       "ats": "beesite",
       "posted_at": "2026-11-20",
       "expires_at": "2026-11-23",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-26T19:38:18.187802+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
-      "uid": "beesite:api-deutschebank.beesite.de:76341",
-      "company": "Deutsche Bank",
-      "title": "Engineer, AS",
-      "location": "Pune",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=76341",
-      "ats": "beesite",
-      "posted_at": "2026-11-20",
-      "expires_at": "2026-11-21",
       "category": "full-time",
       "tags": [
         "bank",
@@ -193151,22 +192976,6 @@
       "active": true
     },
     {
-      "uid": "workday:td:/job/Belfast-United-Kingdom/XMLNAME-2027-Technology-Graduate-Programme_R_1518242",
-      "company": "TD Bank",
-      "title": "2027 Technology Graduate Programme",
-      "location": "Belfast, United Kingdom",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Technology-Graduate-Programme_R_1518242",
-      "ats": "workday",
-      "posted_at": "Posted 30 Days Ago",
-      "category": "new-grad",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-22T12:09:57.935290+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:santander:/job/Harness-Engineer_Req1628547",
       "company": "Santander",
       "title": "Harness Engineer",
@@ -194635,38 +194444,6 @@
       "ats": "avature",
       "posted_at": null,
       "category": "full-time",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-22T06:14:18.603679+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:td:/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239",
-      "company": "TD Bank",
-      "title": "2027 Summer Internship - Technology",
-      "location": "London, United Kingdom",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239",
-      "ats": "workday",
-      "posted_at": "Posted 30 Days Ago",
-      "category": "internship",
-      "tags": [
-        "bank"
-      ],
-      "first_seen": "2026-10-22T06:14:18.603679+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:td:/job/London-United-Kingdom/XMLNAME-2027-Technology-Graduate-Programme_R_1518238",
-      "company": "TD Bank",
-      "title": "2027 Technology Graduate Programme",
-      "location": "London, United Kingdom",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Technology-Graduate-Programme_R_1518238",
-      "ats": "workday",
-      "posted_at": "Posted 30 Days Ago",
-      "category": "new-grad",
       "tags": [
         "bank"
       ],
@@ -219493,38 +219270,6 @@
       "active": true
     },
     {
-      "uid": "workday:thomsonreuters:/job/Switzerland-Zug-Zug/Applied-Science-Intern_JREQ204561",
-      "company": "Thomson Reuters",
-      "title": "Applied Science Intern",
-      "location": "",
-      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Switzerland-Zug-Zug/Applied-Science-Intern_JREQ204561",
-      "ats": "workday",
-      "posted_at": "Posted 11 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-16T18:29:56.897645+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
-      "uid": "workday:thomsonreuters:/job/United-Kingdom-London/Applied-Science-Intern_JREQ204560",
-      "company": "Thomson Reuters",
-      "title": "Applied Science Intern",
-      "location": "",
-      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Applied-Science-Intern_JREQ204560",
-      "ats": "workday",
-      "posted_at": "Posted 11 Days Ago",
-      "category": "internship",
-      "tags": [
-        "swe"
-      ],
-      "first_seen": "2026-10-16T18:29:56.897645+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true
-    },
-    {
       "uid": "workday:globalfoundries:/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356",
       "company": "GlobalFoundries",
       "title": "Foundation IP Design Verification Intern (Summer 2027)",
@@ -221911,7 +221656,7 @@
       "location": "Canada",
       "url": "https://job-boards.greenhouse.io/axon/jobs/7791815003",
       "ats": "greenhouse",
-      "posted_at": "2026-11-21T14:46:30-05:00",
+      "posted_at": "2026-11-21T17:16:29-05:00",
       "category": "full-time",
       "tags": [
         "swe"
@@ -296451,27 +296196,6 @@
       "backfill": true
     },
     {
-      "uid": "beesite:api-deutschebank.beesite.de:75894",
-      "company": "Deutsche Bank",
-      "title": "Private Bank - Equity Trader, Associate (KSA)",
-      "location": "Riad",
-      "url": "https://careers.db.com/index.php?ac=jobad&id=75894",
-      "ats": "beesite",
-      "posted_at": "2026-11-19",
-      "expires_at": "2026-11-21",
-      "category": "full-time",
-      "tags": [
-        "bank",
-        "quant",
-        "swe",
-        "europe"
-      ],
-      "first_seen": "2026-10-04T22:31:38.852569+00:00",
-      "last_seen": "2026-11-21T04:05:24.856310+00:00",
-      "active": true,
-      "backfill": true
-    },
-    {
       "uid": "beesite:api-deutschebank.beesite.de:75943",
       "company": "Deutsche Bank",
       "title": "Apprentice Hiring for 2026- 2027",
@@ -331151,7 +330875,7 @@
       "location": "Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5198608007",
       "ats": "greenhouse",
-      "posted_at": "2026-09-24T13:30:07-04:00",
+      "posted_at": "2026-11-21T18:35:37-05:00",
       "category": "full-time",
       "tags": [
         "ai",
@@ -391065,6 +390789,24 @@
       "backfill": true
     },
     {
+      "uid": "workday:abb:/job/Suzhou-Jiangsu-China/Production-Engineering-Specialist_JR00042199",
+      "company": "ABB",
+      "title": "Production Engineering Specialist",
+      "location": "Suzhou, Jiangsu, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Suzhou-Jiangsu-China/Production-Engineering-Specialist_JR00042199",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:abb:/job/Beijing-Beijing-China/Product-Compliance-Engineer_JR00014567",
       "company": "ABB",
       "title": "Product Compliance Engineer",
@@ -391097,6 +390839,24 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-11-21T04:05:24.856310+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Planning---Fulfillment-Intern---Summer-2027_JR00045988",
+      "company": "ABB",
+      "title": "Planning & Fulfillment Intern - Summer 2027",
+      "location": "New Berlin, Wisconsin, United States of America",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Planning---Fulfillment-Intern---Summer-2027_JR00045988",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
       "active": true,
       "backfill": true
     },
@@ -391227,6 +390987,24 @@
       "backfill": true
     },
     {
+      "uid": "workday:abb:/job/Krakow-Lesser-Poland-Poland/Student-Internship-in-HR-Services-with-Spanish_JR00045657",
+      "company": "ABB",
+      "title": "ABB Kraków Student Internship with Foreign Language Talent Pool – Share your CV with us",
+      "location": "Krakow, Lesser Poland, Poland",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Student-Internship-in-HR-Services-with-Spanish_JR00045657",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:abb:/job/Houston-Texas-United-States-of-America/Project-Engineer_JR00045531",
       "company": "ABB",
       "title": "Project Engineer",
@@ -391317,6 +391095,42 @@
       "backfill": true
     },
     {
+      "uid": "workday:abb:/job/Ratingen-North-Rhine-Westphalia-Germany/Working-student--m-f-d--in-the-Development-of-Pole-Pieces_JR00046368",
+      "company": "ABB",
+      "title": "Working student (m/f/d) in the Development of Pole Parts",
+      "location": "Ratingen, North Rhine-Westphalia, Germany",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Ratingen-North-Rhine-Westphalia-Germany/Working-student--m-f-d--in-the-Development-of-Pole-Pieces_JR00046368",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "internship",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Rotterdam-South-Holland-Netherlands/Field-Service-Engineer-Marine---Ports-Power_JR00018103-1",
+      "company": "ABB",
+      "title": "Field Service Engineer Marine & Ports Power",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Rotterdam-South-Holland-Netherlands/Field-Service-Engineer-Marine---Ports-Power_JR00018103-1",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
       "uid": "workday:abb:/job/Richmond-Virginia-United-States-of-America/Industrial-Engineer_JR00019725",
       "company": "ABB",
       "title": "Industrial Engineer",
@@ -391331,6 +391145,42 @@
       ],
       "first_seen": "2026-10-04T22:31:38.852569+00:00",
       "last_seen": "2026-11-21T04:05:24.856310+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Shanghai-Shanghai-China/Project-Technical-Engineer_JR00046866-2",
+      "company": "ABB",
+      "title": "Project Technical Engineer",
+      "location": "Shanghai, Shanghai, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Project-Technical-Engineer_JR00046866-2",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
+      "active": true,
+      "backfill": true
+    },
+    {
+      "uid": "workday:abb:/job/Shanghai-Shanghai-China/R-D-Engineer---Certification_JR00046516-6",
+      "company": "ABB",
+      "title": "R&D Engineer - Certification",
+      "location": "Shanghai, Shanghai, China",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/R-D-Engineer---Certification_JR00046516-6",
+      "ats": "workday",
+      "posted_at": "Posted 30+ Days Ago",
+      "category": "full-time",
+      "tags": [
+        "swe",
+        "europe"
+      ],
+      "first_seen": "2026-10-04T22:31:38.852569+00:00",
+      "last_seen": "2026-11-21T23:59:02.553319+00:00",
       "active": true,
       "backfill": true
     },
